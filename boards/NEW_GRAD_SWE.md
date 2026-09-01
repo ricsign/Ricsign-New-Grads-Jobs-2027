@@ -64,8 +64,8 @@ Full-time entry-level software engineering roles in the US.
 | **Temporal** | Business Development Representative | Atlanta, Georgia | $70k | · | today | [apply](https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade/application) |
 | **Verkada** | Associate Solutions Engineer, San Mateo | San Mateo, CA United States | — | 🛂📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4135277007) |
 | **Verkada** | Enterprise Development Representative | Austin, TX United States, Austin office | — | 🛂 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4140679007) |
-| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | New York City, NY United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
+| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | San Mateo, CA United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 
 ---
 
-Generated 2026-09-01 05:51 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 11:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
