@@ -113,3 +113,36 @@ def any_us(locations: list[str]) -> bool:
 
 def us_only(locations: list[str]) -> list[str]:
     return [loc for loc in locations if is_us(loc)]
+
+
+_PAREN = re.compile(r"\([^)]*\)")
+_COUNTRY = re.compile(r"\b(united states(?: of america)?|u\.?s\.?a?\.?)\b", re.I)
+_FULL_STATE = {name.casefold(): abbr for abbr, name in STATES.items()}
+
+
+def canonical_key(location: str) -> str:
+    """Collapse a free-text location to a comparable 'city|ST' key.
+
+    Vendors describe one office several ways in the same posting. Greenhouse in
+    particular returns both `location.name` and an `offices` list, so a single
+    role arrives as "Costa Mesa, California, United States" *and*
+    "Costa Mesa, CA (OC-00)". Rendering both is noise; this makes them equal.
+    """
+    text = _COUNTRY.sub(" ", _PAREN.sub(" ", location or ""))
+    parts = [p.strip() for p in re.split(r"[,;/]", text) if p.strip()]
+    if not parts:
+        return (location or "").strip().casefold()
+
+    city = parts[0].casefold()
+    state = ""
+    for part in parts[1:]:
+        token = part.strip()
+        if token.upper() in STATES:
+            state = token.upper()
+            break
+        if token.casefold() in _FULL_STATE:
+            state = _FULL_STATE[token.casefold()]
+            break
+    if not state and "remote" in city:
+        return "remote"
+    return f"{city}|{state}"
