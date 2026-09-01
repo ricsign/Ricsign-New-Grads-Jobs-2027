@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-01T16:44:01+00:00</updated>
+  <updated>2026-09-01T21:06:08+00:00</updated>
   <entry>
     <title>Anthropic — Anthropic Fellows Program</title>
     <link href="https://job-boards.greenhouse.io/anthropic/jobs/5023394008"/>
@@ -63,19 +63,11 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002"/>
-    <id>tag:ricsign.github.io,2026:654211dd2419b3a1</id>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002"/>
+    <id>tag:ricsign.github.io,2026:aa4f4e580d236be9</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas, Remote - California · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002"/>
-    <id>tag:ricsign.github.io,2026:4d9d295e983d40ad</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California, Remote - California · unknown · masters-preferred</summary>
+    <summary>Boston, Massachusetts, Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
@@ -87,6 +79,14 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002"/>
+    <id>tag:ricsign.github.io,2026:654211dd2419b3a1</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002"/>
     <id>tag:ricsign.github.io,2026:fba8fd2474d18284</id>
     <updated>2026-09-01T00:00:00Z</updated>
@@ -95,19 +95,11 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002"/>
-    <id>tag:ricsign.github.io,2026:53f428e510f30ec8</id>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002"/>
+    <id>tag:ricsign.github.io,2026:4d9d295e983d40ad</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>Denver, Colorado, Remote - California · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002"/>
-    <id>tag:ricsign.github.io,2026:aa4f4e580d236be9</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Boston, Massachusetts, Remote - California · unknown · masters-preferred</summary>
+    <summary>Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California, Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
@@ -119,19 +111,27 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002"/>
-    <id>tag:ricsign.github.io,2026:23caec0138bb2c8d</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Chicago, Illinois, Remote - California · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002"/>
     <id>tag:ricsign.github.io,2026:7750787aab42340e</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C., Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002"/>
+    <id>tag:ricsign.github.io,2026:53f428e510f30ec8</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Denver, Colorado, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002"/>
+    <id>tag:ricsign.github.io,2026:23caec0138bb2c8d</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Chicago, Illinois, Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — PhD GenAI Research Scientist Intern</title>

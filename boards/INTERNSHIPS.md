@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**87 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**85 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -44,7 +44,6 @@ Software engineering and research internships at the same curated bar.
 | **Applied Intuition** | Research Intern - Reinforcement Learning, Self-Driving | Sunnyvale | $65/hr | · | today | [apply](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526/application) |
 | **Chicago Trading Company** | Quant Trading Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) |
 | **Chicago Trading Company** | Software Engineering Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
-| **Cloudflare** | Research Engineer Intern (Fall 2026) · _Fall 2026_ | Austin, TX | — | 🛂 | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | **Cloudflare** | Software Engineer Intern (Fall 2026) - Austin, TX · _Fall 2026_ | Austin, TX | — | 🛂 | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785) |
 | **DRW** | FPGA Intern | Chicago | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | **DRW** | Leadership Rotation Network Intern | Chicago, IL | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/7993195) |
@@ -100,7 +99,6 @@ Software engineering and research internships at the same curated bar.
 | **Belvedere Trading** | Quantitative Trading Intern - Summer 2027 · _Summer 2027_ | Chicago, Illinois | — | ·📗 | today | [apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
 | **Belvedere Trading** | Quantitative Trading Intern - Winter Quarter 2027 · _Winter 2027_ | Chicago, Illinois | — | ·📗 | today | [apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) |
 | **Belvedere Trading** | Software Engineer Intern - Summer 2027 · _Summer 2027_ | Chicago, Illinois | — | ·📗 | today | [apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
-| **Intel** | Module Engineering - (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering----PhD-Intern-_JR0286628) |
 | **Nuro** | Software Engineer, AI Platform - Intern | Mountain View, California (HQ), California - HQ | — | ·📗 | today | [apply](https://nuro.ai/careersitem?gh_jid=7351061) |
 | **Postman** | AI Engineer, Internship - Summer 2026 - Applications Open Now · _Summer 2026_ | Berkeley, California, United States; San Francisco, California, United States | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/postman/jobs/7823417003) |
 | **Samsara** | Account Development Representative Intern - Atlanta | Atlanta, Georgia, United States, Atlanta - ATL2 | — | · | today | [apply](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) |
@@ -112,4 +110,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-01 16:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 21:06 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

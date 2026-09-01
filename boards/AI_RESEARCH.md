@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**56 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**54 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -58,7 +58,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Applied Intuition** | Research Intern - 3D Vision and Generation, Self-Driving | Sunnyvale | $65/hr | · | today | [apply](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application) |
 | **Applied Intuition** | Research Intern - Reinforcement Learning, Robotics | Sunnyvale | $65/hr | · | today | [apply](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application) |
 | **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | today | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
-| **Cloudflare** | Research Engineer Intern (Fall 2026) · _Fall 2026_ | Austin, TX | — | 🛂 | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | **DRW** | Quantitative Research Intern | Chicago, New York City | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | **DRW** | Research Engineer | New York City | — | · | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) |
 | **DRW** | Research Engineer (FICCO) | Chicago | — | · | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) |
@@ -94,12 +93,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Waymo** | Machine Learning Engineer Perception LLM/VLM (PhD, New Grad) | Mountain View, CA USA; San Francisco, CA USA;, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) |
 | **XTX Markets** | AI Research Internship - XTY Labs | New York | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) |
 
-## Tier 2 — Strong specialists
-
-| Company | Role | Location | Comp | Flags | Age | Apply |
-|:--|:--|:--|:--|:-:|--:|:-:|
-| **Intel** | Module Engineering - (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering----PhD-Intern-_JR0286628) |
-
 ---
 
-Generated 2026-09-01 16:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 21:06 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

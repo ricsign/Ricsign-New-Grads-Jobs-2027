@@ -12,9 +12,9 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Age | Apply |
 |:--|:--|:--|:--|:-:|--:|:-:|
-| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002) |
-| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002) |
+| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | Boston, Massachusetts, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002) |
 | **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | New York City, New York, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002) |
+| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002) |
 | **Mercor** | Data Scientist | San Francisco | $130k–$500k | · | today | [apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | today | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Backend Engineer, Payments and Risk | US | — | · | today | [apply](https://stripe.com/jobs/search?gh_jid=7232592) |
@@ -65,8 +65,8 @@ Full-time entry-level software engineering roles in the US.
 | **Temporal** | Business Development Representative | Atlanta, Georgia | $70k | · | today | [apply](https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade/application) |
 | **Verkada** | Associate Solutions Engineer, San Mateo | San Mateo, CA United States | — | 🛂📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4135277007) |
 | **Verkada** | Enterprise Development Representative | Austin, TX United States, Austin office | — | 🛂 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4140679007) |
-| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | New York City, NY United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
+| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | San Mateo, CA United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 
 ---
 
-Generated 2026-09-01 16:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 21:06 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
