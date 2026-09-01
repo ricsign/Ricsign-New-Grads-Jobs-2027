@@ -181,6 +181,23 @@ class TestDegree:
     def test_unspecified_when_silent(self):
         assert classify_degree(make_posting("SWE", description="Join us!")) is Degree.UNSPECIFIED
 
+    @pytest.mark.parametrize(
+        ("body", "expected"),
+        [
+            # A PhD listed as one acceptable option is not a PhD requirement.
+            ("BS/MS/PhD in Computer Science or related field.", Degree.MASTERS_PREFERRED),
+            ("Bachelor's, Master's, or PhD in Computer Science.", Degree.MASTERS_PREFERRED),
+            ("Currently pursuing a BS or PhD in Computer Science", Degree.BACHELORS),
+            # These genuinely require one.
+            ("A PhD in Machine Learning is required.", Degree.PHD_REQUIRED),
+            ("We require a PhD in a related quantitative field.", Degree.PHD_REQUIRED),
+        ],
+    )
+    def test_enumerated_degrees_do_not_imply_a_phd_requirement(self, body, expected):
+        # Production regression: "BS/MS/PhD in CS" boilerplate tagged ordinary
+        # new-grad SWE roles as PhD-required, which flooded the PhD board.
+        assert classify_degree(make_posting("Software Engineer", description=body)) is expected
+
 
 class TestSeason:
     @pytest.mark.parametrize(
@@ -195,3 +212,52 @@ class TestSeason:
     )
     def test_detection(self, title, expected):
         assert detect_season(make_posting(title)) == expected
+
+
+class TestProductionRegressions:
+    """Cases found by running the pipeline against 21,584 live postings.
+
+    Each of these shipped to a board before it was caught, so each gets a test.
+    """
+
+    def test_data_residency_is_not_a_research_residency(self, company):
+        # Cloudflare's "Systems Engineer - Global Resource Management (Data
+        # Residency)" landed on the PhD research board. It is a distributed
+        # systems role; "residency" here is a data-sovereignty term.
+        p = make_posting("Systems Engineer - Global Resource Management (Data Residency)")
+        assert classify_track(p, company) is not Track.AI_RESEARCH
+
+    def test_research_residency_still_classifies_as_research(self, company):
+        p = make_posting("Research Engineer, Residency")
+        assert classify_track(p, company) is Track.AI_RESEARCH
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "2026 Early Career Manufacturing Engineer",
+            "2026 Early Career Electrical Engineer",
+            "Early Career Mechanical Engineer",
+            "Quality Engineer, New Grad",
+            "New Grad Industrial Engineer",
+            "Early Career Propulsion Engineer",
+        ],
+    )
+    def test_rejects_non_cs_engineering_disciplines(self, title, company):
+        # Anduril and SpaceX post across every discipline. These titles all
+        # contain "Engineer" and sailed through the technical-title gate.
+        ok, reason = is_eligible(make_posting(title), company)
+        assert not ok and reason == "non-CS engineering discipline"
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "2026 Early Career Flight Test Engineer, Mission Autonomy",
+            "Silicon Design Engineer, New Grad",
+            "Embedded Software Engineer - New Grad (2027)",
+            "New Grad Electrical Engineer, Firmware",
+        ],
+    )
+    def test_keeps_software_shaped_roles_in_those_disciplines(self, title, company):
+        # The discipline filter must not swallow roles that are genuinely
+        # software: autonomy, silicon design, firmware.
+        assert is_eligible(make_posting(title), company)[0]

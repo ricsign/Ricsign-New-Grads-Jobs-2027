@@ -10,7 +10,8 @@ from __future__ import annotations
 
 import pytest
 
-from eliteboard.locations import any_us, is_us, us_only
+from eliteboard.adapters.base import dedupe_locations
+from eliteboard.locations import any_us, canonical_key, is_us, us_only
 
 
 class TestUnambiguous:
@@ -71,3 +72,33 @@ class TestMultiLocation:
 
     def test_empty_input_is_not_us(self):
         assert not is_us("") and not any_us([])
+
+
+class TestLocationDeduplication:
+    """Vendors describe one office several ways in a single posting."""
+
+    def test_collapses_city_and_city_state(self):
+        # Greenhouse returns location.name AND offices, so one Chicago role
+        # arrived as "Chicago, IL, Chicago" in the rendered table.
+        assert dedupe_locations(["Chicago, IL", "Chicago"]) == ["Chicago, IL"]
+
+    def test_collapses_full_state_name_against_abbreviation_with_office_code(self):
+        got = dedupe_locations(
+            ["Costa Mesa, California, United States", "Costa Mesa, CA (OC-00)"]
+        )
+        assert len(got) == 1
+
+    def test_prefers_the_more_informative_spelling(self):
+        assert dedupe_locations(["Sunnyvale", "Sunnyvale, CA"]) == ["Sunnyvale, CA"]
+
+    def test_keeps_genuinely_distinct_offices(self):
+        got = dedupe_locations(["San Francisco, CA", "New York City, NY", "Seattle, WA"])
+        assert len(got) == 3
+
+    def test_canonical_key_matches_across_spellings(self):
+        assert canonical_key("Costa Mesa, California, United States") == canonical_key(
+            "Costa Mesa, CA (OC-00)"
+        )
+
+    def test_canonical_key_separates_same_city_different_state(self):
+        assert canonical_key("Portland, OR") != canonical_key("Portland, ME")

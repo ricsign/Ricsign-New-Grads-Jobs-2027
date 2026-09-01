@@ -124,15 +124,41 @@ def parse_dt(value: Any) -> datetime | None:
 
 
 def dedupe_locations(values: list[str | None]) -> list[str]:
-    """Order-preserving dedupe of location strings."""
-    seen: set[str] = set()
-    out: list[str] = []
-    for v in values:
-        if not v:
+    """Order-preserving dedupe that collapses different spellings of one office.
+
+    Exact-match dedupe is not enough. Greenhouse returns `location.name` *and*
+    an `offices` list for the same role, so one Chicago job arrives as both
+    "Chicago, IL" and "Chicago", and one Anduril job as both
+    "Costa Mesa, California, United States" and "Costa Mesa, CA (OC-00)".
+    Rendering all of those makes the Location column unreadable.
+
+    Two passes: collapse by canonical city+state key keeping the most
+    informative spelling, then drop any remaining entry that is a substring of
+    another.
+    """
+    from ..locations import canonical_key
+
+    best: dict[str, str] = {}
+    order: list[str] = []
+    for value in values:
+        if not value:
             continue
-        text = " ".join(str(v).split())
-        key = text.casefold()
-        if key and key not in seen:
-            seen.add(key)
-            out.append(text)
-    return out
+        text = " ".join(str(value).split())
+        if not text:
+            continue
+        key = canonical_key(text)
+        if key not in best:
+            best[key] = text
+            order.append(key)
+        elif len(text) > len(best[key]):
+            best[key] = text
+
+    kept: list[str] = []
+    for key in order:
+        text = best[key]
+        low = text.casefold()
+        if any(low in other.casefold() for other in kept):
+            continue
+        kept = [k for k in kept if k.casefold() not in low]
+        kept.append(text)
+    return kept

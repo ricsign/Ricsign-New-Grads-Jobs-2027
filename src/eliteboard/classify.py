@@ -50,9 +50,11 @@ NEW_GRAD = re.compile(
     re.I,
 )
 
+# The negative lookbehind matters: "Systems Engineer (Data Residency)" is a
+# distributed-systems role, and without it that posting lands on the PhD board.
 RESEARCH = re.compile(
     r"\b(research\s+(?:scientist|engineer|intern|fellow)|member\s+of\s+technical\s+staff|"
-    r"\bmts\b|applied\s+scientist|research\s+resident|residency|"
+    r"\bmts\b|applied\s+scientist|research\s+resident|(?<!data\s)(?<!tax\s)residency|"
     r"ai\s+resident|phd\s+(?:researcher|scientist))\b",
     re.I,
 )
@@ -78,6 +80,30 @@ NON_TECH = re.compile(
 # Prefix-matched on purpose. A trailing \b here silently rejected real target
 # roles: "Quantitative Trader" (quant != \bquant\b) and "Researcher"
 # (research != \bresearch\b) were both being dropped as non-technical.
+# Elite employers post across every engineering discipline. A CS grad student
+# does not want "Early Career Manufacturing Engineer" - but these titles all
+# contain "Engineer" and sail straight through the TECH gate. Rejected unless
+# the title also carries a CS-core signal, which keeps genuinely software-shaped
+# roles like "Flight Test Engineer, Mission Autonomy".
+NON_CS_DISCIPLINE = re.compile(
+    r"\b(manufacturing|mechanical|civil|industrial|chemical|structural|propulsion|"
+    r"aerodynamic\w*|aerothermal|thermal|materials|metallurg\w*|welding|welder|"
+    r"machinist|technician|avionics|\bgnc\b|guidance,?\s+navigation|"
+    r"quality\s+engineer\w*|process\s+engineer\w*|supply\s+chain|logistics|"
+    r"facilities|electrical\s+engineer\w*|field\s+engineer|"
+    r"optical\s+engineer\w*|packaging\s+engineer\w*|environmental)\b",
+    re.I,
+)
+CS_CORE = re.compile(
+    r"\b(softwar\w*|firmware|embedded|silicon|asic|fpga|\brtl\b|verification|"
+    r"compiler\w*|kernel|machine\s+learning|deep\s+learning|\bml\b|\bai\b|"
+    r"data\s+(?:scien|engineer)\w*|research\w*|quant\w*|comput\w*|swe|sde|"
+    r"algorithm\w*|platform|backend|frontend|full[-\s]?stack|infrastructur\w*|"
+    r"network\w*|cybersecurity|robotic\w*|perception|autonomy|autonomous|"
+    r"simulation|controls?\s+software|distributed\s+systems)\b",
+    re.I,
+)
+
 TECH = re.compile(
     r"\b(softwar\w*|engineer\w*|develop\w*|scien\w*|research\w*|"
     r"machine\s+learning|deep\s+learning|ml|ai|data\w*|infrastructur\w*|"
@@ -104,6 +130,14 @@ PHD_REQUIRED = re.compile(
     re.I,
 )
 PHD_TITLE = re.compile(r"\b(ph\.?\s?d\.?|doctoral)\b", re.I)
+# "BS/MS/PhD in Computer Science" means a PhD is ACCEPTED, not required. Without
+# this, ordinary new-grad SWE postings were being tagged PhD-required and
+# surfacing on the PhD research board.
+PHD_ENUMERATED = re.compile(
+    r"\b(b\.?s\.?|b\.?a\.?|bachelor'?s?|m\.?s\.?|master'?s?)\b[^.]{0,60}?"
+    r"(?:\bor\b|/|,)\s*\b(ph\.?\s?d\.?)",
+    re.I,
+)
 ADVANCED_DEGREE = re.compile(
     r"\b(master'?s?|\bm\.?s\.?\b|\bms/phd\b|advanced\s+degree|graduate\s+degree)\b",
     re.I,
@@ -172,8 +206,17 @@ def classify_track(posting: RawPosting, company: Company) -> Track:
 
 
 def classify_degree(posting: RawPosting) -> Degree:
+    """Report the degree the posting actually *requires*.
+
+    The distinction that matters: a posting listing "BS/MS/PhD in Computer
+    Science" accepts a PhD, it does not require one. Treating those as
+    PhD-required mislabels ordinary new-grad SWE roles and floods the PhD board
+    with them, which is exactly what happened on the first production run.
+    """
     body = posting.description
-    if PHD_TITLE.search(posting.title) or PHD_REQUIRED.search(body):
+    if PHD_TITLE.search(posting.title):
+        return Degree.PHD_REQUIRED
+    if PHD_REQUIRED.search(body) and not PHD_ENUMERATED.search(body):
         return Degree.PHD_REQUIRED
     if ADVANCED_DEGREE.search(posting.title) or ADVANCED_DEGREE.search(body):
         return Degree.MASTERS_PREFERRED
@@ -239,6 +282,8 @@ def is_eligible(posting: RawPosting, company: Company) -> tuple[bool, str]:
         return False, "non-technical role"
     if not TECH.search(title):
         return False, "title is not a technical role"
+    if NON_CS_DISCIPLINE.search(title) and not CS_CORE.search(title):
+        return False, "non-CS engineering discipline"
 
     early = bool(INTERN.search(title) or NEW_GRAD.search(title))
     if SENIOR.search(title) and not early:

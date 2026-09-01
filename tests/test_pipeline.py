@@ -176,3 +176,40 @@ class TestFeed:
         xml = render.render_feed([_job(title="R&D Engineer")], today=TODAY)
         ET.fromstring(xml)  # would raise on an unescaped &
         assert "R&amp;D" in xml
+
+
+class TestResearchBoardIsACrossCuttingView:
+    """The PhD board is a view, not a partition.
+
+    A strict partition on `track` left it with 2 rows in production, because
+    "Research Scientist Intern" is classified as an internship and every
+    PhD-required SWE role sits on the new-grad board. A PhD student searches by
+    research content, not employment type.
+    """
+
+    def test_includes_research_internships(self):
+        job = _job(uid="r1", title="Research Scientist Intern, Summer 2027",
+                   track=Track.INTERNSHIP)
+        assert job in render.select_for_board(Track.AI_RESEARCH, [job])
+
+    def test_includes_phd_required_roles_from_other_boards(self):
+        job = _job(uid="r2", title="Campus Quantitative Researcher",
+                   track=Track.QUANT, degree=Degree.PHD_REQUIRED)
+        assert job in render.select_for_board(Track.AI_RESEARCH, [job])
+
+    def test_excludes_ordinary_swe_roles(self):
+        job = _job(uid="r3", title="New Grad Software Engineer")
+        assert render.select_for_board(Track.AI_RESEARCH, [job]) == []
+
+    def test_excludes_data_residency_systems_roles(self):
+        job = _job(uid="r4", title="Systems Engineer (Data Residency)")
+        assert render.select_for_board(Track.AI_RESEARCH, [job]) == []
+
+    def test_other_boards_remain_strict_partitions(self):
+        research = _job(uid="r5", title="Research Engineer", track=Track.AI_RESEARCH)
+        assert render.select_for_board(Track.NEW_GRAD_SWE, [research]) == []
+
+    def test_a_role_may_appear_on_two_boards(self):
+        job = _job(uid="r6", title="Research Scientist Intern", track=Track.INTERNSHIP)
+        assert job in render.select_for_board(Track.INTERNSHIP, [job])
+        assert job in render.select_for_board(Track.AI_RESEARCH, [job])

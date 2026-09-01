@@ -14,6 +14,7 @@ that 404s; another ships an 11 MB undocumented dump on a side branch.
 from __future__ import annotations
 
 import json
+import re
 from collections import Counter, defaultdict
 from collections.abc import Iterable
 from datetime import UTC, date, datetime
@@ -47,7 +48,10 @@ BOARDS: dict[Track, tuple[str, str, str]] = {
         "AI_RESEARCH.md",
         "AI / ML Research — 2027",
         "Research Scientist, Research Engineer, Member of Technical Staff, "
-        "residencies and fellowships. The PhD-track board.",
+        "residencies and fellowships — plus every PhD-required role from the "
+        "other boards. This is a **cross-cutting view**: a research internship "
+        "appears here *and* on Internships, because that is how a PhD student "
+        "actually searches.",
     ),
     Track.QUANT: (
         "QUANT.md",
@@ -142,9 +146,41 @@ LEGEND = (
 )
 
 
+# Research titles, for the cross-cutting PhD view. Same "Data Residency"
+# lookbehind as the classifier - a distributed-systems role is not a residency.
+RESEARCH_TITLE = re.compile(
+    r"\b(research\w*|scientist|member\s+of\s+technical\s+staff|\bmts\b|"
+    r"(?<!data\s)(?<!tax\s)residency|resident|fellow(?:ship)?)\b",
+    re.I,
+)
+
+
+def select_for_board(track: Track, jobs: list[Job]) -> list[Job]:
+    """Choose which roles belong on a board.
+
+    Every board except AI/ML Research is a straight partition on ``track``.
+
+    Research is deliberately a *view* rather than a partition. Track assignment
+    puts internships on the internship board, so a strict partition left the
+    PhD board with two rows while "Research Scientist Intern" and every
+    PhD-required role sat elsewhere. A PhD student searches by research content,
+    not by employment type, so those roles appear on both.
+    """
+    live = [j for j in jobs if j.active]
+    if track is not Track.AI_RESEARCH:
+        return [j for j in live if j.track is track]
+    return [
+        j
+        for j in live
+        if j.track is Track.AI_RESEARCH
+        or j.degree is Degree.PHD_REQUIRED
+        or RESEARCH_TITLE.search(j.title)
+    ]
+
+
 def render_board(track: Track, jobs: list[Job], *, today: date) -> str:
     filename, title, blurb = BOARDS[track]
-    live = cap_per_company([j for j in jobs if j.active and j.track is track])
+    live = cap_per_company(select_for_board(track, jobs))
 
     lines = [
         f"# {title}",
