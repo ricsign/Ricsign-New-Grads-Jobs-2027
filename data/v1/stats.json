@@ -1,67 +1,73 @@
 {
- "generated_at": "2026-09-01T11:44:10+00:00",
- "live_roles": 308,
+ "generated_at": "2026-09-01T16:44:01+00:00",
+ "live_roles": 314,
  "companies_with_open_roles": 56,
  "by_track": {
-  "new-grad-swe": 92,
+  "new-grad-swe": 99,
   "ai-research": 8,
-  "quant": 55,
-  "internship": 153,
+  "quant": 53,
+  "internship": 154,
   "other": 0
  },
  "by_tier": {
-  "0": 26,
-  "1": 254,
-  "2": 28
+  "0": 34,
+  "1": 251,
+  "2": 29
  },
  "by_sponsorship": {
-  "sponsors": 24,
+  "sponsors": 23,
   "no-sponsorship": 10,
   "citizenship-required": 32,
   "security-clearance": 7,
-  "unknown": 235
+  "unknown": 242
  },
  "by_degree": {
   "bachelors": 48,
-  "masters-preferred": 117,
-  "phd-required": 23,
-  "unspecified": 120
+  "masters-preferred": 123,
+  "phd-required": 24,
+  "unspecified": 119
  },
- "sponsorship_resolved_pct": 23.7,
- "link_verified_pct": 90.6,
+ "sponsorship_resolved_pct": 22.9,
+ "link_verified_pct": 91.1,
  "by_link_status": {
-  "ok": 279,
-  "blocked": 24,
+  "ok": 286,
+  "blocked": 23,
   "error": 5,
   "dead": 0,
   "closed": 0,
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 345,
-  "live": 309,
+  "tracked": 355,
+  "live": 319,
   "closed": 36,
   "median_age_days": 0,
   "p90_age_days": 0,
   "max_age_days": 0,
-  "verified_within_24h": 309
+  "verified_within_24h": 319
  },
  "pipeline_health": {
   "boards_attempted": 129,
-  "boards_ok": 128,
+  "boards_ok": 127,
   "boards_empty": 1,
-  "boards_failed": 0,
-  "success_rate": 0.9922,
-  "postings_fetched": 21576,
+  "boards_failed": 1,
+  "success_rate": 0.9845,
+  "postings_fetched": 21359,
   "by_source": {
-   "greenhouse": 78,
+   "greenhouse": 77,
    "ashby": 41,
    "workday": 5,
    "amazon": 1,
    "eightfold": 1,
    "lever": 2
   },
-  "failures": [],
+  "failures": [
+   {
+    "company": "ClickHouse",
+    "ats": "greenhouse",
+    "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+   }
+  ],
   "empty_boards": [
    {
     "company": "Marshall Wace",
@@ -70,21 +76,21 @@
    }
   ],
   "rejections": {
-   "not a US location": 6171,
-   "senior/experienced role": 4172,
-   "title is not a technical role": 4171,
-   "not an early-career posting": 2786,
-   "non-technical role": 2349,
-   "non-CS engineering discipline": 753,
-   "quant role without early-career marker": 262,
-   "research role without early-career marker": 131
+   "not a US location": 6073,
+   "title is not a technical role": 4150,
+   "senior/experienced role": 4112,
+   "not an early-career posting": 2756,
+   "non-technical role": 2331,
+   "non-CS engineering discipline": 758,
+   "quant role without early-career marker": 260,
+   "research role without early-career marker": 130
   },
   "link_check": {
-   "ok": 279,
-   "blocked": 24,
+   "ok": 286,
+   "blocked": 23,
    "error": 5,
-   "checked": 308,
-   "conclusive": 279,
+   "checked": 314,
+   "conclusive": 286,
    "resolving_pct": 100.0
   }
  }

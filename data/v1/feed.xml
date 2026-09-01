@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-01T11:44:10+00:00</updated>
+  <updated>2026-09-01T16:44:01+00:00</updated>
   <entry>
     <title>Anthropic — Anthropic Fellows Program</title>
     <link href="https://job-boards.greenhouse.io/anthropic/jobs/5023394008"/>
@@ -63,11 +63,75 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"/>
-    <id>tag:ricsign.github.io,2026:f5ada109a807d9ec</id>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002"/>
+    <id>tag:ricsign.github.io,2026:654211dd2419b3a1</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>United States, Remote - California · unknown · masters-preferred</summary>
+    <summary>Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002"/>
+    <id>tag:ricsign.github.io,2026:4d9d295e983d40ad</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002"/>
+    <id>tag:ricsign.github.io,2026:ddc7705963b2c0e5</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>New York City, New York, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002"/>
+    <id>tag:ricsign.github.io,2026:fba8fd2474d18284</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Bellevue, Washington; Seattle, Washington, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002"/>
+    <id>tag:ricsign.github.io,2026:53f428e510f30ec8</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Denver, Colorado, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002"/>
+    <id>tag:ricsign.github.io,2026:aa4f4e580d236be9</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Boston, Massachusetts, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002"/>
+    <id>tag:ricsign.github.io,2026:fcb6037524475538</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002"/>
+    <id>tag:ricsign.github.io,2026:23caec0138bb2c8d</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Chicago, Illinois, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002"/>
+    <id>tag:ricsign.github.io,2026:7750787aab42340e</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C., Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — PhD GenAI Research Scientist Intern</title>
@@ -278,14 +342,6 @@
     <summary>Greenwich, CT · unknown · bachelors</summary>
   </entry>
   <entry>
-    <title>Airbnb — Machine Learning Engineer, Relevance and Personalization</title>
-    <link href="https://careers.airbnb.com/positions/7708224?gh_jid=7708224"/>
-    <id>tag:ricsign.github.io,2026:aacd101846bc49a2</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
     <title>Akuna Capital — Expression of Interest: 2027 Trading Sneak Peek Weeks</title>
     <link href="https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086"/>
     <id>tag:ricsign.github.io,2026:6677109669ced210</id>
@@ -305,14 +361,6 @@
     <title>Akuna Capital — Junior Quantitative Developer &amp; Strategist</title>
     <link href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"/>
     <id>tag:ricsign.github.io,2026:a0863ca5d0587fcb</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Junior Quantitative Researcher</title>
-    <link href="https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541"/>
-    <id>tag:ricsign.github.io,2026:722d9ecdc58aca28</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, IL · unknown · masters-preferred</summary>
@@ -353,54 +401,6 @@
     <title>Akuna Capital — Quantitative Researcher</title>
     <link href="https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416"/>
     <id>tag:ricsign.github.io,2026:c57a32c33e1779af</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Quantitative Research Intern, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614"/>
-    <id>tag:ricsign.github.io,2026:7edac406a701fe44</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer - C++</title>
-    <link href="https://www.akunacapital.com/careers/job/7496397/?gh_jid=7496397"/>
-    <id>tag:ricsign.github.io,2026:1d6dbe5f25cad067</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer - C++, Trading Strategies</title>
-    <link href="https://www.akunacapital.com/careers/job/7496408/?gh_jid=7496408"/>
-    <id>tag:ricsign.github.io,2026:a8d9b1e4b804d770</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer - Data Engineering</title>
-    <link href="https://www.akunacapital.com/careers/job/7496411/?gh_jid=7496411"/>
-    <id>tag:ricsign.github.io,2026:c6da3c319aa666af</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer (Entry-Level) - C++</title>
-    <link href="https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"/>
-    <id>tag:ricsign.github.io,2026:3ec16f30e2c52558</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer (Entry-Level) - Python</title>
-    <link href="https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"/>
-    <id>tag:ricsign.github.io,2026:c59794b34a10a4a9</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, IL · unknown · masters-preferred</summary>

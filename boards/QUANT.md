@@ -14,7 +14,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 |:--|:--|:--|:--|:-:|--:|:-:|
 | **Akuna Capital** | Expression of Interest: 2027 Trading Sneak Peek Weeks · _2027_ | Chicago | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086) |
 | **Akuna Capital** | Junior Quantitative Developer & Strategist | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
-| **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
+| **Akuna Capital** | Junior Quantitative Risk Analyst | Chicago | — | · | today | [apply](https://www.akunacapital.com/careers/job/8035515/?gh_jid=8035515) |
 | **Chicago Trading Company** | Associate Engineer - 2027 Start · _2027_ | Chicago, IL; New York, NY | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) |
 | **Chicago Trading Company** | Quant Trading Associate - 2027 Start · _2027_ | Chicago, IL | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) |
 | **DRW** | Leadership Rotation Network Analyst | Chicago, IL | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/7993341) |
@@ -52,4 +52,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-09-01 11:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 16:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

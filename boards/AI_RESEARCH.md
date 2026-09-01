@@ -51,7 +51,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | today | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | **AQR Capital** | 2027 Research Product Specialist Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | today | [apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
 | **AQR Capital** | 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | today | [apply](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) |
-| **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
 | **Akuna Capital** | Quantitative Research Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | **Akuna Capital** | Quantitative Researcher | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416) |
 | **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation… · _2026_ | North Reading, Massachusetts, USA | — | · | today | [apply](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) |
@@ -95,6 +94,12 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Waymo** | Machine Learning Engineer Perception LLM/VLM (PhD, New Grad) | Mountain View, CA USA; San Francisco, CA USA;, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) |
 | **XTX Markets** | AI Research Internship - XTY Labs | New York | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) |
 
+## Tier 2 — Strong specialists
+
+| Company | Role | Location | Comp | Flags | Age | Apply |
+|:--|:--|:--|:--|:-:|--:|:-:|
+| **Intel** | Module Engineering - (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | today | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering----PhD-Intern-_JR0286628) |
+
 ---
 
-Generated 2026-09-01 11:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 16:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

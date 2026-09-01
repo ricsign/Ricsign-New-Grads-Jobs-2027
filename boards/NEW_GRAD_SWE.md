@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**43 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**44 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -12,7 +12,9 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Age | Apply |
 |:--|:--|:--|:--|:-:|--:|:-:|
-| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | United States, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
+| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002) |
+| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002) |
+| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | New York City, New York, Remote - California | — | ·📗 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002) |
 | **Mercor** | Data Scientist | San Francisco | $130k–$500k | · | today | [apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | today | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Backend Engineer, Payments and Risk | US | — | · | today | [apply](https://stripe.com/jobs/search?gh_jid=7232592) |
@@ -24,7 +26,6 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Age | Apply |
 |:--|:--|:--|:--|:-:|--:|:-:|
-| **Airbnb** | Machine Learning Engineer, Relevance and Personalization | United States | — | ·📗 | today | [apply](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) |
 | **Anduril Industries** | 2026 Early Career Flight Test Engineer, Mission Autonomy · _2026_ | Costa Mesa, California, United States | — | 🔒 | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007) |
 | **Anduril Industries** | 2026 Early Career Software Engineer · _2026_ | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States, Boston, MA (BOS-01) +6 | — | 🇺🇸📗 | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
 | **Anduril Industries** | 2026 Early Career Test & Evaluation Systems Integrator · _2026_ | Costa Mesa, California, United States | — | · | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007) |
@@ -60,12 +61,12 @@ Full-time entry-level software engineering roles in the US.
 | **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ), California - HQ | — | ·📗 | today | [apply](https://nuro.ai/careersitem?gh_jid=7351066) |
 | **Samsara** | (New Grad) Account Development Representative II - Atlanta | Atlanta, Georgia, United States, Atlanta - ATL2 | — | · | today | [apply](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373) |
 | **Samsara** | (New Grad) Account Development Representative II - Phoenix | Phoenix, Arizona, United States, Phoenix - PHX1 | — | · | today | [apply](https://www.samsara.com/company/careers/roles/8094371?gh_jid=8094371) |
-| **Samsara** | Senior Security Operations Engineer I | San Francisco - SF9 | — | ·📗 | today | [apply](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084) |
+| **Samsara** | Senior Security Operations Engineer I | Remote - US, San Francisco - SF9 | — | ·📗 | today | [apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
 | **Temporal** | Business Development Representative | Atlanta, Georgia | $70k | · | today | [apply](https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade/application) |
 | **Verkada** | Associate Solutions Engineer, San Mateo | San Mateo, CA United States | — | 🛂📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4135277007) |
 | **Verkada** | Enterprise Development Representative | Austin, TX United States, Austin office | — | 🛂 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4140679007) |
-| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | San Mateo, CA United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
+| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | New York City, NY United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
 
 ---
 
-Generated 2026-09-01 11:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 16:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
