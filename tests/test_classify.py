@@ -213,6 +213,20 @@ class TestSeason:
     def test_detection(self, title, expected):
         assert detect_season(make_posting(title)) == expected
 
+    def test_title_wins_over_a_start_date_buried_in_the_description(self):
+        # Production regression: AQR's "2027 Research Summer Analyst" carries
+        # "Spring 2028" (a start date) in its body, and scanning the description
+        # first labelled a 2027 summer internship as Spring 2028.
+        p = make_posting(
+            "2027 Quantitative Prediction Markets Research Summer Analyst",
+            description="Start date: Spring 2028.",
+        )
+        assert detect_season(p) == "Summer 2027"
+
+    def test_description_is_still_used_when_the_title_is_silent(self):
+        p = make_posting("Software Engineer", description="Our Summer 2027 cohort starts in June.")
+        assert detect_season(p) == "Summer 2027"
+
 
 class TestProductionRegressions:
     """Cases found by running the pipeline against 21,584 live postings.

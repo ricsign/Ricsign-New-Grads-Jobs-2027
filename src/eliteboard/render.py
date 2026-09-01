@@ -70,8 +70,26 @@ BOARDS: dict[Track, tuple[str, str, str]] = {
 # --------------------------------------------------------------------------
 # helpers
 # --------------------------------------------------------------------------
+MAX_TITLE = 88
+
+
 def _escape(text: str) -> str:
     return (text or "").replace("|", "\\|").replace("\n", " ").strip()
+
+
+def _title(text: str) -> str:
+    """Escape and truncate a role title.
+
+    Amazon in particular ships 200-character titles that enumerate every
+    sub-team ("... Manipulation, Perception, Motion Planning, Autonomous Mobile
+    Robots, Computer Vision, Machine Learning, Controls, and more"), which blows
+    the table layout apart on any normal screen.
+    """
+    text = _escape(text)
+    if len(text) <= MAX_TITLE:
+        return text
+    cut = text[:MAX_TITLE].rsplit(" ", 1)[0].rstrip(" ,;-—(")
+    return f"{cut}…"
 
 
 def _locations(job: Job, limit: int = 2) -> str:
@@ -224,7 +242,7 @@ def render_board(track: Track, jobs: list[Job], *, today: date) -> str:
             season = f" · _{job.season}_" if job.season else ""
             lines.append(
                 f"| **{_escape(job.company_name)}** "
-                f"| {_escape(job.title)}{season} "
+                f"| {_title(job.title)}{season} "
                 f"| {_locations(job)} "
                 f"| {_comp(job)} "
                 f"| {_badges(job)} "
@@ -260,7 +278,7 @@ def render_recent(jobs: list[Job], *, today: date, limit: int = 25) -> str:
     for job in fresh:
         lines.append(
             f"| {_age(job)} | **{_escape(job.company_name)}** | "
-            f"[{_escape(job.title)}]({job.apply_url}) | "
+            f"[{_title(job.title)}]({job.apply_url}) | "
             f"{job.track.value} | {_locations(job, 1)} | {_badges(job)} |"
         )
     return "\n".join(lines)
@@ -357,7 +375,7 @@ def render_changelog_entry(
     if added:
         for job in sorted(added, key=_sort_key)[:40]:
             lines.append(
-                f"- `+` **{job.company_name}** — [{_escape(job.title)}]({job.apply_url}) "
+                f"- `+` **{job.company_name}** — [{_title(job.title)}]({job.apply_url}) "
                 f"({job.track.value}, {_locations(job, 1)})"
             )
         if len(added) > 40:

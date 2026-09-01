@@ -244,27 +244,37 @@ SEASON_WORD = re.compile(r"\b(summer|fall|autumn|winter|spring)\b", re.I)
 def detect_season(posting: RawPosting) -> str | None:
     """Extract the intake a posting targets, e.g. 'Summer 2027'.
 
-    Two passes. First look for an adjacent season+year pair ("Summer 2027").
-    Failing that, accept a season word and a year that appear separately in the
-    same title - "2027 Engineering Summer Analyst" is unambiguously Summer 2027
-    to a human and should be to us as well.
-    """
-    for text in (posting.title, posting.description[:4000]):
-        match = SEASON.search(text or "")
-        if match:
-            if match.group(1):
-                return f"{match.group(1).title()} {match.group(2)}"
-            return f"{match.group(4).title()} {match.group(3)}"
+    The title is exhausted before the description is consulted, and that
+    ordering is load-bearing. AQR's "2027 Research Summer Analyst" carries
+    "Spring 2028" (a start date) in its body, and scanning the description
+    first labelled a 2027 summer role as Spring 2028.
 
+    Within the title, an adjacent pair ("Summer 2027") wins; failing that a
+    season word and a year appearing separately are combined, because
+    "2027 Engineering Summer Analyst" is unambiguous to a human.
+    """
     title = posting.title or ""
+
+    match = SEASON.search(title)
+    if match:
+        if match.group(1):
+            return f"{match.group(1).title()} {match.group(2)}"
+        return f"{match.group(4).title()} {match.group(3)}"
+
     year = YEAR.search(title)
-    if not year:
-        return None
-    word = SEASON_WORD.search(title)
-    season = word.group(1).title() if word else None
-    if season == "Autumn":
-        season = "Fall"
-    return f"{season} {year.group(1)}" if season else year.group(1)
+    if year:
+        word = SEASON_WORD.search(title)
+        season = word.group(1).title() if word else None
+        if season == "Autumn":
+            season = "Fall"
+        return f"{season} {year.group(1)}" if season else year.group(1)
+
+    match = SEASON.search(posting.description[:4000] or "")
+    if match:
+        if match.group(1):
+            return f"{match.group(1).title()} {match.group(2)}"
+        return f"{match.group(4).title()} {match.group(3)}"
+    return None
 
 
 def is_eligible(posting: RawPosting, company: Company) -> tuple[bool, str]:

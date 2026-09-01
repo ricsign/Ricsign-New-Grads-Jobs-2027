@@ -73,6 +73,21 @@ that 404s; another ships an 11 MB undocumented dump on a side branch.
 
 ---
 
+## Where it stands
+
+Measured on the first production run, **2026-09-01** — live numbers are always in
+[`stats.json`](data/v1/stats.json):
+
+| | |
+|:--|--:|
+| Live roles across 48 companies | **266** |
+| Postings fetched, then filtered down | 21,587 |
+| Boards healthy | **128 / 129** |
+| Sponsorship resolved (vs 0.9% on the largest competing board) | **22.6%** |
+| Roles whose apply link was verified in the last 24h | 100% |
+
+The filtering ratio is the point. 21,587 postings in, 266 out.
+
 ## Boards
 
 | Board | Who it is for |
@@ -120,7 +135,7 @@ Run it yourself:
 
 ```bash
 pip install -r requirements-dev.txt
-make test                          # 144 tests, no network
+make test                          # 179 tests, no network
 make refresh                       # hits every board, rewrites all outputs
 python -m eliteboard.cli doctor    # which boards can't be fetched, and why
 ```
