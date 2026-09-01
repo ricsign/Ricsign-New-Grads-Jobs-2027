@@ -271,3 +271,51 @@ class TestDeadRowsAreHiddenFromBoards:
     def test_unchecked_rows_are_shown(self):
         job = _job(uid="unchecked", link_status="unchecked")
         assert render.select_for_board(Track.NEW_GRAD_SWE, [job]) == [job]
+
+
+class TestWriteOutputsEndToEnd:
+    """Exercise the real output path.
+
+    Motivated by a live bug: `write_outputs` referenced `load_programs` without
+    importing it. Every unit test passed, because nothing called this function
+    end to end — only ruff caught it. A pipeline whose final step is untested
+    fails in the 3am cron instead of in CI.
+    """
+
+    def test_writes_every_published_artifact(self, tmp_path, monkeypatch):
+        from eliteboard import pipeline as pl
+
+        boards, api, state_dir = tmp_path / "boards", tmp_path / "v1", tmp_path / "state"
+        monkeypatch.setattr(pl, "BOARDS_DIR", boards)
+        monkeypatch.setattr(pl, "API_DIR", api)
+        monkeypatch.setattr(pl, "STATE_PATH", state_dir / "seen.json")
+        monkeypatch.setattr(pl, "CHANGELOG", tmp_path / "CHANGELOG.md")
+        monkeypatch.setattr(pl, "REPO_ROOT", tmp_path)
+
+        result = pl.PipelineResult(jobs=[_job()], newly_added=[_job()])
+        written = pl.write_outputs(result, today=TODAY)
+
+        names = {p.name for p in written}
+        for expected in (
+            "NEW_GRAD_SWE.md", "AI_RESEARCH.md", "QUANT.md", "INTERNSHIPS.md",
+            "jobs.json", "jobs.ndjson", "feed.xml", "stats.json",
+            "programs.json", "coverage.json", "COVERAGE.md", "CHANGELOG.md",
+        ):
+            assert expected in names, f"{expected} was not written"
+        assert all(p.exists() and p.stat().st_size > 0 for p in written)
+
+    def test_research_board_carries_the_programs_block(self, tmp_path, monkeypatch):
+        from eliteboard import pipeline as pl
+
+        monkeypatch.setattr(pl, "BOARDS_DIR", tmp_path / "boards")
+        monkeypatch.setattr(pl, "API_DIR", tmp_path / "v1")
+        monkeypatch.setattr(pl, "STATE_PATH", tmp_path / "state" / "seen.json")
+        monkeypatch.setattr(pl, "CHANGELOG", tmp_path / "CHANGELOG.md")
+        monkeypatch.setattr(pl, "REPO_ROOT", tmp_path)
+
+        pl.write_outputs(pl.PipelineResult(jobs=[_job()]), today=TODAY)
+        research = (tmp_path / "boards" / "AI_RESEARCH.md").read_text()
+        assert "never appear on a job board" in research
+        assert "openai.com/residency" in research
+        # …and only on that board.
+        assert "never appear on a job board" not in (tmp_path / "boards" / "QUANT.md").read_text()

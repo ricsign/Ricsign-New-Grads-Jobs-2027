@@ -127,6 +127,16 @@
     border-radius:6px;padding:4px 9px;color:var(--ink-2)}
   .zchip b{color:var(--ink);font-weight:560}
   .zchip i{font-style:normal;font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-left:5px}
+  .prog-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(232px,1fr));gap:9px}
+  .prog{display:block;text-decoration:none;border:1px solid var(--line);border-radius:8px;
+    padding:11px 13px;background:var(--surface-2)}
+  .prog:hover{border-color:var(--accent)}
+  .prog b{display:block;font-size:14px;margin-bottom:2px}
+  .prog .org{display:block;font:11px var(--mono);color:var(--ink-3);margin-bottom:7px}
+  .prog .pay{display:block;font-size:13px;color:var(--accent);font-weight:560}
+  .prog .elig{display:block;font-size:12px;color:var(--ink-2);margin-top:5px;line-height:1.4}
+  .dormant{font:10px var(--mono);background:var(--surface);border:1px solid var(--line-2);
+    color:var(--ink-3);border-radius:4px;padding:1px 4px;vertical-align:2px}
 
   footer{margin:40px 0 60px;padding-top:20px;border-top:1px solid var(--line);
     color:var(--ink-3);font-size:13px;display:flex;gap:18px;flex-wrap:wrap;justify-content:space-between}
@@ -206,6 +216,7 @@
     <div class="legend">Age = time since we first saw the posting, not since we last re-scraped it.</div>
   </div>
   <div id="results"></div>
+  <div id="programs"></div>
   <div id="zero"></div>
   <footer>
     <div>Updated every 6 hours · <a href="data/v1/jobs.json">jobs.json</a> ·
@@ -231,7 +242,7 @@ const DEGREE={"phd-required":["b-info","PhD"],"masters-preferred":["b-info","MS 
 const RESEARCHY=/\b(research\w*|scientist|member of technical staff|mts|(?<!data )(?<!tax )residency|resident|fellows?(?:hip)?)\b/i;
 const isResearch=j=>j.track==="ai-research"||j.degree==="phd-required"||RESEARCHY.test(j.title);
 
-let JOBS=[], STATS=null, ZERO=[];
+let JOBS=[], STATS=null, ZERO=[], PROGRAMS=[];
 const state={q:"",track:"",sponsor:"",degree:"",tier:"",sort:"tier"};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -338,6 +349,23 @@ function renderRows(list){
     <th>Company</th><th>Role</th><th>Location</th><th>Comp</th><th>Work auth</th><th>Age</th><th></th>
     </tr></thead><tbody>${rows}</tbody></table>`;
 }
+function renderPrograms(){
+  if(!PROGRAMS.length){$("#programs").innerHTML="";return;}
+  const show=state.track===""||state.track==="ai-research";
+  if(!show){$("#programs").innerHTML="";return;}
+  $("#programs").innerHTML=`<details class="zero" open><summary>${PROGRAMS.length} research programs that never appear on a job board</summary>
+    <p>Fellowships and residencies with their own applications and calendars — no scraper
+       can surface these. Two have gates you must clear years ahead: the Google PhD Fellowship
+       is <b>university-nominated</b> (you cannot apply directly), and the NVIDIA fellowship
+       requires an NVIDIA Research internship you must <b>already have done</b>.</p>
+    <div class="prog-grid">${PROGRAMS.map(p=>`
+      <a class="prog" href="${esc(p.url)}" target="_blank" rel="noopener">
+        <b>${esc(p.name)}${p.status==="dormant"?' <span class="dormant">dormant</span>':""}</b>
+        <span class="org">${esc(p.org)}</span>
+        <span class="pay">${esc(p.stipend||"—")}</span>
+        <span class="elig">${esc(p.eligibility||"")}</span>
+      </a>`).join("")}</div></details>`;
+}
 function renderZero(){
   if(!ZERO.length){$("#zero").innerHTML="";return;}
   $("#zero").innerHTML=`<details class="zero"><summary>${ZERO.length} more companies we checked that have nothing early-career open right now</summary>
@@ -349,7 +377,7 @@ function renderZero(){
 }
 function render(){
   const list=sorted(JOBS.filter(matches));
-  renderTabs(); renderRows(list);
+  renderTabs(); renderRows(list); renderPrograms();
   $("#count").innerHTML=`<b>${list.length}</b> of ${JOBS.length} roles`;
   writeURL();
 }
@@ -380,11 +408,13 @@ function syncControls(){
 (async function(){
   readURL(); syncControls(); bind();
   try{
-    const [jobs,stats,cov]=await Promise.all([
+    const [jobs,stats,cov,progs]=await Promise.all([
       fetch("data/v1/jobs.json").then(r=>r.json()),
       fetch("data/v1/stats.json").then(r=>r.json()).catch(()=>null),
       fetch("data/v1/coverage.json").then(r=>r.json()).catch(()=>null),
+      fetch("data/v1/programs.json").then(r=>r.json()).catch(()=>null),
     ]);
+    PROGRAMS=(progs&&progs.programs)||[];
     JOBS=(jobs.jobs||[]).filter(j=>j.active!==false&&!["dead","closed"].includes(j.link_status));
     STATS=stats;
     if(cov) ZERO=(cov.companies||[]).filter(c=>c.status==="none matched"&&c.fetched>0)

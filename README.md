@@ -1,20 +1,13 @@
 <div align="center">
 
-# Elite New Grad & Internship Jobs — 2027
+# Elite New Grad &amp; Internship Jobs — 2027
 
 **Frontier AI labs · FAANG+ · quant/HFT · top startups. Nothing else.**
 
-A curated 2027 job board for CS students optimizing for the top of the market —
-re-verified every 6 hours, with sponsorship, compensation and real freshness
-data on every row.
+## → [**Browse and filter every role**](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/) ←
 
-### ▶ [**Browse and filter all roles →**](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/)
-
-Search by company, role or location. Filter by track, visa sponsorship, degree and
-tier. Shareable URLs. No sign-up, no tracking, no email wall.
-
-Or read them as plain markdown:
-[**New Grad SWE**](boards/NEW_GRAD_SWE.md) · [**AI/ML Research**](boards/AI_RESEARCH.md) · [**Quant**](boards/QUANT.md) · [**Internships**](boards/INTERNSHIPS.md)
+Search by company, role or location. Filter by track, visa sponsorship, degree
+and tier. Shareable links. No sign-up, no email wall, no tracking.
 
 [![Refresh](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/refresh.yml/badge.svg)](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/refresh.yml)
 [![CI](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/ci.yml/badge.svg)](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/ci.yml)
@@ -24,189 +17,147 @@ Or read them as plain markdown:
 
 ---
 
-## Why this exists
+## The four boards
 
-There are good 2027 job repos. They share one problem: they optimize for
-**coverage**, and coverage is not what a strong candidate is short of.
+| | | |
+|:--|:--|:--|
+| [**New Grad SWE**](boards/NEW_GRAD_SWE.md) | Full-time entry-level software engineering, US | [filter →](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?track=new-grad-swe) |
+| [**Internships**](boards/INTERNSHIPS.md) | Summer 2027 SWE and research internships | [filter →](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?track=internship) |
+| [**Quant**](boards/QUANT.md) | Campus + new grad at elite quant/HFT. Highest comp band here | [filter →](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?track=quant) |
+| [**AI / ML Research**](boards/AI_RESEARCH.md) | The PhD track — plus fellowships and residencies no scraper can find | [filter →](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?track=ai-research) |
 
-Here is what we measured across the largest of them in September 2026:
+**Three links worth knowing:**
+[Tier 0 roles that sponsor visas](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?tier=0&sponsor=sponsors) ·
+[PhD-required roles](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?degree=phd-required) ·
+[Everything at frontier labs](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?tier=0)
 
-| | What we found |
-|:--|:--|
-| **Dead weight** | One board carries 15,119 listings. **2,409 are live — 15.9%.** Of those, only 36% are actually Summer 2027. |
-| **Fake freshness** | Its `Age` column is a *re-scrape* timestamp. Post date and update date agree on **6.5%** of rows, so ~93% of displayed ages are wrong. 221 rows over 120 days old still show as live. |
-| **Decorative metadata** | Its sponsorship field reads `"Other"` on **99.1%** of live rows. The 🛂/🇺🇸 legend fires on under 1%. |
-| **Noise** | TikTok + ByteDance = **8.9%** of one board's entire new-grad list. A single data-annotation vendor posts 64 open reqs. |
-| **The actual gap** | Across **5,651 live rows** on the two biggest boards: **Anthropic 1. OpenAI 0. DeepMind 0.** |
+## Why it's different
 
-That last row is the whole reason this repo exists. The lists are enormous and
-still do not contain the jobs at the top of the market.
+**A hard company bar.** [145 employers](data/companies.yaml), each admitted by a
+[published test](docs/COMPANY_BAR.md). Staffing agencies, annotation vendors and
+city-spammed reqs are excluded by policy. Max 3 rows per company.
 
-## What we do differently
+**Freshness you can check.** `first_seen` is written once and never overwritten
+by a re-scrape. When we say 4 days old, it is 4 days old.
 
-**1 · A hard company bar, written down.**
-[145 employers](data/companies.yaml), each admitted by a published
-[inclusion test](docs/COMPANY_BAR.md). Staffing agencies, annotation vendors and
-city-spammed requisitions are excluded by policy. **Max 3 rows per company**, so
-one large campus program cannot flood a board.
+**Sponsorship is resolved, not defaulted.** Parsed from each posting into
+`sponsors` / `no-sponsorship` / `citizenship-required` / `security-clearance` —
+and honestly marked *unknown* when the posting is silent.
 
-**2 · `first_seen` is immutable.**
-Written once, never overwritten by a re-scrape. When we say a role is 4 days
-old, it is 4 days old. We publish `first_seen`, `last_verified` and `closed_at`
-separately so you can check us.
+**Every apply link is verified on every refresh**, including soft-closed pages
+that return HTTP 200 while saying "no longer accepting applications" — the
+failure mode every status-code checker misses.
 
-**3 · Sponsorship is resolved, not defaulted.**
-Every posting is parsed for its actual work-authorization clause →
-`sponsors` / `no-sponsorship` / `citizenship-required` / `security-clearance`.
-When a posting is silent we say **unknown**, because that is the truth.
-[SPONSORSHIP.md](docs/SPONSORSHIP.md) cross-checks employer behavior against
-public DOL H-1B filings — and overturns two widely repeated myths.
+**A failed scrape never closes a role.** If a board times out we learn nothing
+about that company; we don't conclude it closed every position.
 
-**4 · A PhD-track board that actually exists.**
-Research Scientist, Research Engineer, MTS, residencies and fellowships are
-split out from SWE. An MIT PhD does not want to scroll past 842 hardware reqs.
+**We publish our own misses.** [COVERAGE.md](COVERAGE.md) lists every company,
+what we fetched, what we published, and which of our adapters broke.
 
-**5 · A failed scrape never closes a role.**
-If a board times out, we learn nothing about that company — we do not conclude
-it closed every position. This is the most common way these lists go quietly
-wrong.
+## The receipts
 
-**6 · A machine-readable URL that resolves.**
-[`data/v1/jobs.json`](data/v1/jobs.json) is versioned, [schema'd](data/v1/schema.json)
-and documented, with [NDJSON](data/v1/jobs.ndjson) and an
-[Atom feed](data/v1/feed.xml) alongside. One competitor advertises a JSON path
-that 404s; another ships an 11 MB undocumented dump on a side branch.
-
----
-
-## Where it stands
-
-Measured on the first production run, **2026-09-01** — live numbers are always in
-[`stats.json`](data/v1/stats.json):
+We measured the largest competing boards in September 2026:
 
 | | |
-|:--|--:|
-| Live roles across 48 companies | **266** |
-| Postings fetched, then filtered down | 21,587 |
-| Boards healthy | **128 / 129** |
-| Sponsorship resolved (vs 0.9% on the largest competing board) | **22.6%** |
-| Roles whose apply link was verified in the last 24h | 100% |
-
-The filtering ratio is the point. 21,587 postings in, 266 out.
-
-## Boards
-
-| Board | Who it is for |
 |:--|:--|
-| [**New Grad SWE**](boards/NEW_GRAD_SWE.md) | Full-time entry-level software engineering, US |
-| [**AI / ML Research**](boards/AI_RESEARCH.md) | Research Scientist / Engineer, MTS, residencies — the PhD track |
-| [**Quant**](boards/QUANT.md) | Campus + new grad at elite quant/HFT. Highest comp band here |
-| [**Internships**](boards/INTERNSHIPS.md) | Summer 2027 SWE and research internships |
+| One board carries **15,119 listings**; 2,409 are live | **15.9%** |
+| Its `Age` is a re-scrape timestamp — post and update dates agree on | **6.5%** of rows |
+| Its sponsorship field reads `"Other"` on | **99.1%** of live rows |
+| TikTok + ByteDance share of one board's new-grad list | **8.9%** |
+| Anthropic / OpenAI / DeepMind roles across **5,651** live rows on the two biggest boards | **1 / 0 / 0** |
 
-**Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required ·
-🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
+That last row is the whole reason this exists — and the first version of this
+repo shipped **0 and 0** too, until [#15](../../pull/15) fixed it. Frontier labs
+don't write "new grad" in titles, and Anthropic's four **Fellows Program**
+postings contain no technical keyword at all.
 
 ## Beyond the listings
 
 | | |
 |:--|:--|
-| [**The Playbook**](docs/PLAYBOOK.md) | When each company opens, which OA platform you will face, and the PhD programs that never appear on a job board |
-| [**Compensation**](docs/COMPENSATION.md) | Sourced new-grad comp, the TC-vs-DOL-base distinction, and the measurable PhD premium |
+| [**Playbook**](docs/PLAYBOOK.md) | When each company opens, which OA platform you'll face, and the PhD programs that never appear on a job board |
+| [**Compensation**](docs/COMPENSATION.md) | Sourced new-grad comp, why TC and DOL base salary aren't comparable, and the measurable PhD premium |
 | [**Sponsorship**](docs/SPONSORSHIP.md) | What H-1B filings actually show. Jane Street and HRT sponsor heavily; Anduril is the real outlier |
-| [**The Company Bar**](docs/COMPANY_BAR.md) | The inclusion test, the tiers, and what we refuse to list |
-| [**Coverage**](COVERAGE.md) | Every company in the registry, what we pulled from its board, and what we published. Auditable, including our own adapter failures |
-
----
+| [**Coverage**](COVERAGE.md) | Every company, what we pulled, what we published — including our failures |
+| [**Company Bar**](docs/COMPANY_BAR.md) | The inclusion test and what we refuse to list |
 
 ## How it works
 
 ```
-data/companies.yaml   145 employers · 131 live boards · every token verified
+data/companies.yaml   145 employers · 129 live boards · every token verified
         │
-        ▼
-   fetch (6-hourly, GitHub Actions, 12 workers)
-   greenhouse · ashby · lever · workday · amazon · eightfold
-        │   per-company isolation — one 500 cannot fail the run
-        ▼
-   classify   US-only → drop senior/non-technical → track → degree → sponsorship
-        │     publishes WHY each row was rejected, never drops silently
-        ▼
-   lifecycle  first_seen (immutable) · last_verified · closed_at
-        │     closure requires a SUCCESSFUL fetch that omitted the role
-        ▼
-   render     4 markdown boards · jobs.json · jobs.ndjson · feed.xml
-              stats.json · CHANGELOG.md
+        ▼  every 6h on GitHub Actions
+   fetch      greenhouse · ashby · lever · workday · amazon · eightfold
+        │     per-company isolation — one 500 cannot fail the run
+   classify   US-only → drop senior/non-CS → track → degree → sponsorship
+        │     publishes WHY each row was rejected
+   lifecycle  first_seen (immutable) · closure requires a SUCCESSFUL fetch
+        │
+   verify     probe every apply link · hide only proven-dead or closed
+        │
+   render     4 boards · searchable site · jobs.json · feed.xml · COVERAGE.md
 ```
 
-Run it yourself:
-
 ```bash
-pip install -r requirements-dev.txt
-make test                          # 179 tests, no network
+pip install -r requirements-dev.txt && pip install -e .
+make test                          # 251 tests, no network
 make refresh                       # hits every board, rewrites all outputs
 python -m eliteboard.cli doctor    # which boards can't be fetched, and why
 ```
 
-## Using the data
+## Data API
 
 ```bash
 BASE=https://raw.githubusercontent.com/ricsign/Ricsign-New-Grads-Jobs-2027/main/data/v1
 
-# Tier-0 roles that sponsor visas
 curl -s $BASE/jobs.json | jq -r '.jobs[]
   | select(.sponsorship=="sponsors" and .company_tier==0)
   | "\(.company_name)\t\(.title)\t\(.apply_url)"'
-
-# PhD-track research roles
-curl -s $BASE/jobs.json | jq -r '.jobs[]
-  | select(.track=="ai-research") | "\(.company_name) — \(.title)"'
 ```
 
-Fields are documented in [`schema.json`](data/v1/schema.json). Within API v1 we
-add fields but never remove or repurpose them.
+[`jobs.json`](data/v1/jobs.json) · [`jobs.ndjson`](data/v1/jobs.ndjson) ·
+[`feed.xml`](data/v1/feed.xml) · [`coverage.json`](data/v1/coverage.json) ·
+[`programs.json`](data/v1/programs.json) · [`schema.json`](data/v1/schema.json)
+
+Within API v1 we add fields but never remove or repurpose them.
 
 ## Honest limitations
 
-We would rather state these than have you discover them.
-
-- **Six elite firms have no fetchable board.** Jane Street, Citadel, Citadel
-  Securities, D. E. Shaw, Two Sigma and Optiver run custom JS-rendered boards
-  with no public JSON. They are in the registry with direct links and a written
-  explanation — listed honestly rather than silently omitted.
-  `python -m eliteboard.cli doctor` prints the full list.
-- **Google, Meta, Apple and Microsoft are link-only** for now. Google's job
-  results path is disallowed by its robots.txt, which we respect. The other
-  three need bespoke adapters — contributions very welcome.
-- **`unknown` sponsorship is common**, because many postings genuinely do not
-  say. We will not invent a value to make a column look complete.
-- **Compensation is sparse.** We show it when the ATS publishes a real band
-  (Ashby often does) and leave it blank otherwise, rather than putting an
-  estimate next to a real number.
+- **Six elite firms have no fetchable board** — Jane Street, Citadel, Citadel
+  Securities, D. E. Shaw, Two Sigma, Optiver. Custom JS boards, no public JSON.
+  Listed with direct links and a written reason rather than silently omitted.
+- **Google, Meta, Apple, Microsoft are link-only.** Google's job path is
+  robots-disallowed and we respect that; the others need bespoke adapters.
+- **`unknown` sponsorship is common** because many postings genuinely don't say.
+  We won't invent a value to fill a column.
+- **Compensation is sparse** — shown only when the ATS publishes a real band.
+- **A verified link is not a guarantee the role is open.** Some pages return 200
+  and are quietly closed; [report those](../../issues/new?template=dead-link.yml).
 
 ## Contributing
 
-- **A company that should be here** → [open a company issue](../../issues/new?template=company.yml). Argue that it clears [the bar](docs/COMPANY_BAR.md).
-- **A dead link** → [report it](../../issues/new?template=dead-link.yml). The daily linkcheck catches hard 404s but misses soft ones.
-- **A missing adapter** → Apple, Microsoft, Meta and Snowflake are the highest-value gaps. See [CONTRIBUTING.md](CONTRIBUTING.md).
-- **A sourced comp number** for anything in the [unsourced list](docs/COMPENSATION.md#unsourced--deliberately-blank).
+[Add a company](../../issues/new?template=company.yml) ·
+[report a dead link](../../issues/new?template=dead-link.yml) ·
+[flag a misclassified role](../../issues/new?template=misclassified.yml) ·
+[write a missing adapter](CONTRIBUTING.md) (Apple, Microsoft, Meta, Snowflake)
 
 ## Related
 
-Genuinely useful, broader in scope, different tradeoff:
+Broader in scope, different tradeoff:
 [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) ·
 [SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) ·
 [speedyapply/2027-SWE-College-Jobs](https://github.com/speedyapply/2027-SWE-College-Jobs) ·
 [northwesternfintech/2027QuantInternships](https://github.com/northwesternfintech/2027QuantInternships)
 
-If you want maximum coverage, use those. If you want the top of the market with
-metadata you can trust, use this.
+Want maximum coverage? Use those. Want the top of the market with metadata you
+can trust? Use this.
 
 ---
 
 <div align="center">
 
-MIT licensed · not affiliated with any listed employer · apply links point to
-official career pages only
+MIT · not affiliated with any listed employer · apply links point to official
+career pages only
 
 **If this helped, a ⭐ helps someone else find it.**
 
