@@ -27,10 +27,16 @@ from .registry import Company
 # `\bII+\b` catches "Engineer II"/"III"; `\bI\b` deliberately does NOT, because
 # "Software Engineer I" and "SDE I" are genuine new-grad levels.
 # --------------------------------------------------------------------------
+# The experience clauses are fiddly and worth spelling out. We must catch
+# "(4-8 YOE)" and "5+ years" while NOT catching "0-2 years", which is a
+# new-grad signal. So a range only counts when its UPPER bound is 4 or more.
 SENIOR = re.compile(
     r"\b(senior|sr\.?|staff|principal|distinguished|lead|architect|manager|"
     r"director|head\s+of|vp|vice\s+president|chief|fellow\s+engineer|"
-    r"experienced|II+|IV|V|[3-9]\+?\s*years)\b",
+    r"experienced|II+|IV|V"
+    r"|(?:[3-9]|[1-9]\d)\s*\+?\s*(?:years|yrs|yoe)"
+    r"|\d\s*[-\u2013]\s*(?:[4-9]|[1-9]\d)\s*\+?\s*(?:years|yrs|yoe)"
+    r")\b",
     re.I,
 )
 
@@ -65,6 +71,17 @@ PROGRAM = re.compile(
     re.I,
 )
 
+# "Machine Learning Fellow" is an early-career research role. "Fellow Engineer"
+# is a staff-plus title, and Legal/Medical/Finance Fellow are not our audience.
+# So this counts as an early-career marker but does NOT bypass the technical
+# gate the way a named program does.
+FELLOW_ROLE = re.compile(r"\bfellows?\b(?!\s+engineer)", re.I)
+
+# A low experience band in the TITLE is itself an early-career marker.
+# The seniority rule only rejects ranges topping out at 4+, so "0-2 years"
+# survives it - but without this it then fell through as "not early-career".
+EARLY_BAND = re.compile(r"\b0\s*[-\u2013to]+\s*[0-3]\s*\+?\s*(?:years|yrs|yoe)\b", re.I)
+
 # Signals that a role is early-career even though its TITLE never says so.
 # Frontier labs almost never write "new grad" in a title; they write it in the
 # body. Requiring the marker in the title alone is why Anthropic, OpenAI, xAI,
@@ -72,7 +89,10 @@ PROGRAM = re.compile(
 EARLY_CAREER_BODY = re.compile(
     r"\b(new\s+grad(?:uate)?s?|recent\s+grad(?:uate)?s?|recent\s+ph\.?\s?d\.?|"
     r"graduating\s+(?:in\s+)?20(?:2[5-9])|expected\s+graduation|"
-    r"currently\s+(?:enrolled|pursuing)|final\s+year\s+(?:student|of)|"
+    r"currently\s+enrolled(?:\s+in)?|"
+    r"currently\s+pursuing\s+(?:a\s+|an\s+|your\s+)?(?:bachelor|master|ph\.?\s?d|"
+    r"b\.?s\.?|m\.?s\.?|undergraduate|graduate|doctoral|degree)|"
+    r"final\s+year\s+(?:student|of)|"
     r"0\s*[-\u2013to]+\s*2\s+years|"
     r"entry[-\s]?level|early\s+in\s+(?:your|their)\s+career|"
     r"no\s+prior\s+industry\s+experience|university\s+grad(?:uate)?s?)\b",
@@ -233,7 +253,7 @@ def classify_track(posting: RawPosting, company: Company) -> Track:
 
     if INTERN.search(haystack):
         return Track.INTERNSHIP
-    if PROGRAM.search(title):
+    if PROGRAM.search(title) or FELLOW_ROLE.search(title):
         if company.category == "quant":
             return Track.QUANT
         if company.category in {"ai-lab", "robotics"} or RESEARCH.search(title):
@@ -243,7 +263,7 @@ def classify_track(posting: RawPosting, company: Company) -> Track:
         return Track.QUANT
     if RESEARCH.search(title):
         return Track.AI_RESEARCH
-    if NEW_GRAD.search(title):
+    if NEW_GRAD.search(title) or EARLY_BAND.search(title):
         return Track.NEW_GRAD_SWE
     if early_career_signal(posting):
         return Track.AI_RESEARCH if RESEARCH.search(title) else Track.NEW_GRAD_SWE
@@ -341,9 +361,15 @@ def is_eligible(posting: RawPosting, company: Company) -> tuple[bool, str]:
         return False, "non-CS engineering discipline"
 
     early = bool(
-        INTERN.search(title) or NEW_GRAD.search(title) or PROGRAM.search(title)
+        INTERN.search(title)
+        or NEW_GRAD.search(title)
+        or PROGRAM.search(title)
+        or FELLOW_ROLE.search(title)
+        or EARLY_BAND.search(title)
     )
-    if SENIOR.search(title) and not early:
+    # Seniority in the title beats every early-career marker except an explicit
+    # intern or new-grad label, so "Senior Fellow" cannot sneak through.
+    if SENIOR.search(title) and not (INTERN.search(title) or NEW_GRAD.search(title)):
         return False, "senior/experienced role"
 
     track = classify_track(posting, company)

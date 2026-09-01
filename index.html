@@ -1,0 +1,401 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Elite New Grad &amp; Internship Jobs — 2027</title>
+<meta name="description" content="Curated 2027 new grad and internship board for elite CS students. Frontier AI labs, FAANG+, quant/HFT and top startups only. Re-verified every 6 hours.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>◆</text></svg>">
+<style>
+  :root{
+    --bg:#fbfbfa; --surface:#fff; --surface-2:#f4f4f2; --line:#e4e4e0; --line-2:#d3d3cd;
+    --ink:#16150f; --ink-2:#55534a; --ink-3:#84817a;
+    --accent:#0f5c4a; --accent-ink:#fff; --accent-soft:#e6f0ec;
+    --good:#1a6b4f; --good-bg:#e4f1eb;
+    --warn:#8a5a00; --warn-bg:#faf0dc;
+    --crit:#9a2f2f; --crit-bg:#fbe9e7;
+    --info:#2a4d8f; --info-bg:#e8eefb;
+    --radius:9px; --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,Helvetica,Arial,sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --bg:#12120f; --surface:#1a1a17; --surface-2:#232320; --line:#2e2e2a; --line-2:#3d3d38;
+      --ink:#f2f1ec; --ink-2:#b3b1a8; --ink-3:#85837b;
+      --accent:#5fd0ae; --accent-ink:#0d1a16; --accent-soft:#17302a;
+      --good:#6edeb8; --good-bg:#14312a;
+      --warn:#e2b45c; --warn-bg:#332815;
+      --crit:#f08a80; --crit-bg:#3a1f1d;
+      --info:#8fb3f5; --info-bg:#1c2740;
+    }
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 var(--sans);}
+  a{color:inherit}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+  /* ---------- header ---------- */
+  header{border-bottom:1px solid var(--line);background:var(--surface)}
+  .head{padding:30px 0 24px}
+  h1{margin:0 0 6px;font-size:23px;letter-spacing:-.02em;font-weight:650}
+  h1 .dot{color:var(--accent)}
+  .tagline{margin:0;color:var(--ink-2);font-size:14.5px;max-width:62ch}
+  .updated{margin-top:12px;font-family:var(--mono);font-size:11.5px;color:var(--ink-3);
+           display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+  .pulse{width:7px;height:7px;border-radius:50%;background:var(--good);display:inline-block;margin-right:5px;vertical-align:1px}
+
+  /* ---------- stat tiles ---------- */
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:1px;
+         background:var(--line);border:1px solid var(--line);border-radius:var(--radius);
+         overflow:hidden;margin:22px 0 4px}
+  .stat{background:var(--surface);padding:13px 15px}
+  .stat b{display:block;font-size:25px;font-weight:640;letter-spacing:-.025em;font-variant-numeric:tabular-nums;line-height:1.15}
+  .stat span{display:block;font-size:11.5px;color:var(--ink-3);margin-top:3px;letter-spacing:.01em}
+
+  /* ---------- controls ---------- */
+  .controls{position:sticky;top:0;z-index:20;background:var(--surface);
+            border-bottom:1px solid var(--line);padding:11px 0}
+  .ctl-row{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
+  .search{flex:1 1 240px;min-width:0;position:relative}
+  .search input{width:100%;padding:8px 12px 8px 32px;border:1px solid var(--line-2);
+    border-radius:7px;background:var(--bg);color:var(--ink);font:14px var(--sans)}
+  .search input:focus{outline:2px solid var(--accent);outline-offset:-1px;border-color:transparent}
+  .search svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);opacity:.45}
+  .search kbd{position:absolute;right:8px;top:50%;transform:translateY(-50%);font:11px var(--mono);
+    color:var(--ink-3);border:1px solid var(--line-2);border-radius:4px;padding:1px 5px;background:var(--surface-2)}
+  select{padding:8px 9px;border:1px solid var(--line-2);border-radius:7px;background:var(--bg);
+    color:var(--ink);font:13px var(--sans);max-width:170px}
+  select:focus{outline:2px solid var(--accent);outline-offset:-1px}
+  .tabs{display:flex;gap:5px;flex-wrap:wrap;margin-top:9px}
+  .tab{border:1px solid var(--line-2);background:var(--surface);color:var(--ink-2);
+    padding:6px 12px;border-radius:99px;font:13px var(--sans);cursor:pointer;white-space:nowrap}
+  .tab:hover{border-color:var(--ink-3);color:var(--ink)}
+  .tab[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:560}
+  .tab .n{font-family:var(--mono);font-size:11px;opacity:.72;margin-left:5px}
+  .clear{border:0;background:none;color:var(--ink-3);font:13px var(--sans);cursor:pointer;
+    text-decoration:underline;padding:6px 2px}
+  .clear:hover{color:var(--ink)}
+
+  /* ---------- results ---------- */
+  .meta{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
+        margin:20px 0 9px;flex-wrap:wrap}
+  .count{font:13px var(--mono);color:var(--ink-2)}
+  .count b{color:var(--ink);font-weight:640}
+  table{width:100%;border-collapse:collapse;background:var(--surface);
+        border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+  thead th{text-align:left;font:11px/1.3 var(--mono);text-transform:uppercase;letter-spacing:.06em;
+    color:var(--ink-3);padding:9px 12px;background:var(--surface-2);border-bottom:1px solid var(--line);
+    font-weight:500;white-space:nowrap}
+  tbody td{padding:11px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+  tbody tr:last-child td{border-bottom:0}
+  tbody tr:hover{background:var(--surface-2)}
+  .co{font-weight:600;white-space:nowrap}
+  .tier{display:inline-block;font:10px var(--mono);border:1px solid var(--line-2);border-radius:4px;
+    padding:0 4px;color:var(--ink-3);margin-left:6px;vertical-align:1px}
+  .tier.t0{border-color:var(--accent);color:var(--accent);font-weight:600}
+  .role{display:block;color:var(--ink);text-decoration:none;font-weight:500;line-height:1.35}
+  .role:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+  .sub{font:11.5px var(--mono);color:var(--ink-3);margin-top:3px;display:block}
+  .loc{color:var(--ink-2);font-size:13.5px;max-width:230px}
+  .comp{font:12.5px var(--mono);color:var(--ink-2);white-space:nowrap}
+  .age{font:12px var(--mono);color:var(--ink-3);white-space:nowrap;text-align:right}
+  .age.fresh{color:var(--good);font-weight:600}
+  .badge{display:inline-flex;align-items:center;gap:4px;font:11px var(--sans);
+    padding:2px 7px;border-radius:99px;white-space:nowrap;margin:1px 3px 1px 0;font-weight:500}
+  .b-good{background:var(--good-bg);color:var(--good)}
+  .b-warn{background:var(--warn-bg);color:var(--warn)}
+  .b-crit{background:var(--crit-bg);color:var(--crit)}
+  .b-info{background:var(--info-bg);color:var(--info)}
+  .b-mute{background:var(--surface-2);color:var(--ink-3)}
+  .unstated{font:11.5px var(--mono);color:var(--ink-3);opacity:.7}
+  .apply{display:inline-block;background:var(--accent);color:var(--accent-ink);text-decoration:none;
+    padding:6px 13px;border-radius:6px;font:13px var(--sans);font-weight:560;white-space:nowrap}
+  .apply:hover{filter:brightness(1.1)}
+  .empty{text-align:center;padding:54px 20px;color:var(--ink-2);background:var(--surface);
+    border:1px solid var(--line);border-radius:var(--radius)}
+  .empty b{display:block;font-size:17px;color:var(--ink);margin-bottom:6px}
+
+  /* ---------- checked-nothing-open ---------- */
+  details.zero{margin:26px 0 0;background:var(--surface);border:1px solid var(--line);
+    border-radius:var(--radius);padding:13px 16px}
+  details.zero summary{cursor:pointer;font-weight:560;font-size:14px}
+  details.zero summary::marker{color:var(--ink-3)}
+  .zero p{color:var(--ink-2);font-size:13.5px;margin:9px 0 12px;max-width:68ch}
+  .zero-grid{display:flex;flex-wrap:wrap;gap:6px}
+  .zchip{font:12px var(--sans);border:1px solid var(--line);background:var(--surface-2);
+    border-radius:6px;padding:4px 9px;color:var(--ink-2)}
+  .zchip b{color:var(--ink);font-weight:560}
+  .zchip i{font-style:normal;font-family:var(--mono);font-size:10.5px;color:var(--ink-3);margin-left:5px}
+
+  footer{margin:40px 0 60px;padding-top:20px;border-top:1px solid var(--line);
+    color:var(--ink-3);font-size:13px;display:flex;gap:18px;flex-wrap:wrap;justify-content:space-between}
+  footer a{color:var(--ink-2)}
+  .legend{font:11.5px var(--mono);color:var(--ink-3);margin-top:7px}
+
+  @media (max-width:760px){
+    thead{display:none}
+    table,tbody,tr,td{display:block;width:100%}
+    table{border:0;background:none}
+    tbody tr{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+      margin-bottom:9px;padding:11px 13px}
+    tbody td{border:0;padding:2px 0}
+    .age{text-align:left}
+    .loc{max-width:none}
+    td.apply-cell{margin-top:9px}
+    .stat b{font-size:21px}
+    .stats{grid-template-columns:repeat(2,1fr)}
+    .stats .stat:nth-child(5){grid-column:1/-1}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap head">
+    <h1>Elite New Grad &amp; Internship Jobs <span class="dot">◆</span> 2027</h1>
+    <p class="tagline">Frontier AI labs, FAANG+, quant/HFT and top startups. Nothing else.
+      Every posting re-fetched and its apply link re-verified every 6 hours.</p>
+    <div class="stats" id="stats"></div>
+    <div class="updated" id="updated"></div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <div class="ctl-row">
+      <div class="search">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4">
+          <circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Search company, role or location…" autocomplete="off" aria-label="Search roles">
+        <kbd>/</kbd>
+      </div>
+      <select id="sponsor" aria-label="Filter by visa sponsorship">
+        <option value="">Any work authorization</option>
+        <option value="sponsors">Sponsors visas</option>
+        <option value="no-sponsorship">No sponsorship</option>
+        <option value="citizenship-required">US citizenship required</option>
+        <option value="security-clearance">Clearance required</option>
+        <option value="unknown">Posting doesn't say</option>
+      </select>
+      <select id="degree" aria-label="Filter by degree">
+        <option value="">Any degree</option>
+        <option value="phd-required">PhD required</option>
+        <option value="masters-preferred">MS preferred</option>
+        <option value="bachelors">Bachelor's</option>
+      </select>
+      <select id="tier" aria-label="Filter by company tier">
+        <option value="">All tiers</option>
+        <option value="0">Tier 0 — frontier</option>
+        <option value="1">Tier 1 — established elite</option>
+        <option value="2">Tier 2 — specialists</option>
+      </select>
+      <select id="sort" aria-label="Sort roles">
+        <option value="tier">Best first (tier, then newest)</option>
+        <option value="new">Newest first</option>
+        <option value="company">Company A–Z</option>
+      </select>
+      <button class="clear" id="clear" type="button">Reset</button>
+    </div>
+    <div class="tabs" id="tabs"></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="meta">
+    <div class="count" id="count">Loading…</div>
+    <div class="legend">Age = time since we first saw the posting, not since we last re-scraped it.</div>
+  </div>
+  <div id="results"></div>
+  <div id="zero"></div>
+  <footer>
+    <div>Updated every 6 hours · <a href="data/v1/jobs.json">jobs.json</a> ·
+      <a href="data/v1/schema.json">schema</a> · <a href="data/v1/feed.xml">Atom feed</a> ·
+      <a href="COVERAGE.md">coverage</a></div>
+    <div><a href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027">Source on GitHub</a> · MIT</div>
+  </footer>
+</main>
+
+<script>
+const TRACKS=[["","All roles"],["new-grad-swe","New Grad SWE"],["internship","Internships"],
+              ["quant","Quant"],["ai-research","AI / ML Research"]];
+const SPONSOR={
+  "sponsors":["b-good","Sponsors visas"],
+  "no-sponsorship":["b-warn","No sponsorship"],
+  "citizenship-required":["b-crit","US citizens only"],
+  "security-clearance":["b-crit","Clearance required"],
+  "unknown":null};
+const DEGREE={"phd-required":["b-info","PhD"],"masters-preferred":["b-info","MS preferred"]};
+/* Research is a VIEW, not a partition - identical rule to boards/AI_RESEARCH.md.
+   A research internship belongs on both boards, because a PhD student searches
+   by research content, not by employment type. */
+const RESEARCHY=/\b(research\w*|scientist|member of technical staff|mts|(?<!data )(?<!tax )residency|resident|fellows?(?:hip)?)\b/i;
+const isResearch=j=>j.track==="ai-research"||j.degree==="phd-required"||RESEARCHY.test(j.title);
+
+let JOBS=[], STATS=null, ZERO=[];
+const state={q:"",track:"",sponsor:"",degree:"",tier:"",sort:"tier"};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+/* ---------- url state ---------- */
+function readURL(){
+  const p=new URLSearchParams(location.search);
+  for(const k of Object.keys(state)) if(p.get(k)!==null) state[k]=p.get(k);
+}
+function writeURL(){
+  const p=new URLSearchParams();
+  for(const [k,v] of Object.entries(state)) if(v && !(k==="sort"&&v==="new")) p.set(k,v);
+  const qs=p.toString();
+  history.replaceState(null,"",qs?`?${qs}`:location.pathname);
+}
+
+/* ---------- helpers ---------- */
+function ageDays(j){
+  const d=(Date.now()-Date.parse(j.first_seen+"T00:00:00Z"))/864e5;
+  return Math.max(0,Math.floor(d));
+}
+function ageLabel(n){
+  if(n<=0)return"today"; if(n===1)return"1d";
+  if(n<30)return n+"d"; return Math.round(n/30)+"mo";
+}
+function comp(c){
+  if(!c) return "";
+  const hr=/hour/i.test(c.interval||"");
+  const f=v=>v==null?null:(hr?`$${Math.round(v)}`:`$${Math.round(v/1000)}k`);
+  const lo=f(c.min),hi=f(c.max);
+  if(lo&&hi&&lo!==hi) return `${lo}–${hi}${hr?"/hr":""}`;
+  return (lo||hi)?`${lo||hi}${hr?"/hr":""}`:"";
+}
+function matches(j){
+  if(state.track==="ai-research"){ if(!isResearch(j)) return false; }
+  else if(state.track && j.track!==state.track) return false;
+  if(state.sponsor && j.sponsorship!==state.sponsor) return false;
+  if(state.degree && j.degree!==state.degree) return false;
+  if(state.tier!=="" && String(j.company_tier)!==state.tier) return false;
+  if(state.q){
+    const hay=(j.company_name+" "+j.title+" "+(j.locations||[]).join(" ")+" "+(j.season||"")).toLowerCase();
+    if(!state.q.toLowerCase().split(/\s+/).filter(Boolean).every(t=>hay.includes(t))) return false;
+  }
+  return true;
+}
+function sorted(list){
+  const byNew=(a,b)=>b.first_seen.localeCompare(a.first_seen)||a.company_name.localeCompare(b.company_name);
+  if(state.sort==="company") return list.sort((a,b)=>a.company_name.localeCompare(b.company_name)||byNew(a,b));
+  if(state.sort==="tier") return list.sort((a,b)=>a.company_tier-b.company_tier||byNew(a,b));
+  return list.sort(byNew);
+}
+
+/* ---------- render ---------- */
+function renderStats(){
+  if(!STATS) return;
+  const f=STATS.freshness||{}, lc=(STATS.pipeline_health||{}).link_check||{};
+  const tiles=[
+    [STATS.live_roles, "open roles"],
+    [STATS.companies_with_open_roles, "companies hiring"],
+    [(STATS.link_verified_pct??100)+"%", "apply links verified"],
+    [STATS.sponsorship_resolved_pct+"%", "sponsorship resolved"],
+    [(f.median_age_days??0)+"d", "median posting age"],
+  ];
+  $("#stats").innerHTML=tiles.map(([v,l])=>`<div class="stat"><b>${esc(v)}</b><span>${esc(l)}</span></div>`).join("");
+  const when=STATS.generated_at?new Date(STATS.generated_at):null;
+  $("#updated").innerHTML=
+    `<span><span class="pulse"></span>Last refreshed ${when?when.toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"}):"—"}</span>`+
+    `<span>${(STATS.pipeline_health||{}).boards_ok??"—"} / ${(STATS.pipeline_health||{}).boards_attempted??"—"} boards healthy</span>`+
+    `<span>${(STATS.pipeline_health||{}).postings_fetched?.toLocaleString?.()??"—"} postings read → ${STATS.live_roles} published</span>`;
+}
+function renderTabs(){
+  const counts={};
+  for(const [v] of TRACKS){
+    counts[v]=JOBS.filter(j=>{const s=state.track;state.track=v;const m=matches(j);state.track=s;return m;}).length;
+  }
+  $("#tabs").innerHTML=TRACKS.map(([v,l])=>
+    `<button class="tab" data-track="${v}" aria-pressed="${state.track===v}">${esc(l)}<span class="n">${counts[v]}</span></button>`
+  ).join("");
+}
+function renderRows(list){
+  if(!list.length){
+    $("#results").innerHTML=`<div class="empty"><b>No roles match those filters.</b>
+      That may be the honest answer — we don't pad the board. Try widening the filters, or
+      <a href="data/v1/feed.xml">subscribe to the feed</a> and let new ones come to you.</div>`;
+    return;
+  }
+  const rows=list.map(j=>{
+    const n=ageDays(j), sp=SPONSOR[j.sponsorship], dg=DEGREE[j.degree];
+    const badges=(sp?`<span class="badge ${sp[0]}">${esc(sp[1])}</span>`:"")
+                +(dg?`<span class="badge ${dg[0]}">${esc(dg[1])}</span>`:"")
+                ||`<span class="unstated">not stated</span>`;
+    const c=comp(j.compensation);
+    return `<tr>
+      <td class="co">${esc(j.company_name)}<span class="tier ${j.company_tier===0?"t0":""}">T${j.company_tier}</span></td>
+      <td><a class="role" href="${esc(j.apply_url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+          ${j.season?`<span class="sub">${esc(j.season)}</span>`:""}</td>
+      <td class="loc">${esc((j.locations||[]).slice(0,2).join(" · "))}${(j.locations||[]).length>2?` +${j.locations.length-2}`:""}</td>
+      <td class="comp">${esc(c)||"—"}</td>
+      <td>${badges}</td>
+      <td class="age ${n<=3?"fresh":""}">${ageLabel(n)}</td>
+      <td class="apply-cell"><a class="apply" href="${esc(j.apply_url)}" target="_blank" rel="noopener">Apply</a></td>
+    </tr>`;}).join("");
+  $("#results").innerHTML=`<table><thead><tr>
+    <th>Company</th><th>Role</th><th>Location</th><th>Comp</th><th>Work auth</th><th>Age</th><th></th>
+    </tr></thead><tbody>${rows}</tbody></table>`;
+}
+function renderZero(){
+  if(!ZERO.length){$("#zero").innerHTML="";return;}
+  $("#zero").innerHTML=`<details class="zero"><summary>${ZERO.length} more companies we checked that have nothing early-career open right now</summary>
+    <p>We read every one of these boards on the last refresh and found no roles clearing the bar.
+       That is information too — it means you don't need to go check them yourself.
+       The number is how many postings we read.</p>
+    <div class="zero-grid">${ZERO.map(c=>
+      `<span class="zchip"><b>${esc(c.name)}</b><i>${c.fetched}</i></span>`).join("")}</div></details>`;
+}
+function render(){
+  const list=sorted(JOBS.filter(matches));
+  renderTabs(); renderRows(list);
+  $("#count").innerHTML=`<b>${list.length}</b> of ${JOBS.length} roles`;
+  writeURL();
+}
+
+/* ---------- wiring ---------- */
+function bind(){
+  $("#q").addEventListener("input",e=>{state.q=e.target.value;render();});
+  for(const id of ["sponsor","degree","tier","sort"])
+    $("#"+id).addEventListener("change",e=>{state[id]=e.target.value;render();});
+  $("#tabs").addEventListener("click",e=>{
+    const b=e.target.closest(".tab"); if(!b)return;
+    state.track=b.dataset.track; render();
+  });
+  $("#clear").addEventListener("click",()=>{
+    Object.assign(state,{q:"",track:"",sponsor:"",degree:"",tier:"",sort:"tier"});
+    syncControls(); render();
+  });
+  document.addEventListener("keydown",e=>{
+    if(e.key==="/"&&document.activeElement!==$("#q")){e.preventDefault();$("#q").focus();}
+    if(e.key==="Escape"&&document.activeElement===$("#q")){$("#q").blur();}
+  });
+}
+function syncControls(){
+  $("#q").value=state.q;
+  for(const id of ["sponsor","degree","tier","sort"]) $("#"+id).value=state[id];
+}
+
+(async function(){
+  readURL(); syncControls(); bind();
+  try{
+    const [jobs,stats,cov]=await Promise.all([
+      fetch("data/v1/jobs.json").then(r=>r.json()),
+      fetch("data/v1/stats.json").then(r=>r.json()).catch(()=>null),
+      fetch("data/v1/coverage.json").then(r=>r.json()).catch(()=>null),
+    ]);
+    JOBS=(jobs.jobs||[]).filter(j=>j.active!==false&&!["dead","closed"].includes(j.link_status));
+    STATS=stats;
+    if(cov) ZERO=(cov.companies||[]).filter(c=>c.status==="none matched"&&c.fetched>0)
+                                    .sort((a,b)=>a.tier-b.tier||b.fetched-a.fetched);
+    renderStats(); renderZero(); render();
+  }catch(err){
+    $("#count").textContent="";
+    $("#results").innerHTML=`<div class="empty"><b>Couldn't load the job data.</b>
+      The raw file is still available at <a href="data/v1/jobs.json">data/v1/jobs.json</a>.</div>`;
+  }
+})();
+</script>
+</body>
+</html>

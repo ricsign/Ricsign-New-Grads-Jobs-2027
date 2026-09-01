@@ -29,6 +29,7 @@ CHANGELOG = REPO_ROOT / "CHANGELOG.md"
 
 
 MAX_REJECTION_SAMPLES = 12
+MAX_COMPANY_SAMPLES = 8
 
 
 @dataclass(slots=True)
@@ -45,6 +46,10 @@ class PipelineResult:
     #: reason -> sample of dropped titles, so recall loss is inspectable rather
     #: than merely counted.
     rejection_samples: dict[str, list[str]] = field(default_factory=dict)
+    #: slug -> sample of "title (reason)" for companies that published nothing.
+    #: This is what makes a zero auditable: a reader can see whether the board
+    #: genuinely had no early-career roles, or whether our filter ate them.
+    zero_samples: dict[str, list[str]] = field(default_factory=dict)
 
 
 def _dedupe(postings: list[RawPosting]) -> list[RawPosting]:
@@ -78,11 +83,18 @@ def build_jobs(
     store: StateStore,
     *,
     today: date,
-) -> tuple[list[Job], Counter, dict[str, dict[str, int]], dict[str, list[str]]]:
+) -> tuple[
+    list[Job],
+    Counter,
+    dict[str, dict[str, int]],
+    dict[str, list[str]],
+    dict[str, list[str]],
+]:
     rejections: Counter = Counter()
     jobs: list[Job] = []
     per_company: dict[str, dict[str, int]] = {}
     samples: dict[str, list[str]] = {}
+    company_drops: dict[str, list[str]] = {}
 
     for posting in _dedupe(postings):
         company = companies.get(posting.company_slug)
@@ -99,6 +111,9 @@ def build_jobs(
             bucket = samples.setdefault(reason, [])
             if len(bucket) < MAX_REJECTION_SAMPLES:
                 bucket.append(f"{company.name} — {posting.title}")
+            drops = company_drops.setdefault(posting.company_slug, [])
+            if len(drops) < MAX_COMPANY_SAMPLES:
+                drops.append(f"{posting.title} — {reason}")
             continue
 
         stats["published"] += 1
@@ -131,7 +146,7 @@ def build_jobs(
                 active=True,
             )
         )
-    return jobs, rejections, per_company, samples
+    return jobs, rejections, per_company, samples, company_drops
 
 
 def run(
@@ -145,7 +160,7 @@ def run(
     store = StateStore(STATE_PATH)
     known_before = set(store.entries)
 
-    jobs, rejections, per_company, samples = build_jobs(
+    jobs, rejections, per_company, samples, company_drops = build_jobs(
         report.postings, index, store, today=today
     )
 
@@ -188,6 +203,11 @@ def run(
         newly_added=newly_added, newly_closed=closed,
         per_company=per_company, rejection_samples=samples,
         link_health=link_health,
+        zero_samples={
+            slug: drops
+            for slug, drops in company_drops.items()
+            if per_company.get(slug, {}).get("published", 0) == 0
+        },
     )
 
 

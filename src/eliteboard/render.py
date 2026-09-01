@@ -479,6 +479,28 @@ def render_coverage(companies, result, *, today: date) -> str:
         ]
         lines.append("")
 
+    if none_matched:
+        lines += [
+            "## Boards we read that had nothing early-career",
+            "",
+            "These companies are hiring — just not for roles that clear the bar today.",
+            "A sample of what we saw and why we dropped it, so you can check our work",
+            "rather than take it on faith.",
+            "",
+        ]
+        for company, fetched, _, _ in sorted(
+            none_matched, key=lambda r: (r[0].tier, r[0].name)
+        )[:24]:
+            samples = result.zero_samples.get(company.slug, [])
+            lines.append(
+                f"<details><summary><b>{_escape(company.name)}</b> — "
+                f"{fetched} postings read, none early-career</summary>\n"
+            )
+            for sample in samples[:6]:
+                lines.append(f"- `{_escape(sample)}`")
+            lines.append("\n</details>\n")
+        lines.append("")
+
     lines += [
         "## Every company",
         "",
@@ -517,5 +539,6 @@ def render_coverage_json(companies, result, *, today: date) -> str:
         ],
         "rejections": dict(result.rejections.most_common()),
         "rejection_samples": result.rejection_samples,
+        "zero_published_samples": result.zero_samples,
     }
     return json.dumps(payload, indent=1, ensure_ascii=False) + "\n"
