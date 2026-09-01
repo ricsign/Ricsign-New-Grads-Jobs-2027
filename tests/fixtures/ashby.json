@@ -1,0 +1,5 @@
+{"apiVersion":"1","jobs":[
+ {"id":"a1b2","title":"Research Engineer, Residency","location":"San Francisco, CA","secondaryLocations":[{"location":"New York, NY"}],"department":"Research","team":"Alignment","isListed":true,"isRemote":false,"descriptionPlain":"Our residency is designed for recent PhD graduates. We offer visa sponsorship.","publishedAt":"2026-08-20T00:00:00Z","employmentType":"FullTime","applyUrl":"https://jobs.ashbyhq.com/openai/a1b2/application","jobUrl":"https://jobs.ashbyhq.com/openai/a1b2","compensation":{"compensationTiers":[{"components":[{"compensationType":"Salary","minValue":210000,"maxValue":290000,"currencyCode":"USD","interval":"1 YEAR"}]}]}},
+ {"id":"c3d4","title":"Software Engineer Intern, Summer 2027","location":"London, UK","secondaryLocations":[],"isListed":true,"descriptionPlain":"Intern role.","publishedAt":"2026-08-22T00:00:00Z","applyUrl":"https://jobs.ashbyhq.com/openai/c3d4/application"},
+ {"id":"e5f6","title":"Unlisted Draft Role","location":"San Francisco, CA","isListed":false,"applyUrl":"https://x"}
+]}
