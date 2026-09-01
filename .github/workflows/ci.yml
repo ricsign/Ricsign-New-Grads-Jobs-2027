@@ -25,7 +25,13 @@ jobs:
           cache-dependency-path: requirements-dev.txt
 
       - name: Install
-        run: pip install -r requirements-dev.txt
+        # The package itself must be installed, not just its dependencies.
+        # pytest works without this (pyproject sets pythonpath), but
+        # `python -m eliteboard.cli` does not - which is exactly what the
+        # refresh job runs in production.
+        run: |
+          pip install -r requirements-dev.txt
+          pip install -e .
 
       - name: Lint
         run: ruff check src tests
