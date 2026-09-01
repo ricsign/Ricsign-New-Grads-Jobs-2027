@@ -108,6 +108,7 @@ The filtering ratio is the point. 21,587 postings in, 266 out.
 | [**Compensation**](docs/COMPENSATION.md) | Sourced new-grad comp, the TC-vs-DOL-base distinction, and the measurable PhD premium |
 | [**Sponsorship**](docs/SPONSORSHIP.md) | What H-1B filings actually show. Jane Street and HRT sponsor heavily; Anduril is the real outlier |
 | [**The Company Bar**](docs/COMPANY_BAR.md) | The inclusion test, the tiers, and what we refuse to list |
+| [**Coverage**](COVERAGE.md) | Every company in the registry, what we pulled from its board, and what we published. Auditable, including our own adapter failures |
 
 ---
 

@@ -67,15 +67,28 @@ class TestBuildJobs:
                          locations=["London, UK"]),
             make_posting("Recruiter", external_id="10"),
         ]
-        jobs, rejections = build_jobs(postings, index, store, today=TODAY)
+        jobs, rejections, per_company, samples = build_jobs(postings, index, store, today=TODAY)
         assert len(jobs) == 1
         assert sum(rejections.values()) == 3
         assert set(rejections) == {
             "senior/experienced role", "not a US location", "non-technical role",
         }
+        # Reasons alone are not auditable; a sample of the actual dropped
+        # titles is what lets someone check whether recall is being lost.
+        assert samples["senior/experienced role"] == ["Anthropic — Senior Software Engineer"]
+
+    def test_records_fetched_and_published_counts_per_company(self, store, index):
+        postings = [
+            make_posting("New Grad Software Engineer", external_id="1"),
+            make_posting("Senior Software Engineer", external_id="2"),
+        ]
+        _, _, per_company, _ = build_jobs(postings, index, store, today=TODAY)
+        # A zero-published company must still show what we pulled, so a reader
+        # can tell "their board was empty" from "we filtered everything out".
+        assert per_company["anthropic"] == {"fetched": 2, "published": 1}
 
     def test_carries_lifecycle_dates_onto_the_job(self, store, index):
-        jobs, _ = build_jobs([make_posting("New Grad SWE")], index, store, today=TODAY)
+        jobs, *_ = build_jobs([make_posting("New Grad SWE")], index, store, today=TODAY)
         assert jobs[0].first_seen == TODAY and jobs[0].last_verified == TODAY
 
 
@@ -241,3 +254,20 @@ class TestTitleTruncation:
         md = render.render_board(Track.INTERNSHIP, [job], today=TODAY)
         row = [ln for ln in md.splitlines() if ln.startswith("| **Anthropic**")]
         assert len(row) == 1 and row[0].count("|") == 8
+
+
+class TestDeadRowsAreHiddenFromBoards:
+    def test_dead_and_closed_rows_are_hidden(self):
+        for status in ("dead", "closed"):
+            job = _job(uid=status, link_status=status)
+            assert render.select_for_board(Track.NEW_GRAD_SWE, [job]) == []
+
+    def test_bot_blocked_rows_are_still_shown(self):
+        # A bot wall is not evidence the job is gone. Hiding these would lose
+        # real roles at every employer with aggressive bot protection.
+        job = _job(uid="blocked", link_status="blocked")
+        assert render.select_for_board(Track.NEW_GRAD_SWE, [job]) == [job]
+
+    def test_unchecked_rows_are_shown(self):
+        job = _job(uid="unchecked", link_status="unchecked")
+        assert render.select_for_board(Track.NEW_GRAD_SWE, [job]) == [job]

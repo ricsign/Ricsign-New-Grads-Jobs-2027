@@ -275,3 +275,76 @@ class TestProductionRegressions:
         # The discipline filter must not swallow roles that are genuinely
         # software: autonomy, silicon design, firmware.
         assert is_eligible(make_posting(title), company)[0]
+
+
+class TestNamedPrograms:
+    """Fellowships and residencies are the best lab entry point for grad students.
+
+    They are also invisible to a keyword filter: "Anthropic Fellows Program"
+    contains no technical word at all, so all four of its live postings were
+    dropped as non-technical by the board built to surface them.
+    """
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "Anthropic Fellows Program",
+            "Anthropic Fellows Program, AI Safety & Security",
+            "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+            "Research Residency",
+            "AI Scholars Program",
+        ],
+    )
+    def test_programs_survive_the_technical_title_gate(self, title, company):
+        assert is_eligible(make_posting(title), company)[0]
+
+    def test_lab_programs_land_on_the_research_board(self, company):
+        p = make_posting("Anthropic Fellows Program")
+        assert classify_track(p, company) is Track.AI_RESEARCH
+
+    def test_quant_programs_land_on_the_quant_board(self, quant_company):
+        p = make_posting("Graduate Program")
+        assert classify_track(p, quant_company) is Track.QUANT
+
+    def test_data_residency_is_still_not_a_program(self, company):
+        p = make_posting("Systems Engineer - Global Resource Management (Data Residency)")
+        assert not is_eligible(p, company)[0]
+
+
+class TestEarlyCareerSignalsInTheBody:
+    """Frontier labs write "new grad" in the body, never in the title.
+
+    Requiring the marker in the title is why Anthropic, OpenAI, xAI, Cursor and
+    Scale all rendered zero roles on the first production run.
+    """
+
+    @pytest.mark.parametrize(
+        "body",
+        [
+            "We welcome recent PhD graduates.",
+            "You are graduating in 2027 with a CS degree.",
+            "This role suits someone with 0-2 years of experience.",
+            "Currently enrolled in a Bachelor's or Master's program.",
+            "This is an entry-level position on the team.",
+            "Ideal for those early in their career.",
+        ],
+    )
+    def test_body_signal_admits_an_unmarked_title(self, body, company):
+        p = make_posting("Software Engineer", description=body)
+        ok, _ = is_eligible(p, company)
+        assert ok and classify_track(p, company) is Track.NEW_GRAD_SWE
+
+    def test_body_signal_does_not_override_seniority_in_the_title(self, company):
+        # A staff role that mentions recent graduates in its blurb is still a
+        # staff role. Title seniority must win.
+        p = make_posting("Senior Research Scientist", description="We welcome recent graduates.")
+        assert not is_eligible(p, company)[0]
+
+    def test_silent_body_leaves_an_unmarked_title_rejected(self, company):
+        p = make_posting("Software Engineer", description="You have 8+ years of experience.")
+        ok, reason = is_eligible(p, company)
+        assert not ok and reason == "not an early-career posting"
+
+    def test_research_title_with_body_signal_lands_on_research(self, company):
+        p = make_posting("Research Engineer", description="We welcome recent PhD graduates.")
+        assert classify_track(p, company) is Track.AI_RESEARCH

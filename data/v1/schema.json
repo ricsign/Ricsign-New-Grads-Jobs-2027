@@ -4,63 +4,230 @@
   "title": "Elite 2027 Jobs API v1",
   "description": "Stable, versioned contract for data/v1/jobs.json. Fields are added but never removed or repurposed within a major version.",
   "type": "object",
-  "required": ["api_version", "generated_at", "count", "jobs"],
+  "required": [
+    "api_version",
+    "generated_at",
+    "count",
+    "jobs"
+  ],
   "properties": {
-    "api_version": { "const": 1 },
-    "generated_at": { "type": "string", "format": "date-time" },
-    "source": { "type": "string", "format": "uri" },
-    "license": { "type": "string" },
-    "count": { "type": "integer", "minimum": 0 },
-    "jobs": { "type": "array", "items": { "$ref": "#/$defs/job" } }
+    "api_version": {
+      "const": 1
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "string",
+      "format": "uri"
+    },
+    "license": {
+      "type": "string"
+    },
+    "count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "jobs": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/job"
+      }
+    }
   },
   "$defs": {
     "job": {
       "type": "object",
       "required": [
-        "uid", "company_slug", "company_name", "company_tier", "source",
-        "title", "apply_url", "locations", "track", "degree", "sponsorship",
-        "first_seen", "last_verified", "active"
+        "uid",
+        "company_slug",
+        "company_name",
+        "company_tier",
+        "source",
+        "title",
+        "apply_url",
+        "locations",
+        "track",
+        "degree",
+        "sponsorship",
+        "first_seen",
+        "last_verified",
+        "active"
       ],
       "properties": {
-        "uid": { "type": "string", "pattern": "^[0-9a-f]{16}$" },
-        "company_slug": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
-        "company_name": { "type": "string", "minLength": 1 },
-        "company_tier": { "type": "integer", "enum": [0, 1, 2] },
+        "uid": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{16}$"
+        },
+        "company_slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
+        "company_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "company_tier": {
+          "type": "integer",
+          "enum": [
+            0,
+            1,
+            2
+          ]
+        },
         "company_category": {
           "type": "string",
-          "enum": ["ai-lab", "big-tech", "quant", "infra", "dev-tools", "fintech", "consumer", "robotics", "security", "bio"]
+          "enum": [
+            "ai-lab",
+            "big-tech",
+            "quant",
+            "infra",
+            "dev-tools",
+            "fintech",
+            "consumer",
+            "robotics",
+            "security",
+            "bio"
+          ]
         },
-        "source": { "type": "string", "enum": ["greenhouse", "ashby", "lever", "workday", "amazon", "eightfold"] },
-        "title": { "type": "string", "minLength": 1 },
-        "apply_url": { "type": "string", "format": "uri" },
-        "locations": { "type": "array", "items": { "type": "string" } },
-        "track": { "type": "string", "enum": ["new-grad-swe", "ai-research", "quant", "internship", "other"] },
-        "degree": { "type": "string", "enum": ["bachelors", "masters-preferred", "phd-required", "unspecified"] },
+        "source": {
+          "type": "string",
+          "enum": [
+            "greenhouse",
+            "ashby",
+            "lever",
+            "workday",
+            "amazon",
+            "eightfold"
+          ]
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "apply_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "locations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "track": {
+          "type": "string",
+          "enum": [
+            "new-grad-swe",
+            "ai-research",
+            "quant",
+            "internship",
+            "other"
+          ]
+        },
+        "degree": {
+          "type": "string",
+          "enum": [
+            "bachelors",
+            "masters-preferred",
+            "phd-required",
+            "unspecified"
+          ]
+        },
         "sponsorship": {
           "type": "string",
-          "enum": ["sponsors", "no-sponsorship", "citizenship-required", "security-clearance", "unknown"],
+          "enum": [
+            "sponsors",
+            "no-sponsorship",
+            "citizenship-required",
+            "security-clearance",
+            "unknown"
+          ],
           "description": "Resolved from the posting text. 'unknown' means the posting was silent - it is never a default for unparsed rows."
         },
         "first_seen": {
-          "type": "string", "format": "date",
+          "type": "string",
+          "format": "date",
           "description": "Date we first observed this posting. Written once, never overwritten by a re-scrape."
         },
-        "last_verified": { "type": "string", "format": "date" },
-        "posted_at": { "type": ["string", "null"], "format": "date" },
-        "closed_at": { "type": ["string", "null"], "format": "date" },
-        "season": { "type": ["string", "null"] },
+        "last_verified": {
+          "type": "string",
+          "format": "date"
+        },
+        "posted_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "closed_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "season": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
         "compensation": {
-          "type": ["object", "null"],
+          "type": [
+            "object",
+            "null"
+          ],
           "properties": {
-            "min": { "type": ["number", "null"] },
-            "max": { "type": ["number", "null"] },
-            "currency": { "type": "string" },
-            "interval": { "type": ["string", "null"] },
-            "source": { "type": "string" }
+            "min": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "max": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "currency": {
+              "type": "string"
+            },
+            "interval": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "source": {
+              "type": "string"
+            }
           }
         },
-        "department": { "type": ["string", "null"] },
-        "active": { "type": "boolean" }
+        "department": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "active": {
+          "type": "boolean"
+        },
+        "link_status": {
+          "type": "string",
+          "enum": [
+            "ok",
+            "dead",
+            "closed",
+            "blocked",
+            "error",
+            "unchecked"
+          ],
+          "description": "Result of probing apply_url on the last refresh. Only 'dead' and 'closed' hide a row from the boards; 'blocked' means a bot wall refused us and is not evidence about the posting."
+        }
       }
     }
   }

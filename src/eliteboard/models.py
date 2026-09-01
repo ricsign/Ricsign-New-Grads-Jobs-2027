@@ -112,6 +112,10 @@ class Job:
     compensation: dict[str, Any] | None = None
     department: str | None = None
     active: bool = True
+    #: Result of probing apply_url on the last refresh: ok | dead | closed |
+    #: blocked | error | unchecked. Only "dead" and "closed" hide a row; a bot
+    #: wall or a timeout is not evidence that a posting is gone.
+    link_status: str = "unchecked"
 
     @property
     def age_days(self) -> int:

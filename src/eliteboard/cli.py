@@ -20,7 +20,7 @@ def _setup_logging(verbose: bool) -> None:
 
 
 def cmd_refresh(args) -> int:
-    result = pipeline.run(workers=args.workers)
+    result = pipeline.run(workers=args.workers, check_links=not args.no_verify)
     written = pipeline.write_outputs(result)
 
     report = result.report
@@ -33,6 +33,15 @@ def cmd_refresh(args) -> int:
         print(f"  boards empty      {len(report.empty)}")
         print(f"  boards failed     {len(report.failed)}")
         print(f"  postings fetched  {len(report.postings)}")
+    if result.link_health:
+        lh = result.link_health
+        hidden = sum(1 for j in result.jobs if j.link_status in ("dead", "closed"))
+        print(f"  links checked     {lh.get('checked', 0)}")
+        print(f"    resolving       {lh.get('ok', 0)}  ({lh.get('resolving_pct', 0)}% of conclusive)")
+        print(f"    dead (404/410)  {lh.get('dead', 0)}")
+        print(f"    closed (soft)   {lh.get('closed', 0)}")
+        print(f"    bot-blocked     {lh.get('blocked', 0)}   (kept - not a verdict)")
+        print(f"  rows hidden       {hidden}")
     print(f"{'=' * 64}")
     if result.rejections:
         print("  filtered out:")
@@ -90,6 +99,11 @@ def main(argv: list[str] | None = None) -> int:
 
     refresh = sub.add_parser("refresh", help="fetch every board and rewrite all outputs")
     refresh.add_argument("--workers", type=int, default=12)
+    refresh.add_argument(
+        "--no-verify",
+        action="store_true",
+        help="skip probing apply links (faster; used for local iteration only)",
+    )
     refresh.set_defaults(func=cmd_refresh)
 
     sub.add_parser("validate", help="validate the registry and published data").set_defaults(
