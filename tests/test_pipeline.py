@@ -213,3 +213,31 @@ class TestResearchBoardIsACrossCuttingView:
         job = _job(uid="r6", title="Research Scientist Intern", track=Track.INTERNSHIP)
         assert job in render.select_for_board(Track.INTERNSHIP, [job])
         assert job in render.select_for_board(Track.AI_RESEARCH, [job])
+
+
+class TestTitleTruncation:
+    """Amazon ships 200-character titles that enumerate every sub-team."""
+
+    LONG = (
+        "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, "
+        "Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, "
+        "Computer Vision, Machine Learning, Controls, and more)"
+    )
+
+    def test_long_titles_are_truncated_on_a_word_boundary(self):
+        out = render._title(self.LONG)
+        assert len(out) <= render.MAX_TITLE + 1
+        assert out.endswith("\u2026")
+        assert not out.endswith(" \u2026")
+
+    def test_short_titles_are_untouched(self):
+        assert render._title("Research Engineer, Residency") == "Research Engineer, Residency"
+
+    def test_truncation_still_escapes_pipes(self):
+        assert "\\|" in render._title("A" * 80 + " | infra")
+
+    def test_board_row_stays_a_single_table_row(self):
+        job = _job(title=self.LONG, track=Track.INTERNSHIP)
+        md = render.render_board(Track.INTERNSHIP, [job], today=TODAY)
+        row = [ln for ln in md.splitlines() if ln.startswith("| **Anthropic**")]
+        assert len(row) == 1 and row[0].count("|") == 8
