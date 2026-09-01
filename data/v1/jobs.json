@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-01T04:23:05+00:00",
+ "generated_at": "2026-09-01T04:30:44+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 301,
+ "count": 266,
  "jobs": [
   {
    "uid": "0a05645c70a3a172",
@@ -113,8 +113,7 @@
    "title": "Software Engineering Intern (2027 Start) - Winter",
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
    "locations": [
-    "Bellevue, Washington; Mountain View, California; San Francisco, California",
-    "Mountain View, California"
+    "Bellevue, Washington; Mountain View, California; San Francisco, California"
    ],
    "track": "internship",
    "degree": "unspecified",
@@ -126,30 +125,6 @@
    "season": "Fall 2027",
    "compensation": null,
    "department": "University Recruiting",
-   "active": true
-  },
-  {
-   "uid": "fbabdfeaa80e55b6",
-   "company_slug": "figure-ai",
-   "company_name": "Figure AI",
-   "company_tier": 0,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Electrical Engineering Intern [Fall 2026]",
-   "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-04-25",
-   "closed_at": null,
-   "season": "Fall 2026",
-   "compensation": null,
-   "department": "Internships",
    "active": true
   },
   {
@@ -580,11 +555,10 @@
    "title": "Hardware Engineer Intern, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -605,8 +579,7 @@
    "title": "Junior Quantitative Developer & Strategist",
    "apply_url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "quant",
    "degree": "masters-preferred",
@@ -630,8 +603,7 @@
    "title": "Junior Quantitative Researcher",
    "apply_url": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "quant",
    "degree": "masters-preferred",
@@ -679,11 +651,10 @@
    "title": "Platform Engineer Intern, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -704,11 +675,10 @@
    "title": "Quantitative Development & Strategy Intern, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -729,11 +699,10 @@
    "title": "Quantitative Research Intern, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -754,11 +723,10 @@
    "title": "Software Engineer (Entry-Level) - C++",
    "apply_url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "quant",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -779,11 +747,10 @@
    "title": "Software Engineer (Entry-Level) - Python",
    "apply_url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "quant",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -804,11 +771,10 @@
    "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -829,11 +795,10 @@
    "title": "Software Engineer Intern - C++, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -854,11 +819,10 @@
    "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -879,11 +843,10 @@
    "title": "Software Engineer Intern - Python, Summer 2027",
    "apply_url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -1039,33 +1002,6 @@
    "active": true
   },
   {
-   "uid": "4534d2944205622f",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2026 Early Career Electrical Engineer",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007",
-   "locations": [
-    "Costa Mesa, California, United States; Fort Collins, Colorado, United States",
-    "Atlanta, GA (ATL-01)",
-    "Costa Mesa, CA (OC-00)",
-    "Fort Collins, CO (CO-13)"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2025-08-11",
-   "closed_at": null,
-   "season": "2026",
-   "compensation": null,
-   "department": "Hardware Platform : Hardware Engineering Services",
-   "active": true
-  },
-  {
    "uid": "f405154294b54093",
    "company_slug": "anduril",
    "company_name": "Anduril Industries",
@@ -1075,8 +1011,7 @@
    "title": "2026 Early Career Flight Test Engineer, Mission Autonomy",
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007",
    "locations": [
-    "Costa Mesa, California, United States",
-    "Costa Mesa, CA (OC-00)"
+    "Costa Mesa, California, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -1091,59 +1026,6 @@
    "active": true
   },
   {
-   "uid": "2a2ff1c4d9b9cb0b",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2026 Early Career Manufacturing Engineer",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007",
-   "locations": [
-    "Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States",
-    "Costa Mesa, CA (OC-00)",
-    "Irvine, CA (OC-62)",
-    "Santa Ana, CA (OC-21)"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-07-02",
-   "closed_at": null,
-   "season": "2026",
-   "compensation": null,
-   "department": "Manufacturing",
-   "active": true
-  },
-  {
-   "uid": "767318b3572f0806",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2026 Early Career Mechanical Engineer",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007",
-   "locations": [
-    "Costa Mesa, California, United States",
-    "Atlanta, GA (ATL-01)",
-    "Costa Mesa, CA (OC-00)"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2025-08-11",
-   "closed_at": null,
-   "season": "2026",
-   "compensation": null,
-   "department": "Hardware Platform : Core Technology Products ",
-   "active": true
-  },
-  {
    "uid": "b7aef66d3912ec95",
    "company_slug": "anduril",
    "company_name": "Anduril Industries",
@@ -1154,7 +1036,6 @@
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007",
    "locations": [
     "Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States",
-    "Atlanta, GA (ATL-01)",
     "Boston, MA (BOS-01)",
     "Broomfield, CO (CO-02)",
     "Colorado Springs, CO (CO-21)",
@@ -1185,8 +1066,7 @@
    "title": "2026 Early Career Test & Evaluation Systems Integrator",
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007",
    "locations": [
-    "Costa Mesa, California, United States",
-    "Costa Mesa, CA (OC-00)"
+    "Costa Mesa, California, United States"
    ],
    "track": "new-grad-swe",
    "degree": "unspecified",
@@ -1201,107 +1081,6 @@
    "active": true
   },
   {
-   "uid": "ef735787036d4127",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Early Career Electrical Engineer",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007",
-   "locations": [
-    "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-    "Atlanta, GA (ATL-01)",
-    "Boston, MA (BOS-01)",
-    "Broomfield, CO (CO-02)",
-    "Colorado Springs, CO (CO-21)",
-    "Costa Mesa, CA (OC-00)",
-    "Fort Collins, CO (CO-11)",
-    "Huntsville, AL (HSV-01)",
-    "Irvine, CA (OC-62)",
-    "Reston, VA (NOVA-01)",
-    "Seattle, WA (SEA-01)"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-05-13",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Hardware Platform : Hardware Engineering Services",
-   "active": true
-  },
-  {
-   "uid": "a636da2e8bcd0263",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Early Career Manufacturing Engineer",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007",
-   "locations": [
-    "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
-    "Ashville, OH (Arsenal 1)",
-    "Atlanta, GA (ATL-01)",
-    "Boston, MA (BOS-01)",
-    "Broomfield, CO (CO-02)",
-    "Colorado Springs, CO (CO-21)",
-    "Costa Mesa, CA (OC-00)",
-    "Fort Collins, CO (CO-11)",
-    "Irvine, CA (OC-62)",
-    "Seattle, WA (SEA-01)"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-05-13",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Manufacturing : Manufacturing Engineering",
-   "active": true
-  },
-  {
-   "uid": "e17aadea411fd2bd",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Early Career Mechanical Engineer",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5136984007?gh_jid=5136984007",
-   "locations": [
-    "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-    "Atlanta, GA (ATL-01)",
-    "Boston, MA (BOS-01)",
-    "Broomfield, CO (CO-02)",
-    "Colorado Springs, CO (CO-21)",
-    "Costa Mesa, CA (OC-00)",
-    "Fort Collins, CO (CO-11)",
-    "Huntsville, AL (HSV-01)",
-    "Irvine, CA (OC-62)",
-    "Reston, VA (NOVA-01)",
-    "Seattle, WA (SEA-01)"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-06-11",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Hardware Platform : Core Technology Products ",
-   "active": true
-  },
-  {
    "uid": "e97acca379fa02ba",
    "company_slug": "anduril",
    "company_name": "Anduril Industries",
@@ -1312,7 +1091,6 @@
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007",
    "locations": [
     "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-    "Atlanta, GA (ATL-01)",
     "Boston, MA (BOS-01)",
     "Broomfield, CO (CO-02)",
     "Colorado Springs, CO (CO-21)",
@@ -1335,107 +1113,6 @@
    "active": true
   },
   {
-   "uid": "d9795a07ee437507",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Electrical Engineer Intern",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
-   "locations": [
-    "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-    "Atlanta, GA (ATL-01)",
-    "Boston, MA (BOS-01)",
-    "Broomfield, CO (CO-02)",
-    "Colorado Springs, CO (CO-21)",
-    "Costa Mesa, CA (OC-00)",
-    "Fort Collins, CO (CO-11)",
-    "Huntsville, AL (HSV-01)",
-    "Irvine, CA (OC-62)",
-    "Reston, VA (NOVA-01)",
-    "Seattle, WA (SEA-01)"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-06-11",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Hardware Platform : Hardware Engineering Services",
-   "active": true
-  },
-  {
-   "uid": "39f244426477e103",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Manufacturing Engineer Intern",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007",
-   "locations": [
-    "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States",
-    "Ashville, OH (Arsenal 1)",
-    "Atlanta, GA (ATL-01)",
-    "Boston, MA (BOS-01)",
-    "Broomfield, CO (CO-02)",
-    "Colorado Springs, CO (CO-21)",
-    "Costa Mesa, CA (OC-00)",
-    "Fort Collins, CO (CO-11)",
-    "Irvine, CA (OC-62)",
-    "Seattle, WA (SEA-01)"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-06-11",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Manufacturing : Manufacturing Engineering",
-   "active": true
-  },
-  {
-   "uid": "3f1f25a6fc7e6677",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Mechanical Engineer Intern",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
-   "locations": [
-    "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-    "Atlanta, GA (ATL-01)",
-    "Boston, MA (BOS-01)",
-    "Broomfield, CO (CO-02)",
-    "Colorado Springs, CO (CO-21)",
-    "Costa Mesa, CA (OC-00)",
-    "Fort Collins, CO (CO-11)",
-    "Huntsville, AL (HSV-01)",
-    "Irvine, CA (OC-62)",
-    "Reston, VA (NOVA-01)",
-    "Seattle, WA (SEA-01)"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-06-11",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Hardware Platform : Core Technology Products ",
-   "active": true
-  },
-  {
    "uid": "a7bdf7188c645a25",
    "company_slug": "anduril",
    "company_name": "Anduril Industries",
@@ -1446,7 +1123,6 @@
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
    "locations": [
     "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
-    "Atlanta, GA (ATL-01)",
     "Boston, MA (BOS-01)",
     "Broomfield, CO (CO-02)",
     "Colorado Springs, CO (CO-21)",
@@ -1478,8 +1154,7 @@
    "title": "Mission Engineer, Air Dominance & Strike, Early Career",
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5174562007?gh_jid=5174562007",
    "locations": [
-    "Costa Mesa, California, United States",
-    "Costa Mesa, CA (OC-00)"
+    "Costa Mesa, California, United States"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -1536,7 +1211,7 @@
     "Sunnyvale"
    ],
    "track": "new-grad-swe",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -1596,7 +1271,7 @@
     "Sunnyvale"
    ],
    "track": "new-grad-swe",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -1957,7 +1632,7 @@
     "Sunnyvale, CA"
    ],
    "track": "new-grad-swe",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -1978,9 +1653,7 @@
    "title": "Associate Engineer - 2027 Start",
    "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
    "locations": [
-    "Chicago, IL; New York, NY",
-    "Chicago",
-    "New York"
+    "Chicago, IL; New York, NY"
    ],
    "track": "quant",
    "degree": "masters-preferred",
@@ -2004,8 +1677,7 @@
    "title": "Quant Trading Associate - 2027 Start",
    "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "quant",
    "degree": "masters-preferred",
@@ -2029,8 +1701,7 @@
    "title": "Quant Trading Internship - Summer 2027",
    "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
    "locations": [
-    "Chicago, Illinois, United States",
-    "Chicago"
+    "Chicago, Illinois, United States"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -2054,8 +1725,7 @@
    "title": "Software Engineering Internship - Summer 2027",
    "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
    "locations": [
-    "Chicago, Illinois, United States",
-    "Chicago"
+    "Chicago, Illinois, United States"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -2118,30 +1788,6 @@
    "active": true
   },
   {
-   "uid": "3d2928650d4f6fd4",
-   "company_slug": "cloudflare",
-   "company_name": "Cloudflare",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Systems Engineer - Global Resource Management (Data Residency)",
-   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8015230?gh_jid=8015230",
-   "locations": [
-    "Austin, TX"
-   ],
-   "track": "ai-research",
-   "degree": "unspecified",
-   "sponsorship": "no-sponsorship",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-07-01",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Engineering",
-   "active": true
-  },
-  {
    "uid": "c1d2661e1140e6a0",
    "company_slug": "drw",
    "company_name": "DRW",
@@ -2154,7 +1800,7 @@
     "Chicago"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -2175,8 +1821,7 @@
    "title": "Leadership Rotation Network Intern",
    "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7993195",
    "locations": [
-    "Chicago, IL",
-    "Chicago"
+    "Chicago, IL"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -2203,7 +1848,7 @@
     "Chicago"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -2224,9 +1869,7 @@
    "title": "Quantitative Research Intern",
    "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7818540",
    "locations": [
-    "Chicago, New York City",
-    "Chicago",
-    "New York City"
+    "Chicago, New York City"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -2250,11 +1893,10 @@
    "title": "Quantitative Trading Analyst Intern",
    "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7668776",
    "locations": [
-    "Chicago, Illinois",
-    "Chicago"
+    "Chicago, Illinois"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -2326,7 +1968,7 @@
     "Chicago"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -2347,9 +1989,7 @@
    "title": "Software Engineering Intern (Winter)",
    "apply_url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
    "locations": [
-    "Boston, Massachusetts, USA; New York, New York, USA",
-    "Boston",
-    "New York"
+    "Boston, Massachusetts, USA; New York, New York, USA"
    ],
    "track": "internship",
    "degree": "unspecified",
@@ -2470,7 +2110,6 @@
    "title": "Campus Full Time 2027 - Quantitative Trader",
    "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008",
    "locations": [
-    "New York",
     "New York City"
    ],
    "track": "quant",
@@ -2495,7 +2134,6 @@
    "title": "Campus Full Time 2027 - Software Developer",
    "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008",
    "locations": [
-    "New York",
     "New York City"
    ],
    "track": "quant",
@@ -2520,7 +2158,6 @@
    "title": "Campus Full Time 2027 - Trading Operations Engineer",
    "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4017982008",
    "locations": [
-    "New York",
     "New York City"
    ],
    "track": "quant",
@@ -2545,7 +2182,6 @@
    "title": "Recent Graduate - Trading Assistant (NYC)",
    "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008",
    "locations": [
-    "New York",
     "New York City"
    ],
    "track": "quant",
@@ -2570,7 +2206,6 @@
    "title": "Summer Intern 2027 - Quantitative Researcher (PhD)",
    "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008",
    "locations": [
-    "New York",
     "New York City"
    ],
    "track": "internship",
@@ -2595,7 +2230,6 @@
    "title": "Summer Intern 2027 - Quantitative Trader",
    "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008",
    "locations": [
-    "New York",
     "New York City"
    ],
    "track": "internship",
@@ -2620,7 +2254,6 @@
    "title": "Summer Intern 2027 - Software Developer",
    "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
    "locations": [
-    "New York",
     "New York City"
    ],
    "track": "internship",
@@ -2645,9 +2278,7 @@
    "title": "Quantitative Researcher – New Grad",
    "apply_url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
    "locations": [
-    "Chicago",
     "New York City",
-    "Remote - US",
     "US"
    ],
    "track": "quant",
@@ -2696,8 +2327,7 @@
    "title": "Hardware Engineer Intern - Summer 2027",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "internship",
    "degree": "unspecified",
@@ -2745,8 +2375,7 @@
    "title": "Machine Learning Research Intern - Summer 2027 - Chicago",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907430101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -2794,8 +2423,7 @@
    "title": "Performance Engineer Intern - Summer 2027",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "internship",
    "degree": "unspecified",
@@ -2819,8 +2447,7 @@
    "title": "Quantitative Research Intern (BS/MS) - Summer 2027",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907399101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -2844,8 +2471,7 @@
    "title": "Quantitative Research Intern (PhD) - Summer 2027",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -2869,8 +2495,7 @@
    "title": "Quantitative Trader Intern - Summer 2027",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823923101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "internship",
    "degree": "unspecified",
@@ -2894,8 +2519,7 @@
    "title": "Software Engineer Intern - Summer 2027",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "internship",
    "degree": "unspecified",
@@ -2919,8 +2543,7 @@
    "title": "Software Engineer, Early Career",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
    "locations": [
-    "Chicago, United States",
-    "Chicago"
+    "Chicago, United States"
    ],
    "track": "quant",
    "degree": "bachelors",
@@ -2969,7 +2592,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8052313",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "quant",
@@ -2995,7 +2617,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "internship",
@@ -3021,7 +2642,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "internship",
@@ -3047,7 +2667,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8052343",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "quant",
@@ -3073,7 +2692,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "internship",
@@ -3147,7 +2765,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8125888",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "quant",
@@ -3173,7 +2790,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8049938",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "internship",
@@ -3199,7 +2815,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7982648",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "internship",
@@ -3225,7 +2840,6 @@
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7848371",
    "locations": [
     "Chicago; New York",
-    "Chicago",
     "New York City"
    ],
    "track": "internship",
@@ -3370,7 +2984,6 @@
    "title": "Research Engineer, Pre-Training",
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7977686",
    "locations": [
-    "Chicago",
     "New York City"
    ],
    "track": "quant",
@@ -3395,7 +3008,6 @@
    "title": "Research Scientist/Research Engineer | Deep Learning",
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=6032511",
    "locations": [
-    "Chicago",
     "New York City"
    ],
    "track": "quant",
@@ -3420,7 +3032,6 @@
    "title": "Research Scientist/Research Engineer, Reinforcement Learning",
    "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8122860",
    "locations": [
-    "Chicago",
     "New York City"
    ],
    "track": "quant",
@@ -3742,8 +3353,7 @@
    "title": "Junior Quantitative Researcher (Ph.D.)",
    "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003",
    "locations": [
-    "Chicago, IL, United States",
-    "Chicago, IL"
+    "Chicago, IL, United States"
    ],
    "track": "quant",
    "degree": "phd-required",
@@ -3767,8 +3377,7 @@
    "title": "Junior Quantitative Trader (Asian Market Hours)",
    "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=7666119003",
    "locations": [
-    "Chicago, IL, United States",
-    "Chicago, IL"
+    "Chicago, IL, United States"
    ],
    "track": "quant",
    "degree": "unspecified",
@@ -3792,8 +3401,7 @@
    "title": "Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start)",
    "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=7814534003",
    "locations": [
-    "Chicago, IL, United States",
-    "Chicago, IL"
+    "Chicago, IL, United States"
    ],
    "track": "quant",
    "degree": "phd-required",
@@ -3865,8 +3473,7 @@
    "title": "Software Engineer – 2027 Graduate Program (August Start)",
    "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003",
    "locations": [
-    "Chicago, IL, United States",
-    "Chicago, IL"
+    "Chicago, IL, United States"
    ],
    "track": "quant",
    "degree": "masters-preferred",
@@ -3890,8 +3497,7 @@
    "title": "Software Engineer – 2027 Internship Program (June Start)",
    "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
    "locations": [
-    "Chicago, IL, United States",
-    "Chicago, IL"
+    "Chicago, IL, United States"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -3915,8 +3521,7 @@
    "title": "Research Engineer",
    "apply_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/5403145",
    "locations": [
-    "New York, NY",
-    "New York"
+    "New York, NY"
    ],
    "track": "quant",
    "degree": "unspecified",
@@ -3940,8 +3545,7 @@
    "title": "Summer 2027 Software Engineering Intern",
    "apply_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
    "locations": [
-    "New York, NY",
-    "New York"
+    "New York, NY"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -3965,8 +3569,7 @@
    "title": "Summer 2027 Systems Engineering Intern",
    "apply_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
    "locations": [
-    "New York, NY",
-    "New York"
+    "New York, NY"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -4410,30 +4013,6 @@
    "season": null,
    "compensation": null,
    "department": "Information Security",
-   "active": true
-  },
-  {
-   "uid": "be2595756f0f3975",
-   "company_slug": "palantir",
-   "company_name": "Palantir",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "lever",
-   "title": "Privacy & Civil Liberties Engineer - New Grad",
-   "apply_url": "https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90",
-   "locations": [
-    "New York, NY"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-06-25",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Engineering",
    "active": true
   },
   {
@@ -5142,7 +4721,6 @@
    "title": "Machine Learning Researcher - Intern",
    "apply_url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
    "locations": [
-    "New York",
     "New York, NY"
    ],
    "track": "internship",
@@ -5167,7 +4745,6 @@
    "title": "Quantitative Developer Intern",
    "apply_url": "https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002",
    "locations": [
-    "New York",
     "New York, NY"
    ],
    "track": "internship",
@@ -5217,11 +4794,10 @@
    "title": "Quantitative Research Intern (NLP)",
    "apply_url": "https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002",
    "locations": [
-    "New York",
     "New York, NY"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -5242,7 +4818,6 @@
    "title": "Quantitative Researcher Intern",
    "apply_url": "https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002",
    "locations": [
-    "New York",
     "New York, NY"
    ],
    "track": "internship",
@@ -5315,7 +4890,6 @@
    "title": "Summer 2027 Quantitative Research Internship",
    "apply_url": "https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002",
    "locations": [
-    "New York",
     "New York, NY"
    ],
    "track": "internship",
@@ -5340,7 +4914,6 @@
    "title": "Quantitative Technologist (C++ Intern)",
    "apply_url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
    "locations": [
-    "Chicago",
     "Radix Trading Chicago"
    ],
    "track": "internship",
@@ -5396,8 +4969,7 @@
    "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
    "apply_url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
    "locations": [
-    "San Mateo, CA, United States",
-    "San Mateo, CA"
+    "San Mateo, CA, United States"
    ],
    "track": "new-grad-swe",
    "degree": "phd-required",
@@ -5421,8 +4993,7 @@
    "title": "[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career",
    "apply_url": "https://careers.roblox.com/jobs/7350081?gh_jid=7350081",
    "locations": [
-    "San Mateo, CA, United States",
-    "San Mateo, CA"
+    "San Mateo, CA, United States"
    ],
    "track": "new-grad-swe",
    "degree": "phd-required",
@@ -5446,8 +5017,7 @@
    "title": "[2027] Software Engineer, Early Career",
    "apply_url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
    "locations": [
-    "San Mateo, CA, United States",
-    "San Mateo, CA"
+    "San Mateo, CA, United States"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -5471,8 +5041,7 @@
    "title": "[Summer 2027] Software Engineer Intern",
    "apply_url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
    "locations": [
-    "San Mateo, CA, United States",
-    "San Mateo, CA"
+    "San Mateo, CA, United States"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -5508,30 +5077,6 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Production Bastrop - Assembly & Packout",
-   "active": true
-  },
-  {
-   "uid": "09b63b3c4840d8af",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Civil/Structural (Starship)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8731991002?gh_jid=8731991002",
-   "locations": [
-    "Starbase, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-19",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Launch Mechanisms and Structures Engineering",
    "active": true
   },
   {
@@ -5631,54 +5176,6 @@
    "active": true
   },
   {
-   "uid": "afc1fb4b6f09e137",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Constellation Engineering",
-   "active": true
-  },
-  {
-   "uid": "55ab877a0638b1e8",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true
-  },
-  {
    "uid": "a0b83c293099f897",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -5700,246 +5197,6 @@
    "season": null,
    "compensation": null,
    "department": "Texas - Test Equipment Engineers",
-   "active": true
-  },
-  {
-   "uid": "4c6040ad7fce6e4f",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Manufacturing (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8752547002?gh_jid=8752547002",
-   "locations": [
-    "Hawthorne, CA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "security-clearance",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-28",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starshield Production",
-   "active": true
-  },
-  {
-   "uid": "6cbae5b61a685dc8",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Manufacturing (Starship)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8729120002?gh_jid=8729120002",
-   "locations": [
-    "Starbase, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-19",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Booster Structures Engineering",
-   "active": true
-  },
-  {
-   "uid": "1b682c28cbc3e549",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Mechanical",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8497524002?gh_jid=8497524002",
-   "locations": [
-    "McGregor, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-04-07",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Texas - Test Equipment Engineers",
-   "active": true
-  },
-  {
-   "uid": "b7145011552b5dec",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Mechanical (Cape Canaveral)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8622574002?gh_jid=8622574002",
-   "locations": [
-    "Cape Canaveral, FL"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-07-07",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Launch",
-   "active": true
-  },
-  {
-   "uid": "32decddfeaaa0c1b",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Mechanical (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8493166002?gh_jid=8493166002",
-   "locations": [
-    "Hawthorne, CA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "security-clearance",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-04-03",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starshield Satellite Engineering",
-   "active": true
-  },
-  {
-   "uid": "36401fd560343df7",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Mechanical (Starship)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8729117002?gh_jid=8729117002",
-   "locations": [
-    "Starbase, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-19",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Booster Structures Engineering",
-   "active": true
-  },
-  {
-   "uid": "5451e8d27f29ba47",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Satellite Bus Engineering",
-   "active": true
-  },
-  {
-   "uid": "c1b15e38efedbab9",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true
-  },
-  {
-   "uid": "1496e5df0a787109",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Propulsion (Raptor)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002",
-   "locations": [
-    "Hawthorne, CA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-04-28",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Raptor Combustion Devices - Engineering",
-   "active": true
-  },
-  {
-   "uid": "a9d8c5b217137428",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Propulsion (Starship)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8729085002?gh_jid=8729085002",
-   "locations": [
-    "Starbase, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-19",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Ship Prop Systems Engineering",
    "active": true
   },
   {
@@ -6266,32 +5523,6 @@
    "active": true
   },
   {
-   "uid": "31a468142362abed",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Spring 2027 Civil Engineering Internship",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
-   "locations": [
-    "Cape Canaveral, FL",
-    "Hawthorne, CA",
-    "Starbase, TX"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-03",
-   "closed_at": null,
-   "season": "Spring 2027",
-   "compensation": null,
-   "department": "Internships",
-   "active": true
-  },
-  {
    "uid": "71ff801efa539549",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6426,32 +5657,6 @@
    "active": true
   },
   {
-   "uid": "c9b2b747e5dba0eb",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Summer 2027 Civil Engineering Internship",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
-   "locations": [
-    "Cape Canaveral, FL",
-    "Hawthorne, CA",
-    "Starbase, TX"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-03",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Internships",
-   "active": true
-  },
-  {
    "uid": "d87197afef1d173e",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6579,54 +5784,6 @@
    "active": true
   },
   {
-   "uid": "0ca1eee27c1b7847",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Intern Quant Researcher",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
-   "locations": [
-    "New York"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2023-07-06",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Investment",
-   "active": true
-  },
-  {
-   "uid": "d6ba111a016c0f91",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Junior Credit Fundamental Research Analyst",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=8044880&gh_jid=8044880",
-   "locations": [
-    "New York"
-   ],
-   "track": "quant",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-07-03",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Investment",
-   "active": true
-  },
-  {
    "uid": "f0f2f0d4d1dae6df",
    "company_slug": "squarepoint",
    "company_name": "Squarepoint Capital",
@@ -6649,128 +5806,6 @@
    "season": null,
    "compensation": null,
    "department": "Investment",
-   "active": true
-  },
-  {
-   "uid": "66451b5f9e38cbf8",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Junior Platform Specialist",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=6099903&gh_jid=6099903",
-   "locations": [
-    "Houston"
-   ],
-   "track": "quant",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2024-08-08",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Technology",
-   "active": true
-  },
-  {
-   "uid": "e973001e468070c7",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Junior Quant Researcher",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376",
-   "locations": [
-    "Boston",
-    "New York"
-   ],
-   "track": "quant",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2019-04-03",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Investment",
-   "active": true
-  },
-  {
-   "uid": "12a5b0a8060456b3",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Junior Quant Researcher - ML Alpha Research",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464",
-   "locations": [
-    "Boston",
-    "New York"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2024-07-11",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Investment",
-   "active": true
-  },
-  {
-   "uid": "af8510d3a64c1099",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Junior SRE",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892",
-   "locations": [
-    "New York"
-   ],
-   "track": "quant",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-07-23",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Technology",
-   "active": true
-  },
-  {
-   "uid": "75a00c4c3ddc355d",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Trading Infrastructure Specialist – Graduate Programme",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
-   "locations": [
-    "New York"
-   ],
-   "track": "quant",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-05-05",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Technology",
    "active": true
   },
   {
@@ -6839,8 +5874,7 @@
    "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
    "locations": [
     "New York, Chicago",
-    "Chicago, IL",
-    "New York"
+    "Chicago, IL"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -6889,8 +5923,7 @@
    "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=8024128",
    "locations": [
     "New York, Chicago",
-    "Chicago, IL",
-    "New York"
+    "Chicago, IL"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -6939,7 +5972,6 @@
    "title": "2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8163364",
    "locations": [
-    "San Francisco",
     "San Francisco (US-SFO-MKT555)"
    ],
    "track": "internship",
@@ -7158,8 +6190,7 @@
    "title": "Automation Engineer I",
    "apply_url": "https://job-boards.greenhouse.io/flexport/jobs/8015840",
    "locations": [
-    "Atlanta, Georgia, United States",
-    "Atlanta"
+    "Atlanta, Georgia, United States"
    ],
    "track": "new-grad-swe",
    "degree": "unspecified",
@@ -7257,11 +6288,10 @@
    "title": "AI Engineer, Internship - Summer 2026 - Applications Open Now",
    "apply_url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
    "locations": [
-    "Berkeley, California, United States; San Francisco, California, United States",
-    "Berkeley, California"
+    "Berkeley, California, United States; San Francisco, California, United States"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
@@ -7370,30 +6400,6 @@
    "season": null,
    "compensation": null,
    "department": "Account Development Representative",
-   "active": true
-  },
-  {
-   "uid": "f8ef56eb9bdec8ce",
-   "company_slug": "samsara",
-   "company_name": "Samsara",
-   "company_tier": 2,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Electrical Engineering Co-Op",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
-   "locations": [
-    "San Francisco - SF9"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-31",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "STCE & Maintenance",
    "active": true
   },
   {
