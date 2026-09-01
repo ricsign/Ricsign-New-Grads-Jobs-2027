@@ -52,6 +52,33 @@ NEW_GRAD = re.compile(
 
 # The negative lookbehind matters: "Systems Engineer (Data Residency)" is a
 # distributed-systems role, and without it that posting lands on the PhD board.
+# Fellowships, residencies and named early-career programs are the single best
+# entry point into a frontier lab for a grad student - and they are invisible to
+# a keyword filter. "Anthropic Fellows Program" contains no technical word at
+# all, so all four of its live postings were being dropped as non-technical by
+# the very board that exists to surface them.
+PROGRAM = re.compile(
+    r"\b(fellows?\s+program|fellowship|(?<!data\s)(?<!tax\s)residency|"
+    r"scholars?\s+program|apprenticeship|early\s+career\s+program|"
+    r"rotational\s+program|graduate\s+program|campus\s+program|"
+    r"student\s+researcher|research\s+resident)\b",
+    re.I,
+)
+
+# Signals that a role is early-career even though its TITLE never says so.
+# Frontier labs almost never write "new grad" in a title; they write it in the
+# body. Requiring the marker in the title alone is why Anthropic, OpenAI, xAI,
+# Cursor and Scale all rendered zero roles on the first production run.
+EARLY_CAREER_BODY = re.compile(
+    r"\b(new\s+grad(?:uate)?s?|recent\s+grad(?:uate)?s?|recent\s+ph\.?\s?d\.?|"
+    r"graduating\s+(?:in\s+)?20(?:2[5-9])|expected\s+graduation|"
+    r"currently\s+(?:enrolled|pursuing)|final\s+year\s+(?:student|of)|"
+    r"0\s*[-\u2013to]+\s*2\s+years|"
+    r"entry[-\s]?level|early\s+in\s+(?:your|their)\s+career|"
+    r"no\s+prior\s+industry\s+experience|university\s+grad(?:uate)?s?)\b",
+    re.I,
+)
+
 RESEARCH = re.compile(
     r"\b(research\s+(?:scientist|engineer|intern|fellow)|member\s+of\s+technical\s+staff|"
     r"\bmts\b|applied\s+scientist|research\s+resident|(?<!data\s)(?<!tax\s)residency|"
@@ -188,20 +215,38 @@ SEASON = re.compile(
 YEAR = re.compile(r"\b(202[5-9])\b")
 
 
+def early_career_signal(posting: RawPosting) -> bool:
+    """True when the posting body marks it early-career even if the title does not."""
+    return bool(EARLY_CAREER_BODY.search(posting.description[:6000]))
+
+
 def classify_track(posting: RawPosting, company: Company) -> Track:
-    """Assign the board. Internship wins over everything - a PhD research
-    internship is an internship first, because that is how a student searches."""
+    """Assign the board.
+
+    Order is deliberate. Internship wins over everything - a PhD research
+    internship is an internship first, because that is how a student searches.
+    Named programs come next, because "Anthropic Fellows Program" carries no
+    other classifiable signal. Only then do we fall back to the body.
+    """
     title = posting.title
     haystack = f"{title} {posting.employment_type or ''}"
 
     if INTERN.search(haystack):
         return Track.INTERNSHIP
+    if PROGRAM.search(title):
+        if company.category == "quant":
+            return Track.QUANT
+        if company.category in {"ai-lab", "robotics"} or RESEARCH.search(title):
+            return Track.AI_RESEARCH
+        return Track.NEW_GRAD_SWE
     if company.category == "quant" or QUANT.search(title):
         return Track.QUANT
     if RESEARCH.search(title):
         return Track.AI_RESEARCH
     if NEW_GRAD.search(title):
         return Track.NEW_GRAD_SWE
+    if early_career_signal(posting):
+        return Track.AI_RESEARCH if RESEARCH.search(title) else Track.NEW_GRAD_SWE
     return Track.OTHER
 
 
@@ -290,12 +335,14 @@ def is_eligible(posting: RawPosting, company: Company) -> tuple[bool, str]:
         return False, "not a US location"
     if NON_TECH.search(title):
         return False, "non-technical role"
-    if not TECH.search(title):
+    if not TECH.search(title) and not PROGRAM.search(title):
         return False, "title is not a technical role"
     if NON_CS_DISCIPLINE.search(title) and not CS_CORE.search(title):
         return False, "non-CS engineering discipline"
 
-    early = bool(INTERN.search(title) or NEW_GRAD.search(title))
+    early = bool(
+        INTERN.search(title) or NEW_GRAD.search(title) or PROGRAM.search(title)
+    )
     if SENIOR.search(title) and not early:
         return False, "senior/experienced role"
 
@@ -305,9 +352,14 @@ def is_eligible(posting: RawPosting, company: Company) -> tuple[bool, str]:
 
     # Quant firms label almost everything "quant"; still require an early-career
     # or research marker so we do not import their entire lateral board.
-    if track is Track.QUANT and not (early or RESEARCH.search(title)):
+    if track is Track.QUANT and not (early or RESEARCH.search(title) or early_career_signal(posting)):
         return False, "quant role without early-career marker"
-    if track is Track.AI_RESEARCH and not early and not _research_is_entry(posting):
+    if (
+        track is Track.AI_RESEARCH
+        and not early
+        and not _research_is_entry(posting)
+        and not early_career_signal(posting)
+    ):
         return False, "research role without early-career marker"
     return True, "ok"
 

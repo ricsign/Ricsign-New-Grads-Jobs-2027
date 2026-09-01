@@ -13,7 +13,7 @@ from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
 
-from . import classify, render
+from . import classify, render, verify
 from .fetch import RefreshReport, fetch_all
 from .models import Job, RawPosting
 from .registry import REPO_ROOT, Company, by_slug, load_registry
@@ -28,6 +28,9 @@ BOARDS_DIR = REPO_ROOT / "boards"
 CHANGELOG = REPO_ROOT / "CHANGELOG.md"
 
 
+MAX_REJECTION_SAMPLES = 12
+
+
 @dataclass(slots=True)
 class PipelineResult:
     jobs: list[Job]
@@ -35,6 +38,13 @@ class PipelineResult:
     report: RefreshReport | None = None
     newly_added: list[Job] = field(default_factory=list)
     newly_closed: list[str] = field(default_factory=list)
+    link_health: dict = field(default_factory=dict)
+    #: slug -> {"fetched": n, "published": m}. Lets a reader audit, per company,
+    #: whether a zero-role board was empty upstream or filtered out by us.
+    per_company: dict[str, dict[str, int]] = field(default_factory=dict)
+    #: reason -> sample of dropped titles, so recall loss is inspectable rather
+    #: than merely counted.
+    rejection_samples: dict[str, list[str]] = field(default_factory=dict)
 
 
 def _dedupe(postings: list[RawPosting]) -> list[RawPosting]:
@@ -68,9 +78,11 @@ def build_jobs(
     store: StateStore,
     *,
     today: date,
-) -> tuple[list[Job], Counter]:
+) -> tuple[list[Job], Counter, dict[str, dict[str, int]], dict[str, list[str]]]:
     rejections: Counter = Counter()
     jobs: list[Job] = []
+    per_company: dict[str, dict[str, int]] = {}
+    samples: dict[str, list[str]] = {}
 
     for posting in _dedupe(postings):
         company = companies.get(posting.company_slug)
@@ -78,10 +90,18 @@ def build_jobs(
             rejections["unknown company"] += 1
             continue
 
+        stats = per_company.setdefault(posting.company_slug, {"fetched": 0, "published": 0})
+        stats["fetched"] += 1
+
         eligible, reason = classify.is_eligible(posting, company)
         if not eligible:
             rejections[reason] += 1
+            bucket = samples.setdefault(reason, [])
+            if len(bucket) < MAX_REJECTION_SAMPLES:
+                bucket.append(f"{company.name} — {posting.title}")
             continue
+
+        stats["published"] += 1
 
         lifecycle = store.observe(
             posting.uid,
@@ -111,10 +131,12 @@ def build_jobs(
                 active=True,
             )
         )
-    return jobs, rejections
+    return jobs, rejections, per_company, samples
 
 
-def run(*, today: date | None = None, workers: int = 12) -> PipelineResult:
+def run(
+    *, today: date | None = None, workers: int = 12, check_links: bool = True
+) -> PipelineResult:
     today = today or date.today()
     companies = load_registry()
     index = by_slug(companies)
@@ -123,7 +145,9 @@ def run(*, today: date | None = None, workers: int = 12) -> PipelineResult:
     store = StateStore(STATE_PATH)
     known_before = set(store.entries)
 
-    jobs, rejections = build_jobs(report.postings, index, store, today=today)
+    jobs, rejections, per_company, samples = build_jobs(
+        report.postings, index, store, today=today
+    )
 
     # Only companies whose fetch actually succeeded may cause closures.
     trusted = {r.company.slug for r in report.results if r.status in ("ok", "empty")}
@@ -140,6 +164,20 @@ def run(*, today: date | None = None, workers: int = 12) -> PipelineResult:
     store.prune(today=today)
     store.save()
 
+    # Verify that what we are about to publish still exists. This runs on every
+    # refresh, not only in the nightly checker, so a role that closed between
+    # cycles never reaches a board in the first place.
+    link_health: dict = {}
+    if check_links and jobs:
+        checks = verify.verify_links(jobs, workers=workers)
+        for job in jobs:
+            check = checks.get(job.uid)
+            if check:
+                job.link_status = check.status
+        link_health = verify.summarize(checks)
+        hidden = sum(1 for j in jobs if j.link_status in ("dead", "closed"))
+        log.info("link check: %s (%d rows hidden)", link_health, hidden)
+
     newly_added = [j for j in jobs if j.uid not in known_before]
     log.info(
         "pipeline: %d live · +%d new · -%d closed · %d rejected",
@@ -148,6 +186,8 @@ def run(*, today: date | None = None, workers: int = 12) -> PipelineResult:
     return PipelineResult(
         jobs=jobs, rejections=rejections, report=report,
         newly_added=newly_added, newly_closed=closed,
+        per_company=per_company, rejection_samples=samples,
+        link_health=link_health,
     )
 
 
@@ -166,6 +206,7 @@ def write_outputs(result: PipelineResult, *, today: date | None = None) -> list[
 
     health = result.report.to_dict() if result.report else {}
     health["rejections"] = dict(result.rejections.most_common())
+    health["link_check"] = result.link_health
 
     outputs = {
         API_DIR / "jobs.json": render.render_jobs_json(result.jobs, today=today),
@@ -178,6 +219,16 @@ def write_outputs(result: PipelineResult, *, today: date | None = None) -> list[
     for path, body in outputs.items():
         path.write_text(body, encoding="utf-8")
         written.append(path)
+
+    companies = load_registry()
+    (REPO_ROOT / "COVERAGE.md").write_text(
+        render.render_coverage(companies, result, today=today), encoding="utf-8"
+    )
+    written.append(REPO_ROOT / "COVERAGE.md")
+    (API_DIR / "coverage.json").write_text(
+        render.render_coverage_json(companies, result, today=today), encoding="utf-8"
+    )
+    written.append(API_DIR / "coverage.json")
 
     entry = render.render_changelog_entry(
         today=today,

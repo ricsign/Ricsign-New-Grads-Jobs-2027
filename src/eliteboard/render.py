@@ -173,6 +173,11 @@ RESEARCH_TITLE = re.compile(
 )
 
 
+#: Statuses that are positive evidence a posting is gone. Everything else -
+#: bot walls, timeouts - tells us nothing and must not remove a row.
+HIDDEN_LINK_STATUS = {"dead", "closed"}
+
+
 def select_for_board(track: Track, jobs: list[Job]) -> list[Job]:
     """Choose which roles belong on a board.
 
@@ -184,7 +189,7 @@ def select_for_board(track: Track, jobs: list[Job]) -> list[Job]:
     PhD-required role sat elsewhere. A PhD student searches by research content,
     not by employment type, so those roles appear on both.
     """
-    live = [j for j in jobs if j.active]
+    live = [j for j in jobs if j.active and j.link_status not in HIDDEN_LINK_STATUS]
     if track is not Track.AI_RESEARCH:
         return [j for j in live if j.track is track]
     return [
@@ -324,6 +329,13 @@ def render_stats(jobs: list[Job], *, today: date, freshness: dict, health: dict)
             / max(len(live), 1),
             1,
         ),
+        "link_verified_pct": round(
+            100 * sum(1 for j in live if j.link_status == "ok") / max(len(live), 1), 1
+        ),
+        "by_link_status": {
+            status: sum(1 for j in live if j.link_status == status)
+            for status in ("ok", "blocked", "error", "dead", "closed", "unchecked")
+        },
         "freshness": freshness,
         "pipeline_health": health,
     }
@@ -384,3 +396,126 @@ def render_changelog_entry(
         lines.append("- _No new roles today._")
     lines.append("")
     return "\n".join(lines)
+
+
+# --------------------------------------------------------------------------
+# coverage
+# --------------------------------------------------------------------------
+def _coverage_rows(companies, result):
+    """Per-company outcome, joined against the registry and the fetch report."""
+    status_by_slug = {}
+    if result.report:
+        status_by_slug = {r.company.slug: r for r in result.report.results}
+
+    rows = []
+    for company in companies:
+        fetched = result.per_company.get(company.slug, {}).get("fetched", 0)
+        published = result.per_company.get(company.slug, {}).get("published", 0)
+        fetch_result = status_by_slug.get(company.slug)
+
+        if not company.is_fetchable:
+            status = "link-only"
+        elif fetch_result is None:
+            status = "not attempted"
+        elif fetch_result.status == "error":
+            status = "FETCH FAILED"
+        elif fetched == 0:
+            status = "board empty"
+        elif published == 0:
+            status = "none matched"
+        else:
+            status = "ok"
+        rows.append((company, fetched, published, status))
+    return rows
+
+
+def render_coverage(companies, result, *, today: date) -> str:
+    """A per-company audit of what we fetched versus what we published.
+
+    This exists because "48 companies have roles" invites the obvious question
+    about the other 97, and a job board that cannot answer it is asking to be
+    trusted rather than earning it. Every company is listed with its raw fetch
+    count, so a zero is visibly either "their board is empty", "nothing cleared
+    our early-career bar", or "our adapter broke" - three very different facts.
+    """
+    rows = _coverage_rows(companies, result)
+    total_fetched = sum(r[1] for r in rows)
+    total_published = sum(r[2] for r in rows)
+    failed = [r for r in rows if r[3] == "FETCH FAILED"]
+    none_matched = [r for r in rows if r[3] == "none matched"]
+    empty = [r for r in rows if r[3] == "board empty"]
+
+    lines = [
+        "# Coverage",
+        "",
+        f"Generated {today.isoformat()} · [live JSON](data/v1/coverage.json)",
+        "",
+        "Every company in the registry, with what we actually pulled from its board.",
+        "A zero in **Published** is not automatically a gap — it may mean the company",
+        "has no early-career roles open right now, which is itself worth knowing.",
+        "",
+        "| | |",
+        "|:--|--:|",
+        f"| Companies in registry | {len(rows)} |",
+        f"| Postings fetched | {total_fetched:,} |",
+        f"| Postings published | {total_published:,} |",
+        f"| Boards that failed to fetch | **{len(failed)}** |",
+        f"| Boards live but with nothing early-career | {len(none_matched)} |",
+        f"| Boards returning nothing at all | {len(empty)} |",
+        "",
+    ]
+
+    if failed:
+        lines += [
+            "## ⚠ Adapters that failed",
+            "",
+            "These are our bugs, not empty boards. Each one is lost coverage.",
+            "",
+            "| Company | ATS | Token |",
+            "|:--|:--|:--|",
+        ]
+        lines += [
+            f"| {c.name} | {c.ats} | `{c.token}` |" for c, _, _, _ in failed
+        ]
+        lines.append("")
+
+    lines += [
+        "## Every company",
+        "",
+        "| Company | Tier | Board | Fetched | Published | Status |",
+        "|:--|:-:|:--|--:|--:|:--|",
+    ]
+    for company, fetched, published, status in sorted(
+        rows, key=lambda r: (r[0].tier, -r[2], r[0].name)
+    ):
+        board = f"`{company.ats}:{company.token}`" if company.is_fetchable else "—"
+        mark = {"ok": "✅", "FETCH FAILED": "⚠️", "link-only": "🔗"}.get(status, "○")
+        lines.append(
+            f"| [{_escape(company.name)}]({company.careers_url}) | {company.tier} | {board} "
+            f"| {fetched or '—'} | {published or '—'} | {mark} {status} |"
+        )
+    lines += ["", "---", "", f"[Back to the boards]({REPO_URL}#boards)", ""]
+    return "\n".join(lines)
+
+
+def render_coverage_json(companies, result, *, today: date) -> str:
+    rows = _coverage_rows(companies, result)
+    payload = {
+        "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
+        "companies": [
+            {
+                "slug": c.slug,
+                "name": c.name,
+                "tier": c.tier,
+                "ats": c.ats,
+                "token": c.token,
+                "fetched": fetched,
+                "published": published,
+                "status": status,
+            }
+            for c, fetched, published, status in rows
+        ],
+        "rejections": dict(result.rejections.most_common()),
+        "rejection_samples": result.rejection_samples,
+    }
+    return json.dumps(payload, indent=1, ensure_ascii=False) + "\n"
