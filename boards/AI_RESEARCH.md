@@ -20,13 +20,13 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 
 | Company | Role | Location | Comp | Flags | Age | Apply |
 |:--|:--|:--|:--|:-:|--:|:-:|
-| **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Spring 2028_ | Greenwich, CT | — | ·📗 | today | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
+| **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | today | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | **AQR Capital** | 2027 Research Product Specialist Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | today | [apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
-| **AQR Capital** | 2027 Research Summer Analyst · _Spring 2028_ | Greenwich, CT | — | ·📗 | today | [apply](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) |
+| **AQR Capital** | 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | today | [apply](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) |
 | **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
 | **Akuna Capital** | Quantitative Research Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
-| **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) · _2026_ | North Reading, Massachusetts, USA | — | · | today | [apply](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) |
-| **Applied Intuition** | Research Engineer - New Grad (2027) · _Summer 2027_ | Sunnyvale | $140k–$200k | ·🎓 | today | [apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application) |
+| **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation… · _2026_ | North Reading, Massachusetts, USA | — | · | today | [apply](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) |
+| **Applied Intuition** | Research Engineer - New Grad (2027) · _2027_ | Sunnyvale | $140k–$200k | ·🎓 | today | [apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application) |
 | **Applied Intuition** | Research Intern - 3D Vision and Generation, Self-Driving | Sunnyvale | $65/hr | · | today | [apply](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application) |
 | **Applied Intuition** | Research Intern - Reinforcement Learning, Robotics | Sunnyvale | $65/hr | · | today | [apply](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application) |
 | **Cloudflare** | Research Engineer Intern (Fall 2026) · _Fall 2026_ | Austin, TX | — | 🛂 | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
@@ -50,7 +50,7 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | today | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
 | **Point72 / Cubist** | Machine Learning Researcher - Intern | New York, NY | — | · | today | [apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
 | **Point72 / Cubist** | Quantitative Research Intern | New York, Seattle, New York, NY | — | ·📗 | today | [apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
 | **Roblox** | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | New York | — | ·🎓 | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) |
@@ -62,4 +62,4 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 
 ---
 
-Generated 2026-09-01 04:30 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 04:34 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

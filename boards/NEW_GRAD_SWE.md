@@ -23,7 +23,7 @@ Full-time entry-level software engineering roles in the US.
 | **Anduril Industries** | 2026 Early Career Software Engineer · _2026_ | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States, Boston, MA (BOS-01) +6 | — | 🇺🇸📗 | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007) |
 | **Anduril Industries** | 2026 Early Career Test & Evaluation Systems Integrator · _2026_ | Costa Mesa, California, United States | — | · | today | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007) |
 | **Applied Intuition** | Build & Release Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $90k–$115k | · | today | [apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352/application) |
-| **Applied Intuition** | Embedded Software Engineer - New Grad (2027) · _Summer 2027_ | Sunnyvale | $123k–$168k | ·📗 | today | [apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application) |
+| **Applied Intuition** | Embedded Software Engineer - New Grad (2027) · _2027_ | Sunnyvale | $123k–$168k | ·📗 | today | [apply](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44/application) |
 | **Applied Intuition** | Embedded Test Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $90k–$115k | ·📗 | today | [apply](https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c/application) |
 | **Cerebras** | Kernel Engineer - New Grad | Sunnyvale, CA | — | ·📗 | today | [apply](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application) |
 | **LangChain** | Deployed Engineer (Early Career- SF) | San Francisco, CA | — | · | today | [apply](https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522/application) |
@@ -34,7 +34,7 @@ Full-time entry-level software engineering roles in the US.
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Palo Alto, CA | — | · | today | [apply](https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0) |
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Washington, D.C. | — | · | today | [apply](https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8) |
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government | Honolulu, HI | — | · | today | [apply](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
 | **Roblox** | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) |
 | **Roblox** | [2027] Software Engineer, Early Career · _2027_ | San Mateo, CA, United States | — | ·📗 | today | [apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
 | **SpaceX** | Campus Infrastructure Project Manager | Bastrop, TX | — | 🇺🇸📗 | today | [apply](https://boards.greenhouse.io/spacex/jobs/8488317002?gh_jid=8488317002) |
@@ -57,4 +57,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-01 04:30 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 04:34 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

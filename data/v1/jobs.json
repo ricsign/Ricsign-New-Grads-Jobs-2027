@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-01T04:30:44+00:00",
+ "generated_at": "2026-09-01T04:34:34+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 266,
@@ -122,7 +122,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-20",
    "closed_at": null,
-   "season": "Fall 2027",
+   "season": "Winter 2027",
    "compensation": null,
    "department": "University Recruiting",
    "active": true
@@ -420,7 +420,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-11",
    "closed_at": null,
-   "season": "Spring 2028",
+   "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
    "active": true
@@ -468,7 +468,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-05-15",
    "closed_at": null,
-   "season": "Spring 2028",
+   "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
    "active": true
@@ -1139,7 +1139,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-06-10",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
    "department": "Software",
    "active": true
@@ -1217,7 +1217,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-14",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": {
     "min": 123000,
     "max": 168000,
@@ -1337,7 +1337,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-14",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": {
     "min": 140000,
     "max": 200000,
@@ -1517,7 +1517,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-14",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": {
     "min": 90000,
     "max": 115000,
@@ -1548,7 +1548,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-14",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2026",
    "compensation": {
     "min": 123000,
     "max": 158000,
@@ -1578,7 +1578,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-14",
    "closed_at": null,
-   "season": "Spring 2027",
+   "season": "2027",
    "compensation": {
     "min": 123000,
     "max": 158000,
@@ -6494,7 +6494,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-25",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true
@@ -6518,7 +6518,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-25",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true
@@ -6542,7 +6542,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-25",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true
@@ -6566,7 +6566,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-25",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true
@@ -6590,7 +6590,7 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-25",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true
