@@ -201,7 +201,9 @@ def select_for_board(track: Track, jobs: list[Job]) -> list[Job]:
     ]
 
 
-def render_board(track: Track, jobs: list[Job], *, today: date) -> str:
+def render_board(
+    track: Track, jobs: list[Job], *, today: date, programs: list[dict] | None = None
+) -> str:
     filename, title, blurb = BOARDS[track]
     live = cap_per_company(select_for_board(track, jobs))
 
@@ -216,6 +218,9 @@ def render_board(track: Track, jobs: list[Job], *, today: date) -> str:
         LEGEND,
         "",
     ]
+
+    if track is Track.AI_RESEARCH and programs:
+        lines.append(render_programs_section(programs))
 
     by_tier: dict[int, list[Job]] = defaultdict(list)
     for job in live:
@@ -542,3 +547,53 @@ def render_coverage_json(companies, result, *, today: date) -> str:
         "zero_published_samples": result.zero_samples,
     }
     return json.dumps(payload, indent=1, ensure_ascii=False) + "\n"
+
+
+
+def render_programs_section(programs: list[dict]) -> str:
+    """Pinned block at the top of the research board.
+
+    These are the highest-value entry points into frontier research for a grad
+    student, and not one of them is a job requisition. Two carry gates you must
+    clear years ahead: the Google PhD Fellowship is university-nominated and
+    cannot be applied to directly, and the NVIDIA fellowship requires an NVIDIA
+    Research internship you must already have completed. People routinely learn
+    both facts too late, which is the entire reason this block exists.
+    """
+    if not programs:
+        return ""
+    lines = [
+        "## Programs that never appear on a job board",
+        "",
+        "Not requisitions — named programs with their own applications and calendars.",
+        "No scraper will ever surface these. Hand-verified; open an issue if one moves.",
+        "",
+        "| Program | What you get | Who it's for |",
+        "|:--|:--|:--|",
+    ]
+    for p in programs:
+        dormant = " _(dormant)_" if p.get("status") == "dormant" else ""
+        lines.append(
+            f"| **[{_escape(p['name'])}]({p['url']})**{dormant}<br><sub>{_escape(p['org'])}</sub> "
+            f"| {_escape(p.get('stipend', '—'))}<br><sub>{_escape(p.get('duration', ''))}</sub> "
+            f"| {_escape(p.get('eligibility', '—'))} |"
+        )
+    notes = [p for p in programs if p.get("note")]
+    if notes:
+        lines.append("")
+        for p in notes:
+            lines.append(f"- **{_escape(p['name'])}** — {_escape(p['note'])}")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def render_programs_json(programs: list[dict]) -> str:
+    return json.dumps(
+        {
+            "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
+            "count": len(programs),
+            "programs": programs,
+        },
+        indent=1,
+        ensure_ascii=False,
+    ) + "\n"

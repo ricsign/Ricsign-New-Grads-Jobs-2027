@@ -19,6 +19,7 @@ import yaml
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 REGISTRY_PATH = REPO_ROOT / "data" / "companies.yaml"
+PROGRAMS_PATH = REPO_ROOT / "data" / "programs.yaml"
 
 VALID_ATS = {"greenhouse", "ashby", "lever", "workday", "amazon", "eightfold", "none"}
 VALID_TIERS = {0, 1, 2}
@@ -151,3 +152,24 @@ def fetchable(companies: list[Company]) -> list[Company]:
 
 def by_slug(companies: list[Company]) -> dict[str, Company]:
     return {c.slug: c for c in companies}
+
+
+def load_programs(path: Path | None = None) -> list[dict[str, Any]]:
+    """Hand-curated research programs that have no ATS presence.
+
+    Kept deliberately separate from the company registry: these are not
+    requisitions, they cannot be scraped, and staleness here cannot be detected
+    automatically - which is why every entry carries a verified_at and a note.
+    """
+    path = path or PROGRAMS_PATH
+    if not path.exists():
+        return []
+    doc = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    programs = doc.get("programs", [])
+    for program in programs:
+        missing = {"name", "org", "url", "kind", "verified_at"} - program.keys()
+        if missing:
+            raise RegistryError(f"program {program.get('name')!r} missing {missing}")
+        if not program["url"].startswith("https://"):
+            raise RegistryError(f"program {program['name']!r} url must be https")
+    return programs

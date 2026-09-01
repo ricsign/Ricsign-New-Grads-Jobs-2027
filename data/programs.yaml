@@ -1,0 +1,83 @@
+# ============================================================================
+# PROGRAMS THAT NEVER APPEAR ON A JOB BOARD
+# ----------------------------------------------------------------------------
+# The highest-value entry points into frontier research are not requisitions.
+# They are named programs with their own application flows, their own calendars,
+# and — in two cases below — gates you must clear YEARS in advance. No scraper
+# will ever surface them, which is exactly why they belong here.
+#
+# Hand-curated and hand-verified. Every URL was fetched. `verified_at` is when.
+# If one of these changes, open an issue — this file is the one place in the
+# repo where staleness cannot be detected automatically.
+# ============================================================================
+
+schema_version: 1
+updated: "2026-09-01"
+
+programs:
+  - name: Anthropic Fellows Program
+    org: Anthropic
+    tier: 0
+    kind: fellowship
+    url: "https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/"
+    stipend: "$3,850/week + ~$15k/mo compute"
+    duration: "4 months, mentored research"
+    eligibility: "No PhD, prior ML experience, or publications required"
+    note: "Explicitly open to people without a research background. Also appears on our boards — Anthropic posts it to Greenhouse."
+    verified_at: "2026-09-01"
+
+  - name: OpenAI Residency
+    org: OpenAI
+    tier: 0
+    kind: residency
+    url: "https://openai.com/residency/"
+    stipend: "$18,333/month"
+    duration: "6 months, transition into research"
+    eligibility: "Cannot be enrolled in school. SF onsite 3+ days. Sponsorship offered."
+    note: "Rolling start dates. Does NOT appear on OpenAI's public job board — this is the only way to find it."
+    verified_at: "2026-09-01"
+
+  - name: Google DeepMind Student Researcher
+    org: Google DeepMind
+    tier: 0
+    kind: research-placement
+    url: "https://deepmind.google/student-researcher-program/"
+    stipend: "Paid; rate not published"
+    duration: "12–24 weeks"
+    eligibility: "BS / MS / PhD all eligible"
+    note: "One application is considered across all Google AI teams."
+    verified_at: "2026-09-01"
+
+  - name: Google PhD Fellowship
+    org: Google
+    tier: 0
+    kind: fellowship
+    url: "https://research.google/programs-and-events/phd-fellowship/"
+    stipend: "$85,000/year, up to 2 years"
+    duration: "Up to 2 years"
+    eligibility: "UNIVERSITY-NOMINATED ONLY — you cannot apply directly"
+    note: "Find out who nominates in your department, and ask early. This is a year-one decision, not a year-four one."
+    verified_at: "2026-09-01"
+
+  - name: NVIDIA Graduate Fellowship
+    org: NVIDIA
+    tier: 1
+    kind: fellowship
+    url: "https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2025/"
+    stipend: "Up to $60,000"
+    duration: "1 year"
+    eligibility: "Requires ≥1 year of PhD study AND a prior in-person NVIDIA Research summer internship"
+    note: "The internship prerequisite means you must plan two years out. Most people learn this too late."
+    verified_at: "2026-09-01"
+
+  - name: Meta AI Residency
+    org: Meta
+    tier: 1
+    kind: residency
+    url: "https://ai.meta.com/join-us/residency-program/"
+    stipend: "Not published"
+    duration: "12 months"
+    eligibility: "Currently dormant"
+    note: "Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it."
+    status: dormant
+    verified_at: "2026-09-01"

@@ -16,7 +16,7 @@ from pathlib import Path
 from . import classify, render, verify
 from .fetch import RefreshReport, fetch_all
 from .models import Job, RawPosting
-from .registry import REPO_ROOT, Company, by_slug, load_registry
+from .registry import REPO_ROOT, Company, by_slug, load_programs, load_registry
 from .state import StateStore
 
 log = logging.getLogger(__name__)
@@ -219,10 +219,18 @@ def write_outputs(result: PipelineResult, *, today: date | None = None) -> list[
     BOARDS_DIR.mkdir(parents=True, exist_ok=True)
     API_DIR.mkdir(parents=True, exist_ok=True)
 
+    programs = load_programs()
     for track, (filename, _, _) in render.BOARDS.items():
         path = BOARDS_DIR / filename
-        path.write_text(render.render_board(track, result.jobs, today=today), encoding="utf-8")
+        path.write_text(
+            render.render_board(track, result.jobs, today=today, programs=programs),
+            encoding="utf-8",
+        )
         written.append(path)
+    (API_DIR / "programs.json").write_text(
+        render.render_programs_json(programs), encoding="utf-8"
+    )
+    written.append(API_DIR / "programs.json")
 
     health = result.report.to_dict() if result.report else {}
     health["rejections"] = dict(result.rejections.most_common())
