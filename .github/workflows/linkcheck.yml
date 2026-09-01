@@ -1,8 +1,12 @@
 name: Link check
 
-# Verifiability is the brand. Every apply link is re-probed daily and dead ones
-# are closed out, so the boards cannot silently accumulate 404s the way
-# competing lists do.
+# Verifiability is the brand. Every apply link is re-probed daily so the boards
+# cannot silently accumulate 404s the way competing lists do — one of them
+# carries 221 listings over 120 days old still flagged live.
+#
+# The subtlety is that "the server refused to talk to a bot" and "this job is
+# gone" are different facts, and conflating them makes the check useless: it
+# either fails constantly or gets its threshold raised until it never fires.
 on:
   schedule:
     - cron: "40 7 * * *"
@@ -10,7 +14,6 @@ on:
 
 permissions:
   contents: read
-  issues: write
 
 jobs:
   probe:
@@ -26,7 +29,7 @@ jobs:
       - name: Probe every apply link
         run: |
           python - <<'PY'
-          import json, pathlib, sys
+          import collections, json, os, pathlib, sys
           from concurrent.futures import ThreadPoolExecutor
           import httpx
 
@@ -35,27 +38,71 @@ jobs:
               print("no jobs.json yet"); sys.exit(0)
           jobs = json.loads(path.read_text())["jobs"]
 
-          def probe(job):
+          # A default httpx User-Agent gets refused by several ATS front ends.
+          # Identify honestly, but look like a browser enough to be served.
+          HEADERS = {
+              "User-Agent": (
+                  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/128.0 Safari/537.36 eliteboard-linkcheck/1.0 "
+                  "(+https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027)"
+              ),
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept-Language": "en-US,en;q=0.9",
+          }
+          DEAD = {404, 410}                 # the posting is genuinely gone
+          BLOCKED = {401, 403, 405, 429}    # the server refused a bot, not a verdict
+
+          def classify(job):
               try:
-                  with httpx.Client(timeout=20, follow_redirects=True) as c:
+                  with httpx.Client(timeout=25, follow_redirects=True,
+                                    headers=HEADERS) as c:
                       r = c.head(job["apply_url"])
                       if r.status_code >= 400:
                           r = c.get(job["apply_url"])
-                      return job, r.status_code
+                      code = r.status_code
+                      if code in DEAD:
+                          return "dead", job, code
+                      if code in BLOCKED:
+                          return "blocked", job, code
+                      if code >= 400:
+                          return "error", job, code
+                      return "ok", job, code
               except Exception as exc:
-                  return job, str(exc)
+                  return "error", job, type(exc).__name__
 
-          with ThreadPoolExecutor(max_workers=16) as pool:
-              results = list(pool.map(probe, jobs))
+          with ThreadPoolExecutor(max_workers=12) as pool:
+              results = list(pool.map(classify, jobs))
 
-          dead = [(j, s) for j, s in results if not isinstance(s, int) or s >= 400]
-          rate = 100 * (len(results) - len(dead)) / max(len(results), 1)
-          print(f"{len(results)} links probed · {rate:.1f}% resolving")
-          for j, s in dead[:40]:
-              print(f"  DEAD {s}  {j['company_name']} — {j['title']}  {j['apply_url']}")
+          counts = collections.Counter(kind for kind, _, _ in results)
+          total = len(results) or 1
+          dead = [(j, c) for kind, j, c in results if kind == "dead"]
+          conclusive = counts["ok"] + counts["dead"]
+          health = 100 * counts["ok"] / max(conclusive, 1)
 
-          with open(pathlib.Path("link-report.md"), "w") as fh:
-              fh.write(f"{len(results)} probed, {len(dead)} dead ({rate:.1f}% healthy)\n")
-          # Fail loudly if the board has rotted past 10% dead links.
-          sys.exit(1 if rate < 90 else 0)
+          lines = [
+              "## Link check",
+              "",
+              f"- Probed **{len(results)}** apply links",
+              f"- Resolving: **{counts['ok']}**",
+              f"- Dead (404/410): **{counts['dead']}**",
+              f"- Blocked by bot protection (403/405/429), not a verdict: {counts['blocked']}",
+              f"- Network/other errors: {counts['error']}",
+              f"- Health among conclusive results: **{health:.1f}%**",
+          ]
+          if dead:
+              lines += ["", "### Dead links", ""]
+              lines += [
+                  f"- `{c}` **{j['company_name']}** — {j['title']} — {j['apply_url']}"
+                  for j, c in dead[:50]
+              ]
+          report = "\n".join(lines)
+          print(report)
+          if summary := os.environ.get("GITHUB_STEP_SUMMARY"):
+              pathlib.Path(summary).write_text(report + "\n")
+
+          # Fail only on genuinely dead links. Blocked probes tell us nothing
+          # about the posting, so they must not drive the verdict either way.
+          if conclusive >= 20 and health < 95:
+              print(f"\nERROR: {counts['dead']} dead links out of {conclusive} conclusive probes")
+              sys.exit(1)
           PY
