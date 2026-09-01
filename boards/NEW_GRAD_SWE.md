@@ -60,12 +60,12 @@ Full-time entry-level software engineering roles in the US.
 | **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ), California - HQ | — | ·📗 | today | [apply](https://nuro.ai/careersitem?gh_jid=7351066) |
 | **Samsara** | (New Grad) Account Development Representative II - Atlanta | Atlanta, Georgia, United States, Atlanta - ATL2 | — | · | today | [apply](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373) |
 | **Samsara** | (New Grad) Account Development Representative II - Phoenix | Phoenix, Arizona, United States, Phoenix - PHX1 | — | · | today | [apply](https://www.samsara.com/company/careers/roles/8094371?gh_jid=8094371) |
-| **Samsara** | Senior Security Operations Engineer I | Remote - US, San Francisco - SF9 | — | ·📗 | today | [apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
+| **Samsara** | Senior Security Operations Engineer I | San Francisco - SF9 | — | ·📗 | today | [apply](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084) |
 | **Temporal** | Business Development Representative | Atlanta, Georgia | $70k | · | today | [apply](https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade/application) |
 | **Verkada** | Associate Solutions Engineer, San Mateo | San Mateo, CA United States | — | 🛂📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4135277007) |
 | **Verkada** | Enterprise Development Representative | Austin, TX United States, Austin office | — | 🛂 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4140679007) |
-| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | San Mateo, CA United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
+| **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ | New York City, NY United States | — | 🌏📗 | today | [apply](https://job-boards.greenhouse.io/verkada/jobs/5172974007) |
 
 ---
 
-Generated 2026-09-01 05:11 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 05:51 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

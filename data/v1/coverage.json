@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T05:11:03+00:00",
+ "generated_at": "2026-09-01T05:51:50+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 304,
+   "fetched": 306,
    "published": 2,
    "status": "ok"
   },
@@ -1007,7 +1007,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "postman",
-   "fetched": 65,
+   "fetched": 64,
    "published": 1,
    "status": "ok"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 320,
+   "fetched": 319,
    "published": 0,
    "status": "none matched"
   },
@@ -1453,8 +1453,8 @@
   }
  ],
  "rejections": {
-  "not a US location": 6150,
-  "senior/experienced role": 4186,
+  "not a US location": 6151,
+  "senior/experienced role": 4185,
   "title is not a technical role": 4176,
   "not an early-career posting": 2789,
   "non-technical role": 2352,
@@ -1903,20 +1903,20 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Associate Program Architect (Full-Stack Developer — AI-Native Engineering) — not a US location",
+   "Analyst Accountant Indirect Tax — not a US location",
    "Engagement Delivery Senior Manager — not a US location",
    "Agentforce Service (Service Cloud) - Specialist Solution Engineer — not a US location",
    "VP, ASEAN Alliances & Channels — not a US location",
    "Salesforce 架構師 (Salesforce Solution Architect) — not a US location",
    "Principal, Business Value Services — not a US location",
-   "Software Engineering LMTS — not an early-career posting",
-   "Account Partner Director - Retail Professional Services — not a US location",
-   "Pre-sales Security Architect - Public Sector/DOW — not a US location"
+   "Software Engineering LMTS — not an early-career posting"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
    "ASIC Network Architect — senior/experienced role",
-   "Cloud Platform Architect — senior/experienced role",
    "Cloud Platform Architect — not a US location",
+   "Cloud Platform Architect — senior/experienced role",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — title is not a technical role",
    "Customer Success Manager — non-technical role",
@@ -2120,11 +2120,11 @@
    "Activation Sales Development Representative I — non-technical role",
    "Ads AI Analytics Lead II — not a US location",
    "Ads AI Analytics Lead II — senior/experienced role",
-   "AI Solutions Lead, Marketing — not a US location",
    "AI Solutions Lead, Marketing — non-technical role",
+   "AI Solutions Lead, Marketing — not a US location",
    "Analytics Engineer II — not a US location",
    "Bilingual Customer Experience Specialist — title is not a technical role",
-   "Chief of Staff, Online Grocery — not a US location"
+   "Chief of Staff, Online Grocery — title is not a technical role"
   ],
   "klaviyo": [
    "Account Executive Commercial, Italian Speaker — not a US location",
@@ -2226,10 +2226,10 @@
    "Billing Engineer — not an early-career posting",
    "Brand Designer — non-technical role",
    "Customer Account Executive — non-technical role",
-   "Customer Reliability Engineer — not an early-career posting",
    "Customer Reliability Engineer — not a US location",
-   "Customer Support Engineer (Tier 1) — not a US location",
+   "Customer Reliability Engineer — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not an early-career posting",
+   "Customer Support Engineer (Tier 1) — not a US location",
    "Customer Support Engineer (Tier 2) — not an early-career posting"
   ],
   "twilio": [

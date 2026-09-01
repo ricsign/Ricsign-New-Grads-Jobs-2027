@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-01T05:11:03+00:00",
+ "generated_at": "2026-09-01T05:51:50+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 309,
@@ -6286,31 +6286,6 @@
    "link_status": "ok"
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok"
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6336,6 +6311,31 @@
    "link_status": "ok"
   },
   {
+   "uid": "14812f7b8d47b8ff",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mesh Optical",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
    "uid": "a0b83c293099f897",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6357,33 +6357,6 @@
    "season": null,
    "compensation": null,
    "department": "Texas - Test Equipment Engineers",
-   "active": true,
-   "link_status": "ok"
-  },
-  {
-   "uid": "a2359351a739a6d9",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
-   "locations": [
-    "Redmond, WA",
-    "Irvine, CA",
-    "Palo Alto - 1200"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Silicon Engineering",
    "active": true,
    "link_status": "ok"
   },
@@ -6428,6 +6401,33 @@
     "Irvine, CA",
     "Palo Alto - 1200",
     "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Silicon Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "a2359351a739a6d9",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Silicon Engineering",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "locations": [
+    "Redmond, WA",
+    "Irvine, CA",
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -6543,6 +6543,31 @@
    "link_status": "ok"
   },
   {
+   "uid": "2fb1d8fb22585078",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starlink Satellite Flight Software",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
    "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6565,31 +6590,6 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Mobile Engineering",
-   "active": true,
-   "link_status": "ok"
-  },
-  {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok"
   },
@@ -6645,32 +6645,6 @@
    "link_status": "ok"
   },
   {
-   "uid": "a4f1e26bb76e04d2",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
-   "locations": [
-    "Hawthorne, CA",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2026-08-19",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok"
-  },
-  {
    "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6689,6 +6663,32 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "a4f1e26bb76e04d2",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
+   "locations": [
+    "Hawthorne, CA",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-19",
    "closed_at": null,
    "season": null,
    "compensation": null,
@@ -7687,16 +7687,15 @@
    "link_status": "ok"
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -7713,15 +7712,16 @@
    "link_status": "ok"
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -7970,31 +7970,6 @@
    "link_status": "ok"
   },
   {
-   "uid": "7e1c1c5e62ecdf42",
-   "company_slug": "verkada",
-   "company_name": "Verkada",
-   "company_tier": 2,
-   "company_category": "security",
-   "source": "greenhouse",
-   "title": "Technical Support Engineer - University Graduate 2026",
-   "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4715534007",
-   "locations": [
-    "San Mateo, CA United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "sponsors",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
-   "posted_at": "2025-08-08",
-   "closed_at": null,
-   "season": "2026",
-   "compensation": null,
-   "department": "Technical Support Engineering",
-   "active": true,
-   "link_status": "ok"
-  },
-  {
    "uid": "5788c242cdf62b3a",
    "company_slug": "verkada",
    "company_name": "Verkada",
@@ -8012,6 +7987,31 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-01",
    "posted_at": "2026-06-24",
+   "closed_at": null,
+   "season": "2026",
+   "compensation": null,
+   "department": "Technical Support Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "7e1c1c5e62ecdf42",
+   "company_slug": "verkada",
+   "company_name": "Verkada",
+   "company_tier": 2,
+   "company_category": "security",
+   "source": "greenhouse",
+   "title": "Technical Support Engineer - University Graduate 2026",
+   "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4715534007",
+   "locations": [
+    "San Mateo, CA United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "sponsors",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2025-08-08",
    "closed_at": null,
    "season": "2026",
    "compensation": null,

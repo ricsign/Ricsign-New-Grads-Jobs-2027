@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T05:11:03+00:00",
+ "generated_at": "2026-09-01T05:51:50+00:00",
  "live_roles": 309,
  "companies_with_open_roles": 57,
  "by_track": {
@@ -52,7 +52,7 @@
   "boards_empty": 1,
   "boards_failed": 0,
   "success_rate": 0.9922,
-  "postings_fetched": 21587,
+  "postings_fetched": 21586,
   "by_source": {
    "greenhouse": 78,
    "ashby": 41,
@@ -70,8 +70,8 @@
    }
   ],
   "rejections": {
-   "not a US location": 6150,
-   "senior/experienced role": 4186,
+   "not a US location": 6151,
+   "senior/experienced role": 4185,
    "title is not a technical role": 4176,
    "not an early-career posting": 2789,
    "non-technical role": 2352,

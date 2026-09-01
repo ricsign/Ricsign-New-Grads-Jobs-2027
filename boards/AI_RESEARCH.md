@@ -8,6 +8,27 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 
 `Age` is time since **we first saw the posting**, not since we last re-scraped it.
 
+## Programs that never appear on a job board
+
+Not requisitions — named programs with their own applications and calendars.
+No scraper will ever surface these. Hand-verified; open an issue if one moves.
+
+| Program | What you get | Who it's for |
+|:--|:--|:--|
+| **[Anthropic Fellows Program](https://alignment.anthropic.com/2025/anthropic-fellows-program-2026/)**<br><sub>Anthropic</sub> | $3,850/week + ~$15k/mo compute<br><sub>4 months, mentored research</sub> | No PhD, prior ML experience, or publications required |
+| **[OpenAI Residency](https://openai.com/residency/)**<br><sub>OpenAI</sub> | $18,333/month<br><sub>6 months, transition into research</sub> | Cannot be enrolled in school. SF onsite 3+ days. Sponsorship offered. |
+| **[Google DeepMind Student Researcher](https://deepmind.google/student-researcher-program/)**<br><sub>Google DeepMind</sub> | Paid; rate not published<br><sub>12–24 weeks</sub> | BS / MS / PhD all eligible |
+| **[Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/)**<br><sub>Google</sub> | $85,000/year, up to 2 years<br><sub>Up to 2 years</sub> | UNIVERSITY-NOMINATED ONLY — you cannot apply directly |
+| **[NVIDIA Graduate Fellowship](https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2025/)**<br><sub>NVIDIA</sub> | Up to $60,000<br><sub>1 year</sub> | Requires ≥1 year of PhD study AND a prior in-person NVIDIA Research summer internship |
+| **[Meta AI Residency](https://ai.meta.com/join-us/residency-program/)** _(dormant)_<br><sub>Meta</sub> | Not published<br><sub>12 months</sub> | Currently dormant |
+
+- **Anthropic Fellows Program** — Explicitly open to people without a research background. Also appears on our boards — Anthropic posts it to Greenhouse.
+- **OpenAI Residency** — Rolling start dates. Does NOT appear on OpenAI's public job board — this is the only way to find it.
+- **Google DeepMind Student Researcher** — One application is considered across all Google AI teams.
+- **Google PhD Fellowship** — Find out who nominates in your department, and ask early. This is a year-one decision, not a year-four one.
+- **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
+- **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
+
 ## Tier 0 — Frontier labs & category-defining firms
 
 | Company | Role | Location | Comp | Flags | Age | Apply |
@@ -76,4 +97,4 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 
 ---
 
-Generated 2026-09-01 05:11 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 05:51 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
