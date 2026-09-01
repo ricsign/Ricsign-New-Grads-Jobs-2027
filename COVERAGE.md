@@ -9,11 +9,282 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,111 |
-| Postings published | 308 |
+| Postings fetched | 21,110 |
+| Postings published | 309 |
 | Boards that failed to fetch | **0** |
 | Boards live but with nothing early-career | 71 |
 | Boards returning nothing at all | 1 |
+
+## Boards we read that had nothing early-career
+
+These companies are hiring — just not for roles that clear the bar today.
+A sample of what we saw and why we dropped it, so you can check our work
+rather than take it on faith.
+
+<details><summary><b>Anysphere (Cursor)</b> — 118 postings read, none early-career</summary>
+
+- `Software Engineer, Growth — not an early-career posting`
+- `Software Engineer, Infrastructure — not an early-career posting`
+- `Software Engineer, Core Services — not an early-career posting`
+- `Software Engineer, Client Infrastructure — not an early-career posting`
+- `Software Engineer, Generalist — not an early-career posting`
+- `Software Engineer, Enterprise — not an early-career posting`
+
+</details>
+
+<details><summary><b>Cognition</b> — 91 postings read, none early-career</summary>
+
+- `General Application - Cognition — title is not a technical role`
+- `Research Engineer, Post-Training — research role without early-career marker`
+- `Founding Recruiting Coordinator - APJ — not a US location`
+- `Founding GTM Recruiter - Japan — not a US location`
+- `Event Marketer — title is not a technical role`
+- `Deployed Engineer — not an early-career posting`
+
+</details>
+
+<details><summary><b>ElevenLabs</b> — 249 postings read, none early-career</summary>
+
+- `Account Manager - India — not a US location`
+- `Enterprise Solutions Engineer - North America — not an early-career posting`
+- `Account Executive - Japan — not a US location`
+- `Sales Development - United States — non-technical role`
+- `Full-Stack Engineer (Back-End Leaning) — not an early-career posting`
+- `Full-Stack Engineer (Front-End Leaning) — not an early-career posting`
+
+</details>
+
+<details><summary><b>Harvey</b> — 345 postings read, none early-career</summary>
+
+- `Customer Success Manager, Mid-Market, EMEA — not a US location`
+- `Customer Success Manager, Mid Market, EMEA — not a US location`
+- `Enterprise Customer Success Manager — non-technical role`
+- `Senior Product Security Engineer — senior/experienced role`
+- `Senior Software Engineer, Core Infrastructure — senior/experienced role`
+- `Senior Software Engineer, Frontend — senior/experienced role`
+
+</details>
+
+<details><summary><b>Mistral AI</b> — 173 postings read, none early-career</summary>
+
+- `AI Deployment Strategist - USA — not an early-career posting`
+- `AI Scientist - Agentic Engineering — not a US location`
+- `Software Engineer, New Grad — not a US location`
+- `Recruiting Operations Manager — not a US location`
+- `Solution Operations Manager, Revenue Growth — not a US location`
+- `Talent Acquisition Specialist - EMEA (Contractor) — not a US location`
+
+</details>
+
+<details><summary><b>OpenAI</b> — 766 postings read, none early-career</summary>
+
+- `Technical Program Manager, Compute Infrastructure — senior/experienced role`
+- `Research Engineer — research role without early-career marker`
+- `Account Director - Tokyo — not a US location`
+- `Software Engineer, RL Training Infra — not an early-career posting`
+- `Research Engineer, Retrieval & Search, Applied Engineering — research role without early-career marker`
+- `Account Director, Startups — not a US location`
+
+</details>
+
+<details><summary><b>Perplexity</b> — 97 postings read, none early-career</summary>
+
+- `Product Marketing Manager, Partnerships — non-technical role`
+- `Member of Technical Staff (Software Engineer, Monetization) — senior/experienced role`
+- `Associate Product Marketing Manager — non-technical role`
+- `Customer Success & Enterprise Support Lead, APAC — not a US location`
+- `Member of Technical Staff (AI Inference Engineer) — senior/experienced role`
+- `Member of Technical Staff (AI Infrastructure Engineer) — senior/experienced role`
+
+</details>
+
+<details><summary><b>Poolside</b> — 15 postings read, none early-career</summary>
+
+- `Member of Engineering (Pre-training / Data Research) — not a US location`
+- `Member of Engineering (Post-training) — not a US location`
+- `Member of Engineering (Evaluations) — not a US location`
+- `Member of Engineering (Infrastructure) — not a US location`
+- `Member of Engineering (Multimodality - Research Lead) — not a US location`
+- `Member of Engineering (Evaluations / Engineering) — not a US location`
+
+</details>
+
+<details><summary><b>Reflection AI</b> — 51 postings read, none early-career</summary>
+
+- `Member of Technical Staff - Pre-Training — senior/experienced role`
+- `Member of Technical Staff - Post-Training — senior/experienced role`
+- `Don't See Your Role? Apply Here! — title is not a technical role`
+- `Member of Technical Staff - Safety — senior/experienced role`
+- `Forward Deployed Engineer, Lead - LLM Post-training — senior/experienced role`
+- `Strategy & Ops Generalist — title is not a technical role`
+
+</details>
+
+<details><summary><b>Thinking Machines Lab</b> — 38 postings read, none early-career</summary>
+
+- `Research, General Agents — not an early-career posting`
+- `Site Reliability Engineer, Post Training — not an early-career posting`
+- `Network Engineer, Supercomputing — not an early-career posting`
+- `Reliability Engineer, Supercomputing — not an early-career posting`
+- `Safety Operations Lead — title is not a technical role`
+- `Software Engineer, Systems Generalist — not an early-career posting`
+
+</details>
+
+<details><summary><b>Adobe</b> — 40 postings read, none early-career</summary>
+
+- `Director and Associate General Counsel, Corporate Legal — title is not a technical role`
+- `Software Development Engineer, Influencer Management — not a US location`
+- `Enterprise Architect — not a US location`
+- `Manager, Applied Research — not a US location`
+- `Sr. Software Engineer - 3D Workflows — not a US location`
+- `Head of Technical Accounting and External Reporting, ESG Controller — non-technical role`
+
+</details>
+
+<details><summary><b>Brex</b> — 294 postings read, none early-career</summary>
+
+- `Account Executive, Small Business — non-technical role`
+- `Account Executive, Small Business — non-technical role`
+- `Account Executive, Small Business — non-technical role`
+- `Account Executive, YC — non-technical role`
+- `Account Manager — non-technical role`
+- `AI Engineer, Ecosystem — not an early-career posting`
+
+</details>
+
+<details><summary><b>Bridgewater Associates</b> — 16 postings read, none early-career</summary>
+
+- `2027 Investment Associate Intern — title is not a technical role`
+- `Associate, Business Development Operations- Singapore — not a US location`
+- `Associate, Client Service Operations — title is not a technical role`
+- `Campus Talent Associate — title is not a technical role`
+- `Data Associate — quant role without early-career marker`
+- `Data Sourcing & Strategy Associate — quant role without early-career marker`
+
+</details>
+
+<details><summary><b>Character.AI</b> — 13 postings read, none early-career</summary>
+
+- `Machine Learning Infrastructure Engineer — not an early-career posting`
+- `Research Engineer, Post-Training (All Industry Levels) — research role without early-career marker`
+- `Software Engineer, Core Product — not an early-career posting`
+- `Software Engineer, Backend — not an early-career posting`
+- `Software Engineer, Monetization — not an early-career posting`
+- `Software Engineer, Backend/Applied ML (Safety & Integrity) — not an early-career posting`
+
+</details>
+
+<details><summary><b>Chicago Trading Company (Lateral)</b> — 24 postings read, none early-career</summary>
+
+- `Business Manager - Systematic — senior/experienced role`
+- `Campus Relations & Events Associate — title is not a technical role`
+- `C++ Engineering Lead – Delta Force — senior/experienced role`
+- `Compliance Officer – Trade Surveillance — title is not a technical role`
+- `C++ Senior Engineer - Market Data — senior/experienced role`
+- `C++ Senior Engineer - Options Market Making Execution — senior/experienced role`
+
+</details>
+
+<details><summary><b>ClickHouse</b> — 173 postings read, none early-career</summary>
+
+- `シニアコンサルティングエンジニア — not a US location`
+- `Accounts Payables Analyst — title is not a technical role`
+- `AI Operations Engineer — not a US location`
+- `Cloud Database Infrastructure Engineer — not an early-career posting`
+- `Cloud Security Engineer — not a US location`
+- `Cloud Software Engineer - Observability Platform — not an early-career posting`
+
+</details>
+
+<details><summary><b>Coinbase</b> — 184 postings read, none early-career</summary>
+
+- `Accountant, Cyprus — not a US location`
+- `Accounting Manager, GL Operations & Intercompany — not a US location`
+- `Accounting Manager, GL Operations & Intercompany — non-technical role`
+- `Accounting Manager, Lending & Credit Products — non-technical role`
+- `Accounting Manager, Tokenized Equities — not a US location`
+- `AMLCO & Senior Compliance Associate — not a US location`
+
+</details>
+
+<details><summary><b>Decagon</b> — 137 postings read, none early-career</summary>
+
+- `Enterprise Account Executive — non-technical role`
+- `Director of Sales, Enterprise — non-technical role`
+- `Senior Research Engineer — senior/experienced role`
+- `Senior Agent Product Manager — title is not a technical role`
+- `Engineering Manager, Agent Orchestration — senior/experienced role`
+- `Strategic Account Director - West — not a US location`
+
+</details>
+
+<details><summary><b>Discord</b> — 51 postings read, none early-career</summary>
+
+- `Account Manager, Advertising Solutions — non-technical role`
+- `Advertising Operations Manager — title is not a technical role`
+- `Associate Product Counsel, Safety — title is not a technical role`
+- `Commercial Policy Lead, Brand Safety & Malware — title is not a technical role`
+- `Director of Engineering, Safety — senior/experienced role`
+- `Engineering Manager, Machine Learning (Safety) — senior/experienced role`
+
+</details>
+
+<details><summary><b>Fireworks AI</b> — 67 postings read, none early-career</summary>
+
+- `AI Product Engineer - Nexus — not an early-career posting`
+- `Technical Recruiter — non-technical role`
+- `Senior GRC Specialist — title is not a technical role`
+- `Partnerships Lead — title is not a technical role`
+- `Executive Assistant — non-technical role`
+- `Enterprise Account Executive — non-technical role`
+
+</details>
+
+<details><summary><b>Linear</b> — 28 postings read, none early-career</summary>
+
+- `Senior / Staff Fullstack Engineer — not a US location`
+- `Senior / Staff Fullstack Engineer — not a US location`
+- `Senior / Staff Product Engineer — not a US location`
+- `Senior / Staff Product Engineer — not a US location`
+- `Product Engineer — not a US location`
+- `Product Manager — not a US location`
+
+</details>
+
+<details><summary><b>Lovable</b> — 81 postings read, none early-career</summary>
+
+- `Data Platform Engineer — not a US location`
+- `Research Engineering Lead — not a US location`
+- `Product Designer — not a US location`
+- `Brand Designer, Web — non-technical role`
+- `Solutions Architect, San Francisco — title is not a technical role`
+- `Staff / Principal Design Engineer, Web — senior/experienced role`
+
+</details>
+
+<details><summary><b>Luma AI</b> — 47 postings read, none early-career</summary>
+
+- `Research Scientist / Engineer – Performance Optimization — research role without early-career marker`
+- `Account Executive – Entertainment — non-technical role`
+- `Research Scientist / Engineer – Reinforcement Learning Infrastructure — research role without early-career marker`
+- `Research Scientist / Engineer – Training Infrastructure — research role without early-career marker`
+- `Senior Site Reliability Engineer — senior/experienced role`
+- `Creative Technologist — not a US location`
+
+</details>
+
+<details><summary><b>Mercury</b> — 54 postings read, none early-career</summary>
+
+- `Account Executive — non-technical role`
+- `AI Ops Lead - Forward Deploy — senior/experienced role`
+- `Counsel, Product & Regulatory - Payments & AML — title is not a technical role`
+- `Customer Support Specialist - Weekend — non-technical role`
+- `Customer Support Systems & Analytics Architect — senior/experienced role`
+- `Deputy Chief Information Security Officer - Bank — non-technical role`
+
+</details>
+
 
 ## Every company
 
@@ -26,6 +297,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 123 | 3 | ✅ ok |
 | [Sierra](https://sierra.ai/careers) | 0 | `ashby:sierra` | 206 | 3 | ✅ ok |
 | [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 93 | 2 | ✅ ok |
+| [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 215 | 2 | ✅ ok |
 | [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 34 | 1 | ✅ ok |
 | [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 251 | 1 | ✅ ok |
 | [Anysphere (Cursor)](https://cursor.com/careers) | 0 | `ashby:cursor` | 118 | — | ○ none matched |
@@ -42,7 +314,6 @@ has no early-career roles open right now, which is itself worth knowing.
 | [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 97 | — | ○ none matched |
 | [Poolside](https://poolside.ai/careers) | 0 | `ashby:poolside` | 15 | — | ○ none matched |
 | [Reflection AI](https://reflection.ai/careers) | 0 | `ashby:reflectionai` | 51 | — | ○ none matched |
-| [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 215 | — | ○ none matched |
 | [Thinking Machines Lab](https://thinkingmachines.ai/) | 0 | `ashby:thinkingmachines` | 38 | — | ○ none matched |
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles) | 0 | — | — | — | 🔗 link-only |
 | [Palantir](https://www.palantir.com/careers/) | 1 | `lever:palantir` | 309 | 48 | ✅ ok |
@@ -64,9 +335,9 @@ has no early-career roles open right now, which is itself worth knowing.
 | [Chicago Trading Company](https://www.chicagotrading.com/careers/) | 1 | `greenhouse:chicagotradingcampus` | 8 | 4 | ✅ ok |
 | [PDT Partners](https://www.pdtpartners.com/careers) | 1 | `greenhouse:pdtpartners` | 10 | 4 | ✅ ok |
 | [Etched](https://www.etched.com/careers) | 1 | `ashby:etched` | 109 | 3 | ✅ ok |
-| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 499 | 3 | ✅ ok |
+| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 497 | 3 | ✅ ok |
 | [Waymo](https://waymo.com/careers/) | 1 | `greenhouse:waymo` | 346 | 3 | ✅ ok |
-| [Cloudflare](https://www.cloudflare.com/careers/) | 1 | `greenhouse:cloudflare` | 303 | 2 | ✅ ok |
+| [Cloudflare](https://www.cloudflare.com/careers/) | 1 | `greenhouse:cloudflare` | 304 | 2 | ✅ ok |
 | [Headlands Technologies](https://www.headlandstech.com/careers/) | 1 | `greenhouse:headlandstechnologiesllc` | 7 | 2 | ✅ ok |
 | [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 107 | 2 | ✅ ok |
 | [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 167 | 1 | ✅ ok |
@@ -126,7 +397,6 @@ has no early-career roles open right now, which is itself worth knowing.
 | [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 232 | 7 | ✅ ok |
 | [Belvedere Trading](https://belvederetrading.com/careers/) | 2 | `lever:belvederetrading` | 14 | 5 | ✅ ok |
 | [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 101 | 2 | ✅ ok |
-| [Airtable](https://www.airtable.com/careers) | 2 | `greenhouse:airtable` | 16 | 1 | ✅ ok |
 | [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 341 | 1 | ✅ ok |
 | [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 166 | 1 | ✅ ok |
 | [Grafana Labs](https://grafana.com/about/careers/) | 2 | `greenhouse:grafanalabs` | 132 | 1 | ✅ ok |
@@ -134,6 +404,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | [Postman](https://www.postman.com/company/careers/) | 2 | `greenhouse:postman` | 65 | 1 | ✅ ok |
 | [Temporal](https://temporal.io/careers) | 2 | `ashby:temporal` | 60 | 1 | ✅ ok |
 | [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 160 | — | ○ none matched |
+| [Airtable](https://www.airtable.com/careers) | 2 | `greenhouse:airtable` | 16 | — | ○ none matched |
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | 37 | — | ○ none matched |
 | [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 118 | — | ○ none matched |
 | [Attentive](https://www.attentive.com/careers) | 2 | `greenhouse:attentive` | 36 | — | ○ none matched |

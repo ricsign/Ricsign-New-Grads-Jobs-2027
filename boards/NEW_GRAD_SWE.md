@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**44 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**43 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -54,7 +54,6 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Age | Apply |
 |:--|:--|:--|:--|:-:|--:|:-:|
-| **Airtable** | Software Engineer, Infrastructure (4-8 YOE) | San Francisco, CA; New York, NY; Seattle, WA | — | · | today | [apply](https://job-boards.greenhouse.io/airtable/jobs/8400373002) |
 | **Elastic** | Principal Software Engineer I - Serverless - Platform Control Plane | United States | — | 🔒 | today | [apply](https://jobs.elastic.co/jobs?gh_jid=8130119&gh_jid=8130119) |
 | **Flexport** | Automation Engineer I | Atlanta, Georgia, United States | — | · | today | [apply](https://job-boards.greenhouse.io/flexport/jobs/8015840) |
 | **Grafana Labs** | Solutions Engineer \| Central US \| Remote | United States (Remote), USA (Remote) | — | · | today | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004) |
@@ -69,4 +68,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-01 05:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 05:11 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

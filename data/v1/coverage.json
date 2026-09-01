@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T05:00:18+00:00",
+ "generated_at": "2026-09-01T05:11:03+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -108,8 +108,8 @@
    "ats": "greenhouse",
    "token": "scaleai",
    "fetched": 215,
-   "published": 0,
-   "status": "none matched"
+   "published": 2,
+   "status": "ok"
   },
   {
    "slug": "sierra",
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 499,
+   "fetched": 497,
    "published": 3,
    "status": "ok"
   },
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 303,
+   "fetched": 304,
    "published": 2,
    "status": "ok"
   },
@@ -1078,8 +1078,8 @@
    "ats": "greenhouse",
    "token": "airtable",
    "fetched": 16,
-   "published": 1,
-   "status": "ok"
+   "published": 0,
+   "status": "none matched"
   },
   {
    "slug": "asana",
@@ -1453,10 +1453,10 @@
   }
  ],
  "rejections": {
-  "not a US location": 6149,
+  "not a US location": 6150,
   "senior/experienced role": 4186,
   "title is not a technical role": 4176,
-  "not an early-career posting": 2792,
+  "not an early-career posting": 2789,
   "non-technical role": 2352,
   "non-CS engineering discipline": 754,
   "quant role without early-career marker": 262,
@@ -1574,6 +1574,697 @@
    "AQR Capital — Managed Futures & Commodities Research Analyst",
    "AQR Capital — Quantitative Research – Prediction Markets Analyst",
    "AQR Capital — Research & Portfolio Management Engineering - Associate"
+  ]
+ },
+ "zero_published_samples": {
+  "anysphere": [
+   "Software Engineer, Growth — not an early-career posting",
+   "Software Engineer, Infrastructure — not an early-career posting",
+   "Software Engineer, Core Services — not an early-career posting",
+   "Software Engineer, Client Infrastructure — not an early-career posting",
+   "Software Engineer, Generalist — not an early-career posting",
+   "Software Engineer, Enterprise — not an early-career posting",
+   "Software Engineer, ML Research — not an early-career posting",
+   "Software Engineer, Product — not an early-career posting"
+  ],
+  "cognition": [
+   "General Application - Cognition — title is not a technical role",
+   "Research Engineer, Post-Training — research role without early-career marker",
+   "Founding Recruiting Coordinator - APJ — not a US location",
+   "Founding GTM Recruiter - Japan — not a US location",
+   "Event Marketer — title is not a technical role",
+   "Deployed Engineer — not an early-career posting",
+   "Applied AI Transformation Manager — senior/experienced role",
+   "Head of Partnerships - Japan — not a US location"
+  ],
+  "elevenlabs": [
+   "Account Manager - India — not a US location",
+   "Enterprise Solutions Engineer - North America — not an early-career posting",
+   "Account Executive - Japan — not a US location",
+   "Sales Development - United States — non-technical role",
+   "Full-Stack Engineer (Back-End Leaning) — not an early-career posting",
+   "Full-Stack Engineer (Front-End Leaning) — not an early-career posting",
+   "Full-Stack Engineer — not an early-career posting",
+   "Account Executive, Mid Market - India — not a US location"
+  ],
+  "harvey": [
+   "Customer Success Manager, Mid-Market, EMEA — not a US location",
+   "Customer Success Manager, Mid Market, EMEA — not a US location",
+   "Enterprise Customer Success Manager — non-technical role",
+   "Senior Product Security Engineer — senior/experienced role",
+   "Senior Software Engineer, Core Infrastructure — senior/experienced role",
+   "Senior Software Engineer, Frontend — senior/experienced role",
+   "Applied Legal Researcher — not an early-career posting",
+   "Account Executive, Enterprise, EMEA — not a US location"
+  ],
+  "mistral-ai": [
+   "AI Deployment Strategist - USA — not an early-career posting",
+   "AI Scientist - Agentic Engineering — not a US location",
+   "Software Engineer, New Grad — not a US location",
+   "Recruiting Operations Manager — not a US location",
+   "Solution Operations Manager, Revenue Growth — not a US location",
+   "Talent Acquisition Specialist - EMEA (Contractor) — not a US location",
+   "CyberSecurity, Offensive Security Engineer — not a US location",
+   "Applied AI Engineer, CyberSecurity — not a US location"
+  ],
+  "openai": [
+   "Technical Program Manager, Compute Infrastructure — senior/experienced role",
+   "Research Engineer — research role without early-career marker",
+   "Account Director - Tokyo — not a US location",
+   "Software Engineer, RL Training Infra — not an early-career posting",
+   "Research Engineer, Retrieval & Search, Applied Engineering — research role without early-career marker",
+   "Account Director, Startups — not a US location",
+   "Researcher, Robustness & Safety Training — not an early-career posting",
+   "Software Engineer, Scaled Abuse — not an early-career posting"
+  ],
+  "perplexity": [
+   "Product Marketing Manager, Partnerships — non-technical role",
+   "Member of Technical Staff (Software Engineer, Monetization) — senior/experienced role",
+   "Associate Product Marketing Manager — non-technical role",
+   "Customer Success & Enterprise Support Lead, APAC — not a US location",
+   "Member of Technical Staff (AI Inference Engineer) — senior/experienced role",
+   "Member of Technical Staff (AI Infrastructure Engineer) — senior/experienced role",
+   "Member of Technical Staff (Backend/Infrastructure Engineer, Search) — not a US location",
+   "Member of Technical Staff (Machine Learning Engineer, Search) — not a US location"
+  ],
+  "poolside": [
+   "Member of Engineering (Pre-training / Data Research) — not a US location",
+   "Member of Engineering (Post-training) — not a US location",
+   "Member of Engineering (Evaluations) — not a US location",
+   "Member of Engineering (Infrastructure) — not a US location",
+   "Member of Engineering (Multimodality - Research Lead) — not a US location",
+   "Member of Engineering (Evaluations / Engineering) — not a US location",
+   "Member of Engineering (Agent Sandboxes) — not a US location",
+   "Member of Engineering (Pre-training / Data Engineering) — not a US location"
+  ],
+  "reflection-ai": [
+   "Member of Technical Staff - Pre-Training — senior/experienced role",
+   "Member of Technical Staff - Post-Training — senior/experienced role",
+   "Don't See Your Role? Apply Here! — title is not a technical role",
+   "Member of Technical Staff - Safety — senior/experienced role",
+   "Forward Deployed Engineer, Lead - LLM Post-training — senior/experienced role",
+   "Strategy & Ops Generalist — title is not a technical role",
+   "Member of Technical Staff - Evaluations — senior/experienced role",
+   "Forward Deployed Engineer - AI Engineer — not an early-career posting"
+  ],
+  "thinking-machines": [
+   "Research, General Agents — not an early-career posting",
+   "Site Reliability Engineer, Post Training — not an early-career posting",
+   "Network Engineer, Supercomputing — not an early-career posting",
+   "Reliability Engineer, Supercomputing — not an early-career posting",
+   "Safety Operations Lead — title is not a technical role",
+   "Software Engineer, Systems Generalist — not an early-career posting",
+   "Executive Business Partner — title is not a technical role",
+   "Software Engineer, Developer Productivity, AI Tools — not an early-career posting"
+  ],
+  "adobe": [
+   "Director and Associate General Counsel, Corporate Legal — title is not a technical role",
+   "Software Development Engineer, Influencer Management — not a US location",
+   "Enterprise Architect — not a US location",
+   "Manager, Applied Research — not a US location",
+   "Sr. Software Engineer - 3D Workflows — not a US location",
+   "Head of Technical Accounting and External Reporting, ESG Controller — non-technical role",
+   "LOA & Benefits Program Manager US & Canada — not a US location",
+   "Sr Staff Machine Learning Engineer - Media Intelligence — not a US location"
+  ],
+  "brex": [
+   "Account Executive, Small Business — non-technical role",
+   "Account Executive, Small Business — non-technical role",
+   "Account Executive, Small Business — non-technical role",
+   "Account Executive, YC — non-technical role",
+   "Account Manager — non-technical role",
+   "AI Engineer, Ecosystem — not an early-career posting",
+   "AI Engineer, Ecosystem — not an early-career posting",
+   "AI Engineer, Product — not an early-career posting"
+  ],
+  "bridgewater": [
+   "2027 Investment Associate Intern — title is not a technical role",
+   "Associate, Business Development Operations- Singapore — not a US location",
+   "Associate, Client Service Operations — title is not a technical role",
+   "Campus Talent Associate — title is not a technical role",
+   "Data Associate — quant role without early-career marker",
+   "Data Sourcing & Strategy Associate — quant role without early-career marker",
+   "Executive Coordinator — title is not a technical role",
+   "Lead, Business Risk Management (BISO) — title is not a technical role"
+  ],
+  "character-ai": [
+   "Machine Learning Infrastructure Engineer — not an early-career posting",
+   "Research Engineer, Post-Training (All Industry Levels) — research role without early-career marker",
+   "Software Engineer, Core Product — not an early-career posting",
+   "Software Engineer, Backend — not an early-career posting",
+   "Software Engineer, Monetization — not an early-career posting",
+   "Software Engineer, Backend/Applied ML (Safety & Integrity) — not an early-career posting",
+   "Principal Research Engineer, Post-Training — senior/experienced role",
+   "Research Engineer, AI Safety & Alignment — research role without early-career marker"
+  ],
+  "ctc-lateral": [
+   "Business Manager - Systematic — senior/experienced role",
+   "Campus Relations & Events Associate — title is not a technical role",
+   "C++ Engineering Lead – Delta Force — senior/experienced role",
+   "Compliance Officer – Trade Surveillance — title is not a technical role",
+   "C++ Senior Engineer - Market Data — senior/experienced role",
+   "C++ Senior Engineer - Options Market Making Execution — senior/experienced role",
+   "Equity Research Analyst — quant role without early-career marker",
+   "Experienced Software Engineer - US — senior/experienced role"
+  ],
+  "clickhouse": [
+   "シニアコンサルティングエンジニア — not a US location",
+   "Accounts Payables Analyst — title is not a technical role",
+   "AI Operations Engineer — not a US location",
+   "Cloud Database Infrastructure Engineer — not an early-career posting",
+   "Cloud Security Engineer — not a US location",
+   "Cloud Software Engineer - Observability Platform — not an early-career posting",
+   "Cloud Software Engineer - Observability Platform — not an early-career posting",
+   "Commercial Account Executive — non-technical role"
+  ],
+  "coinbase": [
+   "Accountant, Cyprus — not a US location",
+   "Accounting Manager, GL Operations & Intercompany — not a US location",
+   "Accounting Manager, GL Operations & Intercompany — non-technical role",
+   "Accounting Manager, Lending & Credit Products — non-technical role",
+   "Accounting Manager, Tokenized Equities — not a US location",
+   "AMLCO & Senior Compliance Associate — not a US location",
+   "Analyst, Business Controller — not a US location",
+   "Analyst II, Treasury Operations — title is not a technical role"
+  ],
+  "decagon": [
+   "Enterprise Account Executive — non-technical role",
+   "Director of Sales, Enterprise — non-technical role",
+   "Senior Research Engineer — senior/experienced role",
+   "Senior Agent Product Manager — title is not a technical role",
+   "Engineering Manager, Agent Orchestration — senior/experienced role",
+   "Strategic Account Director - West — not a US location",
+   "Senior Solutions Engineer — senior/experienced role",
+   "Senior Product Designer — title is not a technical role"
+  ],
+  "discord": [
+   "Account Manager, Advertising Solutions — non-technical role",
+   "Advertising Operations Manager — title is not a technical role",
+   "Associate Product Counsel, Safety — title is not a technical role",
+   "Commercial Policy Lead, Brand Safety & Malware — title is not a technical role",
+   "Director of Engineering, Safety — senior/experienced role",
+   "Engineering Manager, Machine Learning (Safety) — senior/experienced role",
+   "Engineering Manager, Notifications — senior/experienced role",
+   "Engineering Manager, Platform Security — senior/experienced role"
+  ],
+  "fireworks-ai": [
+   "AI Product Engineer - Nexus — not an early-career posting",
+   "Technical Recruiter — non-technical role",
+   "Senior GRC Specialist — title is not a technical role",
+   "Partnerships Lead — title is not a technical role",
+   "Executive Assistant — non-technical role",
+   "Enterprise Account Executive — non-technical role",
+   "Member of Technical Staff, Cloud Infrastructure, Singapore — not a US location",
+   "Enterprise Account Executive, EMEA — not a US location"
+  ],
+  "linear": [
+   "Senior / Staff Fullstack Engineer — not a US location",
+   "Senior / Staff Fullstack Engineer — not a US location",
+   "Senior / Staff Product Engineer — not a US location",
+   "Senior / Staff Product Engineer — not a US location",
+   "Product Engineer — not a US location",
+   "Product Manager — not a US location",
+   "Product Manager — not a US location",
+   "Product Support Specialist, Pacific/Mountain Time — not a US location"
+  ],
+  "lovable": [
+   "Data Platform Engineer — not a US location",
+   "Research Engineering Lead — not a US location",
+   "Product Designer — not a US location",
+   "Brand Designer, Web — non-technical role",
+   "Solutions Architect, San Francisco — title is not a technical role",
+   "Staff / Principal Design Engineer, Web — senior/experienced role",
+   "Data Scientist — not a US location",
+   "Application Security Engineer — not a US location"
+  ],
+  "luma-ai": [
+   "Research Scientist / Engineer – Performance Optimization — research role without early-career marker",
+   "Account Executive – Entertainment — non-technical role",
+   "Research Scientist / Engineer – Reinforcement Learning Infrastructure — research role without early-career marker",
+   "Research Scientist / Engineer – Training Infrastructure — research role without early-career marker",
+   "Senior Site Reliability Engineer — senior/experienced role",
+   "Creative Technologist — not a US location",
+   "Product Designer — title is not a technical role",
+   "Research Scientist - World Model — research role without early-career marker"
+  ],
+  "mercury": [
+   "Account Executive — non-technical role",
+   "AI Ops Lead - Forward Deploy — senior/experienced role",
+   "Counsel, Product & Regulatory - Payments & AML — title is not a technical role",
+   "Customer Support Specialist - Weekend — non-technical role",
+   "Customer Support Systems & Analytics Architect — senior/experienced role",
+   "Deputy Chief Information Security Officer - Bank — non-technical role",
+   "Events and Experiences Specialist - NYC — title is not a technical role",
+   "Executive Producer - Brand Creative — title is not a technical role"
+  ],
+  "mongodb": [
+   "Account Development Representative — not a US location",
+   "Account Development Representative — not a US location",
+   "Account Development Representative — not a US location",
+   "Account Development Representative — not a US location",
+   "Account Development Representative — not a US location",
+   "Account Development Representative - English Speaking — not a US location",
+   "Account Development Representative, French Speaking — not a US location",
+   "Account Development Representative, German Speaking — not a US location"
+  ],
+  "nvidia": [
+   "Principal Block and File Storage Software Engineer, Linux - DGX Cloud — senior/experienced role",
+   "Senior System Software Engineer - GPU Performance — not a US location",
+   "Senior Firmware Engineer – CSP Engagements — senior/experienced role",
+   "Senior Deep Learning Framework Communications Engineer — not a US location",
+   "Tax Manager — title is not a technical role",
+   "Linux Systems Administrator — not an early-career posting",
+   "Senior Developer Relations Manager, Brazil — not a US location",
+   "Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud — not a US location"
+  ],
+  "plaid": [
+   "Strategic Initiatives — title is not a technical role",
+   "Technical Support Engineer — not an early-career posting",
+   "Strategic Finance Lead, Product & Engineering — senior/experienced role",
+   "Staff Product Manager - AI Foundations — senior/experienced role",
+   "Account Executive - Fintech Named — non-technical role",
+   "Account Executive - SMB — non-technical role",
+   "Product Manager, Account Verification — title is not a technical role",
+   "Staff Software Engineer - AI Applications — senior/experienced role"
+  ],
+  "qube-rt": [
+   "2026 - Internship, Quantitative Developer — not a US location",
+   "2026 - Internship, Quantitative Research/Trading — not a US location",
+   "2027 Internship/Graduate - Data Engineer — not a US location",
+   "2027 Internship/Graduate - FPGA Engineer — not a US location",
+   "2027 Internship/Graduate - Infrastructure / Cloud Engineer — not a US location",
+   "2027 Internship/Graduate - Quantitative Developer / Software Engineer — not a US location",
+   "2027 Internship/Graduate - Quantitative Research/Trading — not a US location",
+   "2027 Internship/Graduate - Security Engineer — not a US location"
+  ],
+  "radix-experienced": [
+   "Compliance Specialist – Amsterdam — not a US location",
+   "HPC Systems Engineer — quant role without early-career marker",
+   "Network Engineer — quant role without early-career marker",
+   "Quantitative Business Analyst — quant role without early-career marker",
+   "Quantitative Business Strategist — quant role without early-career marker",
+   "Quantitative Researcher — quant role without early-career marker",
+   "Quantitative Technologist — quant role without early-career marker"
+  ],
+  "reddit": [
+   "3rd Party Partnerships Manager - Commerce — title is not a technical role",
+   "3rd Party Partnerships Manager - Signals — title is not a technical role",
+   "Ads Conversion Modeling, Machine Learning Engineering Manager — senior/experienced role",
+   "Agency Development Lead, DACH — not a US location",
+   "Backend Software Engineer, PDP Experience — not an early-career posting",
+   "Client Partner, Mid-Market Sales (Services - Acquisitions) — non-technical role",
+   "Community Lifecycle Manager — title is not a technical role",
+   "Community Manager - French speaker (contract) — not a US location"
+  ],
+  "replit": [
+   "Design Engineer — not an early-career posting",
+   "Staff Software Engineer, Product — senior/experienced role",
+   "Software Engineer, Mobile — not an early-career posting",
+   "Software Engineer, Growth — not an early-career posting",
+   "Product Engineer, New Products — not an early-career posting",
+   "Field Engineer — non-CS engineering discipline",
+   "Brand Copy Lead — title is not a technical role",
+   "Staff Infrastructure Engineer — senior/experienced role"
+  ],
+  "robinhood": [
+   "Account Maintenance Associate — title is not a technical role",
+   "Android Engineer, Government Products — not an early-career posting",
+   "Android Engineer, Money Experience — not an early-career posting",
+   "Assistant General Counsel, Canada — not a US location",
+   "Assistant General Counsel, Credit Cards — title is not a technical role",
+   "Assistant General Counsel, Regulatory — title is not a technical role",
+   "Business Analyst (New Grad) — title is not a technical role",
+   "Business Development Desk Manager — senior/experienced role"
+  ],
+  "runway": [
+   "⚙️ Senior/Staff Platform Engineer — not a US location",
+   "⚙️ Senior/Staff Product Engineer — not a US location",
+   "📈 Forward Deployed Finance Partner — not a US location",
+   "⚙️ Engineering Manager — not a US location"
+  ],
+  "salesforce": [
+   "Engagement Delivery Senior Manager — not a US location",
+   "Agentforce Service (Service Cloud) - Specialist Solution Engineer — not a US location",
+   "VP, ASEAN Alliances & Channels — not a US location",
+   "Salesforce 架構師 (Salesforce Solution Architect) — not a US location",
+   "Principal, Business Value Services — not a US location",
+   "Software Engineering LMTS — not an early-career posting",
+   "Account Partner Director - Retail Professional Services — not a US location",
+   "Pre-sales Security Architect - Public Sector/DOW — not a US location"
+  ],
+  "sambanova": [
+   "AI Hardware System Architect — senior/experienced role",
+   "ASIC Network Architect — senior/experienced role",
+   "Cloud Platform Architect — senior/experienced role",
+   "Cloud Platform Architect — not a US location",
+   "Compiler Architect — senior/experienced role",
+   "Contract Manufacturing Program Manager — title is not a technical role",
+   "Customer Success Manager — non-technical role",
+   "Customer Success Manager — not a US location"
+  ],
+  "schonfeld": [
+   "2026 BSc/MSc/PhD Quantitative Research/Strat Internship — not a US location",
+   "2026 LATAM Investment Analyst (Internship) — not a US location",
+   "2026 Operational Risk Internship — not a US location",
+   "AI Data Engineer — quant role without early-career marker",
+   "AI Strategy Analyst — not a US location",
+   "AI Training & Education Analyst — quant role without early-career marker",
+   "Associate Counsel, PM Legal and Fund Formation — title is not a technical role",
+   "Broker Relations, Associate — not a US location"
+  ],
+  "suno": [
+   "Staff Software Engineer, Frontend — senior/experienced role",
+   "Staff / Senior Software Engineer, Platform Teams — senior/experienced role",
+   "Staff / Senior Software Engineer, Product Teams — senior/experienced role",
+   "Machine Learning Scientist — not an early-career posting",
+   "Software Engineer, Android — not an early-career posting",
+   "iOS Engineer — not an early-career posting",
+   "Software Engineer, Growth — not an early-career posting",
+   "Software Engineer, Trust & Safety — not an early-career posting"
+  ],
+  "supabase": [
+   "Product Manager - Marketplace — not a US location",
+   "Customer Solution Architect (AMER) — not a US location",
+   "Support Engineer (EMEA) — not a US location",
+   "Support Engineer (AMER) — not a US location",
+   "Support Engineer (APAC) — not a US location",
+   "Multigres Engineer — not a US location",
+   "Developer Relations Engineer — not an early-career posting",
+   "Support Engineer (AMER - Weekends) — not a US location"
+  ],
+  "tenstorrent": [
+   "Acceleration Kernel Developer Lead — not a US location",
+   "AI/ML Physical Design Flow Engineer — not an early-career posting",
+   "Automotive and Robotics SOC Architect — senior/experienced role",
+   "Chiplet Design Architect — title is not a technical role",
+   "Chiplet Physical Design Engineer — not an early-career posting",
+   "C++ Machine Learning Engineer, Models Training — not a US location",
+   "CPU Architect, Load-Store — title is not a technical role",
+   "CPU Core Design Verification Testbench Lead — title is not a technical role"
+  ],
+  "together-ai": [
+   "AI infrastructure System Engineer Bangalore — not a US location",
+   "AI Infrastructure Systems Engineer — not an early-career posting",
+   "AI Infrastructure Systems Engineer (Amsterdam & London) — not a US location",
+   "Associate, Infrastructure Strategy & Operations — not an early-career posting",
+   "Commercial Counsel-Infrastructure and GTM — not an early-career posting",
+   "Customer Success Engineer (CSE), GPU Cluster — non-technical role",
+   "Data Center Operations Coordinator — not an early-career posting",
+   "Director, Data Center Operations — senior/experienced role"
+  ],
+  "vanta": [
+   "Sales Development Representative, Inbound — non-technical role",
+   "Senior Software Engineer, Developer Experience — not a US location",
+   "Account Executive, Early Stage - EMEA — not a US location",
+   "Senior Fullstack Software Engineer, GRC — not a US location",
+   "Backend Senior Software Engineer, Identity — not a US location",
+   "Principal Software Engineer, Program Structure — not a US location",
+   "Business Development Representative — not a US location",
+   "Account Executive- (Expression of Interest) APJ — not a US location"
+  ],
+  "vercel": [
+   "Account Executive, Commercial — not a US location",
+   "Account Executive, Majors — not a US location",
+   "Account Executive, Majors (APAC) — not a US location",
+   "Account Executive, Majors- Install Base (APAC) — not a US location",
+   "Account Executive-Startups, EMEA (French Speaker) — not a US location",
+   "Business Development Representative, Majors — not an early-career posting",
+   "Business Development Representative , Startups — not a US location",
+   "Commercial Account Executive, Greenfield — non-technical role"
+  ],
+  "affirm": [
+   "Administrative Assistant IV — title is not a technical role",
+   "Affirm Bank Strategic Finance Manager — title is not a technical role",
+   "Analyst — title is not a technical role",
+   "Analyst II, Full Stack (Revenue Analytics) — not a US location",
+   "Analytics Engineer II — not a US location",
+   "Analytics Lead, Full Stack — not a US location",
+   "Analytics Lead, Full Stack — not a US location",
+   "Analytics Lead, Strategic Insights (Compliance) — senior/experienced role"
+  ],
+  "airtable": [
+   "Account Executive, Strategic Accounts — non-technical role",
+   "Delivery Consultant — title is not a technical role",
+   "Engineering Manager, Enterprise Product — senior/experienced role",
+   "Global Payroll Manager — non-technical role",
+   "Manager, Business Development Representatives — senior/experienced role",
+   "Product Designer (8+ YOE) — title is not a technical role",
+   "Program Manager, Professional Services - East — title is not a technical role",
+   "Program Manager, Professional Services - West — title is not a technical role"
+  ],
+  "amplitude": [
+   "Customer Data Scientist - Experimentation — not a US location",
+   "Emerging Account Executive (India) — not a US location",
+   "Engineering Manager — senior/experienced role",
+   "Engineering Manager, Data Warehouse and Integrations — non-technical role",
+   "Engineering: Senior Customer Forward Deployed Engineer — senior/experienced role",
+   "Enterprise Account Executive — not a US location",
+   "Executive Assistant — non-technical role",
+   "Global Startup and Venture Program Lead — title is not a technical role"
+  ],
+  "asana": [
+   "Analytical Engineer — not a US location",
+   "Backend Software Engineer — not a US location",
+   "Benefits Manager, NAMER — title is not a technical role",
+   "Business Development Representative, German Speaking — not a US location",
+   "Chief of Staff — title is not a technical role",
+   "Compensation Program Manager — title is not a technical role",
+   "Corporate Account Executive — not a US location",
+   "Corporate Account Executive — non-technical role"
+  ],
+  "attentive": [
+   "Account Executive I, Mid-Market — non-technical role",
+   "Applied Science / Data Science Leader — not an early-career posting",
+   "Commercial Counsel — title is not a technical role",
+   "Director, Sales, AUS (Hybrid) — not a US location",
+   "Engineering Manager, Segmentation — senior/experienced role",
+   "Enterprise Account Executive, UK (Hybrid) — not a US location",
+   "Finance Manager, Revenue — title is not a technical role",
+   "GTM Engineer — not an early-career posting"
+  ],
+  "broadcom": [
+   "Staff Layout Engineer — not a US location",
+   "Mainframe Technical Support Engineer - Storage Management — not a US location",
+   "R&D IC Design Engineer — not a US location",
+   "Firmware Engineer 2 — not an early-career posting",
+   "Strategic Cloud Sales — non-technical role",
+   "DFT Engineer — not an early-career posting",
+   "FAB Asst — not a US location",
+   "I/O Design Engineer — not a US location"
+  ],
+  "chime": [
+   "Analyst, Investor Relations — title is not a technical role",
+   "Associate Creative Director, Growth Marketing — non-technical role",
+   "Chief of Staff, Head of Legal Ops — title is not a technical role",
+   "CX Partner Manager — title is not a technical role",
+   "Data Scientist, Growth Product — not an early-career posting",
+   "Design Director — title is not a technical role",
+   "Director, Associate General Counsel, Privacy, Cybersecurity, and AI — senior/experienced role",
+   "Director Engineering — senior/experienced role"
+  ],
+  "dropbox": [
+   "Account Executive — non-technical role",
+   "Business Development Manager, Strategic Partnerships — senior/experienced role",
+   "Business Development Manager, Strategic Partnerships — senior/experienced role",
+   "Data Analytics Partner, People Analytics — not an early-career posting",
+   "Data Analytics Partner, People Analytics — not an early-career posting",
+   "Director of Marketing Strategy — non-technical role",
+   "Director of Media Strategy & Activation (Paid Media) — title is not a technical role",
+   "Director, Sales Compensation — non-technical role"
+  ],
+  "exoduspoint": [
+   "Investment - ExodusPoint Jobs Page — title is not a technical role",
+   "Non-Investment - Referral — not a US location"
+  ],
+  "faire": [
+   "Account Executive — not a US location",
+   "Account Executive Bilingual (Spanish/English) — not a US location",
+   "Director of Applied AI/ML Science - Ads — senior/experienced role",
+   "Executive Assistant, Brand — non-technical role",
+   "Global Safety & Security Leader — not an early-career posting",
+   "GTM Systems Engineer — not an early-career posting",
+   "Head of Finance Systems & Data — senior/experienced role",
+   "Head of Retailer Product Marketing — non-technical role"
+  ],
+  "fastly": [
+   "Assistant General Counsel, Commercial — title is not a technical role",
+   "Deal Desk Manager — title is not a technical role",
+   "Director, APJ Field Marketing — not a US location",
+   "Director, Deal Desk & Strategy — title is not a technical role",
+   "Director, Enterprise Architecture, Automation and Integration — title is not a technical role",
+   "Director, Product Marketing – Security, AI and Emerging Technology — non-technical role",
+   "Finance Systems Analyst — not an early-career posting",
+   "Head of Global Total Rewards — title is not a technical role"
+  ],
+  "gong": [
+   "Account Executive - Private Equity — non-technical role",
+   "Backend Engineer, Communications Capture — not a US location",
+   "Collections Specialist — title is not a technical role",
+   "Commercial Account Executive — non-technical role",
+   "Commercial Account Executive — non-technical role",
+   "Commercial Account Executive, DACH — not a US location",
+   "Commercial Account Executive, DACH — not a US location",
+   "Commercial Account Executive, Israel — not a US location"
+  ],
+  "gusto": [
+   "401(k) Onboarding Advocate — title is not a technical role",
+   "Account Coordinator (Retirement Sponsor Support) — title is not a technical role",
+   "AI Engineer, Legal & Compliance — not an early-career posting",
+   "Benefits Advising (Renewals) Leader — title is not a technical role",
+   "Benefits Operations Lead — title is not a technical role",
+   "Brand & Motion Designer — title is not a technical role",
+   "Brokerage Operations Leader — title is not a technical role",
+   "Channel Partnerships Manager, Investor Ecosystems (VC & PE) — title is not a technical role"
+  ],
+  "instacart": [
+   "Activation Sales Development Representative I — non-technical role",
+   "Ads AI Analytics Lead II — not a US location",
+   "Ads AI Analytics Lead II — senior/experienced role",
+   "AI Solutions Lead, Marketing — not a US location",
+   "AI Solutions Lead, Marketing — non-technical role",
+   "Analytics Engineer II — not a US location",
+   "Bilingual Customer Experience Specialist — title is not a technical role",
+   "Chief of Staff, Online Grocery — not a US location"
+  ],
+  "klaviyo": [
+   "Account Executive Commercial, Italian Speaker — not a US location",
+   "Account Executive Commercial, Spanish Speaker — not a US location",
+   "Account Executive, Large Enterprise — non-technical role",
+   "Account Executive, Large Enterprise — non-technical role",
+   "Account Executive, Large Enterprise — non-technical role",
+   "Account Executive, Large Enterprise — non-technical role",
+   "Account Executive, Large Enterprise — non-technical role",
+   "Account Executive, Large Enterprise — non-technical role"
+  ],
+  "lyft": [
+   "Account Manager, Strategic Healthcare Partnerships — non-technical role",
+   "Account Manager, Strategic Healthcare Partnerships — non-technical role",
+   "AI Business Solutions Architect, People Technology — not a US location",
+   "Analyst, Business Planning & Forecasting — not a US location",
+   "Analyste Financier — not a US location",
+   "Analyst, Global Support Workforce Planning — not a US location",
+   "Analytics Lead, Airports — not a US location",
+   "Analytics Lead, LUS — not a US location"
+  ],
+  "man-group": [
+   "Analyst, Discretionary Middle Office Accounting — not a US location",
+   "Application Support Engineer — not a US location",
+   "Associate Portfolio Manager — title is not a technical role",
+   "Associate, Solutions Investment Specialists — not a US location",
+   "Business Manager — title is not a technical role",
+   "C# Engineer — not a US location",
+   "Client Portfolio Manager — not a US location",
+   "Client Relations Associate — title is not a technical role"
+  ],
+  "mixpanel": [
+   "Account Executive, DACH — not a US location",
+   "Account Executive, LATAM (Spanish) — non-technical role",
+   "Customer Engineer — not an early-career posting",
+   "Customer Engineer — not an early-career posting",
+   "Customer Value Architect — title is not a technical role",
+   "Customer Value Architect — title is not a technical role",
+   "Customer Value Architect, EMEA — not a US location",
+   "Customer Value Architect III — title is not a technical role"
+  ],
+  "okta": [
+   "Account Executive Auth0 — not a US location",
+   "Account Executive, Auth0 — not a US location",
+   "Account Executive Large Enterprise Public Sector — not a US location",
+   "Account Executive, Okta — not a US location",
+   "Advocacy & Content Strategist — not a US location",
+   "AI Journey Operations Manager — not a US location",
+   "AI Trainer — not a US location",
+   "Area Sales Director, Strategic — non-technical role"
+  ],
+  "pinterest": [
+   "Administrative Business Partner I - Engineering, Product and Design — not an early-career posting",
+   "Agency Lead — title is not a technical role",
+   "Agency Lead — not a US location",
+   "Client Account Manager - 8 month Fixed Term Contract — not a US location",
+   "Client Account Manager, Enterprise Sales (International Retail) — not a US location",
+   "Client Account Manager I — non-technical role",
+   "Client Account Manager II, Fashion & Apparel — non-technical role",
+   "Client Account Manager II (tvScientific) — non-technical role"
+  ],
+  "quadrature": [
+   "Internships — not a US location",
+   "Platform Engineer — quant role without early-career marker",
+   "Quantitative Developer — not a US location",
+   "We're Hiring! — not a US location"
+  ],
+  "railway": [
+   "Senior Full-Stack Engineer - Product — not a US location",
+   "Infrastructure Engineer — not a US location",
+   "Growth Content Engineer — not an early-career posting",
+   "Infra Engineer - Datacenters — not an early-career posting",
+   "Senior Platform Engineer: Storage — not a US location",
+   "Senior Infra Engineer: Observability — not a US location",
+   "Senior Infra Engineer: Baremetal Orchestration — not a US location",
+   "Senior Product Engineer, Scalability — not a US location"
+  ],
+  "render": [
+   "Open Application — title is not a technical role",
+   "Software Engineer, Product (all levels) — not an early-career posting",
+   "Software Engineer, Security (all levels) — not an early-career posting",
+   "Software Engineer, Infrastructure (all levels) — not an early-career posting",
+   "Software Engineer, Billing (all levels) — not an early-career posting",
+   "Software Engineer, Growth (all levels) — not an early-career posting",
+   "Software Engineer, Expansion (all levels) — not an early-career posting",
+   "Staff / Principal Product Manager, Platform & Infrastructure — senior/experienced role"
+  ],
+  "sentry": [
+   "Staff Machine Learning Engineer, AI — senior/experienced role",
+   "Senior Software Engineer, AI — senior/experienced role",
+   "Senior Enterprise Product Marketing Manager — non-technical role",
+   "Solutions Engineer — not an early-career posting",
+   "Senior Developer Experience Engineer — senior/experienced role",
+   "Senior Software Engineer, AI Evals — senior/experienced role",
+   "Senior Technical Customer Success Manager — non-technical role",
+   "Technical Enablement Director — title is not a technical role"
+  ],
+  "tailscale": [
+   "Billing Engineer — not an early-career posting",
+   "Brand Designer — non-technical role",
+   "Customer Account Executive — non-technical role",
+   "Customer Reliability Engineer — not an early-career posting",
+   "Customer Reliability Engineer — not a US location",
+   "Customer Support Engineer (Tier 1) — not a US location",
+   "Customer Support Engineer (Tier 1) — not an early-career posting",
+   "Customer Support Engineer (Tier 2) — not an early-career posting"
+  ],
+  "twilio": [
+   "Account Executive 4 — not a US location",
+   "Account Executive New Business — not a US location",
+   "Applications Engineer 2 — not a US location",
+   "Compensation Manager — title is not a technical role",
+   "Compliance Operations Specialist 1 — not a US location",
+   "Deal Desk Analyst — not a US location",
+   "Deal Desk Senior Analyst — not a US location",
+   "Deal Desk Senior Analyst — not a US location"
+  ],
+  "vatic-labs": [
+   "AI Engineer — quant role without early-career marker",
+   "AI Engineer (UAE) — not a US location",
+   "AI Researcher — quant role without early-career marker",
+   "AI Researcher (UAE) — not a US location",
+   "AI Research Internship (UAE) — not a US location",
+   "Low Latency C++ Engineer — quant role without early-career marker",
+   "Low Latency C++ Engineer (UAE) — not a US location",
+   "Quantitative Developer — quant role without early-career marker"
+  ],
+  "warp": [
+   "Sales Development Representative — non-technical role",
+   "Account Executive — non-technical role",
+   "Software Engineer, Product — not an early-career posting",
+   "Tax Operations Specialist — title is not a technical role",
+   "Customer Experience Specialist — title is not a technical role",
+   "Design Engineer — not an early-career posting",
+   "Account Manager — non-technical role",
+   "Revenue Operations Specialist — title is not a technical role"
+  ],
+  "zed": [
+   "Open Source Engineer — not a US location",
+   "Designer — not a US location"
   ]
  }
 }

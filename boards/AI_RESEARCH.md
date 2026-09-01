@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**54 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**56 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -20,6 +20,8 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 | **Mercor** | Data Scientist | San Francisco | $130k–$500k | · | today | [apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
 | **Mercor** | Mercor Research Fellowship — APEX | San Francisco, New York City | $40k | · | today | [apply](https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application) |
 | **Physical Intelligence** | Research Internships | San Francisco | — | · | today | [apply](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076/application) |
+| **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | United States | — | 🛂 | today | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
+| **Scale AI** | SWE Fellow - Human Frontier Collective (US) | United States | — | 🛂 | today | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) |
 
 ## Tier 1 — Established elite
 
@@ -74,4 +76,4 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 
 ---
 
-Generated 2026-09-01 05:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 05:11 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

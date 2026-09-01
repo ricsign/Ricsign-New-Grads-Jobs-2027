@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-01T05:00:18+00:00</updated>
+  <updated>2026-09-01T05:11:03+00:00</updated>
   <entry>
     <title>Anthropic — Anthropic Fellows Program</title>
     <link href="https://job-boards.greenhouse.io/anthropic/jobs/5023394008"/>
@@ -132,6 +132,22 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Scale AI — Machine Learning Fellow - Human Frontier Collective (US)</title>
+    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4660340005"/>
+    <id>tag:ricsign.github.io,2026:b554bdc9e1324edd</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>United States · no-sponsorship · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Scale AI — SWE Fellow - Human Frontier Collective (US)</title>
+    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4689947005"/>
+    <id>tag:ricsign.github.io,2026:2b6950067f7d87a5</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>United States · no-sponsorship · unspecified</summary>
   </entry>
   <entry>
     <title>Sierra — Software Engineer, Agent (New Grad 2027)</title>
@@ -387,22 +403,6 @@
     <id>tag:ricsign.github.io,2026:c59794b34a10a4a9</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer Intern - C# .NET Desktop, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"/>
-    <id>tag:ricsign.github.io,2026:ce5770e9aab37c6c</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer Intern - C++, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"/>
-    <id>tag:ricsign.github.io,2026:13515bc30289db1d</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
     <summary>Chicago, IL · unknown · masters-preferred</summary>
   </entry>
 </feed>
