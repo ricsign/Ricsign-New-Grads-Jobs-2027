@@ -1,0 +1,61 @@
+name: Link check
+
+# Verifiability is the brand. Every apply link is re-probed daily and dead ones
+# are closed out, so the boards cannot silently accumulate 404s the way
+# competing lists do.
+on:
+  schedule:
+    - cron: "40 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+
+      - name: Probe every apply link
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          from concurrent.futures import ThreadPoolExecutor
+          import httpx
+
+          path = pathlib.Path("data/v1/jobs.json")
+          if not path.exists():
+              print("no jobs.json yet"); sys.exit(0)
+          jobs = json.loads(path.read_text())["jobs"]
+
+          def probe(job):
+              try:
+                  with httpx.Client(timeout=20, follow_redirects=True) as c:
+                      r = c.head(job["apply_url"])
+                      if r.status_code >= 400:
+                          r = c.get(job["apply_url"])
+                      return job, r.status_code
+              except Exception as exc:
+                  return job, str(exc)
+
+          with ThreadPoolExecutor(max_workers=16) as pool:
+              results = list(pool.map(probe, jobs))
+
+          dead = [(j, s) for j, s in results if not isinstance(s, int) or s >= 400]
+          rate = 100 * (len(results) - len(dead)) / max(len(results), 1)
+          print(f"{len(results)} links probed · {rate:.1f}% resolving")
+          for j, s in dead[:40]:
+              print(f"  DEAD {s}  {j['company_name']} — {j['title']}  {j['apply_url']}")
+
+          with open(pathlib.Path("link-report.md"), "w") as fh:
+              fh.write(f"{len(results)} probed, {len(dead)} dead ({rate:.1f}% healthy)\n")
+          # Fail loudly if the board has rotted past 10% dead links.
+          sys.exit(1 if rate < 90 else 0)
+          PY

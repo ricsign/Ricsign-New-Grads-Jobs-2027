@@ -1,0 +1,50 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements-dev.txt
+
+      - name: Install
+        run: pip install -r requirements-dev.txt
+
+      - name: Lint
+        run: ruff check src tests
+
+      - name: Test
+        run: pytest -q --cov=eliteboard --cov-report=term-missing
+
+      - name: Validate registry and published data
+        run: python -m eliteboard.cli validate
+
+      - name: Validate jobs.json against the published schema
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          import jsonschema
+          jobs = pathlib.Path("data/v1/jobs.json")
+          if not jobs.exists():
+              print("jobs.json not generated yet - skipping"); sys.exit(0)
+          schema = json.loads(pathlib.Path("data/v1/schema.json").read_text())
+          jsonschema.validate(json.loads(jobs.read_text()), schema)
+          print("jobs.json conforms to schema v1")
+          PY
