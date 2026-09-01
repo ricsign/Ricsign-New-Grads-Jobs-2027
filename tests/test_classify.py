@@ -348,3 +348,77 @@ class TestEarlyCareerSignalsInTheBody:
     def test_research_title_with_body_signal_lands_on_research(self, company):
         p = make_posting("Research Engineer", description="We welcome recent PhD graduates.")
         assert classify_track(p, company) is Track.AI_RESEARCH
+
+
+class TestExperienceClauses:
+    """Found by looking at the rendered board: "Software Engineer, Infrastructure
+    (4-8 YOE)" was sitting on the new-grad board."""
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "Software Engineer, Infrastructure (4-8 YOE)",
+            "Backend Engineer 3+ YOE",
+            "Software Engineer (5+ years)",
+            "Platform Engineer, 2-4 years",
+            "Software Engineer (10+ yrs)",
+        ],
+    )
+    def test_rejects_experience_requirements(self, title, company):
+        ok, reason = is_eligible(make_posting(title), company)
+        assert not ok and reason == "senior/experienced role"
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "Software Engineer, 0-2 years",
+            "New Grad Software Engineer",
+            "Software Engineer I",
+            "SDE I",
+        ],
+    )
+    def test_keeps_early_career_experience_bands(self, title, company):
+        # "0-2 years" is a new-grad signal. A range only reads as senior when
+        # its UPPER bound is 4 or more.
+        assert is_eligible(make_posting(title), company)[0]
+
+
+class TestFellowRoles:
+    def test_technical_fellow_is_early_career(self, company):
+        p = make_posting("Machine Learning Fellow - Human Frontier Collective (US)")
+        ok, _ = is_eligible(p, company)
+        assert ok and classify_track(p, company) is Track.AI_RESEARCH
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "Legal Fellow - Human Frontier Collective (US)",
+            "Finance Fellow - Human Frontier Collective (US)",
+            "Medical Fellow - Human Frontier Collective (US)",
+        ],
+    )
+    def test_non_technical_fellows_are_still_rejected(self, title, company):
+        # A bare "Fellow" marks early career but must NOT bypass the technical
+        # gate the way a named program does - Scale AI posts all three of these.
+        assert not is_eligible(make_posting(title), company)[0]
+
+    def test_fellow_engineer_is_a_staff_title_not_early_career(self, company):
+        assert not is_eligible(make_posting("Fellow Engineer, Distributed Systems"), company)[0]
+
+
+class TestBodySignalPrecision:
+    def test_currently_pursuing_our_mission_is_not_a_degree(self, company):
+        # Ordinary business English was admitting senior roles through the
+        # body-signal path. The phrase now requires an actual degree noun.
+        p = make_posting(
+            "Software Engineer",
+            description="We are currently pursuing our mission to connect the world.",
+        )
+        assert not is_eligible(p, company)[0]
+
+    def test_currently_pursuing_a_degree_still_counts(self, company):
+        p = make_posting(
+            "Software Engineer",
+            description="You are currently pursuing a Bachelor's degree in Computer Science.",
+        )
+        assert is_eligible(p, company)[0]

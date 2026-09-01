@@ -67,7 +67,7 @@ class TestBuildJobs:
                          locations=["London, UK"]),
             make_posting("Recruiter", external_id="10"),
         ]
-        jobs, rejections, per_company, samples = build_jobs(postings, index, store, today=TODAY)
+        jobs, rejections, per_company, samples, _ = build_jobs(postings, index, store, today=TODAY)
         assert len(jobs) == 1
         assert sum(rejections.values()) == 3
         assert set(rejections) == {
@@ -82,7 +82,7 @@ class TestBuildJobs:
             make_posting("New Grad Software Engineer", external_id="1"),
             make_posting("Senior Software Engineer", external_id="2"),
         ]
-        _, _, per_company, _ = build_jobs(postings, index, store, today=TODAY)
+        _, _, per_company, _, _ = build_jobs(postings, index, store, today=TODAY)
         # A zero-published company must still show what we pulled, so a reader
         # can tell "their board was empty" from "we filtered everything out".
         assert per_company["anthropic"] == {"fetched": 2, "published": 1}

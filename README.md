@@ -8,6 +8,12 @@ A curated 2027 job board for CS students optimizing for the top of the market �
 re-verified every 6 hours, with sponsorship, compensation and real freshness
 data on every row.
 
+### ▶ [**Browse and filter all roles →**](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/)
+
+Search by company, role or location. Filter by track, visa sponsorship, degree and
+tier. Shareable URLs. No sign-up, no tracking, no email wall.
+
+Or read them as plain markdown:
 [**New Grad SWE**](boards/NEW_GRAD_SWE.md) · [**AI/ML Research**](boards/AI_RESEARCH.md) · [**Quant**](boards/QUANT.md) · [**Internships**](boards/INTERNSHIPS.md)
 
 [![Refresh](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/refresh.yml/badge.svg)](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/refresh.yml)
