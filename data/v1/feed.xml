@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Elite 2027 New Grad &amp; Internship Roles</title>
+  <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
+  <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
+  <id>tag:ricsign.github.io,2026:eliteboard</id>
+  <updated>2026-09-01T04:23:05+00:00</updated>
+  <entry>
+    <title>Cohere — Software Engineer Intern (Winter 2027)</title>
+    <link href="https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application"/>
+    <id>tag:ricsign.github.io,2026:f8dfa4ed677e4202</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>United States · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Cohere — Research Internship (Winter 2027)</title>
+    <link href="https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application"/>
+    <id>tag:ricsign.github.io,2026:a64db03dbf5fb174</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Cohere — Machine Learning Intern/Co-op (Winter 2027)</title>
+    <link href="https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application"/>
+    <id>tag:ricsign.github.io,2026:0a05645c70a3a172</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>United States · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Databricks — PhD GenAI Research Scientist Intern</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"/>
+    <id>tag:ricsign.github.io,2026:2ca5d4080b48e19a</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, California, Mountain View, California · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Databricks — Software Engineering Intern (2027 Start) - Winter</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"/>
+    <id>tag:ricsign.github.io,2026:9621dd992804227e</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Bellevue, Washington; Mountain View, California; San Francisco, California, Mountain View, California · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Figure AI — Electrical Engineering Intern [Fall 2026]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4676467006"/>
+    <id>tag:ricsign.github.io,2026:fbabdfeaa80e55b6</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose, CA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Figure AI — Firmware Intern [Fall 2026]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4691070006"/>
+    <id>tag:ricsign.github.io,2026:3dea65db7b686014</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose, CA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Figure AI — Hardware Test Intern [Fall 2026]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4613067006"/>
+    <id>tag:ricsign.github.io,2026:abe53bc084cecb27</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose, CA · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Figure AI — Power Systems Integration Intern [Fall 2026]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4702104006"/>
+    <id>tag:ricsign.github.io,2026:8925e21b4dbe6c4e</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose, CA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Physical Intelligence — Research Internships</title>
+    <link href="https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076/application"/>
+    <id>tag:ricsign.github.io,2026:853c618b52153c06</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Sierra — Software Engineer, Agent (New Grad 2027)</title>
+    <link href="https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application"/>
+    <id>tag:ricsign.github.io,2026:11fe5123e25fd17f</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, CA, New York, NY · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Sierra — Intern, Agent Development (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application"/>
+    <id>tag:ricsign.github.io,2026:918681b2b0cf30a6</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, New York, NY · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Sierra — Intern, Agent Development (Winter 2027)</title>
+    <link href="https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application"/>
+    <id>tag:ricsign.github.io,2026:2e7fc13de86c918d</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Stripe — Software Engineer, Intern (Summer or Winter)</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8128745"/>
+    <id>tag:ricsign.github.io,2026:a5520d24d118a8f2</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, Seattle, New York City, US · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Stripe — Software Engineer, New Grad</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8128744"/>
+    <id>tag:ricsign.github.io,2026:3b92342cb2921e57</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, Seattle, New York, US · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — 2027 Business Development Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=7926659&amp;gh_jid=7926659"/>
+    <id>tag:ricsign.github.io,2026:12047bb2589ab2ec</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — 2027 Engineering Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=7926647&amp;gh_jid=7926647"/>
+    <id>tag:ricsign.github.io,2026:a79252000b073d12</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — 2027 Quantitative Prediction Markets Research Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=8122378&amp;gh_jid=8122378"/>
+    <id>tag:ricsign.github.io,2026:28f39534a0281dfc</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — 2027 Research and Portfolio Management Engineering Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=7957728&amp;gh_jid=7957728"/>
+    <id>tag:ricsign.github.io,2026:c0410b8156041390</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — 2027 Research Product Specialist Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=8123095&amp;gh_jid=8123095"/>
+    <id>tag:ricsign.github.io,2026:aa659b42f0236937</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — 2027 Research Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=7895583&amp;gh_jid=7895583"/>
+    <id>tag:ricsign.github.io,2026:0f383142de4d5cd8</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — 2027 Trading Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=8077110&amp;gh_jid=8077110"/>
+    <id>tag:ricsign.github.io,2026:539c4c044c6c5874</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — AQR Arbitrage - 2027 Research Summer Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=8156993&amp;gh_jid=8156993"/>
+    <id>tag:ricsign.github.io,2026:42921704c3d2ff1d</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Greenwich, CT · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Hardware Engineer Intern, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"/>
+    <id>tag:ricsign.github.io,2026:2a881bab8140af41</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Junior Quantitative Developer &amp; Strategist</title>
+    <link href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"/>
+    <id>tag:ricsign.github.io,2026:a0863ca5d0587fcb</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, IL, Chicago · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Junior Quantitative Researcher</title>
+    <link href="https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541"/>
+    <id>tag:ricsign.github.io,2026:722d9ecdc58aca28</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, IL, Chicago · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Junior Quantitative Risk Analyst</title>
+    <link href="https://www.akunacapital.com/careers/job/8035515/?gh_jid=8035515"/>
+    <id>tag:ricsign.github.io,2026:f1b5716b9a610f10</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Platform Engineer Intern, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856"/>
+    <id>tag:ricsign.github.io,2026:27fe2f10e6e54ed9</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Quantitative Development &amp; Strategy Intern, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"/>
+    <id>tag:ricsign.github.io,2026:55d77f08e29f2cb2</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Quantitative Research Intern, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614"/>
+    <id>tag:ricsign.github.io,2026:7edac406a701fe44</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Software Engineer (Entry-Level) - C++</title>
+    <link href="https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"/>
+    <id>tag:ricsign.github.io,2026:3ec16f30e2c52558</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Software Engineer (Entry-Level) - Python</title>
+    <link href="https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"/>
+    <id>tag:ricsign.github.io,2026:c59794b34a10a4a9</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Software Engineer Intern - C# .NET Desktop, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"/>
+    <id>tag:ricsign.github.io,2026:ce5770e9aab37c6c</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Software Engineer Intern - C++, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"/>
+    <id>tag:ricsign.github.io,2026:13515bc30289db1d</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Software Engineer Intern - Full Stack Web, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"/>
+    <id>tag:ricsign.github.io,2026:d7b01aa1282a3c20</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Akuna Capital — Software Engineer Intern - Python, Summer 2027</title>
+    <link href="https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"/>
+    <id>tag:ricsign.github.io,2026:5f6b140f2a027e63</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, IL, Chicago · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Software Development Engineer Intern, Annapurna Labs - 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"/>
+    <id>tag:ricsign.github.io,2026:4bbefee9b5f98db9</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Cupertino, California, USA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Amazon — ASIC Engineer Intern, Annapurna Labs - 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027"/>
+    <id>tag:ricsign.github.io,2026:28cb8319e7ae862c</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Cupertino, California, USA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Robotics - Software Development Engineer Fall Intern/Co-op - 2026</title>
+    <link href="https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026"/>
+    <id>tag:ricsign.github.io,2026:ab04757be9769922</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Westboro, Wisconsin, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us"/>
+    <id>tag:ricsign.github.io,2026:58046c15b3bb1914</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Seattle, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Software Development Engineer Fall Intern - Military Veteran</title>
+    <link href="https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran"/>
+    <id>tag:ricsign.github.io,2026:9bde78dd8404e1ad</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Seattle, Washington, USA · citizenship-required · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)</title>
+    <link href="https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more"/>
+    <id>tag:ricsign.github.io,2026:b1021e940ce08937</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>North Reading, Massachusetts, USA · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2026 Early Career Electrical Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/4802172007?gh_jid=4802172007"/>
+    <id>tag:ricsign.github.io,2026:4534d2944205622f</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States; Fort Collins, Colorado, United States, Atlanta, GA (ATL-01), Costa Mesa, CA (OC-00), Fort Collins, CO (CO-13) · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2026 Early Career Flight Test Engineer, Mission Autonomy</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5185089007?gh_jid=5185089007"/>
+    <id>tag:ricsign.github.io,2026:f405154294b54093</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States, Costa Mesa, CA (OC-00) · security-clearance · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2026 Early Career Manufacturing Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007"/>
+    <id>tag:ricsign.github.io,2026:2a2ff1c4d9b9cb0b</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States, Costa Mesa, CA (OC-00), Irvine, CA (OC-62), Santa Ana, CA (OC-21) · citizenship-required · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2026 Early Career Mechanical Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/4802167007?gh_jid=4802167007"/>
+    <id>tag:ricsign.github.io,2026:767318b3572f0806</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States, Atlanta, GA (ATL-01), Costa Mesa, CA (OC-00) · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2026 Early Career Software Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007"/>
+    <id>tag:ricsign.github.io,2026:b7aef66d3912ec95</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States, Atlanta, GA (ATL-01), Boston, MA (BOS-01), Broomfield, CO (CO-02), Colorado Springs, CO (CO-21), Costa Mesa, CA (OC-00), Fort Collins, CO (CO-11), Seattle, WA (SEA-01), Washington, DC (909) (Archived) · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2026 Early Career Test &amp; Evaluation Systems Integrator</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007"/>
+    <id>tag:ricsign.github.io,2026:468329870954cca4</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States, Costa Mesa, CA (OC-00) · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2027 Early Career Electrical Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5136925007?gh_jid=5136925007"/>
+    <id>tag:ricsign.github.io,2026:ef735787036d4127</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States, Atlanta, GA (ATL-01), Boston, MA (BOS-01), Broomfield, CO (CO-02), Colorado Springs, CO (CO-21), Costa Mesa, CA (OC-00), Fort Collins, CO (CO-11), Huntsville, AL (HSV-01), Irvine, CA (OC-62), Reston, VA (NOVA-01), Seattle, WA (SEA-01) · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2027 Early Career Manufacturing Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5136970007?gh_jid=5136970007"/>
+    <id>tag:ricsign.github.io,2026:a636da2e8bcd0263</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States, Ashville, OH (Arsenal 1), Atlanta, GA (ATL-01), Boston, MA (BOS-01), Broomfield, CO (CO-02), Colorado Springs, CO (CO-21), Costa Mesa, CA (OC-00), Fort Collins, CO (CO-11), Irvine, CA (OC-62), Seattle, WA (SEA-01) · citizenship-required · masters-preferred</summary>
+  </entry>
+</feed>

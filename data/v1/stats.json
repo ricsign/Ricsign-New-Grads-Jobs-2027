@@ -1,0 +1,84 @@
+{
+ "generated_at": "2026-09-01T04:23:05+00:00",
+ "live_roles": 301,
+ "companies_with_open_roles": 48,
+ "by_track": {
+  "new-grad-swe": 93,
+  "ai-research": 2,
+  "quant": 44,
+  "internship": 162,
+  "other": 0
+ },
+ "by_tier": {
+  "0": 15,
+  "1": 260,
+  "2": 26
+ },
+ "by_sponsorship": {
+  "sponsors": 20,
+  "no-sponsorship": 6,
+  "citizenship-required": 52,
+  "security-clearance": 7,
+  "unknown": 216
+ },
+ "by_degree": {
+  "bachelors": 44,
+  "masters-preferred": 104,
+  "phd-required": 41,
+  "unspecified": 112
+ },
+ "sponsorship_resolved_pct": 28.2,
+ "freshness": {
+  "tracked": 301,
+  "live": 301,
+  "closed": 0,
+  "median_age_days": 0,
+  "p90_age_days": 0,
+  "max_age_days": 0,
+  "verified_within_24h": 301
+ },
+ "pipeline_health": {
+  "boards_attempted": 131,
+  "boards_ok": 128,
+  "boards_empty": 1,
+  "boards_failed": 2,
+  "success_rate": 0.9771,
+  "postings_fetched": 21584,
+  "by_source": {
+   "greenhouse": 78,
+   "ashby": 41,
+   "workday": 5,
+   "amazon": 1,
+   "eightfold": 1,
+   "lever": 2
+  },
+  "failures": [
+   {
+    "company": "AMD",
+    "ats": "workday",
+    "error": "RuntimeError: POST https://amd.wd1.myworkdayjobs.com/wday/cxs/amd/External/jobs failed after 3 attempts: Client error '422 Unprocessable Entity' for url 'https://amd.wd1.myworkdayjobs.com/wday/cxs/amd/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+   },
+   {
+    "company": "Qualcomm",
+    "ats": "eightfold",
+    "error": "RuntimeError: GET https://careers.qualcomm.com/api/apply/v2/jobs failed after 3 attempts: Client error '403 FORBIDDEN' for url 'https://careers.qualcomm.com/api/apply/v2/jobs?domain=qualcomm.com&start=0&num=10&sort_by=timestamp'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
+   }
+  ],
+  "empty_boards": [
+   {
+    "company": "Marshall Wace",
+    "ats": "greenhouse",
+    "token": "marshallwace"
+   }
+  ],
+  "rejections": {
+   "not a US location": 5898,
+   "senior/experienced role": 4630,
+   "title is not a technical role": 4273,
+   "not an early-career posting": 3272,
+   "non-technical role": 2388,
+   "quant role without early-career marker": 295,
+   "research role without early-career marker": 133
+  }
+ }
+}
