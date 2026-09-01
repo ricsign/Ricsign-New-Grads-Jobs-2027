@@ -1,0 +1,198 @@
+# ============================================================================
+# THE COMPANY BAR
+# ----------------------------------------------------------------------------
+# This file is the product. Everything downstream is plumbing.
+#
+# A company is in this registry only if a strong CS candidate would take the
+# interview without being asked twice. That is a deliberately high, subjective,
+# and *auditable* bar - see docs/COMPANY_BAR.md for the written criteria and
+# the explicit exclusion list.
+#
+# Every `token` below was fetched live against its ATS before being committed.
+# `verified_at` records when. Adapters assert non-empty responses, because a
+# board can return HTTP 200 with zero postings (see the `enabled: false`
+# entries) and a naive 200-check would silently scrape nothing forever.
+#
+# tier 0  Frontier AI lab or equivalent. Research-defining work, comp at the
+#         very top of the market, hiring bar to match.
+# tier 1  Established elite. FAANG+, top quant/HFT, category-leading scale-ups.
+# tier 2  Strong specialist or earlier-stage company with a real engineering
+#         reputation. Included, but ranked below tiers 0 and 1 everywhere.
+# ============================================================================
+
+schema_version: 1
+updated: "2026-09-01"
+
+companies:
+
+  # ---------------------------------------------------------------- ai labs --
+  - { name: Anthropic,             slug: anthropic,        tier: 0, category: ai-lab,   ats: greenhouse, token: anthropic,               careers_url: "https://www.anthropic.com/careers",                    verified_at: "2026-09-01" }
+  - { name: OpenAI,                slug: openai,           tier: 0, category: ai-lab,   ats: ashby,      token: openai,                  careers_url: "https://openai.com/careers",                           verified_at: "2026-09-01" }
+  - { name: xAI,                   slug: xai,              tier: 0, category: ai-lab,   ats: greenhouse, token: xai,                     careers_url: "https://x.ai/careers",                                 verified_at: "2026-09-01" }
+  - { name: Mistral AI,            slug: mistral-ai,       tier: 0, category: ai-lab,   ats: ashby,      token: "mistral.ai",            careers_url: "https://mistral.ai/careers",                           verified_at: "2026-09-01", note: "Ashby token contains a literal dot" }
+  - { name: Cohere,                slug: cohere,           tier: 0, category: ai-lab,   ats: ashby,      token: cohere,                  careers_url: "https://cohere.com/careers",                           verified_at: "2026-09-01" }
+  - { name: Thinking Machines Lab, slug: thinking-machines, tier: 0, category: ai-lab,  ats: ashby,      token: thinkingmachines,        careers_url: "https://thinkingmachines.ai/",                         verified_at: "2026-09-01" }
+  - { name: Reflection AI,         slug: reflection-ai,    tier: 0, category: ai-lab,   ats: ashby,      token: reflectionai,            careers_url: "https://reflection.ai/careers",                        verified_at: "2026-09-01" }
+  - { name: Cognition,             slug: cognition,        tier: 0, category: ai-lab,   ats: ashby,      token: cognition,               careers_url: "https://cognition.ai/careers",                         verified_at: "2026-09-01" }
+  - { name: Anysphere (Cursor),    slug: anysphere,        tier: 0, category: ai-lab,   ats: ashby,      token: cursor,                  careers_url: "https://cursor.com/careers",                           verified_at: "2026-09-01", note: "Token is 'cursor', not 'anysphere'" }
+  - { name: Perplexity,            slug: perplexity,       tier: 0, category: ai-lab,   ats: ashby,      token: perplexity,              careers_url: "https://www.perplexity.ai/careers",                    verified_at: "2026-09-01" }
+  - { name: Scale AI,              slug: scale-ai,         tier: 0, category: ai-lab,   ats: greenhouse, token: scaleai,                 careers_url: "https://scale.com/careers",                            verified_at: "2026-09-01" }
+  - { name: Sierra,                slug: sierra,           tier: 0, category: ai-lab,   ats: ashby,      token: sierra,                  careers_url: "https://sierra.ai/careers",                            verified_at: "2026-09-01" }
+  - { name: Harvey,                slug: harvey,           tier: 0, category: ai-lab,   ats: ashby,      token: harvey,                  careers_url: "https://www.harvey.ai/careers",                        verified_at: "2026-09-01" }
+  - { name: Poolside,              slug: poolside,         tier: 0, category: ai-lab,   ats: ashby,      token: poolside,                careers_url: "https://poolside.ai/careers",                          verified_at: "2026-09-01" }
+  - { name: ElevenLabs,            slug: elevenlabs,       tier: 0, category: ai-lab,   ats: ashby,      token: elevenlabs,              careers_url: "https://elevenlabs.io/careers",                        verified_at: "2026-09-01" }
+  - { name: Mercor,                slug: mercor,           tier: 0, category: ai-lab,   ats: ashby,      token: mercor,                  careers_url: "https://mercor.com/careers",                           verified_at: "2026-09-01" }
+  - { name: Physical Intelligence, slug: physical-intelligence, tier: 0, category: robotics, ats: ashby, token: physicalintelligence,    careers_url: "https://www.physicalintelligence.company/careers",     verified_at: "2026-09-01" }
+  - { name: Figure AI,             slug: figure-ai,        tier: 0, category: robotics,  ats: greenhouse, token: figureai,               careers_url: "https://www.figure.ai/careers",                        verified_at: "2026-09-01" }
+
+  - { name: Character.AI,          slug: character-ai,     tier: 1, category: ai-lab,   ats: ashby,      token: character,               careers_url: "https://character.ai/careers",                         verified_at: "2026-09-01", note: "Token is 'character', not 'characterai'" }
+  - { name: Decagon,               slug: decagon,          tier: 1, category: ai-lab,   ats: ashby,      token: decagon,                 careers_url: "https://decagon.ai/careers",                           verified_at: "2026-09-01" }
+  - { name: Luma AI,               slug: luma-ai,          tier: 1, category: ai-lab,   ats: ashby,      token: lumaai,                  careers_url: "https://lumalabs.ai/careers",                          verified_at: "2026-09-01" }
+  - { name: Suno,                  slug: suno,             tier: 1, category: ai-lab,   ats: ashby,      token: suno,                    careers_url: "https://suno.com/careers",                             verified_at: "2026-09-01" }
+  - { name: Runway,                slug: runway,           tier: 1, category: ai-lab,   ats: ashby,      token: runway,                  careers_url: "https://runwayml.com/careers",                         verified_at: "2026-09-01" }
+  - { name: LangChain,             slug: langchain,        tier: 1, category: dev-tools, ats: ashby,     token: langchain,               careers_url: "https://www.langchain.com/careers",                    verified_at: "2026-09-01" }
+
+  # ------------------------------------------------------- ai infra / silicon --
+  - { name: Together AI,           slug: together-ai,      tier: 1, category: infra,    ats: greenhouse, token: togetherai,              careers_url: "https://www.together.ai/careers",                      verified_at: "2026-09-01" }
+  - { name: Fireworks AI,          slug: fireworks-ai,     tier: 1, category: infra,    ats: ashby,      token: fireworks,               careers_url: "https://fireworks.ai/careers",                         verified_at: "2026-09-01" }
+  - { name: Baseten,               slug: baseten,          tier: 1, category: infra,    ats: ashby,      token: baseten,                 careers_url: "https://www.baseten.co/careers",                       verified_at: "2026-09-01" }
+  - { name: Modal,                 slug: modal,            tier: 1, category: infra,    ats: ashby,      token: modal,                   careers_url: "https://modal.com/careers",                            verified_at: "2026-09-01" }
+  - { name: Cerebras,              slug: cerebras,         tier: 1, category: infra,    ats: ashby,      token: cerebras,                careers_url: "https://www.cerebras.ai/careers",                      verified_at: "2026-09-01" }
+  - { name: SambaNova,             slug: sambanova,        tier: 1, category: infra,    ats: greenhouse, token: sambanovasystems,        careers_url: "https://sambanova.ai/careers",                         verified_at: "2026-09-01" }
+  - { name: Etched,                slug: etched,           tier: 1, category: infra,    ats: ashby,      token: etched,                  careers_url: "https://www.etched.com/careers",                       verified_at: "2026-09-01" }
+  - { name: Tenstorrent,           slug: tenstorrent,      tier: 1, category: infra,    ats: greenhouse, token: tenstorrent,             careers_url: "https://tenstorrent.com/careers",                      verified_at: "2026-09-01" }
+
+  # ------------------------------------------------------------ big tech ----
+  # These do not expose a standard ATS board. Each needs a bespoke adapter;
+  # where no fetchable endpoint exists we still list the company so the boards
+  # can carry an accurate direct link rather than pretending it isn't hiring.
+  - { name: Amazon,      slug: amazon,      tier: 1, category: big-tech, ats: amazon,    token: amazon,                     careers_url: "https://www.amazon.jobs/en/teams/internships-for-students", verified_at: "2026-09-01" }
+  - { name: Netflix,     slug: netflix,     tier: 1, category: big-tech, ats: eightfold, token: "netflix.com",              careers_url: "https://explore.jobs.netflix.net/careers",   verified_at: "2026-09-01", eightfold_host: "explore.jobs.netflix.net" }
+  - { name: NVIDIA,      slug: nvidia,      tier: 1, category: big-tech, ats: workday,   token: nvidia,                     careers_url: "https://www.nvidia.com/en-us/about-nvidia/careers/", verified_at: "2026-09-01", workday: { tenant: nvidia, wd: wd5, site: NVIDIAExternalCareerSite } }
+  - { name: Salesforce,  slug: salesforce,  tier: 1, category: big-tech, ats: workday,   token: salesforce,                 careers_url: "https://careers.salesforce.com/",             verified_at: "2026-09-01", workday: { tenant: salesforce, wd: wd12, site: External_Career_Site } }
+  - { name: Adobe,       slug: adobe,       tier: 1, category: big-tech, ats: workday,   token: adobe,                      careers_url: "https://careers.adobe.com/",                  verified_at: "2026-09-01", workday: { tenant: adobe, wd: wd5, site: external_experienced } }
+  - { name: Intel,       slug: intel,       tier: 2, category: big-tech, ats: workday,   token: intel,                      careers_url: "https://jobs.intel.com/",                     verified_at: "2026-09-01", workday: { tenant: intel, wd: wd1, site: External } }
+  - { name: AMD,         slug: amd,         tier: 1, category: big-tech, ats: workday,   token: amd,                        careers_url: "https://careers.amd.com/",                    verified_at: "2026-09-01", workday: { tenant: amd, wd: wd1, site: External } }
+  - { name: Broadcom,    slug: broadcom,    tier: 2, category: big-tech, ats: workday,   token: broadcom,                   careers_url: "https://www.broadcom.com/company/careers",    verified_at: "2026-09-01", workday: { tenant: broadcom, wd: wd1, site: External_Career } }
+  - { name: Qualcomm,    slug: qualcomm,    tier: 2, category: big-tech, ats: eightfold, token: "qualcomm.com",             careers_url: "https://careers.qualcomm.com/",               verified_at: "2026-09-01", eightfold_host: "careers.qualcomm.com" }
+
+  - { name: Google,      slug: google,      tier: 1, category: big-tech, ats: none, enabled: false, careers_url: "https://www.google.com/about/careers/applications/jobs/results/?target_level=INTERN_AND_APPRENTICE&target_level=EARLY", disabled_reason: "Job results path is disallowed by Google's robots.txt and there is no public JSON board. Listed with a direct early-career link; not scraped." }
+  - { name: Meta,        slug: meta,        tier: 1, category: big-tech, ats: none, enabled: false, careers_url: "https://www.metacareers.com/jobs?roles[0]=Internship&roles[1]=University%20Grad", disabled_reason: "metacareers.com serves jobs over a rotating-token GraphQL endpoint with no stable public contract." }
+  - { name: Apple,       slug: apple,       tier: 1, category: big-tech, ats: none, enabled: false, careers_url: "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN", disabled_reason: "jobs.apple.com/api/role/search is POST-only and requires an X-Apple-CSRF-Token scraped per session. Tracked in #adapters." }
+  - { name: Microsoft,   slug: microsoft,   tier: 1, category: big-tech, ats: none, enabled: false, careers_url: "https://jobs.careers.microsoft.com/global/en/search?exp=Students%20and%20graduates", disabled_reason: "gcsservices.careers.microsoft.com search API is undocumented and unverified from CI. Tracked in #adapters." }
+  - { name: Tesla,       slug: tesla,       tier: 2, category: robotics, ats: none, enabled: false, careers_url: "https://www.tesla.com/careers/search/?type=3", disabled_reason: "cua-api job-detail endpoint is live but the list/search path could not be determined." }
+  - { name: Snowflake,   slug: snowflake,   tier: 1, category: infra,    ats: none, enabled: false, careers_url: "https://careers.snowflake.com/us/en/search-results", disabled_reason: "Phenom People front end; no verified public JSON contract yet." }
+
+  # ------------------------------------------------------- quant / trading ---
+  # Note the split campus boards. CTC, Radix and Bridgewater post new-grad and
+  # intern roles on a SEPARATE Greenhouse board from their lateral board. Repos
+  # that only fetch the main token miss every campus role these firms open.
+  - { name: Jump Trading,          slug: jump-trading,     tier: 1, category: quant, ats: greenhouse, token: jumptrading,                    careers_url: "https://www.jumptrading.com/careers/",           verified_at: "2026-09-01" }
+  - { name: DRW,                   slug: drw,              tier: 1, category: quant, ats: greenhouse, token: drweng,                         careers_url: "https://drw.com/work-at-drw/",                   verified_at: "2026-09-01" }
+  - { name: Tower Research Capital, slug: tower-research,  tier: 1, category: quant, ats: greenhouse, token: towerresearchcapital,            careers_url: "https://www.tower-research.com/open-positions/", verified_at: "2026-09-01" }
+  - { name: Point72 / Cubist,      slug: point72,          tier: 1, category: quant, ats: greenhouse, token: point72,                        careers_url: "https://careers.point72.com/",                   verified_at: "2026-09-01" }
+  - { name: Squarepoint Capital,   slug: squarepoint,      tier: 1, category: quant, ats: greenhouse, token: squarepointcapital,             careers_url: "https://www.squarepoint-capital.com/careers",    verified_at: "2026-09-01" }
+  - { name: IMC Trading,           slug: imc,              tier: 1, category: quant, ats: greenhouse, token: imc,                            careers_url: "https://careers.imc.com/us/en",                  verified_at: "2026-09-01" }
+  - { name: Qube Research & Technologies, slug: qube-rt,   tier: 1, category: quant, ats: greenhouse, token: quberesearchandtechnologies,    careers_url: "https://www.qube-rt.com/careers",                verified_at: "2026-09-01" }
+  - { name: Old Mission Capital,   slug: old-mission,      tier: 1, category: quant, ats: greenhouse, token: oldmissioncapital,              careers_url: "https://www.oldmissioncapital.com/careers/",     verified_at: "2026-09-01" }
+  - { name: Akuna Capital,         slug: akuna,            tier: 1, category: quant, ats: greenhouse, token: akunacapital,                   careers_url: "https://akunacapital.com/careers",               verified_at: "2026-09-01" }
+  - { name: PDT Partners,          slug: pdt-partners,     tier: 1, category: quant, ats: greenhouse, token: pdtpartners,                    careers_url: "https://www.pdtpartners.com/careers",            verified_at: "2026-09-01" }
+  - { name: Five Rings,            slug: five-rings,       tier: 1, category: quant, ats: greenhouse, token: fiveringsllc,                   careers_url: "https://fiverings.com/careers/",                 verified_at: "2026-09-01" }
+  - { name: Schonfeld,             slug: schonfeld,        tier: 1, category: quant, ats: greenhouse, token: schonfeld,                      careers_url: "https://www.schonfeld.com/careers/",             verified_at: "2026-09-01" }
+  - { name: AQR Capital,           slug: aqr,              tier: 1, category: quant, ats: greenhouse, token: aqr,                            careers_url: "https://www.aqr.com/Careers",                    verified_at: "2026-09-01" }
+  - { name: XTX Markets,           slug: xtx-markets,      tier: 1, category: quant, ats: greenhouse, token: xtxmarketstechnologies,         careers_url: "https://www.xtxmarkets.com/careers/",            verified_at: "2026-09-01" }
+  - { name: Bridgewater Associates, slug: bridgewater,     tier: 1, category: quant, ats: greenhouse, token: bridgewater89,                  careers_url: "https://www.bridgewater.com/working-at-bridgewater", verified_at: "2026-09-01" }
+  - { name: Headlands Technologies, slug: headlands,       tier: 1, category: quant, ats: greenhouse, token: headlandstechnologiesllc,       careers_url: "https://www.headlandstech.com/careers/",         verified_at: "2026-09-01" }
+  - { name: Man Group,             slug: man-group,        tier: 2, category: quant, ats: greenhouse, token: mangroup,                       careers_url: "https://www.man.com/careers",                    verified_at: "2026-09-01" }
+  - { name: Vatic Labs,            slug: vatic-labs,       tier: 2, category: quant, ats: greenhouse, token: vaticlabs,                      careers_url: "https://vaticlabs.com/careers",                  verified_at: "2026-09-01" }
+  - { name: Quadrature Capital,    slug: quadrature,       tier: 2, category: quant, ats: greenhouse, token: quadraturecapital,              careers_url: "https://quadrature.ai/careers/",                 verified_at: "2026-09-01" }
+  - { name: Chicago Trading Company, slug: ctc-campus,     tier: 1, category: quant, ats: greenhouse, token: chicagotradingcampus,           careers_url: "https://www.chicagotrading.com/careers/",        verified_at: "2026-09-01", note: "Campus board - separate from the lateral board" }
+  - { name: Chicago Trading Company (Lateral), slug: ctc-lateral, tier: 1, category: quant, ats: greenhouse, token: chicagotrading,          careers_url: "https://www.chicagotrading.com/careers/",        verified_at: "2026-09-01" }
+  - { name: Radix Trading,         slug: radix-university, tier: 1, category: quant, ats: greenhouse, token: radixuniversity,                careers_url: "https://www.radix-trading.com/careers",          verified_at: "2026-09-01", note: "University board - separate from experienced board" }
+  - { name: Radix Trading (Experienced), slug: radix-experienced, tier: 1, category: quant, ats: greenhouse, token: radixexperienced,        careers_url: "https://www.radix-trading.com/careers",          verified_at: "2026-09-01" }
+  - { name: Hudson River Trading,  slug: hrt,              tier: 1, category: quant, ats: greenhouse, token: hrttalentcommunity,             careers_url: "https://www.hudsonrivertrading.com/careers/",    verified_at: "2026-09-01", note: "Public board carries talent-community posts only; most HRT reqs are not publicly listed" }
+  - { name: ExodusPoint,           slug: exoduspoint,      tier: 2, category: quant, ats: greenhouse, token: exoduspoint,                    careers_url: "https://www.exoduspoint.com/careers",            verified_at: "2026-09-01" }
+  - { name: Belvedere Trading,     slug: belvedere,        tier: 2, category: quant, ats: lever,      token: belvederetrading,               careers_url: "https://belvederetrading.com/careers/",          verified_at: "2026-09-01" }
+  - { name: The Voleon Group,      slug: voleon,           tier: 1, category: quant, ats: ashby,      token: voleon,                         careers_url: "https://voleon.com/careers/",                    verified_at: "2026-09-01" }
+  - { name: Marshall Wace,         slug: marshall-wace,    tier: 2, category: quant, ats: greenhouse, token: marshallwace,                   careers_url: "https://www.mwam.com/careers/",                  verified_at: "2026-09-01", note: "Board is sparsely used; most roles posted elsewhere" }
+
+  - { name: Jane Street,           slug: jane-street,      tier: 0, category: quant, ats: none, enabled: false, careers_url: "https://www.janestreet.com/join-jane-street/open-roles/?type=student", disabled_reason: "Fully custom JS-rendered board with no discoverable JSON endpoint." }
+  - { name: Citadel,               slug: citadel,          tier: 0, category: quant, ats: none, enabled: false, careers_url: "https://www.citadel.com/careers/open-opportunities/?experience-filter=internships", disabled_reason: "Custom Next.js board, no vendor ATS exposed." }
+  - { name: Citadel Securities,    slug: citadel-securities, tier: 0, category: quant, ats: none, enabled: false, careers_url: "https://www.citadelsecurities.com/careers/open-opportunities/?experience-filter=internships", disabled_reason: "Custom Next.js board, no vendor ATS exposed." }
+  - { name: D. E. Shaw,            slug: de-shaw,          tier: 0, category: quant, ats: none, enabled: false, careers_url: "https://www.deshaw.com/careers", disabled_reason: "Applications routed through apply.deshaw.com; no public JSON." }
+  - { name: Optiver,               slug: optiver,          tier: 0, category: quant, ats: none, enabled: false, careers_url: "https://optiver.com/join-us/jobs/?location=us", disabled_reason: "Greenhouse board 'optiver' resolves but returns total:0 - all real roles live on optiver.com." }
+  - { name: Two Sigma,             slug: two-sigma,        tier: 0, category: quant, ats: none, enabled: false, careers_url: "https://careers.twosigma.com/careers/OpenRoles", disabled_reason: "Avature front end, HTML only, no JSON contract." }
+  - { name: SIG (Susquehanna),     slug: sig,              tier: 1, category: quant, ats: none, enabled: false, careers_url: "https://careers.sig.com/us-campus/jobs", disabled_reason: "iCIMS with no public JSON; RSS/XML only." }
+  - { name: Millennium,            slug: millennium,       tier: 1, category: quant, ats: none, enabled: false, careers_url: "https://career.mlp.com/careers", disabled_reason: "Eightfold instance; endpoint shape unconfirmed from CI." }
+
+  # ------------------------------------------------- data / infra / devtools --
+  - { name: Databricks,   slug: databricks,   tier: 0, category: infra,     ats: greenhouse, token: databricks,   careers_url: "https://www.databricks.com/company/careers",     verified_at: "2026-09-01" }
+  - { name: Stripe,       slug: stripe,       tier: 0, category: fintech,   ats: greenhouse, token: stripe,       careers_url: "https://stripe.com/jobs/university",             verified_at: "2026-09-01" }
+  - { name: Figma,        slug: figma,        tier: 1, category: dev-tools, ats: greenhouse, token: figma,        careers_url: "https://www.figma.com/careers/",                 verified_at: "2026-09-01" }
+  - { name: Vercel,       slug: vercel,       tier: 1, category: dev-tools, ats: greenhouse, token: vercel,       careers_url: "https://vercel.com/careers",                     verified_at: "2026-09-01" }
+  - { name: Notion,       slug: notion,       tier: 1, category: dev-tools, ats: ashby,      token: notion,       careers_url: "https://www.notion.so/careers",                  verified_at: "2026-09-01" }
+  - { name: Linear,       slug: linear,       tier: 1, category: dev-tools, ats: ashby,      token: linear,       careers_url: "https://linear.app/careers",                     verified_at: "2026-09-01" }
+  - { name: Supabase,     slug: supabase,     tier: 1, category: infra,     ats: ashby,      token: supabase,     careers_url: "https://supabase.com/careers",                   verified_at: "2026-09-01" }
+  - { name: ClickHouse,   slug: clickhouse,   tier: 1, category: infra,     ats: greenhouse, token: clickhouse,   careers_url: "https://clickhouse.com/company/careers",         verified_at: "2026-09-01" }
+  - { name: Datadog,      slug: datadog,      tier: 1, category: infra,     ats: greenhouse, token: datadog,      careers_url: "https://careers.datadoghq.com/",                 verified_at: "2026-09-01" }
+  - { name: MongoDB,      slug: mongodb,      tier: 1, category: infra,     ats: greenhouse, token: mongodb,      careers_url: "https://www.mongodb.com/company/careers",        verified_at: "2026-09-01" }
+  - { name: Cloudflare,   slug: cloudflare,   tier: 1, category: infra,     ats: greenhouse, token: cloudflare,   careers_url: "https://www.cloudflare.com/careers/",            verified_at: "2026-09-01" }
+  - { name: Grafana Labs, slug: grafana-labs, tier: 2, category: infra,     ats: greenhouse, token: grafanalabs,  careers_url: "https://grafana.com/about/careers/",             verified_at: "2026-09-01" }
+  - { name: Elastic,      slug: elastic,      tier: 2, category: infra,     ats: greenhouse, token: elastic,      careers_url: "https://www.elastic.co/careers",                 verified_at: "2026-09-01" }
+  - { name: Twilio,       slug: twilio,       tier: 2, category: infra,     ats: greenhouse, token: twilio,       careers_url: "https://www.twilio.com/en-us/company/jobs",      verified_at: "2026-09-01" }
+  - { name: Fastly,       slug: fastly,       tier: 2, category: infra,     ats: greenhouse, token: fastly,       careers_url: "https://www.fastly.com/about/careers",           verified_at: "2026-09-01" }
+  - { name: Temporal,     slug: temporal,     tier: 2, category: infra,     ats: ashby,      token: temporal,     careers_url: "https://temporal.io/careers",                    verified_at: "2026-09-01" }
+  - { name: Sentry,       slug: sentry,       tier: 2, category: dev-tools, ats: ashby,      token: sentry,       careers_url: "https://sentry.io/careers/",                     verified_at: "2026-09-01" }
+  - { name: Postman,      slug: postman,      tier: 2, category: dev-tools, ats: greenhouse, token: postman,      careers_url: "https://www.postman.com/company/careers/",       verified_at: "2026-09-01" }
+  - { name: Render,       slug: render,       tier: 2, category: infra,     ats: ashby,      token: render,       careers_url: "https://render.com/careers",                     verified_at: "2026-09-01" }
+  - { name: Railway,      slug: railway,      tier: 2, category: infra,     ats: ashby,      token: railway,      careers_url: "https://railway.com/careers",                    verified_at: "2026-09-01" }
+  - { name: Replit,       slug: replit,       tier: 1, category: dev-tools, ats: ashby,      token: replit,       careers_url: "https://replit.com/careers",                     verified_at: "2026-09-01" }
+  - { name: Zed,          slug: zed,          tier: 2, category: dev-tools, ats: ashby,      token: zed,          careers_url: "https://zed.dev/jobs",                           verified_at: "2026-09-01" }
+  - { name: Warp,         slug: warp,         tier: 2, category: dev-tools, ats: ashby,      token: warp,         careers_url: "https://www.warp.dev/careers",                   verified_at: "2026-09-01" }
+  - { name: Lovable,      slug: lovable,      tier: 1, category: dev-tools, ats: ashby,      token: lovable,      careers_url: "https://lovable.dev/careers",                    verified_at: "2026-09-01" }
+  - { name: Airtable,     slug: airtable,     tier: 2, category: dev-tools, ats: greenhouse, token: airtable,     careers_url: "https://www.airtable.com/careers",               verified_at: "2026-09-01" }
+  - { name: Asana,        slug: asana,        tier: 2, category: dev-tools, ats: greenhouse, token: asana,        careers_url: "https://asana.com/jobs",                         verified_at: "2026-09-01" }
+  - { name: Amplitude,    slug: amplitude,    tier: 2, category: dev-tools, ats: greenhouse, token: amplitude,    careers_url: "https://amplitude.com/careers",                  verified_at: "2026-09-01" }
+  - { name: Mixpanel,     slug: mixpanel,     tier: 2, category: dev-tools, ats: greenhouse, token: mixpanel,     careers_url: "https://mixpanel.com/careers/",                  verified_at: "2026-09-01" }
+  - { name: Gong,         slug: gong,         tier: 2, category: dev-tools, ats: greenhouse, token: gongio,       careers_url: "https://www.gong.io/careers/",                   verified_at: "2026-09-01" }
+
+  # ------------------------------------------------------------- security ----
+  - { name: Okta,      slug: okta,      tier: 2, category: security, ats: greenhouse, token: okta,      careers_url: "https://www.okta.com/company/careers/",  verified_at: "2026-09-01" }
+  - { name: Vanta,     slug: vanta,     tier: 1, category: security, ats: ashby,      token: vanta,     careers_url: "https://www.vanta.com/careers",          verified_at: "2026-09-01" }
+  - { name: Tailscale, slug: tailscale, tier: 2, category: security, ats: greenhouse, token: tailscale, careers_url: "https://tailscale.com/careers",          verified_at: "2026-09-01" }
+  - { name: Verkada,   slug: verkada,   tier: 2, category: security, ats: greenhouse, token: verkada,   careers_url: "https://www.verkada.com/careers/",       verified_at: "2026-09-01" }
+
+  # -------------------------------------------------------------- fintech ----
+  - { name: Ramp,       slug: ramp,       tier: 1, category: fintech, ats: ashby,      token: ramp,       careers_url: "https://ramp.com/careers",           verified_at: "2026-09-01" }
+  - { name: Plaid,      slug: plaid,      tier: 1, category: fintech, ats: ashby,      token: plaid,      careers_url: "https://plaid.com/careers/",         verified_at: "2026-09-01" }
+  - { name: Brex,       slug: brex,       tier: 1, category: fintech, ats: greenhouse, token: brex,       careers_url: "https://www.brex.com/careers",       verified_at: "2026-09-01" }
+  - { name: Mercury,    slug: mercury,    tier: 1, category: fintech, ats: greenhouse, token: mercury,    careers_url: "https://mercury.com/jobs",           verified_at: "2026-09-01" }
+  - { name: Coinbase,   slug: coinbase,   tier: 1, category: fintech, ats: greenhouse, token: coinbase,   careers_url: "https://www.coinbase.com/careers",   verified_at: "2026-09-01" }
+  - { name: Robinhood,  slug: robinhood,  tier: 1, category: fintech, ats: greenhouse, token: robinhood,  careers_url: "https://careers.robinhood.com/",     verified_at: "2026-09-01" }
+  - { name: Affirm,     slug: affirm,     tier: 2, category: fintech, ats: greenhouse, token: affirm,     careers_url: "https://www.affirm.com/careers",     verified_at: "2026-09-01" }
+  - { name: Chime,      slug: chime,      tier: 2, category: fintech, ats: greenhouse, token: chime,      careers_url: "https://www.chime.com/careers/",     verified_at: "2026-09-01" }
+  - { name: Gusto,      slug: gusto,      tier: 2, category: fintech, ats: greenhouse, token: gusto,      careers_url: "https://gusto.com/about/careers",    verified_at: "2026-09-01" }
+
+  # ------------------------------------------------------------- consumer ----
+  - { name: Discord,    slug: discord,    tier: 1, category: consumer, ats: greenhouse, token: discord,      careers_url: "https://discord.com/careers",         verified_at: "2026-09-01" }
+  - { name: Reddit,     slug: reddit,     tier: 1, category: consumer, ats: greenhouse, token: reddit,       careers_url: "https://redditinc.com/careers",       verified_at: "2026-09-01" }
+  - { name: Airbnb,     slug: airbnb,     tier: 1, category: consumer, ats: greenhouse, token: airbnb,       careers_url: "https://careers.airbnb.com/",         verified_at: "2026-09-01" }
+  - { name: Pinterest,  slug: pinterest,  tier: 2, category: consumer, ats: greenhouse, token: pinterest,    careers_url: "https://www.pinterestcareers.com/",   verified_at: "2026-09-01" }
+  - { name: Roblox,     slug: roblox,     tier: 1, category: consumer, ats: greenhouse, token: roblox,       careers_url: "https://careers.roblox.com/",         verified_at: "2026-09-01" }
+  - { name: DoorDash,   slug: doordash,   tier: 1, category: consumer, ats: greenhouse, token: doordashusa,  careers_url: "https://careers.doordash.com/",       verified_at: "2026-09-01" }
+  - { name: Instacart,  slug: instacart,  tier: 2, category: consumer, ats: greenhouse, token: instacart,    careers_url: "https://instacart.careers/",          verified_at: "2026-09-01" }
+  - { name: Lyft,       slug: lyft,       tier: 2, category: consumer, ats: greenhouse, token: lyft,         careers_url: "https://www.lyft.com/careers",        verified_at: "2026-09-01" }
+  - { name: Dropbox,    slug: dropbox,    tier: 2, category: consumer, ats: greenhouse, token: dropbox,      careers_url: "https://jobs.dropbox.com/",           verified_at: "2026-09-01" }
+  - { name: Flexport,   slug: flexport,   tier: 2, category: consumer, ats: greenhouse, token: flexport,     careers_url: "https://www.flexport.com/careers/",   verified_at: "2026-09-01" }
+  - { name: Faire,      slug: faire,      tier: 2, category: consumer, ats: greenhouse, token: faire,        careers_url: "https://www.faire.com/careers",       verified_at: "2026-09-01" }
+  - { name: Klaviyo,    slug: klaviyo,    tier: 2, category: consumer, ats: greenhouse, token: klaviyo,      careers_url: "https://careers.klaviyo.com/",        verified_at: "2026-09-01" }
+  - { name: Attentive,  slug: attentive,  tier: 2, category: consumer, ats: greenhouse, token: attentive,    careers_url: "https://www.attentive.com/careers",   verified_at: "2026-09-01" }
+
+  # --------------------------------------------------- robotics / defense ----
+  - { name: Palantir,           slug: palantir,           tier: 1, category: big-tech, ats: lever,      token: palantir,           careers_url: "https://www.palantir.com/careers/",          verified_at: "2026-09-01" }
+  - { name: Anduril Industries, slug: anduril,            tier: 1, category: robotics, ats: greenhouse, token: andurilindustries,  careers_url: "https://www.anduril.com/careers/",           verified_at: "2026-09-01" }
+  - { name: SpaceX,             slug: spacex,             tier: 1, category: robotics, ats: greenhouse, token: spacex,             careers_url: "https://www.spacex.com/careers/",            verified_at: "2026-09-01" }
+  - { name: Waymo,              slug: waymo,              tier: 1, category: robotics, ats: greenhouse, token: waymo,              careers_url: "https://waymo.com/careers/",                 verified_at: "2026-09-01" }
+  - { name: Applied Intuition,  slug: applied-intuition,  tier: 1, category: robotics, ats: ashby,      token: applied,            careers_url: "https://www.appliedintuition.com/careers",   verified_at: "2026-09-01" }
+  - { name: Nuro,               slug: nuro,               tier: 2, category: robotics, ats: greenhouse, token: nuro,               careers_url: "https://www.nuro.ai/careers",                verified_at: "2026-09-01" }
+  - { name: Samsara,            slug: samsara,            tier: 2, category: robotics, ats: greenhouse, token: samsara,            careers_url: "https://www.samsara.com/company/careers/",   verified_at: "2026-09-01" }
