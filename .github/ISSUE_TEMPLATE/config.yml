@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: How this list is built
+    url: https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md
+    about: The inclusion test, tiers, and what we refuse to list
+  - name: The Playbook
+    url: https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/PLAYBOOK.md
+    about: Timelines, OA platforms, and PhD programs that never appear on a job board

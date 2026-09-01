@@ -1,0 +1,33 @@
+name: Dead or wrong link
+description: An apply link 404s, redirects to a generic page, or points to a closed role
+title: "[dead link] "
+labels: ["data-quality"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The daily link checker catches hard 404s. It cannot catch a link that
+        returns 200 but lands on "this role is no longer accepting applications" —
+        those need a human, which is why this template exists.
+  - type: input
+    id: company
+    attributes: { label: Company }
+    validations: { required: true }
+  - type: input
+    id: role
+    attributes: { label: Role title as shown on the board }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: The link that is wrong }
+    validations: { required: true }
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What happens when you open it?
+      options:
+        - 404 / page not found
+        - Loads, but the role is closed
+        - Redirects to a generic careers page
+        - Wrong role entirely
+    validations: { required: true }

@@ -1,0 +1,29 @@
+name: Misclassified role
+description: A role is on the wrong board, or its sponsorship / degree flag is wrong
+title: "[classify] "
+labels: ["classifier"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Exact posting title, verbatim
+      description: Copy it character for character — it becomes a test case.
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Link to the posting }
+    validations: { required: true }
+  - type: dropdown
+    id: field
+    attributes:
+      label: What is wrong?
+      options: [Wrong board/track, Wrong sponsorship flag, Wrong degree flag, Should not be listed at all, Missing but should be listed]
+    validations: { required: true }
+  - type: input
+    id: expected
+    attributes: { label: What it should be }
+    validations: { required: true }
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Quote the line in the posting that supports this

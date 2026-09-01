@@ -1,0 +1,45 @@
+name: Add or remove a company
+description: Propose a change to the curated company registry
+title: "[company] "
+labels: ["company-bar"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The bar is published in [docs/COMPANY_BAR.md](../blob/main/docs/COMPANY_BAR.md).
+        The test: **would a strong CS candidate with competing offers take this
+        interview without being talked into it?**
+  - type: dropdown
+    id: action
+    attributes:
+      label: What are you proposing?
+      options: [Add a company, Remove a company, Change a company's tier]
+    validations: { required: true }
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+    validations: { required: true }
+  - type: textarea
+    id: argument
+    attributes:
+      label: Why does it clear (or no longer clear) the bar?
+      description: One concrete argument. "They're hiring" is not an argument.
+    validations: { required: true }
+  - type: input
+    id: ats
+    attributes:
+      label: Verified ATS token
+      description: 'e.g. `greenhouse:anthropic`. Leave blank if you did not verify one.'
+  - type: input
+    id: count
+    attributes:
+      label: Postings returned by that token
+      description: The COUNT, not the status code. A board can return 200 with zero jobs.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmations
+      options:
+        - label: This is not a staffing agency, consultancy, or data-annotation vendor
+        - label: I actually fetched the token above and it returned a non-zero count
