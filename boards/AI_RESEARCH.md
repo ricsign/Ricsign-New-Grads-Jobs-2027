@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**42 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**54 open roles** · last verified 2026-09-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -12,8 +12,13 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 
 | Company | Role | Location | Comp | Flags | Age | Apply |
 |:--|:--|:--|:--|:-:|--:|:-:|
+| **Anthropic** | Anthropic Fellows Program | Remote-Friendly US (Travel Required) | — | 🌏 | today | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5023394008) |
+| **Anthropic** | Anthropic Fellows Program, AI Safety & Security | Remote-Friendly US (Travel Required) | — | 🌏 | today | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
+| **Anthropic** | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote-Friendly US (Travel Required) | — | 🌏 | today | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
 | **Cohere** | Research Internship (Winter 2027) · _Winter 2027_ | San Francisco, United States | — | ·🎓 | today | [apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Databricks** | PhD GenAI Research Scientist Intern | San Francisco, California, Mountain View, California | — | ·🎓 | today | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
+| **Mercor** | Data Scientist | San Francisco | $130k–$500k | · | today | [apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
+| **Mercor** | Mercor Research Fellowship — APEX | San Francisco, New York City | $40k | · | today | [apply](https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application) |
 | **Physical Intelligence** | Research Internships | San Francisco | — | · | today | [apply](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076/application) |
 
 ## Tier 1 — Established elite
@@ -25,19 +30,23 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 | **AQR Capital** | 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | today | [apply](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) |
 | **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
 | **Akuna Capital** | Quantitative Research Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
+| **Akuna Capital** | Quantitative Researcher | Chicago, IL | — | ·📗 | today | [apply](https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416) |
 | **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation… · _2026_ | North Reading, Massachusetts, USA | — | · | today | [apply](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) |
 | **Applied Intuition** | Research Engineer - New Grad (2027) · _2027_ | Sunnyvale | $140k–$200k | ·🎓 | today | [apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application) |
 | **Applied Intuition** | Research Intern - 3D Vision and Generation, Self-Driving | Sunnyvale | $65/hr | · | today | [apply](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application) |
 | **Applied Intuition** | Research Intern - Reinforcement Learning, Robotics | Sunnyvale | $65/hr | · | today | [apply](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application) |
+| **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | today | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
 | **Cloudflare** | Research Engineer Intern (Fall 2026) · _Fall 2026_ | Austin, TX | — | 🛂 | today | [apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | **DRW** | Quantitative Research Intern | Chicago, New York City | — | ·📗 | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | **DRW** | Research Engineer | New York City | — | · | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) |
 | **DRW** | Research Engineer (FICCO) | Chicago | — | · | today | [apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) |
+| **DoorDash** | AI Research Fellowship, (Summer and Fall 2026) · _Fall 2026_ | San Francisco, CA | — | · | today | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Researcher (PhD) · _Summer 2027_ | New York City | — | ·🎓 | today | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
+| **Headlands Technologies** | Quantitative Researcher | New York City, US | — | · | today | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
 | **Headlands Technologies** | Quantitative Researcher – New Grad | New York City, US | — | · | today | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
+| **IMC Trading** | Graduate Machine Learning Researcher - London | Chicago | — | 🛂 | today | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) |
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | Chicago | — | 🛂 | today | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Chicago · _Summer 2027_ | Chicago, United States | — | ·🎓 | today | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) |
-| **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Sydney · _Summer 2027_ | Chicago | — | ·🎓 | today | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
 | **Jump Trading** | AI Research Scientist \| Research & Development | New York City | — | ·📗 | today | [apply](https://www.jumptrading.com/hr/job?gh_jid=4982814) |
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | Chicago; New York, New York City | — | 🌏 | today | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | Chicago; New York, New York City | — | 🌏 | today | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
@@ -46,15 +55,18 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 | **Netflix** | Machine Learning/AI Scientist PhD Intern, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America | — | ·🎓 | today | [apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
 | **Old Mission Capital** | Junior Quantitative Researcher (Ph.D.) · _Summer 2027_ | Chicago, IL, United States | — | ·🎓 | today | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) |
 | **Old Mission Capital** | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·🎓 | today | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
+| **PDT Partners** | Quantitative Researcher | New York, NY | — | ·🎓 | today | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer | New York, NY | — | · | today | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
+| **Palantir** | Neurodivergent Fellowship | New York, NY | — | · | today | [apply](https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652) |
+| **Palantir** | Neurodivergent Fellowship | Washington, D.C. | — | · | today | [apply](https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603) |
+| **Point72 / Cubist** | Cubist Quantitative Researcher | Chicago, New York, Seattle, New York, NY | — | ·📗 | today | [apply](https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002) |
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | today | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
 | **Point72 / Cubist** | Machine Learning Researcher - Intern | New York, NY | — | · | today | [apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
-| **Point72 / Cubist** | Quantitative Research Intern | New York, Seattle, New York, NY | — | ·📗 | today | [apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
 | **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
 | **Roblox** | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career · _2026_ | San Mateo, CA, United States | — | ·🎓 | today | [apply](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | New York | — | ·🎓 | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) |
-| **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
+| **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | today | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing · _Summer 2027_ | San Francisco, California, United States, San Francisco (US-SFO-MKT555) | — | ·🎓 | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8167323) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion · _Summer 2027_ | San Francisco (US-SFO-MKT555) | — | ·🎓 | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=8163364) |
 | **Waymo** | Machine Learning Engineer Perception LLM/VLM (PhD, New Grad) | Mountain View, CA USA; San Francisco, CA USA;, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | today | [apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) |
@@ -62,4 +74,4 @@ Research Scientist, Research Engineer, Member of Technical Staff, residencies an
 
 ---
 
-Generated 2026-09-01 04:34 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-01 05:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

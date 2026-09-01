@@ -1,10 +1,110 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-01T04:34:34+00:00",
+ "generated_at": "2026-09-01T05:00:18+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 266,
+ "count": 308,
  "jobs": [
+  {
+   "uid": "2ed1398f7d4975ee",
+   "company_slug": "anthropic",
+   "company_name": "Anthropic",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "greenhouse",
+   "title": "Anthropic Fellows Program",
+   "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
+   "locations": [
+    "Remote-Friendly US (Travel Required)"
+   ],
+   "track": "ai-research",
+   "degree": "bachelors",
+   "sponsorship": "sponsors",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2025-12-11",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "AI Research & Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "76cd4ee52178da62",
+   "company_slug": "anthropic",
+   "company_name": "Anthropic",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "greenhouse",
+   "title": "Anthropic Fellows Program, AI Safety & Security",
+   "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+   "locations": [
+    "Remote-Friendly US (Travel Required)"
+   ],
+   "track": "ai-research",
+   "degree": "bachelors",
+   "sponsorship": "sponsors",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-04-09",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "AI Research & Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "fedd5d2f09452b0a",
+   "company_slug": "anthropic",
+   "company_name": "Anthropic",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "greenhouse",
+   "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+   "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+   "locations": [
+    "Remote-Friendly US (Travel Required)"
+   ],
+   "track": "ai-research",
+   "degree": "bachelors",
+   "sponsorship": "sponsors",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-04-09",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "AI Research & Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "54daf78748468c59",
+   "company_slug": "anthropic",
+   "company_name": "Anthropic",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "greenhouse",
+   "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
+   "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+   "locations": [
+    "Remote-Friendly US (Travel Required)"
+   ],
+   "track": "ai-research",
+   "degree": "bachelors",
+   "sponsorship": "sponsors",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-04-23",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "AI Research & Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
   {
    "uid": "0a05645c70a3a172",
    "company_slug": "cohere",
@@ -27,7 +127,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a64db03dbf5fb174",
@@ -52,7 +153,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f8dfa4ed677e4202",
@@ -76,7 +178,34 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "f5ada109a807d9ec",
+   "company_slug": "databricks",
+   "company_name": "Databricks",
+   "company_tier": 0,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+   "locations": [
+    "United States",
+    "Remote - California"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-05-13",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Professional Services Operations",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2ca5d4080b48e19a",
@@ -101,7 +230,8 @@
    "season": null,
    "compensation": null,
    "department": "University Recruiting",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9621dd992804227e",
@@ -125,7 +255,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "University Recruiting",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3dea65db7b686014",
@@ -149,7 +280,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "abe53bc084cecb27",
@@ -173,7 +305,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8925e21b4dbe6c4e",
@@ -197,7 +330,71 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "f692238d20b9ce1a",
+   "company_slug": "mercor",
+   "company_name": "Mercor",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "ashby",
+   "title": "Data Scientist",
+   "apply_url": "https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application",
+   "locations": [
+    "San Francisco"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2025-08-30",
+   "closed_at": null,
+   "season": null,
+   "compensation": {
+    "min": 130000,
+    "max": 500000,
+    "currency": "USD",
+    "interval": "1 YEAR",
+    "source": "ashby"
+   },
+   "department": "Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "4614ee5c7e5d86ed",
+   "company_slug": "mercor",
+   "company_name": "Mercor",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "ashby",
+   "title": "Mercor Research Fellowship — APEX",
+   "apply_url": "https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application",
+   "locations": [
+    "San Francisco",
+    "New York City"
+   ],
+   "track": "ai-research",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": {
+    "min": 40000,
+    "max": 40000,
+    "currency": "USD",
+    "interval": "1 TIME",
+    "source": "ashby"
+   },
+   "department": "Research",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "853c618b52153c06",
@@ -221,7 +418,8 @@
    "season": null,
    "compensation": null,
    "department": "AI & Robotics Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "918681b2b0cf30a6",
@@ -246,7 +444,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2e7fc13de86c918d",
@@ -270,7 +469,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "11fe5123e25fd17f",
@@ -301,7 +501,58 @@
     "source": "ashby"
    },
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "2cebfad3222626d0",
+   "company_slug": "stripe",
+   "company_name": "Stripe",
+   "company_tier": 0,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Backend Engineer, Payments and Risk",
+   "apply_url": "https://stripe.com/jobs/search?gh_jid=7232592",
+   "locations": [
+    "US"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-02-03",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "8582 Optimized Checkout - Eng",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "e8276ba623f3802d",
+   "company_slug": "stripe",
+   "company_name": "Stripe",
+   "company_tier": 0,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Backend/API Engineer, Money as a Service",
+   "apply_url": "https://stripe.com/jobs/search?gh_jid=6176758",
+   "locations": [
+    "US"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2024-08-25",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "8546 Treasury for Platforms - Eng",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a5520d24d118a8f2",
@@ -326,7 +577,8 @@
    "season": null,
    "compensation": null,
    "department": "5112 General University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3b92342cb2921e57",
@@ -351,7 +603,33 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "5112 General University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "1f73052f58f77a16",
+   "company_slug": "xai",
+   "company_name": "xAI",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "greenhouse",
+   "title": "Software Engineer - Evals",
+   "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
+   "locations": [
+    "Palo Alto, California"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-07-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Engineering",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "12047bb2589ab2ec",
@@ -375,7 +653,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a79252000b073d12",
@@ -399,7 +678,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "28f39534a0281dfc",
@@ -423,7 +703,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "aa659b42f0236937",
@@ -447,7 +728,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0f383142de4d5cd8",
@@ -471,7 +753,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c0410b8156041390",
@@ -495,7 +778,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "539c4c044c6c5874",
@@ -519,7 +803,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "42921704c3d2ff1d",
@@ -543,7 +828,58 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University - Open Positions",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "aacd101846bc49a2",
+   "company_slug": "airbnb",
+   "company_name": "Airbnb",
+   "company_tier": 1,
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "Machine Learning Engineer, Relevance and Personalization",
+   "apply_url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+   "locations": [
+    "United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-05-08",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Software Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "6677109669ced210",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Expression of Interest: 2027 Trading Sneak Peek Weeks",
+   "apply_url": "https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086",
+   "locations": [
+    "Chicago"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-07-19",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Trading",
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "2a881bab8140af41",
@@ -567,7 +903,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "a0863ca5d0587fcb",
@@ -591,7 +928,8 @@
    "season": null,
    "compensation": null,
    "department": "Quant",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "722d9ecdc58aca28",
@@ -615,7 +953,8 @@
    "season": null,
    "compensation": null,
    "department": "Quant",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "f1b5716b9a610f10",
@@ -639,7 +978,33 @@
    "season": null,
    "compensation": null,
    "department": "Risk",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
+  },
+  {
+   "uid": "744bb3679992ae9d",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Platform Engineer",
+   "apply_url": "https://www.akunacapital.com/careers/job/7974805/?gh_jid=7974805",
+   "locations": [
+    "Chicago"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-06-16",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Platform",
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "27fe2f10e6e54ed9",
@@ -663,7 +1028,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "55d77f08e29f2cb2",
@@ -687,7 +1053,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Quant",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "7edac406a701fe44",
@@ -711,7 +1078,33 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Quant",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
+  },
+  {
+   "uid": "c57a32c33e1779af",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Quantitative Researcher",
+   "apply_url": "https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-01-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Quant Research",
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "3ec16f30e2c52558",
@@ -735,7 +1128,8 @@
    "season": null,
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "c59794b34a10a4a9",
@@ -759,7 +1153,83 @@
    "season": null,
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
+  },
+  {
+   "uid": "1d6dbe5f25cad067",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Software Engineer - C++",
+   "apply_url": "https://www.akunacapital.com/careers/job/7496397/?gh_jid=7496397",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-01-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "C++",
+   "active": true,
+   "link_status": "blocked"
+  },
+  {
+   "uid": "a8d9b1e4b804d770",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Software Engineer - C++, Trading Strategies",
+   "apply_url": "https://www.akunacapital.com/careers/job/7496408/?gh_jid=7496408",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-01-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "C++",
+   "active": true,
+   "link_status": "blocked"
+  },
+  {
+   "uid": "c6da3c319aa666af",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Software Engineer - Data Engineering",
+   "apply_url": "https://www.akunacapital.com/careers/job/7496411/?gh_jid=7496411",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-01-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Data",
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "ce5770e9aab37c6c",
@@ -783,7 +1253,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "13515bc30289db1d",
@@ -807,7 +1278,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "d7b01aa1282a3c20",
@@ -831,7 +1303,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "5f6b140f2a027e63",
@@ -855,7 +1328,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "28cb8319e7ae862c",
@@ -879,7 +1353,8 @@
    "season": "2027",
    "compensation": null,
    "department": "amazon-artificial-general-intelligence",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b1021e940ce08937",
@@ -903,7 +1378,8 @@
    "season": "2026",
    "compensation": null,
    "department": "subsidiaries",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "ab04757be9769922",
@@ -927,7 +1403,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "subsidiaries",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9bde78dd8404e1ad",
@@ -951,7 +1428,8 @@
    "season": null,
    "compensation": null,
    "department": "studentprograms",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "58046c15b3bb1914",
@@ -975,7 +1453,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "studentprograms",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "4bbefee9b5f98db9",
@@ -999,7 +1478,8 @@
    "season": "2027",
    "compensation": null,
    "department": "amazon-artificial-general-intelligence",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f405154294b54093",
@@ -1023,7 +1503,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Hardware Platform : Hardware Test Operations",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b7aef66d3912ec95",
@@ -1054,7 +1535,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "468329870954cca4",
@@ -1078,7 +1560,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Hardware Platform : Hardware Test Operations : Test & Evaluation",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "e97acca379fa02ba",
@@ -1110,7 +1593,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a7bdf7188c645a25",
@@ -1142,7 +1626,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0a551bf32b3fc903",
@@ -1166,7 +1651,60 @@
    "season": null,
    "compensation": null,
    "department": "Air Dominance & Strike : Mission Engineering : Operations Analysis",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "194ea78b4c1f5b0e",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Software Engineer, Battlespace Awareness",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007",
+   "locations": [
+    "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "Fort Collins, CO (CO-11)"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "security-clearance",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-18",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mission Systems : Battlespace Awareness Engineering",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "cb1fcb0882a8a82b",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Software Engineer, Tracking",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007",
+   "locations": [
+    "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "Fort Collins, CO (CO-13)"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "security-clearance",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-18",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mission Systems : Battlespace Awareness Engineering",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0f38e9875a26b464",
@@ -1196,7 +1734,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "63a8a0014527697e",
@@ -1226,7 +1765,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "e4502e42d4087d63",
@@ -1256,7 +1796,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f20ad6b13db55e84",
@@ -1286,7 +1827,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8bfff2c49fd013f9",
@@ -1316,7 +1858,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8cb7a33acd8d4e59",
@@ -1346,7 +1889,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "270c8aeb4e76b9e3",
@@ -1376,7 +1920,8 @@
     "source": "ashby"
    },
    "department": "AI Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1a1fdc95be88abb9",
@@ -1406,7 +1951,8 @@
     "source": "ashby"
    },
    "department": "AI Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "467a921b6f131e49",
@@ -1436,7 +1982,8 @@
     "source": "ashby"
    },
    "department": "AI Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8b76200314e038a5",
@@ -1466,7 +2013,8 @@
     "source": "ashby"
    },
    "department": "AI Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9e4fe7c63787e8b2",
@@ -1496,7 +2044,8 @@
     "source": "ashby"
    },
    "department": "AI Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9ef7ff6199dfbea5",
@@ -1526,7 +2075,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f2e63f845ae15046",
@@ -1557,7 +2107,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c74cbd3d774a838e",
@@ -1587,7 +2138,8 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "48129c9645081f90",
@@ -1617,7 +2169,39 @@
     "source": "ashby"
    },
    "department": "2027 New Grad",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "a50b7e13ae33b3b3",
+   "company_slug": "baseten",
+   "company_name": "Baseten",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "ashby",
+   "title": "Base Labs Fellowship",
+   "apply_url": "https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application",
+   "locations": [
+    "San Francisco"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-07-06",
+   "closed_at": null,
+   "season": null,
+   "compensation": {
+    "min": 5000,
+    "max": 5000,
+    "currency": "USD",
+    "interval": "1 MONTH",
+    "source": "ashby"
+   },
+   "department": "EPD",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "acc17e0c7c451818",
@@ -1641,7 +2225,8 @@
    "season": null,
    "compensation": null,
    "department": "University Departments",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3a8f28403956967d",
@@ -1665,7 +2250,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "e77ca3fed6ac94f4",
@@ -1689,7 +2275,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "83eac708c0d3ce90",
@@ -1713,7 +2300,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "53b28e71b5ea4e2e",
@@ -1737,7 +2325,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3942e07ae1e80fa5",
@@ -1761,7 +2350,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "Technology Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d779d34259f38ed0",
@@ -1785,7 +2375,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c1d2661e1140e6a0",
@@ -1809,7 +2400,33 @@
    "season": null,
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "e9d86a3a6b72f8d0",
+   "company_slug": "drw",
+   "company_name": "DRW",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Leadership Rotation Network Analyst",
+   "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7993341",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-07-13",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Strategic Pipelines",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0b942f57885881a6",
@@ -1833,7 +2450,8 @@
    "season": null,
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "353a39a381c4834c",
@@ -1857,7 +2475,35 @@
    "season": null,
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "c163027b4eb3622c",
+   "company_slug": "drw",
+   "company_name": "DRW",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Prediction Markets Trader",
+   "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7520816",
+   "locations": [
+    "Flexible - US Preferred",
+    "Chicago",
+    "New York City"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-01-07",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "FICC Options",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6a2d30489ae2bea3",
@@ -1881,7 +2527,8 @@
    "season": null,
    "compensation": null,
    "department": "Campus Quantitative Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1b6ea558ffd3521c",
@@ -1905,7 +2552,8 @@
    "season": null,
    "compensation": null,
    "department": "Campus Trading Analyst",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "77911eaf8ade06c5",
@@ -1929,7 +2577,8 @@
    "season": null,
    "compensation": null,
    "department": "FICC Options Execution Software Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "56dd28ef9615f3f9",
@@ -1953,7 +2602,8 @@
    "season": null,
    "compensation": null,
    "department": "FICC Options Execution Software Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7e68fdc2cb80e2fc",
@@ -1977,7 +2627,8 @@
    "season": null,
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "448315a839299842",
@@ -2001,7 +2652,33 @@
    "season": null,
    "compensation": null,
    "department": "Engineering Interns",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "2684b385740ba8e1",
+   "company_slug": "doordash",
+   "company_name": "DoorDash",
+   "company_tier": 1,
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "AI Research Fellowship, (Summer and Fall 2026)",
+   "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/7848317",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-04-29",
+   "closed_at": null,
+   "season": "Fall 2026",
+   "compensation": null,
+   "department": "348 University Recruiting Engineering",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b9f1dfa242c872c8",
@@ -2025,7 +2702,8 @@
    "season": null,
    "compensation": null,
    "department": "Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3f2ead2d0d5a1950",
@@ -2049,7 +2727,8 @@
    "season": null,
    "compensation": null,
    "department": "Platform",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9274b57bf2177145",
@@ -2073,7 +2752,8 @@
    "season": null,
    "compensation": null,
    "department": "Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "22e0b3438e83428d",
@@ -2098,7 +2778,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f210e40970a78986",
@@ -2122,7 +2803,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Quantitative Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0f49c9ecb1ac421b",
@@ -2146,7 +2828,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Software Development",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "799b6e2058ebedd0",
@@ -2170,7 +2853,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Trading Operations",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b4d808d8487e834b",
@@ -2194,7 +2878,8 @@
    "season": null,
    "compensation": null,
    "department": "Trading Operations",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9ef2b4170931c459",
@@ -2218,7 +2903,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Quantitative Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "ff52950efad6aee0",
@@ -2242,7 +2928,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Quantitative Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "03feab1335267d3b",
@@ -2266,7 +2953,34 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Software Development",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "936397ef8ef1e99f",
+   "company_slug": "headlands",
+   "company_name": "Headlands Technologies",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Quantitative Researcher",
+   "apply_url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009",
+   "locations": [
+    "New York City",
+    "US"
+   ],
+   "track": "quant",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-06-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Monetization",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c5f281037e4656b4",
@@ -2291,7 +3005,8 @@
    "season": null,
    "compensation": null,
    "department": "Monetization",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2dda53ccb8e87624",
@@ -2315,7 +3030,33 @@
    "season": null,
    "compensation": null,
    "department": null,
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "097f20a79c4e009b",
+   "company_slug": "imc",
+   "company_name": "IMC Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Graduate Machine Learning Researcher - London",
+   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
+   "locations": [
+    "Chicago"
+   ],
+   "track": "quant",
+   "degree": "unspecified",
+   "sponsorship": "no-sponsorship",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-07-06",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Machine Learning Engineering",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c59aaffd1341f699",
@@ -2339,7 +3080,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Development (Group)",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b8496a699e8f85d3",
@@ -2363,7 +3105,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Machine Learning Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "194b7ed30b91feaa",
@@ -2387,7 +3130,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Machine Learning Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d99fc9b501a10c19",
@@ -2411,7 +3155,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Machine Learning Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3cd67cf10affb284",
@@ -2435,7 +3180,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Development (Group)",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "04b08bb4c1c96bf3",
@@ -2459,7 +3205,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Quantitative Research (Group_",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "896d6623259f6fe1",
@@ -2483,7 +3230,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Quantitative Research (Group_",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "dcf4335dd65e1e58",
@@ -2507,7 +3255,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Screen & Quant Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d25dd73f19fb05ee",
@@ -2531,7 +3280,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Development (Group)",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "463bf30a6a584205",
@@ -2555,7 +3305,8 @@
    "season": null,
    "compensation": null,
    "department": "Development (Group)",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f6ff800c120a6569",
@@ -2579,7 +3330,8 @@
    "season": null,
    "compensation": null,
    "department": "Research and Development",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "cd80fd81d3345090",
@@ -2604,7 +3356,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c600dd422cff9927",
@@ -2629,7 +3382,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f0a988cd8ddae1a9",
@@ -2654,7 +3408,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8537157bd381f61c",
@@ -2679,7 +3434,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b8122f3b456a2ee3",
@@ -2704,7 +3460,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0450ecbaa9c65b05",
@@ -2728,7 +3485,8 @@
    "season": null,
    "compensation": null,
    "department": "Core Development ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3695379923b053a2",
@@ -2752,7 +3510,8 @@
    "season": null,
    "compensation": null,
    "department": "Core Development ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "fa182fbce987097c",
@@ -2777,7 +3536,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "81a1c7543b67f521",
@@ -2802,7 +3562,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a9eb93c1896a9b84",
@@ -2827,7 +3588,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0e1d503fdf43b51c",
@@ -2852,7 +3614,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "4529c47e01f60588",
@@ -2876,7 +3639,8 @@
    "season": null,
    "compensation": null,
    "department": "Core Development ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "21410319123d05c8",
@@ -2900,7 +3664,8 @@
    "season": null,
    "compensation": null,
    "department": "Core Development ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1c94c6dac77edfeb",
@@ -2924,7 +3689,8 @@
    "season": null,
    "compensation": null,
    "department": "IT Infrastructure + WCW",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6dcc6a1a09c82014",
@@ -2948,7 +3714,8 @@
    "season": null,
    "compensation": null,
    "department": "IT Infrastructure + WCW",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d0bc1168273b7291",
@@ -2972,7 +3739,58 @@
    "season": null,
    "compensation": null,
    "department": "Core Development ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "2bbe3fd1abf7295d",
+   "company_slug": "jump-trading",
+   "company_name": "Jump Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Digital Modem Engineer",
+   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7951911",
+   "locations": [
+    "New York City"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-05-27",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "IT Infrastructure + WCW",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "8d163a4a64b40812",
+   "company_slug": "jump-trading",
+   "company_name": "Jump Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "HPC Systems Engineer",
+   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=5752845",
+   "locations": [
+    "Chicago"
+   ],
+   "track": "quant",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2024-03-08",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "IT Infrastructure + WCW",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a3215390d6c10524",
@@ -2996,7 +3814,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "fbc8308f838f2b8e",
@@ -3020,7 +3839,8 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "ba35af05bee8a858",
@@ -3044,7 +3864,33 @@
    "season": null,
    "compensation": null,
    "department": "Front Office ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "4faccc577e9e215d",
+   "company_slug": "jump-trading",
+   "company_name": "Jump Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "UI Developer",
+   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=5500453",
+   "locations": [
+    "Chicago"
+   ],
+   "track": "quant",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2023-12-05",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "IT Infrastructure + WCW",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "92e30fd9c3c08f43",
@@ -3068,7 +3914,8 @@
    "season": null,
    "compensation": null,
    "department": "Deployed Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0873c72c37b33655",
@@ -3092,7 +3939,8 @@
    "season": null,
    "compensation": null,
    "department": "Deployed Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1aec785bd43c8272",
@@ -3123,7 +3971,8 @@
     "source": "ashby"
    },
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6cd09005ad1a3546",
@@ -3147,7 +3996,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b7f76d265f93b026",
@@ -3171,7 +4021,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "813cec226f440f18",
@@ -3195,7 +4046,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3428d428a1b51022",
@@ -3219,7 +4071,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6c4b1d48e45863a3",
@@ -3244,7 +4097,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c5d645c93d2aa24c",
@@ -3269,7 +4123,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c7cc6e4f8723df64",
@@ -3293,7 +4148,8 @@
    "season": null,
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "273d5ac822335d68",
@@ -3317,7 +4173,8 @@
    "season": null,
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "18a5a59804671551",
@@ -3341,7 +4198,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Early Career",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "968214c2c8acebdb",
@@ -3365,7 +4223,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7602eaf72a5a3f3f",
@@ -3389,7 +4248,8 @@
    "season": null,
    "compensation": null,
    "department": "Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2fdfb653b68b06b1",
@@ -3413,7 +4273,8 @@
    "season": "2027",
    "compensation": null,
    "department": "University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9a0d0188a7918b74",
@@ -3437,7 +4298,8 @@
    "season": "2027",
    "compensation": null,
    "department": "University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b20fd8d1f751f1b8",
@@ -3461,7 +4323,8 @@
    "season": "2027",
    "compensation": null,
    "department": "University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "27e865651aaf7bc9",
@@ -3485,7 +4348,8 @@
    "season": "2027",
    "compensation": null,
    "department": "University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "914827830106d7c8",
@@ -3509,7 +4373,33 @@
    "season": "2027",
    "compensation": null,
    "department": "University",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "5c935a692f94d14a",
+   "company_slug": "pdt-partners",
+   "company_name": "PDT Partners",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Quantitative Researcher",
+   "apply_url": "https://job-boards.greenhouse.io/pdtpartners/jobs/82459",
+   "locations": [
+    "New York, NY"
+   ],
+   "track": "quant",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2024-10-28",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Research / Strategies",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7962328a783e5d61",
@@ -3533,7 +4423,8 @@
    "season": null,
    "compensation": null,
    "department": "Research / Strategies",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7a4ac6224505bc0f",
@@ -3557,7 +4448,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Technology",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6cd238f1b04bed86",
@@ -3581,7 +4473,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Technology",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b8b0c6bd5b2bb352",
@@ -3605,7 +4498,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8e61fceafbfa7953",
@@ -3629,7 +4523,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "31f38b3407dc0021",
@@ -3653,7 +4548,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1e63e72b6cf36728",
@@ -3677,7 +4573,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "329617b69bc901cb",
@@ -3701,7 +4598,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d335de094bc7091e",
@@ -3725,7 +4623,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8536cf5a14ae4356",
@@ -3749,7 +4648,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "76ede2cff9551e51",
@@ -3773,7 +4673,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "ade798a89071085a",
@@ -3797,7 +4698,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "5a67f269eb7565cc",
@@ -3821,7 +4723,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "66d93adcc4eca89f",
@@ -3845,7 +4748,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "97ac62cfaedaaccd",
@@ -3869,7 +4773,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "434bf60a28288504",
@@ -3893,7 +4798,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0c84ce2cf697374f",
@@ -3917,7 +4823,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c94f6aea64ac1563",
@@ -3941,7 +4848,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c2552af8f53ed356",
@@ -3965,7 +4873,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0f954152fb15bcdf",
@@ -3989,7 +4898,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7e243ea6dbe789b7",
@@ -4013,7 +4923,58 @@
    "season": null,
    "compensation": null,
    "department": "Information Security",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "740df89ac60dbbe5",
+   "company_slug": "palantir",
+   "company_name": "Palantir",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "lever",
+   "title": "Neurodivergent Fellowship",
+   "apply_url": "https://jobs.lever.co/palantir/61eaa54c-e1b7-4064-afad-f7df3d48d652",
+   "locations": [
+    "New York, NY"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2025-12-07",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Business Development",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "3ac5cfc78b335aef",
+   "company_slug": "palantir",
+   "company_name": "Palantir",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "lever",
+   "title": "Neurodivergent Fellowship",
+   "apply_url": "https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603",
+   "locations": [
+    "Washington, D.C."
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2025-12-07",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Business Development",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8a3ed8e464966c06",
@@ -4037,7 +4998,8 @@
    "season": null,
    "compensation": null,
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2d3832125c34fe35",
@@ -4061,7 +5023,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0793169afa546e08",
@@ -4085,7 +5048,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a909fe4db9aa5609",
@@ -4109,7 +5073,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3476adae4b2f6332",
@@ -4133,7 +5098,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "4beb02f56175cd92",
@@ -4157,7 +5123,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "376c70b28e9e887b",
@@ -4181,7 +5148,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f15959467d101d0c",
@@ -4205,7 +5173,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "24c95260b852b886",
@@ -4229,7 +5198,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f256d9554289f791",
@@ -4253,7 +5223,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2b06e68bca3d5de0",
@@ -4277,7 +5248,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d4ca31df0b790a25",
@@ -4301,7 +5273,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d2a275de0fbe3d74",
@@ -4325,7 +5298,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "defa94fc77f446d4",
@@ -4349,7 +5323,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "78f2df21a99c1f48",
@@ -4373,7 +5348,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d21f34ab26619c85",
@@ -4397,7 +5373,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "ce56e61e22dcb9ba",
@@ -4421,7 +5398,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a8ca83b64deee093",
@@ -4445,7 +5423,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "25f61e577d508a8d",
@@ -4469,7 +5448,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6b69b073b40135fd",
@@ -4493,7 +5473,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "adb721bfc6942e33",
@@ -4517,7 +5498,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "524a3fe05494c58e",
@@ -4541,7 +5523,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b9a8933c64e7df4c",
@@ -4565,7 +5548,8 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "58d774f0e17b7da2",
@@ -4589,7 +5573,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "41f503fea9b32585",
@@ -4613,7 +5598,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "132575d253191331",
@@ -4637,7 +5623,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2a4cfafdb429c3ab",
@@ -4661,7 +5648,8 @@
    "season": null,
    "compensation": null,
    "department": "Delta",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a5f3619614eff92e",
@@ -4685,7 +5673,34 @@
    "season": null,
    "compensation": null,
    "department": "Dev",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "17e709b523c8aefa",
+   "company_slug": "point72",
+   "company_name": "Point72 / Cubist",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Cubist Quantitative Researcher",
+   "apply_url": "https://boards.greenhouse.io/point72/jobs/7045987002?gh_jid=7045987002",
+   "locations": [
+    "Chicago, New York, Seattle",
+    "New York, NY"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2024-08-15",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Quant Management",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "bdd2ef756d29a485",
@@ -4709,7 +5724,8 @@
    "season": null,
    "compensation": null,
    "department": "Market Intelligence ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7a5c55fd0c82c918",
@@ -4733,7 +5749,8 @@
    "season": null,
    "compensation": null,
    "department": "Quant Management",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9766d8049021a1bb",
@@ -4757,7 +5774,33 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Quant Management",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "9a5cc415d23a0dc0",
+   "company_slug": "point72",
+   "company_name": "Point72 / Cubist",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Quantitative Portfolio Analyst – 2026 Grad",
+   "apply_url": "https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002",
+   "locations": [
+    "New York, New York"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2025-09-15",
+   "closed_at": null,
+   "season": "2026",
+   "compensation": null,
+   "department": "L/S Management",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9c9320853f2a2e3b",
@@ -4782,7 +5825,8 @@
    "season": null,
    "compensation": null,
    "department": "Quant Management",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f4131b0db675afa4",
@@ -4806,7 +5850,8 @@
    "season": null,
    "compensation": null,
    "department": "Quant Management",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "cb37ebc7c2128eab",
@@ -4830,7 +5875,8 @@
    "season": "Fall 2026",
    "compensation": null,
    "department": "Quant Management",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f01f28db57bb57e7",
@@ -4854,7 +5900,8 @@
    "season": null,
    "compensation": null,
    "department": "Quant Management",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "8966aa26b4b23e54",
@@ -4878,7 +5925,8 @@
    "season": null,
    "compensation": null,
    "department": "FO Knowledge Graph Intelligence ",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "e22dc1a432aa4992",
@@ -4902,7 +5950,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Quant Management",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6a54e3d9effd58cf",
@@ -4926,7 +5975,8 @@
    "season": null,
    "compensation": null,
    "department": "Research Technology & Trading Systems",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "090b8753ba48f7f1",
@@ -4957,7 +6007,33 @@
     "source": "ashby"
    },
    "department": "Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "b58ac8103d3e29d8",
+   "company_slug": "roblox",
+   "company_name": "Roblox",
+   "company_tier": 1,
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "Software Engineer, Foundation AI",
+   "apply_url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
+   "locations": [
+    "San Mateo, CA, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-08-17",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Early Career FT - Engineering",
+   "active": true,
+   "link_status": "error"
   },
   {
    "uid": "fdcb8f1a28def432",
@@ -4981,7 +6057,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Early Career Full-Time",
-   "active": true
+   "active": true,
+   "link_status": "error"
   },
   {
    "uid": "eaa873c529f6a336",
@@ -5005,7 +6082,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Early Career Full-Time",
-   "active": true
+   "active": true,
+   "link_status": "error"
   },
   {
    "uid": "0049f7b4992ace1b",
@@ -5029,7 +6107,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Early Career FT - Engineering",
-   "active": true
+   "active": true,
+   "link_status": "error"
   },
   {
    "uid": "d3e2f489f4540014",
@@ -5053,7 +6132,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Early Career Internship - Engineering",
-   "active": true
+   "active": true,
+   "link_status": "error"
   },
   {
    "uid": "146e77c13e27407d",
@@ -5077,7 +6157,33 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Production Bastrop - Assembly & Packout",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "f3c95817e0a339c8",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Mechanisms Engineer (Starship)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8569011002?gh_jid=8569011002",
+   "locations": [
+    "Hawthorne, CA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-05-28",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starship Mechanisms Engineering",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0131c20eef026a82",
@@ -5101,7 +6207,8 @@
    "season": null,
    "compensation": null,
    "department": "Starshield Satellite Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "4eba59b38114616a",
@@ -5125,7 +6232,8 @@
    "season": null,
    "compensation": null,
    "department": "Starship Avionics Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "14812f7b8d47b8ff",
@@ -5149,7 +6257,8 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "838e125facd50072",
@@ -5173,7 +6282,8 @@
    "season": null,
    "compensation": null,
    "department": "Satellite Payload Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a0b83c293099f897",
@@ -5197,7 +6307,8 @@
    "season": null,
    "compensation": null,
    "department": "Texas - Test Equipment Engineers",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a2359351a739a6d9",
@@ -5223,7 +6334,8 @@
    "season": null,
    "compensation": null,
    "department": "Silicon Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d87d4769aff0aa71",
@@ -5249,7 +6361,8 @@
    "season": null,
    "compensation": null,
    "department": "Silicon Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3b733edade933b2c",
@@ -5276,7 +6389,8 @@
    "season": null,
    "compensation": null,
    "department": "Silicon Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f79075276c58f1c5",
@@ -5300,7 +6414,8 @@
    "season": null,
    "compensation": null,
    "department": "Starshield Software Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c91a9ad5caa55783",
@@ -5324,7 +6439,8 @@
    "season": null,
    "compensation": null,
    "department": "Application Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "3f04ae71d540c887",
@@ -5348,7 +6464,8 @@
    "season": null,
    "compensation": null,
    "department": "Starship Software Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "30b5d28e80379ff7",
@@ -5372,7 +6489,8 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "44494ecd7d4aa8c1",
@@ -5397,7 +6515,8 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Mobile Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "2fb1d8fb22585078",
@@ -5421,7 +6540,8 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Satellite Flight Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "e21bfaf4cdc7c9ad",
@@ -5445,7 +6565,8 @@
    "season": null,
    "compensation": null,
    "department": "Product Security - Starlink",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f1665dc41aff8a36",
@@ -5470,7 +6591,8 @@
    "season": null,
    "compensation": null,
    "department": "Product Security - Starlink",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a4f1e26bb76e04d2",
@@ -5495,7 +6617,8 @@
    "season": null,
    "compensation": null,
    "department": "Product Security - Starlink",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "a169755945b07175",
@@ -5520,7 +6643,8 @@
    "season": null,
    "compensation": null,
    "department": "Product Security - Starlink",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "71ff801efa539549",
@@ -5555,7 +6679,8 @@
    "season": "Spring 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "65704c893bf479c4",
@@ -5590,7 +6715,8 @@
    "season": "Spring 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7ade64201f82d171",
@@ -5623,7 +6749,8 @@
    "season": "Spring 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7a2780552f5a2de9",
@@ -5654,7 +6781,8 @@
    "season": "Spring 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "d87197afef1d173e",
@@ -5689,7 +6817,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1faa31fd8f5e4d45",
@@ -5724,7 +6853,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "12155cdfdf3f68c0",
@@ -5750,7 +6880,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "64c0babf4a294e00",
@@ -5781,7 +6912,33 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Internships",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "c54a237bd8fff6e8",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Test Stand Design & Build Engineer (Structures/Fluid Systems)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8477422002?gh_jid=8477422002",
+   "locations": [
+    "McGregor, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-03-24",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Texas - Test Equipment Engineers",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f0f2f0d4d1dae6df",
@@ -5806,7 +6963,8 @@
    "season": null,
    "compensation": null,
    "department": "Investment",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9addf5d59aaf44ba",
@@ -5837,7 +6995,8 @@
     "source": "ashby"
    },
    "department": "Software",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "aa80171ac7aab2ba",
@@ -5861,7 +7020,8 @@
    "season": null,
    "compensation": null,
    "department": "Core AI and Machine Learning",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "ac1f7d8e3f9daacc",
@@ -5886,7 +7046,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "On-Campus Recruiting",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "d8c15941e965ac0e",
@@ -5910,7 +7071,34 @@
    "season": null,
    "compensation": null,
    "department": "On-Campus Recruiting",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
+  },
+  {
+   "uid": "9b2121ba6871ccdb",
+   "company_slug": "tower-research",
+   "company_name": "Tower Research Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Quantitative Trader/Researcher - 2027",
+   "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=8024142",
+   "locations": [
+    "New York, Chicago",
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-07-05",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "On-Campus Recruiting",
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "0e62c0ecad9ef434",
@@ -5935,7 +7123,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "On-Campus Recruiting",
-   "active": true
+   "active": true,
+   "link_status": "blocked"
   },
   {
    "uid": "871514c509d56294",
@@ -5960,7 +7149,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Pipeline (N/A)",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "94cea7d6e310ad85",
@@ -5984,7 +7174,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Pipeline (N/A)",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "9adbc1fe88fe8cdf",
@@ -6010,7 +7201,8 @@
    "season": null,
    "compensation": null,
    "department": "Perception (7LT)",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "57bff196ced0e824",
@@ -6034,7 +7226,33 @@
    "season": null,
    "compensation": null,
    "department": "Quantitative Research",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "1b8d88a6067892c2",
+   "company_slug": "airtable",
+   "company_name": "Airtable",
+   "company_tier": 2,
+   "company_category": "dev-tools",
+   "source": "greenhouse",
+   "title": "Software Engineer, Infrastructure (4-8 YOE)",
+   "apply_url": "https://job-boards.greenhouse.io/airtable/jobs/8400373002",
+   "locations": [
+    "San Francisco, CA; New York, NY; Seattle, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-02-03",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Engineering",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "e2f699bd6e6097cd",
@@ -6058,7 +7276,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Campus - Quantitative Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7154a5f1d0e35cf9",
@@ -6082,7 +7301,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Campus - Quantitative Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "f08cfb2f94c96bbe",
@@ -6106,7 +7326,8 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Campus - Quantitative Trading",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "ea19fa435c5e77ac",
@@ -6130,7 +7351,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "963e37ee999f1824",
@@ -6154,7 +7376,8 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Campus",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b7389b5679d4b117",
@@ -6178,7 +7401,8 @@
    "season": null,
    "compensation": null,
    "department": "Platform - Control Plane",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "574893b6acbee41d",
@@ -6202,7 +7426,34 @@
    "season": null,
    "compensation": null,
    "department": "Engineering, Customs",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "47cdbc6ba338d873",
+   "company_slug": "grafana-labs",
+   "company_name": "Grafana Labs",
+   "company_tier": 2,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Solutions Engineer | Central US | Remote",
+   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004",
+   "locations": [
+    "United States (Remote)",
+    "USA (Remote)"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-07-27",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Solutions Engineering (North & South America)",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "fe997c39037b637c",
@@ -6226,7 +7477,8 @@
    "season": null,
    "compensation": null,
    "department": null,
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "e405353dcea9e846",
@@ -6251,7 +7503,8 @@
    "season": null,
    "compensation": null,
    "department": "AI Platform",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "593742b71f0bd31b",
@@ -6276,7 +7529,8 @@
    "season": null,
    "compensation": null,
    "department": "AI Platform",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1750a1fe94682890",
@@ -6300,7 +7554,8 @@
    "season": "Summer 2026",
    "compensation": null,
    "department": "AI",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "897cf04b513030a6",
@@ -6325,7 +7580,8 @@
    "season": null,
    "compensation": null,
    "department": "Account Development Representative",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "bc4748a0572a613b",
@@ -6350,7 +7606,8 @@
    "season": null,
    "compensation": null,
    "department": "Account Development Representative",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "76267d6ff95dc8c8",
@@ -6375,7 +7632,8 @@
    "season": null,
    "compensation": null,
    "department": "Account Development Representative",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "76b817b709f563b4",
@@ -6400,7 +7658,8 @@
    "season": null,
    "compensation": null,
    "department": "Account Development Representative",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "0357c28de94b31d8",
@@ -6425,7 +7684,8 @@
    "season": null,
    "compensation": null,
    "department": "IT Security",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "35c694edad6dff80",
@@ -6449,7 +7709,8 @@
    "season": null,
    "compensation": null,
    "department": "IT Security",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "1d669ffad05d0415",
@@ -6473,7 +7734,64 @@
    "season": null,
    "compensation": null,
    "department": "CTO",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "f47dfd43bea6700b",
+   "company_slug": "temporal",
+   "company_name": "Temporal",
+   "company_tier": 2,
+   "company_category": "infra",
+   "source": "ashby",
+   "title": "Business Development Representative",
+   "apply_url": "https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade/application",
+   "locations": [
+    "Atlanta, Georgia"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2026-06-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": {
+    "min": 70000,
+    "max": 70000,
+    "currency": "USD",
+    "interval": "1 YEAR",
+    "source": "ashby"
+   },
+   "department": "Sales",
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "69ba51870353ea30",
+   "company_slug": "verkada",
+   "company_name": "Verkada",
+   "company_tier": 2,
+   "company_category": "security",
+   "source": "greenhouse",
+   "title": "Associate Solutions Engineer, San Mateo",
+   "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4135277007",
+   "locations": [
+    "San Mateo, CA United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "no-sponsorship",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2023-11-10",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Solutions Engineering",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "c955c708af29fe8d",
@@ -6497,7 +7815,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "ae8b49ea82a7e379",
@@ -6521,7 +7840,34 @@
    "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
-   "active": true
+   "active": true,
+   "link_status": "ok"
+  },
+  {
+   "uid": "9ccd34c5f7b961d7",
+   "company_slug": "verkada",
+   "company_name": "Verkada",
+   "company_tier": 2,
+   "company_category": "security",
+   "source": "greenhouse",
+   "title": "Enterprise Development Representative",
+   "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4140679007",
+   "locations": [
+    "Austin, TX United States",
+    "Austin office"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "no-sponsorship",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-01",
+   "posted_at": "2023-11-10",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Sales Development",
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "b841ac92e07c38e9",
@@ -6545,7 +7891,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "6e3411a7bebe0ff0",
@@ -6569,7 +7916,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "5aab07c28f5820b8",
@@ -6593,7 +7941,8 @@
    "season": "2027",
    "compensation": null,
    "department": "Software - Early Careers",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "7e1c1c5e62ecdf42",
@@ -6617,7 +7966,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Technical Support Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   },
   {
    "uid": "5788c242cdf62b3a",
@@ -6641,7 +7991,8 @@
    "season": "2026",
    "compensation": null,
    "department": "Technical Support Engineering",
-   "active": true
+   "active": true,
+   "link_status": "ok"
   }
  ]
 }

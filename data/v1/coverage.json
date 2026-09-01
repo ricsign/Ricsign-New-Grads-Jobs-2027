@@ -1,0 +1,1579 @@
+{
+ "generated_at": "2026-09-01T05:00:18+00:00",
+ "companies": [
+  {
+   "slug": "anthropic",
+   "name": "Anthropic",
+   "tier": 0,
+   "ats": "greenhouse",
+   "token": "anthropic",
+   "fetched": 569,
+   "published": 4,
+   "status": "ok"
+  },
+  {
+   "slug": "openai",
+   "name": "OpenAI",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "openai",
+   "fetched": 766,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "xai",
+   "name": "xAI",
+   "tier": 0,
+   "ats": "greenhouse",
+   "token": "xai",
+   "fetched": 251,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "mistral-ai",
+   "name": "Mistral AI",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "mistral.ai",
+   "fetched": 173,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "cohere",
+   "name": "Cohere",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "cohere",
+   "fetched": 144,
+   "published": 3,
+   "status": "ok"
+  },
+  {
+   "slug": "thinking-machines",
+   "name": "Thinking Machines Lab",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "thinkingmachines",
+   "fetched": 38,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "reflection-ai",
+   "name": "Reflection AI",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "reflectionai",
+   "fetched": 51,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "cognition",
+   "name": "Cognition",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "cognition",
+   "fetched": 91,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "anysphere",
+   "name": "Anysphere (Cursor)",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "cursor",
+   "fetched": 118,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "perplexity",
+   "name": "Perplexity",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "perplexity",
+   "fetched": 97,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "scale-ai",
+   "name": "Scale AI",
+   "tier": 0,
+   "ats": "greenhouse",
+   "token": "scaleai",
+   "fetched": 215,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "sierra",
+   "name": "Sierra",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "sierra",
+   "fetched": 206,
+   "published": 3,
+   "status": "ok"
+  },
+  {
+   "slug": "harvey",
+   "name": "Harvey",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "harvey",
+   "fetched": 345,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "poolside",
+   "name": "Poolside",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "poolside",
+   "fetched": 15,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "elevenlabs",
+   "name": "ElevenLabs",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "elevenlabs",
+   "fetched": 249,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "mercor",
+   "name": "Mercor",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "mercor",
+   "fetched": 93,
+   "published": 2,
+   "status": "ok"
+  },
+  {
+   "slug": "physical-intelligence",
+   "name": "Physical Intelligence",
+   "tier": 0,
+   "ats": "ashby",
+   "token": "physicalintelligence",
+   "fetched": 34,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "figure-ai",
+   "name": "Figure AI",
+   "tier": 0,
+   "ats": "greenhouse",
+   "token": "figureai",
+   "fetched": 123,
+   "published": 3,
+   "status": "ok"
+  },
+  {
+   "slug": "character-ai",
+   "name": "Character.AI",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "character",
+   "fetched": 13,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "decagon",
+   "name": "Decagon",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "decagon",
+   "fetched": 137,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "luma-ai",
+   "name": "Luma AI",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "lumaai",
+   "fetched": 47,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "suno",
+   "name": "Suno",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "suno",
+   "fetched": 63,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "runway",
+   "name": "Runway",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "runway",
+   "fetched": 4,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "langchain",
+   "name": "LangChain",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "langchain",
+   "fetched": 107,
+   "published": 2,
+   "status": "ok"
+  },
+  {
+   "slug": "together-ai",
+   "name": "Together AI",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "togetherai",
+   "fetched": 58,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "fireworks-ai",
+   "name": "Fireworks AI",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "fireworks",
+   "fetched": 67,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "baseten",
+   "name": "Baseten",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "baseten",
+   "fetched": 82,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "modal",
+   "name": "Modal",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "modal",
+   "fetched": 31,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "cerebras",
+   "name": "Cerebras",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "cerebras",
+   "fetched": 108,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "sambanova",
+   "name": "SambaNova",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "sambanovasystems",
+   "fetched": 58,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "etched",
+   "name": "Etched",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "etched",
+   "fetched": 109,
+   "published": 3,
+   "status": "ok"
+  },
+  {
+   "slug": "tenstorrent",
+   "name": "Tenstorrent",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "tenstorrent",
+   "fetched": 136,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "amazon",
+   "name": "Amazon",
+   "tier": 1,
+   "ats": "amazon",
+   "token": "amazon",
+   "fetched": 6,
+   "published": 6,
+   "status": "ok"
+  },
+  {
+   "slug": "netflix",
+   "name": "Netflix",
+   "tier": 1,
+   "ats": "eightfold",
+   "token": "netflix.com",
+   "fetched": 499,
+   "published": 3,
+   "status": "ok"
+  },
+  {
+   "slug": "nvidia",
+   "name": "NVIDIA",
+   "tier": 1,
+   "ats": "workday",
+   "token": "nvidia",
+   "fetched": 39,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "salesforce",
+   "name": "Salesforce",
+   "tier": 1,
+   "ats": "workday",
+   "token": "salesforce",
+   "fetched": 40,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "adobe",
+   "name": "Adobe",
+   "tier": 1,
+   "ats": "workday",
+   "token": "adobe",
+   "fetched": 40,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "intel",
+   "name": "Intel",
+   "tier": 2,
+   "ats": "workday",
+   "token": "intel",
+   "fetched": 20,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "amd",
+   "name": "AMD",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "broadcom",
+   "name": "Broadcom",
+   "tier": 2,
+   "ats": "workday",
+   "token": "broadcom",
+   "fetched": 280,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "qualcomm",
+   "name": "Qualcomm",
+   "tier": 2,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "google",
+   "name": "Google",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "meta",
+   "name": "Meta",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "apple",
+   "name": "Apple",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "microsoft",
+   "name": "Microsoft",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "tesla",
+   "name": "Tesla",
+   "tier": 2,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "snowflake",
+   "name": "Snowflake",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "jump-trading",
+   "name": "Jump Trading",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "jumptrading",
+   "fetched": 108,
+   "published": 23,
+   "status": "ok"
+  },
+  {
+   "slug": "drw",
+   "name": "DRW",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "drweng",
+   "fetched": 155,
+   "published": 10,
+   "status": "ok"
+  },
+  {
+   "slug": "tower-research",
+   "name": "Tower Research Capital",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "towerresearchcapital",
+   "fetched": 83,
+   "published": 5,
+   "status": "ok"
+  },
+  {
+   "slug": "point72",
+   "name": "Point72 / Cubist",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "point72",
+   "fetched": 229,
+   "published": 11,
+   "status": "ok"
+  },
+  {
+   "slug": "squarepoint",
+   "name": "Squarepoint Capital",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "squarepointcapital",
+   "fetched": 93,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "imc",
+   "name": "IMC Trading",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "imc",
+   "fetched": 174,
+   "published": 11,
+   "status": "ok"
+  },
+  {
+   "slug": "qube-rt",
+   "name": "Qube Research & Technologies",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "quberesearchandtechnologies",
+   "fetched": 192,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "old-mission",
+   "name": "Old Mission Capital",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "oldmissioncapital",
+   "fetched": 36,
+   "published": 7,
+   "status": "ok"
+  },
+  {
+   "slug": "akuna",
+   "name": "Akuna Capital",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "akunacapital",
+   "fetched": 34,
+   "published": 19,
+   "status": "ok"
+  },
+  {
+   "slug": "pdt-partners",
+   "name": "PDT Partners",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "pdtpartners",
+   "fetched": 10,
+   "published": 4,
+   "status": "ok"
+  },
+  {
+   "slug": "five-rings",
+   "name": "Five Rings",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "fiveringsllc",
+   "fetched": 15,
+   "published": 7,
+   "status": "ok"
+  },
+  {
+   "slug": "schonfeld",
+   "name": "Schonfeld",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "schonfeld",
+   "fetched": 53,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "aqr",
+   "name": "AQR Capital",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "aqr",
+   "fetched": 55,
+   "published": 8,
+   "status": "ok"
+  },
+  {
+   "slug": "xtx-markets",
+   "name": "XTX Markets",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "xtxmarketstechnologies",
+   "fetched": 9,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "bridgewater",
+   "name": "Bridgewater Associates",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "bridgewater89",
+   "fetched": 16,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "headlands",
+   "name": "Headlands Technologies",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "headlandstechnologiesllc",
+   "fetched": 7,
+   "published": 2,
+   "status": "ok"
+  },
+  {
+   "slug": "man-group",
+   "name": "Man Group",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "mangroup",
+   "fetched": 51,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "vatic-labs",
+   "name": "Vatic Labs",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "vaticlabs",
+   "fetched": 10,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "quadrature",
+   "name": "Quadrature Capital",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "quadraturecapital",
+   "fetched": 4,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "ctc-campus",
+   "name": "Chicago Trading Company",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "chicagotradingcampus",
+   "fetched": 8,
+   "published": 4,
+   "status": "ok"
+  },
+  {
+   "slug": "ctc-lateral",
+   "name": "Chicago Trading Company (Lateral)",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "chicagotrading",
+   "fetched": 24,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "radix-university",
+   "name": "Radix Trading",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "radixuniversity",
+   "fetched": 8,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "radix-experienced",
+   "name": "Radix Trading (Experienced)",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "radixexperienced",
+   "fetched": 7,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "hrt",
+   "name": "Hudson River Trading",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "hrttalentcommunity",
+   "fetched": 3,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "exoduspoint",
+   "name": "ExodusPoint",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "exoduspoint",
+   "fetched": 2,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "belvedere",
+   "name": "Belvedere Trading",
+   "tier": 2,
+   "ats": "lever",
+   "token": "belvederetrading",
+   "fetched": 14,
+   "published": 5,
+   "status": "ok"
+  },
+  {
+   "slug": "voleon",
+   "name": "The Voleon Group",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "voleon",
+   "fetched": 59,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "marshall-wace",
+   "name": "Marshall Wace",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "marshallwace",
+   "fetched": 0,
+   "published": 0,
+   "status": "board empty"
+  },
+  {
+   "slug": "jane-street",
+   "name": "Jane Street",
+   "tier": 0,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "citadel",
+   "name": "Citadel",
+   "tier": 0,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "citadel-securities",
+   "name": "Citadel Securities",
+   "tier": 0,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "de-shaw",
+   "name": "D. E. Shaw",
+   "tier": 0,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "optiver",
+   "name": "Optiver",
+   "tier": 0,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "two-sigma",
+   "name": "Two Sigma",
+   "tier": 0,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "sig",
+   "name": "SIG (Susquehanna)",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "millennium",
+   "name": "Millennium",
+   "tier": 1,
+   "ats": "none",
+   "token": null,
+   "fetched": 0,
+   "published": 0,
+   "status": "link-only"
+  },
+  {
+   "slug": "databricks",
+   "name": "Databricks",
+   "tier": 0,
+   "ats": "greenhouse",
+   "token": "databricks",
+   "fetched": 839,
+   "published": 3,
+   "status": "ok"
+  },
+  {
+   "slug": "stripe",
+   "name": "Stripe",
+   "tier": 0,
+   "ats": "greenhouse",
+   "token": "stripe",
+   "fetched": 575,
+   "published": 4,
+   "status": "ok"
+  },
+  {
+   "slug": "figma",
+   "name": "Figma",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "figma",
+   "fetched": 161,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "vercel",
+   "name": "Vercel",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "vercel",
+   "fetched": 89,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "notion",
+   "name": "Notion",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "notion",
+   "fetched": 132,
+   "published": 6,
+   "status": "ok"
+  },
+  {
+   "slug": "linear",
+   "name": "Linear",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "linear",
+   "fetched": 28,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "supabase",
+   "name": "Supabase",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "supabase",
+   "fetched": 59,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "clickhouse",
+   "name": "ClickHouse",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "clickhouse",
+   "fetched": 173,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "datadog",
+   "name": "Datadog",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "datadog",
+   "fetched": 433,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "mongodb",
+   "name": "MongoDB",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "mongodb",
+   "fetched": 389,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "cloudflare",
+   "name": "Cloudflare",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "cloudflare",
+   "fetched": 303,
+   "published": 2,
+   "status": "ok"
+  },
+  {
+   "slug": "grafana-labs",
+   "name": "Grafana Labs",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "grafanalabs",
+   "fetched": 132,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "elastic",
+   "name": "Elastic",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "elastic",
+   "fetched": 341,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "twilio",
+   "name": "Twilio",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "twilio",
+   "fetched": 127,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "fastly",
+   "name": "Fastly",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "fastly",
+   "fetched": 50,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "temporal",
+   "name": "Temporal",
+   "tier": 2,
+   "ats": "ashby",
+   "token": "temporal",
+   "fetched": 60,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "sentry",
+   "name": "Sentry",
+   "tier": 2,
+   "ats": "ashby",
+   "token": "sentry",
+   "fetched": 40,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "postman",
+   "name": "Postman",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "postman",
+   "fetched": 65,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "render",
+   "name": "Render",
+   "tier": 2,
+   "ats": "ashby",
+   "token": "render",
+   "fetched": 33,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "railway",
+   "name": "Railway",
+   "tier": 2,
+   "ats": "ashby",
+   "token": "railway",
+   "fetched": 8,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "replit",
+   "name": "Replit",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "replit",
+   "fetched": 73,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "zed",
+   "name": "Zed",
+   "tier": 2,
+   "ats": "ashby",
+   "token": "zed",
+   "fetched": 2,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "warp",
+   "name": "Warp",
+   "tier": 2,
+   "ats": "ashby",
+   "token": "warp",
+   "fetched": 19,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "lovable",
+   "name": "Lovable",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "lovable",
+   "fetched": 81,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "airtable",
+   "name": "Airtable",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "airtable",
+   "fetched": 16,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "asana",
+   "name": "Asana",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "asana",
+   "fetched": 118,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "amplitude",
+   "name": "Amplitude",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "amplitude",
+   "fetched": 37,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "mixpanel",
+   "name": "Mixpanel",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "mixpanel",
+   "fetched": 83,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "gong",
+   "name": "Gong",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "gongio",
+   "fetched": 95,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "okta",
+   "name": "Okta",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "okta",
+   "fetched": 320,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "vanta",
+   "name": "Vanta",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "vanta",
+   "fetched": 106,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "tailscale",
+   "name": "Tailscale",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "tailscale",
+   "fetched": 39,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "verkada",
+   "name": "Verkada",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "verkada",
+   "fetched": 281,
+   "published": 9,
+   "status": "ok"
+  },
+  {
+   "slug": "ramp",
+   "name": "Ramp",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "ramp",
+   "fetched": 137,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "plaid",
+   "name": "Plaid",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "plaid",
+   "fetched": 99,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "brex",
+   "name": "Brex",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "brex",
+   "fetched": 294,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "mercury",
+   "name": "Mercury",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "mercury",
+   "fetched": 54,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "coinbase",
+   "name": "Coinbase",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "coinbase",
+   "fetched": 184,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "robinhood",
+   "name": "Robinhood",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "robinhood",
+   "fetched": 128,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "affirm",
+   "name": "Affirm",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "affirm",
+   "fetched": 160,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "chime",
+   "name": "Chime",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "chime",
+   "fetched": 64,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "gusto",
+   "name": "Gusto",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "gusto",
+   "fetched": 92,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "discord",
+   "name": "Discord",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "discord",
+   "fetched": 51,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "reddit",
+   "name": "Reddit",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "reddit",
+   "fetched": 156,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "airbnb",
+   "name": "Airbnb",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "airbnb",
+   "fetched": 167,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "pinterest",
+   "name": "Pinterest",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "pinterest",
+   "fetched": 207,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "roblox",
+   "name": "Roblox",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "roblox",
+   "fetched": 218,
+   "published": 5,
+   "status": "ok"
+  },
+  {
+   "slug": "doordash",
+   "name": "DoorDash",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "doordashusa",
+   "fetched": 471,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "instacart",
+   "name": "Instacart",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "instacart",
+   "fetched": 117,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "lyft",
+   "name": "Lyft",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "lyft",
+   "fetched": 169,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "dropbox",
+   "name": "Dropbox",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "dropbox",
+   "fetched": 42,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "flexport",
+   "name": "Flexport",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "flexport",
+   "fetched": 166,
+   "published": 1,
+   "status": "ok"
+  },
+  {
+   "slug": "faire",
+   "name": "Faire",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "faire",
+   "fetched": 64,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "klaviyo",
+   "name": "Klaviyo",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "klaviyo",
+   "fetched": 137,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "attentive",
+   "name": "Attentive",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "attentive",
+   "fetched": 36,
+   "published": 0,
+   "status": "none matched"
+  },
+  {
+   "slug": "palantir",
+   "name": "Palantir",
+   "tier": 1,
+   "ats": "lever",
+   "token": "palantir",
+   "fetched": 309,
+   "published": 48,
+   "status": "ok"
+  },
+  {
+   "slug": "anduril",
+   "name": "Anduril Industries",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "andurilindustries",
+   "fetched": 2100,
+   "published": 8,
+   "status": "ok"
+  },
+  {
+   "slug": "spacex",
+   "name": "SpaceX",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "spacex",
+   "fetched": 2220,
+   "published": 29,
+   "status": "ok"
+  },
+  {
+   "slug": "waymo",
+   "name": "Waymo",
+   "tier": 1,
+   "ats": "greenhouse",
+   "token": "waymo",
+   "fetched": 346,
+   "published": 3,
+   "status": "ok"
+  },
+  {
+   "slug": "applied-intuition",
+   "name": "Applied Intuition",
+   "tier": 1,
+   "ats": "ashby",
+   "token": "applied",
+   "fetched": 302,
+   "published": 15,
+   "status": "ok"
+  },
+  {
+   "slug": "nuro",
+   "name": "Nuro",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "nuro",
+   "fetched": 101,
+   "published": 2,
+   "status": "ok"
+  },
+  {
+   "slug": "samsara",
+   "name": "Samsara",
+   "tier": 2,
+   "ats": "greenhouse",
+   "token": "samsara",
+   "fetched": 232,
+   "published": 7,
+   "status": "ok"
+  }
+ ],
+ "rejections": {
+  "not a US location": 6149,
+  "senior/experienced role": 4186,
+  "title is not a technical role": 4176,
+  "not an early-career posting": 2792,
+  "non-technical role": 2352,
+  "non-CS engineering discipline": 754,
+  "quant role without early-career marker": 262,
+  "research role without early-career marker": 132
+ },
+ "rejection_samples": {
+  "non-technical role": [
+   "Anthropic — Account Executive, AI Native",
+   "Anthropic — Account Executive, Startups",
+   "Anthropic — Accounting, Revenue Internal Controls",
+   "Anthropic — Brand Marketing Lead, Enterprise",
+   "Anthropic — Customer Marketing Manager, Industries",
+   "Anthropic — Customer Programs Manager, Co-Marketing & Measurement",
+   "Anthropic — Customer Success Manager, Financial Services",
+   "Anthropic — Customer Success Manager, GSI",
+   "Anthropic — Customer Success Manager, Industries",
+   "Anthropic — Customer Success Manager, Tech",
+   "Anthropic — Customer Success Manager, Top Accounts",
+   "Anthropic — Data Scientist, Marketing"
+  ],
+  "not a US location": [
+   "Anthropic — Account Executive - DNB",
+   "Anthropic — Account Executive - Public Sector (ASEAN)",
+   "Anthropic — APAC Tax Lead",
+   "Anthropic — Applied AI Architect",
+   "Anthropic — Applied AI Architect",
+   "Anthropic — Applied AI Architect",
+   "Anthropic — Applied AI Architect",
+   "Anthropic — Applied AI Architect",
+   "Anthropic — Applied AI Architect, Digital Natives Business",
+   "Anthropic — Applied AI Architect, Digital Natives Business",
+   "Anthropic — Applied AI Architect, Industries",
+   "Anthropic — Applied AI Architect, Industries"
+  ],
+  "not an early-career posting": [
+   "Anthropic — AI Engineer, GTM Claudification",
+   "Anthropic — AI Infrastructure Operations, Demand Planning",
+   "Anthropic — AI Operations Engineer, Partnerships",
+   "Anthropic — Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+   "Anthropic — Applied AI Engineer, Enterprise Tech",
+   "Anthropic — Applied AI Research (Capabilities)",
+   "Anthropic — Applied AI Technical Evangelist, Startup Ecosystem",
+   "Anthropic — AV Engineer",
+   "Anthropic — Business Development Representative",
+   "Anthropic — Business Systems Analyst",
+   "Anthropic — Capital Markets - Infrastructure Financing",
+   "Anthropic — Data Engineer"
+  ],
+  "senior/experienced role": [
+   "Anthropic — AI Fluency Education Lead",
+   "Anthropic — Applied AI Architect, Commercial",
+   "Anthropic — Applied AI Architect, Enterprise Tech",
+   "Anthropic — Applied AI Architect, Industries",
+   "Anthropic — Applied AI Architect, Partnerships",
+   "Anthropic — Applied AI Architect, Public Sector (National Security)",
+   "Anthropic — Applied AI Architect, Startups",
+   "Anthropic — Applied AI Architect, Strategic Enterprise Tech",
+   "Anthropic — AWS GTM Partnership Lead, Global System Integrators",
+   "Anthropic — Cloud Partner Enablement Lead",
+   "Anthropic — Communications Lead, Platform",
+   "Anthropic — Community Engagement Manager, Data Centers (Texas)"
+  ],
+  "title is not a technical role": [
+   "Anthropic — AV Operations Specialist",
+   "Anthropic — AV Production Specialist",
+   "Anthropic — AWS GTM Partnership Lead, Enterprise",
+   "Anthropic — AWS GTM Partnership Lead, Startups",
+   "Anthropic — BDR Enablement Lead",
+   "Anthropic — Cash Manager, Treasury",
+   "Anthropic — Commercial Counsel, GTM",
+   "Anthropic — Commercial Counsel, SPARC",
+   "Anthropic — Communications Lead, Enterprise",
+   "Anthropic — Community & Executive Escalations Program Manager",
+   "Anthropic — Contract Technical Sourcer",
+   "Anthropic — Corporate Counsel, M&A"
+  ],
+  "non-CS engineering discipline": [
+   "Anthropic — Data Center Electrical Engineer",
+   "Anthropic — Data Center Mechanical Engineer",
+   "Anthropic — Manufacturing Engineer - Data Center Hardware",
+   "Anthropic — Manufacturing Quality Engineer, Data Center Power & Cooling",
+   "Anthropic — Product Engineer - Manufacturing Operations",
+   "Anthropic — Supply Chain Delivery Manager, Data Center Power & Cooling OFE",
+   "Anysphere (Cursor) — Field Engineer",
+   "Databricks — Principal Security Field Engineer",
+   "Databricks — Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+   "Databricks — Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+   "Databricks — Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+   "Databricks — Sr. Forward Deployed Engineer (FDE) - Manufacturing"
+  ],
+  "research role without early-career marker": [
+   "Anthropic — ML/Research Engineer, Safeguards",
+   "Anthropic — Research Engineer, Chip Design RL (Reinforcement Learning)",
+   "Anthropic — Research Engineer, Code RL (Reinforcement Learning)",
+   "Anthropic — Research Engineer, Computer Use",
+   "Anthropic — Research Engineer, Cybersecurity RL (Reinforcement Learning)",
+   "Anthropic — Research Engineer, Discovery",
+   "Anthropic — Research Engineer, Domain Scaling",
+   "Anthropic — Research Engineer, Economic Research Data Platform",
+   "Anthropic — Research Engineer, Interpretability",
+   "Anthropic — Research Engineer, Knowledge Team",
+   "Anthropic — Research Engineer, Life Sciences",
+   "Anthropic — Research Engineer, Machine Learning (Reinforcement Learning)"
+  ],
+  "quant role without early-career marker": [
+   "OpenAI — Quantitative Intelligence Analyst",
+   "Stripe — Treasury Finance AI and Quantitative Analytics, Americas",
+   "AQR Capital — 2027 Business Development Analyst - US Wealth",
+   "AQR Capital — 2027 Trading Analyst",
+   "AQR Capital — Application Support Engineer",
+   "AQR Capital — Business Development Analyst - U.S. Wealth",
+   "AQR Capital — Data Scientist, Machine Learning",
+   "AQR Capital — Desktop Support Engineer",
+   "AQR Capital — Global Stock Selection Research - Analyst/Associate",
+   "AQR Capital — Managed Futures & Commodities Research Analyst",
+   "AQR Capital — Quantitative Research – Prediction Markets Analyst",
+   "AQR Capital — Research & Portfolio Management Engineering - Associate"
+  ]
+ }
+}
