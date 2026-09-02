@@ -6,8 +6,9 @@
 
 ## → [**Browse and filter every role**](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/) ←
 
-Search by company, role or location. Filter by track, visa sponsorship, degree
-and tier. Shareable links. No sign-up, no email wall, no tracking.
+Search by company, role or location. Filter by track, visa sponsorship, degree,
+tier and how recently it was posted. Sort by newest posted, newest discovered,
+or oldest. Shareable links. No sign-up, no email wall, no tracking.
 
 [![Refresh](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/refresh.yml/badge.svg)](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/refresh.yml)
 [![CI](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/ci.yml/badge.svg)](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/actions/workflows/ci.yml)
@@ -37,8 +38,19 @@ and tier. Shareable links. No sign-up, no email wall, no tracking.
 [published test](docs/COMPANY_BAR.md). Staffing agencies, annotation vendors and
 city-spammed reqs are excluded by policy. Max 3 rows per company.
 
-**Freshness you can check.** `first_seen` is written once and never overwritten
-by a re-scrape. When we say 4 days old, it is 4 days old.
+**Two dates, both real.** **Posted** is the employer's own publish date, present
+on 100% of rows — that is what actually answers "which of these is new."
+**Found** is when this repo first saw it, written once and never bumped by a
+re-scrape. Sort by either.
+
+**Evergreen requisitions are flagged, not hidden.** 42 of the roles here have
+been open over a year — Palantir has an internship posted in **October 2016**.
+That is a standing pipeline, not a role being filled this quarter, and you
+deserve to know which is which before you spend an afternoon on it.
+
+**One role, not nine rows.** Databricks posts the same job once per metro. We
+merge them into a single row with every location and an openings count, so a
+day's genuinely new postings aren't buried under duplicates.
 
 **Sponsorship is resolved, not defaulted.** Parsed from each posting into
 `sponsors` / `no-sponsorship` / `citizenship-required` / `security-clearance` —
@@ -65,6 +77,7 @@ We measured the largest competing boards in September 2026:
 | Its sponsorship field reads `"Other"` on | **99.1%** of live rows |
 | TikTok + ByteDance share of one board's new-grad list | **8.9%** |
 | Anthropic / OpenAI / DeepMind roles across **5,651** live rows on the two biggest boards | **1 / 0 / 0** |
+| Roles here flagged evergreen (open 1y+), rather than shown undated | **42** |
 
 That last row is the whole reason this exists — and the first version of this
 repo shipped **0 and 0** too, until [#15](../../pull/15) fixed it. Frontier labs
@@ -100,7 +113,7 @@ data/companies.yaml   145 employers · 129 live boards · every token verified
 
 ```bash
 pip install -r requirements-dev.txt && pip install -e .
-make test                          # 251 tests, no network
+make test                          # 274 tests, no network
 make refresh                       # hits every board, rewrites all outputs
 python -m eliteboard.cli doctor    # which boards can't be fetched, and why
 ```

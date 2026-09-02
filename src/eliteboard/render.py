@@ -17,6 +17,7 @@ import json
 import re
 from collections import Counter, defaultdict
 from collections.abc import Iterable
+from dataclasses import replace
 from datetime import UTC, date, datetime
 
 from .models import Degree, Job, Sponsorship, Track
@@ -119,6 +120,32 @@ def _comp(job: Job) -> str:
     return f"{lo or hi}{unit}" if (lo or hi) else "—"
 
 
+def _posted(job: Job) -> str:
+    """Relative + absolute publish date, e.g. "4d · Aug 28"."""
+    if job.posted_at is None:
+        return "—"
+    days = job.posted_age_days or 0
+    if days == 0:
+        rel = "today"
+    elif days == 1:
+        rel = "1d"
+    elif days < 30:
+        rel = f"{days}d"
+    elif days < 365:
+        rel = f"{days // 30}mo"
+    else:
+        rel = f"{days // 365}y"
+    # Include the year whenever it is not the current one - "10y · Feb 24"
+    # reads as this February at a glance, which is exactly wrong.
+    fmt = "%b %-d" if job.posted_at.year == job.last_verified.year else "%b %-d %Y"
+    return f"{rel} · {job.posted_at.strftime(fmt)}"
+
+
+def _found(job: Job) -> str:
+    fmt = "%b %-d" if job.first_seen.year == job.last_verified.year else "%b %-d %Y"
+    return f"{_age(job)} · {job.first_seen.strftime(fmt)}"
+
+
 def _age(job: Job) -> str:
     days = job.age_days
     if days <= 0:
@@ -136,10 +163,54 @@ def _badges(job: Job) -> str:
     return f"{sponsor}{degree}".strip() or "·"
 
 
+def _recency(job: Job) -> int:
+    """Ordinal used for "newest". Prefers the employer's own publish date.
+
+    ``first_seen`` is when WE noticed a role, which on day one is identical for
+    every row and tells a reader nothing. ``posted_at`` is on 100% of published
+    rows today, so it is the field that actually answers "which is newest".
+    """
+    return (job.posted_at or job.first_seen).toordinal()
+
+
 def _sort_key(job: Job):
-    # Tier first, then most recently first observed. Never alphabetical - that
-    # is why every competing list opens on Adobe.
-    return (job.company_tier, -job.first_seen.toordinal(), job.company_name, job.title)
+    # Tier first, then genuinely most-recently-posted. Never alphabetical -
+    # that is why every competing list opens on Adobe.
+    return (job.company_tier, -_recency(job), job.company_name, job.title)
+
+
+def group_roles(jobs: list[Job]) -> list[Job]:
+    """Collapse one role posted once per metro into a single row.
+
+    Databricks currently lists "AI Engineer - FDE" nine times, once per city,
+    and Palantir and SpaceX do the same. Nine identical titles in a row is not
+    nine opportunities - it is one, and rendering it as nine buries everything
+    posted the same day underneath it.
+
+    We keep the most recently posted requisition as the representative, merge
+    every location, and record the count. ``data/v1/jobs.json`` is untouched and
+    remains one entry per requisition, because an API consumer wants them all.
+    """
+    from .adapters.base import dedupe_locations
+
+    buckets: dict[tuple[str, str], list[Job]] = {}
+    for job in jobs:
+        key = (job.company_slug, " ".join(job.title.split()).casefold())
+        buckets.setdefault(key, []).append(job)
+
+    out: list[Job] = []
+    for group in buckets.values():
+        if len(group) == 1:
+            out.append(group[0])
+            continue
+        group.sort(key=lambda j: (-_recency(j), j.uid))
+        lead = replace(
+            group[0],
+            locations=dedupe_locations([loc for j in group for loc in j.locations]),
+            openings=len(group),
+        )
+        out.append(lead)
+    return out
 
 
 def cap_per_company(jobs: list[Job], limit: int = MAX_ROWS_PER_COMPANY) -> list[Job]:
@@ -160,7 +231,10 @@ def cap_per_company(jobs: list[Job], limit: int = MAX_ROWS_PER_COMPANY) -> list[
 LEGEND = (
     "**Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · "
     "🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred\n\n"
-    "`Age` is time since **we first saw the posting**, not since we last re-scraped it."
+    "**Posted** is the employer's own publish date. **Found** is when this repo "
+    "first saw the role — written once, never bumped by a re-scrape.\n\n"
+    "`open Ny+` marks an evergreen requisition that has been open that long. "
+    "Those are standing pipelines, not roles being filled this quarter."
 )
 
 
@@ -205,7 +279,7 @@ def render_board(
     track: Track, jobs: list[Job], *, today: date, programs: list[dict] | None = None
 ) -> str:
     filename, title, blurb = BOARDS[track]
-    live = cap_per_company(select_for_board(track, jobs))
+    live = cap_per_company(group_roles(select_for_board(track, jobs)))
 
     lines = [
         f"# {title}",
@@ -221,6 +295,21 @@ def render_board(
 
     if track is Track.AI_RESEARCH and programs:
         lines.append(render_programs_section(programs))
+
+    fresh = [j for j in live if (j.posted_age_days or 999) <= 7]
+    if fresh:
+        lines += [
+            f"## 🆕 Posted in the last 7 days ({len(fresh)})",
+            "",
+            "| Company | Role | Location | Posted |",
+            "|:--|:--|:--|--:|",
+        ]
+        for job in sorted(fresh, key=_sort_key)[:15]:
+            lines.append(
+                f"| **{_escape(job.company_name)}** | [{_title(job.title)}]({job.apply_url}) "
+                f"| {_locations(job, 1)} | {_posted(job)} |"
+            )
+        lines += ["", ""]
 
     by_tier: dict[int, list[Job]] = defaultdict(list)
     for job in live:
@@ -245,18 +334,24 @@ def render_board(
         lines += [
             f"## {tier_titles[tier]}",
             "",
-            "| Company | Role | Location | Comp | Flags | Age | Apply |",
-            "|:--|:--|:--|:--|:-:|--:|:-:|",
+            "| Company | Role | Location | Comp | Flags | Posted | Found | Apply |",
+            "|:--|:--|:--|:--|:-:|--:|--:|:-:|",
         ]
         for job in by_tier[tier]:
             season = f" · _{job.season}_" if job.season else ""
+            if job.openings > 1:
+                season += f" · `{job.openings} openings`"
+            if job.is_evergreen:
+                years = (job.posted_age_days or 0) // 365
+                season += f" · `open {years}y+`"
             lines.append(
                 f"| **{_escape(job.company_name)}** "
                 f"| {_title(job.title)}{season} "
                 f"| {_locations(job)} "
                 f"| {_comp(job)} "
                 f"| {_badges(job)} "
-                f"| {_age(job)} "
+                f"| {_posted(job)} "
+                f"| {_found(job)} "
                 f"| [apply]({job.apply_url}) |"
             )
         lines.append("")
@@ -318,11 +413,28 @@ def render_jobs_ndjson(jobs: list[Job]) -> str:
 
 
 def render_stats(jobs: list[Job], *, today: date, freshness: dict, health: dict) -> str:
-    live = [j for j in jobs if j.active]
+    live = [j for j in jobs if j.active and j.link_status not in HIDDEN_LINK_STATUS]
+    grouped = group_roles(live)
+    posted_ages = sorted(
+        j.posted_age_days for j in grouped if j.posted_age_days is not None
+    )
     payload = {
         "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
-        "live_roles": len(live),
+        # Requisitions, and the distinct roles they collapse into. Employers
+        # like Databricks post one req per metro; nine of those is one job.
+        "live_requisitions": len(live),
+        "live_roles": len(grouped),
         "companies_with_open_roles": len({j.company_slug for j in live}),
+        "posted_age": {
+            "median_days": posted_ages[len(posted_ages) // 2] if posted_ages else None,
+            "posted_last_24h": sum(1 for a in posted_ages if a <= 1),
+            "posted_last_7d": sum(1 for a in posted_ages if a <= 7),
+            "posted_last_30d": sum(1 for a in posted_ages if a <= 30),
+            "evergreen_over_1y": sum(1 for a in posted_ages if a >= Job.EVERGREEN_DAYS),
+            "with_posted_date_pct": round(
+                100 * len(posted_ages) / max(len(grouped), 1), 1
+            ),
+        },
         "by_track": {t.value: sum(1 for j in live if j.track is t) for t in Track},
         "by_tier": {str(t): sum(1 for j in live if j.company_tier == t) for t in (0, 1, 2)},
         "by_sponsorship": {

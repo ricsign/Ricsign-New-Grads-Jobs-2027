@@ -101,6 +101,21 @@
   .comp{font:12.5px var(--mono);color:var(--ink-2);white-space:nowrap}
   .age{font:12px var(--mono);color:var(--ink-3);white-space:nowrap;text-align:right}
   .age.fresh{color:var(--good);font-weight:600}
+  .when{white-space:nowrap;text-align:right}
+  .dt{display:inline-block;font:12px var(--mono);color:var(--ink-3);line-height:1.3}
+  .dt b{display:block;color:var(--ink-2);font-weight:600}
+  .dt i{font-style:normal;font-size:10.5px;opacity:.8}
+  .when.fresh .dt b{color:var(--good)}
+  .new{display:inline-block;font:9.5px var(--mono);font-weight:700;letter-spacing:.06em;
+    background:var(--good);color:var(--surface);border-radius:3px;padding:1px 4px;margin-left:7px;vertical-align:2px}
+  .many{display:inline-block;font:10px var(--mono);color:var(--info);background:var(--info-bg);
+    border-radius:3px;padding:1px 5px;margin-left:7px;vertical-align:1px}
+  .dim{color:var(--ink-3);font-weight:400}
+  .ever{display:inline-block;font:10px var(--mono);color:var(--warn);background:var(--warn-bg);
+    border-radius:3px;padding:1px 5px;margin-left:7px;vertical-align:1px;cursor:help}
+  tr.grp td{background:var(--surface-2);font:11px var(--mono);text-transform:uppercase;
+    letter-spacing:.06em;color:var(--ink-3);padding:7px 12px;font-weight:600;
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
   .badge{display:inline-flex;align-items:center;gap:4px;font:11px var(--sans);
     padding:2px 7px;border-radius:99px;white-space:nowrap;margin:1px 3px 1px 0;font-weight:500}
   .b-good{background:var(--good-bg);color:var(--good)}
@@ -150,12 +165,16 @@
     tbody tr{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
       margin-bottom:9px;padding:11px 13px}
     tbody td{border:0;padding:2px 0}
-    .age{text-align:left}
+    .age,.when{text-align:left}
+    .dt{display:inline}
+    .dt b{display:inline}
+    .dt i{margin-left:5px}
+    tr.grp{background:none;border:0;margin:14px 0 4px;padding:0}
+    tr.grp td{background:none;border:0;padding:0 0 4px}
     .loc{max-width:none}
     td.apply-cell{margin-top:9px}
     .stat b{font-size:21px}
     .stats{grid-template-columns:repeat(2,1fr)}
-    .stats .stat:nth-child(5){grid-column:1/-1}
   }
 </style>
 </head>
@@ -199,9 +218,19 @@
         <option value="1">Tier 1 — established elite</option>
         <option value="2">Tier 2 — specialists</option>
       </select>
+      <select id="fresh" aria-label="Filter by how recently the role was posted">
+        <option value="">Posted anytime</option>
+        <option value="1">Posted today</option>
+        <option value="7">Posted this week</option>
+        <option value="30">Posted this month</option>
+        <option value="90">Posted in 3 months</option>
+        <option value="365">Posted this year</option>
+      </select>
       <select id="sort" aria-label="Sort roles">
+        <option value="posted">Newest posted</option>
+        <option value="found">Newest discovered</option>
         <option value="tier">Best first (tier, then newest)</option>
-        <option value="new">Newest first</option>
+        <option value="oldest">Oldest posted</option>
         <option value="company">Company A–Z</option>
       </select>
       <button class="clear" id="clear" type="button">Reset</button>
@@ -213,7 +242,7 @@
 <main class="wrap">
   <div class="meta">
     <div class="count" id="count">Loading…</div>
-    <div class="legend">Age = time since we first saw the posting, not since we last re-scraped it.</div>
+    <div class="legend"><b>Posted</b> = the employer's publish date · <b>Found</b> = when we first saw it</div>
   </div>
   <div id="results"></div>
   <div id="programs"></div>
@@ -243,7 +272,7 @@ const RESEARCHY=/\b(research\w*|scientist|member of technical staff|mts|(?<!data
 const isResearch=j=>j.track==="ai-research"||j.degree==="phd-required"||RESEARCHY.test(j.title);
 
 let JOBS=[], STATS=null, ZERO=[], PROGRAMS=[];
-const state={q:"",track:"",sponsor:"",degree:"",tier:"",sort:"tier"};
+const state={q:"",track:"",sponsor:"",degree:"",tier:"",fresh:"",sort:"posted"};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
@@ -254,15 +283,49 @@ function readURL(){
 }
 function writeURL(){
   const p=new URLSearchParams();
-  for(const [k,v] of Object.entries(state)) if(v && !(k==="sort"&&v==="new")) p.set(k,v);
+  for(const [k,v] of Object.entries(state)) if(v && !(k==="sort"&&v==="posted")) p.set(k,v);
   const qs=p.toString();
   history.replaceState(null,"",qs?`?${qs}`:location.pathname);
 }
 
 /* ---------- helpers ---------- */
-function ageDays(j){
-  const d=(Date.now()-Date.parse(j.first_seen+"T00:00:00Z"))/864e5;
-  return Math.max(0,Math.floor(d));
+const DAY=864e5;
+function daysSince(iso){
+  if(!iso) return null;
+  return Math.max(0,Math.floor((Date.now()-Date.parse(iso+"T00:00:00Z"))/DAY));
+}
+/* Days since the EMPLOYER posted it. `first_seen` only says when this repo
+   started watching — on day one that is identical for every row, which is
+   exactly why the board could not tell you what was new. */
+const postedDays = j => daysSince(j.posted_at);
+const foundDays  = j => daysSince(j.first_seen) ?? 0;
+const ageDays    = foundDays;
+const EVERGREEN  = 365;
+function fmtDate(iso){
+  const d=new Date(iso+"T00:00:00Z"), now=new Date();
+  const o={month:"short",day:"numeric",timeZone:"UTC"};
+  if(d.getUTCFullYear()!==now.getUTCFullYear()) o.year="numeric";
+  return d.toLocaleDateString(undefined,o);
+}
+function relDays(n){
+  if(n==null) return "—";
+  if(n<=0) return "today"; if(n===1) return "1d";
+  if(n<30) return n+"d"; if(n<365) return Math.round(n/30)+"mo";
+  return Math.floor(n/365)+"y";
+}
+function dateCell(iso,n){
+  if(iso==null) return `<span class="dt">—</span>`;
+  return `<span class="dt"><b>${relDays(n)}</b><i>${esc(fmtDate(iso))}</i></span>`;
+}
+function bucket(n){
+  if(n==null) return "No date published";
+  if(n<=0) return "Posted today";
+  if(n===1) return "Posted yesterday";
+  if(n<=7) return "Posted this week";
+  if(n<=30) return "Posted this month";
+  if(n<=90) return "Posted in the last 3 months";
+  if(n<EVERGREEN) return "Posted over 3 months ago";
+  return "Evergreen — open over a year";
 }
 function ageLabel(n){
   if(n<=0)return"today"; if(n===1)return"1d";
@@ -282,41 +345,71 @@ function matches(j){
   if(state.sponsor && j.sponsorship!==state.sponsor) return false;
   if(state.degree && j.degree!==state.degree) return false;
   if(state.tier!=="" && String(j.company_tier)!==state.tier) return false;
+  if(state.fresh){ const d=postedDays(j); if(d==null||d>Number(state.fresh)) return false; }
   if(state.q){
     const hay=(j.company_name+" "+j.title+" "+(j.locations||[]).join(" ")+" "+(j.season||"")).toLowerCase();
     if(!state.q.toLowerCase().split(/\s+/).filter(Boolean).every(t=>hay.includes(t))) return false;
   }
   return true;
 }
+/* Collapse one role posted once per metro into a single row. Databricks lists
+   "AI Engineer - FDE" nine times, once per city; Palantir and SpaceX do the
+   same. Nine identical titles is one opportunity, and rendering it as nine
+   buries everything posted that day underneath it. Mirrors group_roles() in
+   render.py so the site and the markdown boards cannot disagree.
+   data/v1/jobs.json is untouched and stays one entry per requisition. */
+function groupRoles(list){
+  const key=j=>j.company_slug+"\u0000"+j.title.replace(/\s+/g," ").toLowerCase();
+  const buckets=new Map();
+  for(const j of list){ const k=key(j); (buckets.get(k)||buckets.set(k,[]).get(k)).push(j); }
+  const out=[];
+  for(const group of buckets.values()){
+    if(group.length===1){ out.push(group[0]); continue; }
+    group.sort((a,b)=>(b.posted_at||b.first_seen).localeCompare(a.posted_at||a.first_seen));
+    const locs=[]; const seen=new Set();
+    for(const g of group) for(const l of (g.locations||[])){
+      const k=l.toLowerCase(); if(!seen.has(k)){seen.add(k); locs.push(l);} }
+    out.push({...group[0], locations:locs, openings:group.length});
+  }
+  return out;
+}
 function sorted(list){
-  const byNew=(a,b)=>b.first_seen.localeCompare(a.first_seen)||a.company_name.localeCompare(b.company_name);
-  if(state.sort==="company") return list.sort((a,b)=>a.company_name.localeCompare(b.company_name)||byNew(a,b));
-  if(state.sort==="tier") return list.sort((a,b)=>a.company_tier-b.company_tier||byNew(a,b));
-  return list.sort(byNew);
+  const key=j=>j.posted_at||j.first_seen;
+  const byPosted=(a,b)=>key(b).localeCompare(key(a))||a.company_name.localeCompare(b.company_name);
+  const byFound =(a,b)=>b.first_seen.localeCompare(a.first_seen)||byPosted(a,b);
+  if(state.sort==="company") return list.sort((a,b)=>a.company_name.localeCompare(b.company_name)||byPosted(a,b));
+  if(state.sort==="tier")    return list.sort((a,b)=>a.company_tier-b.company_tier||byPosted(a,b));
+  if(state.sort==="found")   return list.sort(byFound);
+  if(state.sort==="oldest")  return list.sort((a,b)=>key(a).localeCompare(key(b)));
+  return list.sort(byPosted);
 }
 
 /* ---------- render ---------- */
 function renderStats(){
   if(!STATS) return;
-  const f=STATS.freshness||{}, lc=(STATS.pipeline_health||{}).link_check||{};
+  const pa=STATS.posted_age||{};
   const tiles=[
     [STATS.live_roles, "open roles"],
     [STATS.companies_with_open_roles, "companies hiring"],
+    [pa.posted_last_7d??"—", "posted this week"],
+    [(pa.median_days??"—")+"d", "median age of posting"],
     [(STATS.link_verified_pct??100)+"%", "apply links verified"],
     [STATS.sponsorship_resolved_pct+"%", "sponsorship resolved"],
-    [(f.median_age_days??0)+"d", "median posting age"],
   ];
   $("#stats").innerHTML=tiles.map(([v,l])=>`<div class="stat"><b>${esc(v)}</b><span>${esc(l)}</span></div>`).join("");
   const when=STATS.generated_at?new Date(STATS.generated_at):null;
   $("#updated").innerHTML=
     `<span><span class="pulse"></span>Last refreshed ${when?when.toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"}):"—"}</span>`+
     `<span>${(STATS.pipeline_health||{}).boards_ok??"—"} / ${(STATS.pipeline_health||{}).boards_attempted??"—"} boards healthy</span>`+
-    `<span>${(STATS.pipeline_health||{}).postings_fetched?.toLocaleString?.()??"—"} postings read → ${STATS.live_roles} published</span>`;
+    `<span>${(STATS.pipeline_health||{}).postings_fetched?.toLocaleString?.()??"—"} postings read → ${STATS.live_requisitions??STATS.live_roles} published</span>`+
+    ((STATS.posted_age||{}).evergreen_over_1y?`<span>${STATS.posted_age.evergreen_over_1y} evergreen (open 1y+)</span>`:"");
 }
 function renderTabs(){
   const counts={};
   for(const [v] of TRACKS){
-    counts[v]=JOBS.filter(j=>{const s=state.track;state.track=v;const m=matches(j);state.track=s;return m;}).length;
+    const prev=state.track; state.track=v;
+    counts[v]=groupRoles(JOBS.filter(matches)).length;
+    state.track=prev;
   }
   $("#tabs").innerHTML=TRACKS.map(([v,l])=>
     `<button class="tab" data-track="${v}" aria-pressed="${state.track===v}">${esc(l)}<span class="n">${counts[v]}</span></button>`
@@ -329,25 +422,40 @@ function renderRows(list){
       <a href="data/v1/feed.xml">subscribe to the feed</a> and let new ones come to you.</div>`;
     return;
   }
-  const rows=list.map(j=>{
-    const n=ageDays(j), sp=SPONSOR[j.sponsorship], dg=DEGREE[j.degree];
+  const grouped=["posted","found","oldest"].includes(state.sort);
+  let last=null, out="";
+  for(const j of list){
+    const pd=postedDays(j), fd=foundDays(j);
+    if(grouped){
+      // Absolute date, not "1d ago": the whole point of this view is *when*
+      // we found it, and every row shares that date until history accumulates.
+      const b=state.sort==="found"?`Discovered ${fmtDate(j.first_seen)}`:bucket(pd);
+      if(b!==last){ last=b; out+=`<tr class="grp"><td colspan="8">${esc(b)}</td></tr>`; }
+    }
+    const sp=SPONSOR[j.sponsorship], dg=DEGREE[j.degree];
     const badges=(sp?`<span class="badge ${sp[0]}">${esc(sp[1])}</span>`:"")
                 +(dg?`<span class="badge ${dg[0]}">${esc(dg[1])}</span>`:"")
                 ||`<span class="unstated">not stated</span>`;
-    const c=comp(j.compensation);
-    return `<tr>
+    const many = j.openings>1 ? `<span class="many">${j.openings} openings</span>` : "";
+    const flag = pd!=null && pd<=2 ? `<span class="new">NEW</span>`
+               : pd!=null && pd>=EVERGREEN ? `<span class="ever" title="Open ${Math.floor(pd/365)}+ years — a standing pipeline, not a role being filled this quarter">evergreen</span>` : "";
+    out+=`<tr>
       <td class="co">${esc(j.company_name)}<span class="tier ${j.company_tier===0?"t0":""}">T${j.company_tier}</span></td>
-      <td><a class="role" href="${esc(j.apply_url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+      <td><a class="role" href="${esc(j.apply_url)}" target="_blank" rel="noopener">${esc(j.title)}</a>${flag}${many}
           ${j.season?`<span class="sub">${esc(j.season)}</span>`:""}</td>
       <td class="loc">${esc((j.locations||[]).slice(0,2).join(" · "))}${(j.locations||[]).length>2?` +${j.locations.length-2}`:""}</td>
-      <td class="comp">${esc(c)||"—"}</td>
+      <td class="comp">${esc(comp(j.compensation))||"—"}</td>
       <td>${badges}</td>
-      <td class="age ${n<=3?"fresh":""}">${ageLabel(n)}</td>
+      <td class="when ${pd!=null&&pd<=7?"fresh":""}">${dateCell(j.posted_at,pd)}</td>
+      <td class="when">${dateCell(j.first_seen,fd)}</td>
       <td class="apply-cell"><a class="apply" href="${esc(j.apply_url)}" target="_blank" rel="noopener">Apply</a></td>
-    </tr>`;}).join("");
+    </tr>`;
+  }
   $("#results").innerHTML=`<table><thead><tr>
-    <th>Company</th><th>Role</th><th>Location</th><th>Comp</th><th>Work auth</th><th>Age</th><th></th>
-    </tr></thead><tbody>${rows}</tbody></table>`;
+    <th>Company</th><th>Role</th><th>Location</th><th>Comp</th><th>Work auth</th>
+    <th title="When the employer published the role">Posted</th>
+    <th title="When this repo first saw it — written once, never bumped by a re-scrape">Found</th><th></th>
+    </tr></thead><tbody>${out}</tbody></table>`;
 }
 function renderPrograms(){
   if(!PROGRAMS.length){$("#programs").innerHTML="";return;}
@@ -376,23 +484,27 @@ function renderZero(){
       `<span class="zchip"><b>${esc(c.name)}</b><i>${c.fetched}</i></span>`).join("")}</div></details>`;
 }
 function render(){
-  const list=sorted(JOBS.filter(matches));
+  const matched=JOBS.filter(matches);
+  const list=sorted(groupRoles(matched));
   renderTabs(); renderRows(list); renderPrograms();
-  $("#count").innerHTML=`<b>${list.length}</b> of ${JOBS.length} roles`;
+  const reqs=matched.length;
+  $("#count").innerHTML=`<b>${list.length}</b> role${list.length===1?"":"s"}`
+    + (reqs!==list.length?` <span class="dim">· ${reqs} requisitions</span>`:"")
+    + (reqs!==JOBS.length?` <span class="dim">of ${JOBS.length}</span>`:"");
   writeURL();
 }
 
 /* ---------- wiring ---------- */
 function bind(){
   $("#q").addEventListener("input",e=>{state.q=e.target.value;render();});
-  for(const id of ["sponsor","degree","tier","sort"])
+  for(const id of ["sponsor","degree","tier","fresh","sort"])
     $("#"+id).addEventListener("change",e=>{state[id]=e.target.value;render();});
   $("#tabs").addEventListener("click",e=>{
     const b=e.target.closest(".tab"); if(!b)return;
     state.track=b.dataset.track; render();
   });
   $("#clear").addEventListener("click",()=>{
-    Object.assign(state,{q:"",track:"",sponsor:"",degree:"",tier:"",sort:"tier"});
+    Object.assign(state,{q:"",track:"",sponsor:"",degree:"",tier:"",fresh:"",sort:"posted"});
     syncControls(); render();
   });
   document.addEventListener("keydown",e=>{
@@ -402,7 +514,7 @@ function bind(){
 }
 function syncControls(){
   $("#q").value=state.q;
-  for(const id of ["sponsor","degree","tier","sort"]) $("#"+id).value=state[id];
+  for(const id of ["sponsor","degree","tier","fresh","sort"]) $("#"+id).value=state[id];
 }
 
 (async function(){
