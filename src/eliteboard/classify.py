@@ -113,8 +113,19 @@ QUANT = re.compile(
 )
 
 # Roles that are not software/research/quant even at an elite employer.
+# Checked BEFORE the early-career logic, so it wins even when a title carries a
+# "new grad" or "campus" marker. That ordering matters: "(New Grad) Account
+# Development Representative II" and "Campus Infrastructure Project Manager"
+# both cleared the technical gate on the words "Development" and
+# "Infrastructure", and both had their seniority check bypassed by their own
+# early-career marker.
 NON_TECH = re.compile(
-    r"\b(recruit(?:er|ing)|sales|account\s+(?:executive|manager)|marketing|"
+    r"\b(recruit(?:er|ing)|sales|marketing|"
+    r"account\s+(?:executive|manager|development|director|representative)|"
+    r"business\s+development|sales\s+development|\bsdr\b|\bbdr\b|"
+    r"project\s+manager|program\s+manager|"
+    r"solutions?\s+consultant|implementation\s+consultant|"
+    r"go[-\s]to[-\s]market|\bgtm\b|revenue\s+operations|"
     r"customer\s+success|support\s+(?:specialist|engineer\s+i?i)|"
     r"people\s+operations|human\s+resources|legal\s+counsel|paralegal|"
     r"accountant|accounting|controller|payroll|facilities|executive\s+assistant|"
