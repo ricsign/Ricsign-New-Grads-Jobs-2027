@@ -99,6 +99,28 @@ class TestLever:
         assert job.employment_type == "Full-time"
 
 
+    def test_reads_requirements_out_of_the_lists_sections(self):
+        # descriptionPlain is only the opening blurb. Palantir's clearance
+        # requirement lives in `lists`, and missing it made defense roles
+        # resolve to "sponsorship not stated".
+        company = make_company(ats="lever", token="palantir", name="Palantir", slug="palantir")
+        with client_returning(load("lever")) as c:
+            jobs = LeverAdapter().fetch(c, company)
+        assert "US Security clearance" in jobs[0].description
+        assert "Strong CS fundamentals" in jobs[0].description
+        assert "equal opportunity" in jobs[0].description
+
+    def test_clearance_requirement_now_classifies(self):
+        from eliteboard.classify import classify_sponsorship
+        from eliteboard.models import Sponsorship
+
+        company = make_company(ats="lever", token="palantir", name="Palantir", slug="palantir")
+        with client_returning(load("lever")) as c:
+            jobs = LeverAdapter().fetch(c, company)
+        defense = next(j for j in jobs if "Defense" in j.title)
+        assert classify_sponsorship(defense, company) is Sponsorship.SECURITY_CLEARANCE
+
+
 class TestWorkday:
     def test_builds_apply_url_and_terminates_pagination(self):
         company = make_company(

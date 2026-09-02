@@ -1,1 +1,40 @@
-[{"id":"9f8e","text":"Software Engineer, New Grad","hostedUrl":"https://jobs.lever.co/palantir/9f8e","applyUrl":"https://jobs.lever.co/palantir/9f8e/apply","createdAt":1756080000000,"categories":{"location":"Palo Alto, CA","team":"Engineering","commitment":"Full-time"},"descriptionPlain":"US citizenship is required for this position."}]
+[
+ {
+  "id": "9f8e",
+  "text": "Software Engineer, New Grad",
+  "hostedUrl": "https://jobs.lever.co/palantir/9f8e",
+  "applyUrl": "https://jobs.lever.co/palantir/9f8e/apply",
+  "createdAt": 1756080000000,
+  "categories": {
+   "location": "Palo Alto, CA",
+   "team": "Engineering",
+   "commitment": "Full-time"
+  },
+  "descriptionPlain": "Join our team building mission software.",
+  "lists": [
+   {
+    "text": "What We Require",
+    "content": "<li>Eligibility and willingness to obtain a US Security clearance</li><li>Strong CS fundamentals</li>"
+   }
+  ],
+  "additionalPlain": "Palantir is an equal opportunity employer."
+ },
+ {
+  "id": "7a6b",
+  "text": "Backend Software Engineer - Defense",
+  "hostedUrl": "https://jobs.lever.co/palantir/7a6b",
+  "createdAt": 1756080000000,
+  "categories": {
+   "location": "Washington, D.C.",
+   "team": "Engineering",
+   "commitment": "Full-time"
+  },
+  "descriptionPlain": "Build for national security customers.",
+  "lists": [
+   {
+    "text": "Requirements",
+    "content": "<li>Eligibility and willingness to obtain a US Security clearance</li>"
+   }
+  ]
+ }
+]
