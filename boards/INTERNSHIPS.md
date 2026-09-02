@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**83 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**84 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -95,7 +95,7 @@ Software engineering and research internships at the same curated bar.
 | **Palantir** | Forward Deployed Software Engineer, Internship - Intel · _Winter 2027_ | Washington, D.C. | — | · | 2mo · Jul 1 | 1d · Sep 1 | [apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Commercial · _Spring 2028_ · `2 openings` | Chicago, IL, New York, NY | — | · | 2mo · Jun 30 | 1d · Sep 1 | [apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
 | **Palantir** | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial · `2 openings` | Chicago, IL, New York, NY | — | 🔒 | 2mo · Jun 24 | 1d · Sep 1 | [apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
-| **Anduril Industries** | 2027 Software Engineer Intern · _2027_ | Atlanta, Georgia, United States, Boston, Massachusetts, United States +7 | — | 🇺🇸 | 2mo · Jun 10 | 1d · Sep 1 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
+| **Anduril Industries** | 2027 Software Engineer Intern · _2027_ | Atlanta, Georgia, United States, Boston, Massachusetts, United States +7 | — | 🇺🇸📗 | 2mo · Jun 10 | 1d · Sep 1 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) |
 | **Etched** | Chip Simulation Software Intern | San Jose | — | ·📗 | 3mo · May 19 | 1d · Sep 1 | [apply](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application) |
 | **Netflix** | Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026 · _Fall 2026_ | Los Gatos,California,United States of America | — | · | 4mo · Apr 24 | 1d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790315673635) |
 | **Radix Trading** | Quantitative Technologist (C++ Intern) | Radix Trading Chicago | — | · | 4mo · Apr 9 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
@@ -113,6 +113,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | Module Engineering Undergraduate Intern | US, Oregon, Hillsboro | — | · | — | today · Sep 2 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0286875) |
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 8d · Aug 25 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
 | **Verkada** | Embedded Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 8d · Aug 25 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | **Verkada** | Frontend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 8d · Aug 25 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) |
@@ -125,4 +126,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-02 16:39 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-02 21:07 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

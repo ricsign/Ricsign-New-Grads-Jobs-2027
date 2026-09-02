@@ -4,7 +4,31 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-02T16:39:12+00:00</updated>
+  <updated>2026-09-02T21:07:28+00:00</updated>
+  <entry>
+    <title>Anduril Industries — 2027 Early Career Flight Software Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"/>
+    <id>tag:ricsign.github.io,2026:90314dcfd8b092a8</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Applied Intuition — Cybersecurity Software Engineer - New Grad (December 2027)</title>
+    <link href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application"/>
+    <id>tag:ricsign.github.io,2026:0a727fa7e4c0e8d7</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Sunnyvale · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Applied Intuition — Forward Deployed Engineer - New Grad (December 2026)</title>
+    <link href="https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application"/>
+    <id>tag:ricsign.github.io,2026:f26824123044ddf9</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Sunnyvale · unknown · masters-preferred</summary>
+  </entry>
   <entry>
     <title>Old Mission Capital — Fundamental Research Analyst - 2027 Graduate Program - (August Start)</title>
     <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7982061003"/>
@@ -12,6 +36,22 @@
     <updated>2026-09-02T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, IL, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Roblox — [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career</title>
+    <link href="https://careers.roblox.com/jobs/8027587?gh_jid=8027587"/>
+    <id>tag:ricsign.github.io,2026:0fae6d5462585697</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Intel — Module Engineering Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0286875"/>
+    <id>tag:ricsign.github.io,2026:835b84d8a1d8d304</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Verkada — Hardware Engineer (Winter Co-op)</title>
@@ -364,45 +404,5 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, IL · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer - C++, Trading Strategies</title>
-    <link href="https://www.akunacapital.com/careers/job/7496408/?gh_jid=7496408"/>
-    <id>tag:ricsign.github.io,2026:a8d9b1e4b804d770</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer - Data Engineering</title>
-    <link href="https://www.akunacapital.com/careers/job/7496411/?gh_jid=7496411"/>
-    <id>tag:ricsign.github.io,2026:c6da3c319aa666af</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer (Entry-Level) - C++</title>
-    <link href="https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"/>
-    <id>tag:ricsign.github.io,2026:3ec16f30e2c52558</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer (Entry-Level) - Python</title>
-    <link href="https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"/>
-    <id>tag:ricsign.github.io,2026:c59794b34a10a4a9</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Software Engineer Intern - C# .NET Desktop, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"/>
-    <id>tag:ricsign.github.io,2026:ce5770e9aab37c6c</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
   </entry>
 </feed>

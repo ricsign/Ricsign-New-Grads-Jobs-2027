@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-02T16:39:12+00:00",
+ "generated_at": "2026-09-02T21:07:28+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 298,
+ "count": 302,
  "jobs": [
   {
    "uid": "2e7fc13de86c918d",
@@ -709,6 +709,90 @@
    "season": null,
    "compensation": null,
    "department": "University Recruiting",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "90314dcfd8b092a8",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Early Career Flight Software Engineer",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-02",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-09-02",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Air Dominance & Strike",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "0a727fa7e4c0e8d7",
+   "company_slug": "applied-intuition",
+   "company_name": "Applied Intuition",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "ashby",
+   "title": "Cybersecurity Software Engineer - New Grad (December 2027)",
+   "apply_url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-02",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-09-02",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": {
+    "min": 130000,
+    "max": 158000,
+    "currency": "USD",
+    "interval": "1 YEAR",
+    "source": "ashby"
+   },
+   "department": "2027 New Grad",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f26824123044ddf9",
+   "company_slug": "applied-intuition",
+   "company_name": "Applied Intuition",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "ashby",
+   "title": "Forward Deployed Engineer - New Grad (December 2026)",
+   "apply_url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application",
+   "locations": [
+    "Sunnyvale"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-02",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-09-02",
+   "closed_at": null,
+   "season": "2026",
+   "compensation": null,
+   "department": "2027 New Grad",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1849,6 +1933,35 @@
    "openings": 1
   },
   {
+   "uid": "3b733edade933b2c",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Silicon Engineering",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "locations": [
+    "Palo Alto, CA",
+    "Irvine, CA",
+    "Palo Alto - 1200",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Silicon Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "d87d4769aff0aa71",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -1905,35 +2018,6 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
-   "locations": [
-    "Palo Alto, CA",
-    "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-02",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Silicon Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "30b5d28e80379ff7",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -1955,32 +2039,6 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-02",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2013,6 +2071,32 @@
    "openings": 1
   },
   {
+   "uid": "2fb1d8fb22585078",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starlink Satellite Flight Software",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -2040,16 +2124,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -2067,15 +2150,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -4483,21 +4567,21 @@
    "openings": 1
   },
   {
-   "uid": "fdcb8f1a28def432",
+   "uid": "0fae6d5462585697",
    "company_slug": "roblox",
    "company_name": "Roblox",
    "company_tier": 1,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-   "apply_url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
+   "apply_url": "https://careers.roblox.com/jobs/8027587?gh_jid=8027587",
    "locations": [
     "San Mateo, CA, United States"
    ],
    "track": "new-grad-swe",
    "degree": "phd-required",
    "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
+   "first_seen": "2026-09-02",
    "last_verified": "2026-09-02",
    "posted_at": "2026-06-30",
    "closed_at": null,
@@ -4693,7 +4777,7 @@
     "Seattle, Washington, United States"
    ],
    "track": "internship",
-   "degree": "bachelors",
+   "degree": "masters-preferred",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-02",
@@ -4783,7 +4867,7 @@
    "compensation": null,
    "department": "Monetization",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -7441,6 +7525,32 @@
    "openings": 1
   },
   {
+   "uid": "835b84d8a1d8d304",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering Undergraduate Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0286875",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-02",
+   "last_verified": "2026-09-02",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "b7389b5679d4b117",
    "company_slug": "elastic",
    "company_name": "Elastic",
@@ -7833,15 +7943,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -7859,16 +7970,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
