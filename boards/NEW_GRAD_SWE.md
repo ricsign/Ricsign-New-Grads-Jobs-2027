@@ -10,11 +10,10 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (5)
+## 🆕 Posted in the last 7 days (4)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
-| **Databricks** | [AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002) | Chicago, Illinois +23 | 1d · Sep 1 |
 | **Sierra** | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) | San Francisco, CA +1 | 2d · Aug 31 |
 | **Stripe** | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8128744) | San Francisco, Seattle, New York +1 | 2d · Aug 31 |
 | **Palantir** | [Forward Deployed Infrastructure Engineer, New Grad - US Government](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) | Honolulu, HI +3 | 2d · Aug 31 |
@@ -25,10 +24,10 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) · `9 openings` | Chicago, Illinois, Remote - California +22 | — | ·📗 | 1d · Sep 1 | 1d · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002) |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 2d · Aug 31 | 1d · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 2d · Aug 31 | 1d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
 | **xAI** | Software Engineer - Evals | Palo Alto, California | — | · | 1mo · Jul 22 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
+| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | United States, Remote - California | — | ·📗 | 3mo · May 13 | 1d · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | **Stripe** | Backend Engineer, Payments and Risk | US | — | · | 7mo · Feb 3 | 1d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=7232592) |
 | **Mercor** | Data Scientist · `open 1y+` | San Francisco | $130k–$500k | · | 1y · Aug 30 2025 | 1d · Sep 1 | [apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
 | **Stripe** | Backend/API Engineer, Money as a Service · `open 2y+` | US | — | · | 2y · Aug 25 2024 | 1d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=6176758) |
@@ -77,4 +76,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-02 04:42 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-02 11:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
