@@ -76,6 +76,17 @@
   .clear{border:0;background:none;color:var(--ink-3);font:13px var(--sans);cursor:pointer;
     text-decoration:underline;padding:6px 2px}
   .clear:hover{color:var(--ink)}
+  .clear.on{color:var(--accent);font-weight:560}
+  .quick{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-top:8px;
+    padding-top:8px;border-top:1px dashed var(--line)}
+  .qlabel{font:11px var(--mono);text-transform:uppercase;letter-spacing:.06em;
+    color:var(--ink-3);margin-right:3px}
+  .qchip{border:1px dashed var(--line-2);background:none;color:var(--ink-2);
+    padding:4px 10px;border-radius:6px;font:12.5px var(--sans);cursor:pointer;white-space:nowrap}
+  .qchip:hover{border-style:solid;border-color:var(--ink-3);color:var(--ink)}
+  .qchip[aria-pressed=true]{background:var(--accent-soft);border-style:solid;
+    border-color:var(--accent);color:var(--accent);font-weight:560}
+  .qchip .n{font-family:var(--mono);font-size:10.5px;opacity:.65;margin-left:5px}
 
   /* ---------- results ---------- */
   .meta{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
@@ -127,6 +138,10 @@
   .apply{display:inline-block;background:var(--accent);color:var(--accent-ink);text-decoration:none;
     padding:6px 13px;border-radius:6px;font:13px var(--sans);font-weight:560;white-space:nowrap}
   .apply:hover{filter:brightness(1.1)}
+  .caveat{font-size:12.5px;color:var(--warn);background:var(--warn-bg);
+    border:1px solid color-mix(in srgb, var(--warn) 25%, transparent);
+    border-radius:7px;padding:8px 12px;margin-bottom:10px;line-height:1.45}
+  .caveat:empty{display:none}
   .empty{text-align:center;padding:54px 20px;color:var(--ink-2);background:var(--surface);
     border:1px solid var(--line);border-radius:var(--radius)}
   .empty b{display:block;font-size:17px;color:var(--ink);margin-bottom:6px}
@@ -198,19 +213,33 @@
         <input id="q" type="search" placeholder="Search company, role or location…" autocomplete="off" aria-label="Search roles">
         <kbd>/</kbd>
       </div>
-      <select id="sponsor" aria-label="Filter by visa sponsorship">
+      <select id="sponsor" aria-label="Filter by work authorization">
         <option value="">Any work authorization</option>
-        <option value="sponsors">Sponsors visas</option>
-        <option value="no-sponsorship">No sponsorship</option>
-        <option value="citizenship-required">US citizenship required</option>
-        <option value="security-clearance">Clearance required</option>
-        <option value="unknown">Posting doesn't say</option>
+        <optgroup label="Roles I can apply to">
+          <option value="not-citizenship">No US citizenship required</option>
+          <option value="not-clearance">No security clearance required</option>
+          <option value="open-to-visa">Sponsors visas, or doesn't say</option>
+          <option value="sponsors">Explicitly sponsors visas</option>
+        </optgroup>
+        <optgroup label="Show only">
+          <option value="citizenship-required">US citizenship required</option>
+          <option value="security-clearance">Clearance required</option>
+          <option value="no-sponsorship">No sponsorship offered</option>
+          <option value="unknown">Posting doesn't say</option>
+        </optgroup>
       </select>
-      <select id="degree" aria-label="Filter by degree">
+      <select id="degree" aria-label="Filter by degree requirement">
         <option value="">Any degree</option>
-        <option value="phd-required">PhD required</option>
-        <option value="masters-preferred">MS preferred</option>
-        <option value="bachelors">Bachelor's</option>
+        <optgroup label="Roles I qualify for">
+          <option value="no-advanced">No MS or PhD required</option>
+          <option value="no-phd">No PhD required</option>
+        </optgroup>
+        <optgroup label="Show only">
+          <option value="phd-required">PhD required</option>
+          <option value="masters-preferred">MS preferred</option>
+          <option value="bachelors">Bachelor's stated</option>
+          <option value="unspecified">Degree not stated</option>
+        </optgroup>
       </select>
       <select id="tier" aria-label="Filter by company tier">
         <option value="">All tiers</option>
@@ -236,6 +265,7 @@
       <button class="clear" id="clear" type="button">Reset</button>
     </div>
     <div class="tabs" id="tabs"></div>
+    <div class="quick" id="quick"></div>
   </div>
 </div>
 
@@ -244,6 +274,7 @@
     <div class="count" id="count">Loading…</div>
     <div class="legend"><b>Posted</b> = the employer's publish date · <b>Found</b> = when we first saw it</div>
   </div>
+  <div class="caveat" id="caveat"></div>
   <div id="results"></div>
   <div id="programs"></div>
   <div id="zero"></div>
@@ -265,6 +296,36 @@ const SPONSOR={
   "security-clearance":["b-crit","Clearance required"],
   "unknown":null};
 const DEGREE={"phd-required":["b-info","PhD"],"masters-preferred":["b-info","MS preferred"]};
+
+/* Filters are predicates, not equality checks.
+   "Show me roles that do NOT require citizenship" cannot be expressed as
+   sponsorship === something, and that is the question people actually have.
+   Exact values still work so older shared URLs keep resolving. */
+const eq = v => j => j.sponsorship===v;
+const SPONSOR_TEST={
+  "not-citizenship":  j => !["citizenship-required","security-clearance"].includes(j.sponsorship),
+  "not-clearance":    j => j.sponsorship!=="security-clearance",
+  // A posting that is silent has not ruled sponsorship out, and most are
+  // silent - excluding them would hide most of the board from the people who
+  // need this filter most.
+  "open-to-visa":     j => ["sponsors","unknown"].includes(j.sponsorship),
+  "sponsors":         eq("sponsors"),
+  "citizenship-required": eq("citizenship-required"),
+  "security-clearance":   eq("security-clearance"),
+  "no-sponsorship":   eq("no-sponsorship"),
+  "unknown":          eq("unknown"),
+};
+const deq = v => j => j.degree===v;
+const DEGREE_TEST={
+  // Unstated counts as "not required" - if the posting never asks for a PhD,
+  // it does not require one.
+  "no-advanced": j => !["phd-required","masters-preferred"].includes(j.degree),
+  "no-phd":      j => j.degree!=="phd-required",
+  "phd-required":     deq("phd-required"),
+  "masters-preferred":deq("masters-preferred"),
+  "bachelors":        deq("bachelors"),
+  "unspecified":      deq("unspecified"),
+};
 /* Research is a VIEW, not a partition - identical rule to boards/AI_RESEARCH.md.
    A research internship belongs on both boards, because a PhD student searches
    by research content, not by employment type. */
@@ -272,7 +333,17 @@ const RESEARCHY=/\b(research\w*|scientist|member of technical staff|mts|(?<!data
 const isResearch=j=>j.track==="ai-research"||j.degree==="phd-required"||RESEARCHY.test(j.title);
 
 let JOBS=[], STATS=null, ZERO=[], PROGRAMS=[];
-const state={q:"",track:"",sponsor:"",degree:"",tier:"",fresh:"",sort:"posted"};
+const state={q:"",track:"",sponsor:"",degree:"",tier:"",fresh:"",evergreen:"",sort:"posted"};
+/* One-click versions of the filters people actually ask for. Discoverability
+   matters more than power here: nobody opens a dropdown to find out that
+   excluding citizenship-gated roles is possible. */
+const QUICK=[
+  ["sponsor","not-citizenship","No citizenship required"],
+  ["sponsor","open-to-visa","Open to visa holders"],
+  ["degree","no-advanced","No MS or PhD"],
+  ["fresh","7","Posted this week"],
+  ["evergreen","hide","Hide evergreen"],
+];
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 
@@ -342,8 +413,9 @@ function comp(c){
 function matches(j){
   if(state.track==="ai-research"){ if(!isResearch(j)) return false; }
   else if(state.track && j.track!==state.track) return false;
-  if(state.sponsor && j.sponsorship!==state.sponsor) return false;
-  if(state.degree && j.degree!==state.degree) return false;
+  if(state.sponsor && !SPONSOR_TEST[state.sponsor]?.(j)) return false;
+  if(state.degree && !DEGREE_TEST[state.degree]?.(j)) return false;
+  if(state.evergreen==="hide" && (postedDays(j)??0)>=EVERGREEN) return false;
   if(state.tier!=="" && String(j.company_tier)!==state.tier) return false;
   if(state.fresh){ const d=postedDays(j); if(d==null||d>Number(state.fresh)) return false; }
   if(state.q){
@@ -403,6 +475,13 @@ function renderStats(){
     `<span>${(STATS.pipeline_health||{}).boards_ok??"—"} / ${(STATS.pipeline_health||{}).boards_attempted??"—"} boards healthy</span>`+
     `<span>${(STATS.pipeline_health||{}).postings_fetched?.toLocaleString?.()??"—"} postings read → ${STATS.live_requisitions??STATS.live_roles} published</span>`+
     ((STATS.posted_age||{}).evergreen_over_1y?`<span>${STATS.posted_age.evergreen_over_1y} evergreen (open 1y+)</span>`:"");
+}
+function renderQuick(){
+  $("#quick").innerHTML=`<span class="qlabel">Quick filters</span>`+QUICK.map(([k,v,label])=>{
+    const on=state[k]===v;
+    const probe=()=>{const prev=state[k];state[k]=v;const n=groupRoles(JOBS.filter(matches)).length;state[k]=prev;return n;};
+    return `<button class="qchip" data-k="${k}" data-v="${v}" aria-pressed="${on}">${esc(label)}<span class="n">${on?"":probe()}</span></button>`;
+  }).join("");
 }
 function renderTabs(){
   const counts={};
@@ -486,11 +565,26 @@ function renderZero(){
 function render(){
   const matched=JOBS.filter(matches);
   const list=sorted(groupRoles(matched));
-  renderTabs(); renderRows(list); renderPrograms();
+  renderTabs(); renderQuick(); renderRows(list); renderPrograms();
   const reqs=matched.length;
   $("#count").innerHTML=`<b>${list.length}</b> role${list.length===1?"":"s"}`
     + (reqs!==list.length?` <span class="dim">· ${reqs} requisitions</span>`:"")
     + (reqs!==JOBS.length?` <span class="dim">of ${JOBS.length}</span>`:"");
+  // An exclusion filter keeps rows whose posting simply never addressed the
+  // requirement. Saying so is the difference between a filter you can trust
+  // and one that quietly implies more certainty than the data supports.
+  const softSponsor=["not-citizenship","not-clearance","open-to-visa"].includes(state.sponsor);
+  const softDegree=["no-advanced","no-phd"].includes(state.degree);
+  const unstated=list.filter(j=>
+      (softSponsor && j.sponsorship==="unknown") ||
+      (softDegree && j.degree==="unspecified")).length;
+  $("#caveat").innerHTML = (softSponsor||softDegree) && unstated
+    ? `<b>${unstated}</b> of these ${unstated===1?"is a posting that":"are postings that"} never state${unstated===1?"s":""} the requirement.
+       We include them rather than guess — but confirm with the recruiter before you count on it.`
+    : "";
+  const active=["q","track","sponsor","degree","tier","fresh","evergreen"].filter(k=>state[k]).length;
+  $("#clear").textContent = active ? `Reset (${active})` : "Reset";
+  $("#clear").classList.toggle("on", active>0);
   writeURL();
 }
 
@@ -503,8 +597,14 @@ function bind(){
     const b=e.target.closest(".tab"); if(!b)return;
     state.track=b.dataset.track; render();
   });
+  $("#quick").addEventListener("click",e=>{
+    const b=e.target.closest(".qchip"); if(!b)return;
+    const {k,v}=b.dataset;
+    state[k] = state[k]===v ? "" : v;   // toggle off when already applied
+    syncControls(); render();
+  });
   $("#clear").addEventListener("click",()=>{
-    Object.assign(state,{q:"",track:"",sponsor:"",degree:"",tier:"",fresh:"",sort:"posted"});
+    Object.assign(state,{q:"",track:"",sponsor:"",degree:"",tier:"",fresh:"",evergreen:"",sort:"posted"});
     syncControls(); render();
   });
   document.addEventListener("keydown",e=>{

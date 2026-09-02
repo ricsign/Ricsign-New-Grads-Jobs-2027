@@ -35,7 +35,25 @@ class LeverAdapter:
             locations=dedupe_locations([cats.get("location"), *extra]),
             posted_at=parse_dt(job.get("createdAt")),
             updated_at=parse_dt(job.get("updatedAt") or job.get("createdAt")),
-            description=clean_text(job.get("descriptionPlain") or job.get("description")),
+            description=_full_description(job),
             department=cats.get("team") or cats.get("department"),
             employment_type=cats.get("commitment"),
         )
+
+
+def _full_description(job: dict) -> str:
+    """Concatenate every prose field Lever exposes.
+
+    ``descriptionPlain`` is only the opening blurb. Requirements live in
+    ``lists`` — an array of {text, content} sections — and closing notes in
+    ``additionalPlain``. Reading only the blurb is why Palantir's defense roles
+    resolved to "sponsorship not stated" while their requirements section said
+    "Eligibility and willingness to obtain a US Security clearance".
+    """
+    parts = [job.get("descriptionPlain") or job.get("description") or ""]
+    for section in job.get("lists") or []:
+        if isinstance(section, dict):
+            parts.append(section.get("text") or "")
+            parts.append(section.get("content") or "")
+    parts.append(job.get("additionalPlain") or job.get("additional") or "")
+    return clean_text(" ".join(p for p in parts if p))

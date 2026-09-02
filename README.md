@@ -27,10 +27,13 @@ or oldest. Shareable links. No sign-up, no email wall, no tracking.
 | [**Quant**](boards/QUANT.md) | Campus + new grad at elite quant/HFT. Highest comp band here | [filter →](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?track=quant) |
 | [**AI / ML Research**](boards/AI_RESEARCH.md) | The PhD track — plus fellowships and residencies no scraper can find | [filter →](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?track=ai-research) |
 
-**Three links worth knowing:**
-[Tier 0 roles that sponsor visas](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?tier=0&sponsor=sponsors) ·
-[PhD-required roles](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?degree=phd-required) ·
-[Everything at frontier labs](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?tier=0)
+**Filter to what you can actually apply to:**
+[No US citizenship required](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?sponsor=not-citizenship) ·
+[No MS or PhD required](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?degree=no-advanced) ·
+[Sponsors visas](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?sponsor=sponsors) ·
+[Posted this week](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?fresh=7) ·
+[Tier 0, no citizenship gate, no advanced degree](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?tier=0&sponsor=not-citizenship&degree=no-advanced) ·
+[PhD-track roles](https://ricsign.github.io/Ricsign-New-Grads-Jobs-2027/?track=ai-research)
 
 ## Why it's different
 
@@ -55,6 +58,13 @@ day's genuinely new postings aren't buried under duplicates.
 **Sponsorship is resolved, not defaulted.** Parsed from each posting into
 `sponsors` / `no-sponsorship` / `citizenship-required` / `security-clearance` —
 and honestly marked *unknown* when the posting is silent.
+
+**Filters answer the question you have, not the shape of the data.** "Roles that
+do **not** require US citizenship" and "roles that do **not** require an MS or
+PhD" are the two filters that decide whether a list is usable at all, and
+neither can be expressed as `field == value`. When an exclusion filter keeps
+rows whose posting never addressed the requirement, the page says how many —
+rather than implying a certainty the data doesn't support.
 
 **Every apply link is verified on every refresh**, including soft-closed pages
 that return HTTP 200 while saying "no longer accepting applications" — the
@@ -113,7 +123,7 @@ data/companies.yaml   145 employers · 129 live boards · every token verified
 
 ```bash
 pip install -r requirements-dev.txt && pip install -e .
-make test                          # 274 tests, no network
+make test                          # 276 tests, no network
 make refresh                       # hits every board, rewrites all outputs
 python -m eliteboard.cli doctor    # which boards can't be fetched, and why
 ```
