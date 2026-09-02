@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**84 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**83 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -72,7 +72,6 @@ Software engineering and research internships at the same curated bar.
 | **SpaceX** | Spring 2027 Graduate Engineer Internship/Co-op · _Spring 2027_ | Bastrop, TX, Bloomfield, CT +10 | — | 🇺🇸📗 | 1mo · Aug 3 | 1d · Sep 1 | [apply](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) |
 | **SpaceX** | Spring 2027 Silicon Engineering Internship/Co-op · _Spring 2027_ | Bastrop, TX, Cape Canaveral, FL +8 | — | 🇺🇸📗 | 1mo · Aug 3 | 1d · Sep 1 | [apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | **DRW** | Platform Engineer Intern | Chicago | — | ·📗 | 1mo · Jul 30 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7997729) |
-| **Cloudflare** | Research Engineer Intern (Fall 2026) · _Fall 2026_ | Austin, TX | — | 🛂 | 1mo · Jul 28 | 1d · Sep 1 | [apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | **Modal** | ML Research Intern | New York, San Francisco | $15k | ·🎓 | 1mo · Jul 28 | 1d · Sep 1 | [apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application) |
 | **PDT Partners** | Summer 2027 Software Engineering Intern · _Summer 2027_ | New York, NY | — | 🛂📗 | 1mo · Jul 24 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | **PDT Partners** | Summer 2027 Systems Engineering Intern · _Summer 2027_ | New York, NY | — | 🛂📗 | 1mo · Jul 24 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
@@ -126,4 +125,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-02 11:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-02 16:39 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

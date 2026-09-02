@@ -58,6 +58,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Old Mission Capital** | Fundamental Research Analyst - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·📗 | today · Sep 2 | today · Sep 2 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing · _Summer 2027_ | San Francisco, California, United States, San Francisco (US-SFO-MKT555) | — | ·🎓 | 2d · Aug 31 | 1d · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8167323) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion · _Summer 2027_ | San Francisco (US-SFO-MKT555) | — | ·🎓 | 5d · Aug 28 | 1d · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8163364) |
 | **AQR Capital** | AQR Arbitrage - 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 8d · Aug 25 | 1d · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) |
@@ -71,7 +72,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **AQR Capital** | 2027 Research Product Specialist Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 22d · Aug 11 | 1d · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | 23d · Aug 10 | 1d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Old Mission Capital** | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·🎓 | 1mo · Jul 30 | 1d · Sep 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
-| **Cloudflare** | Research Engineer Intern (Fall 2026) · _Fall 2026_ | Austin, TX | — | 🛂 | 1mo · Jul 28 | 1d · Sep 1 | [apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | **Modal** | ML Research Intern | New York, San Francisco | $15k | ·🎓 | 1mo · Jul 28 | 1d · Sep 1 | [apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Researcher (PhD) · _Summer 2027_ | New York City | — | ·🎓 | 1mo · Jul 14 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | **Akuna Capital** | Quantitative Research Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 1mo · Jul 13 | 1d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
@@ -82,7 +82,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | Chicago | — | 🛂 | 1mo · Jul 6 | 1d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | New York | — | ·🎓 | 1mo · Jul 5 | 1d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 1mo · Jul 5 | 1d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | today · Sep 2 | [apply](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 1d · Sep 1 | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
 | **Point72 / Cubist** | Research Engineer, Knowledge Graph Intelligence | New York, NY | — | ·🎓 | 2mo · Jun 10 | 1d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002) |
 | **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 3mo · Jun 2 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
 | **Headlands Technologies** | Quantitative Researcher – New Grad | Chicago, New York City +1 | — | · | 3mo · May 29 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
@@ -105,4 +105,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-09-02 11:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-02 16:39 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
