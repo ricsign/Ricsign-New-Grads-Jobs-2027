@@ -1,64 +1,10 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-02T02:48:50+00:00",
+ "generated_at": "2026-09-02T04:42:13+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 305,
+ "count": 306,
  "jobs": [
-  {
-   "uid": "23caec0138bb2c8d",
-   "company_slug": "databricks",
-   "company_name": "Databricks",
-   "company_tier": 0,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
-   "locations": [
-    "Chicago, Illinois",
-    "Remote - California"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-02",
-   "posted_at": "2026-09-01",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Professional Services Operations",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "aa4f4e580d236be9",
-   "company_slug": "databricks",
-   "company_name": "Databricks",
-   "company_tier": 0,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002",
-   "locations": [
-    "Boston, Massachusetts",
-    "Remote - California"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-02",
-   "posted_at": "2026-09-01",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Professional Services Operations",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
   {
    "uid": "654211dd2419b3a1",
    "company_slug": "databricks",
@@ -73,6 +19,34 @@
     "Dallas, Texas",
     "Houston, Texas",
     "Plano, Texas",
+    "Remote - California"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-09-01",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Professional Services Operations",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "fba8fd2474d18284",
+   "company_slug": "databricks",
+   "company_name": "Databricks",
+   "company_tier": 0,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+   "locations": [
+    "Bellevue, Washington",
+    "Seattle, Washington",
     "Remote - California"
    ],
    "track": "new-grad-swe",
@@ -122,16 +96,16 @@
    "openings": 1
   },
   {
-   "uid": "ddc7705963b2c0e5",
+   "uid": "23caec0138bb2c8d",
    "company_slug": "databricks",
    "company_name": "Databricks",
    "company_tier": 0,
    "company_category": "infra",
    "source": "greenhouse",
    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002",
    "locations": [
-    "New York City, New York",
+    "Chicago, Illinois",
     "Remote - California"
    ],
    "track": "new-grad-swe",
@@ -149,17 +123,18 @@
    "openings": 1
   },
   {
-   "uid": "fba8fd2474d18284",
+   "uid": "fcb6037524475538",
    "company_slug": "databricks",
    "company_name": "Databricks",
    "company_tier": 0,
    "company_category": "infra",
    "source": "greenhouse",
    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
    "locations": [
-    "Bellevue, Washington",
-    "Seattle, Washington",
+    "Charlotte, North Carolina",
+    "Durham, North Carolina",
+    "Raleigh, North Carolina",
     "Remote - California"
    ],
    "track": "new-grad-swe",
@@ -234,18 +209,43 @@
    "openings": 1
   },
   {
-   "uid": "fcb6037524475538",
+   "uid": "aa4f4e580d236be9",
    "company_slug": "databricks",
    "company_name": "Databricks",
    "company_tier": 0,
    "company_category": "infra",
    "source": "greenhouse",
    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002",
    "locations": [
-    "Charlotte, North Carolina",
-    "Durham, North Carolina",
-    "Raleigh, North Carolina",
+    "Boston, Massachusetts",
+    "Remote - California"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-09-01",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Professional Services Operations",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "ddc7705963b2c0e5",
+   "company_slug": "databricks",
+   "company_name": "Databricks",
+   "company_tier": 0,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
+   "locations": [
+    "New York City, New York",
     "Remote - California"
    ],
    "track": "new-grad-swe",
@@ -2082,18 +2082,18 @@
    "openings": 1
   },
   {
-   "uid": "d87d4769aff0aa71",
+   "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
    "locations": [
+    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2110,18 +2110,18 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "d87d4769aff0aa71",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
    "locations": [
-    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200"
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2217,33 +2217,6 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
-   "locations": [
-    "Bastrop, TX",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-02",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -2280,6 +2253,33 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
     "Palo Alto, CA",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f1665dc41aff8a36",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -2921,6 +2921,32 @@
    "openings": 1
   },
   {
+   "uid": "3942e07ae1e80fa5",
+   "company_slug": "cloudflare",
+   "company_name": "Cloudflare",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Research Engineer Intern (Fall 2026)",
+   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
+   "locations": [
+    "Austin, TX"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "no-sponsorship",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-02",
+   "posted_at": "2026-07-28",
+   "closed_at": null,
+   "season": "Fall 2026",
+   "compensation": null,
+   "department": "Technology Research",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "1aec785bd43c8272",
    "company_slug": "modal",
    "company_name": "Modal",
@@ -3132,7 +3158,7 @@
    "compensation": null,
    "department": "University",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -8037,16 +8063,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -8064,15 +8089,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
