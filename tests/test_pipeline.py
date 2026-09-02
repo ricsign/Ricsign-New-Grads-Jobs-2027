@@ -253,7 +253,8 @@ class TestTitleTruncation:
         job = _job(title=self.LONG, track=Track.INTERNSHIP)
         md = render.render_board(Track.INTERNSHIP, [job], today=TODAY)
         row = [ln for ln in md.splitlines() if ln.startswith("| **Anthropic**")]
-        assert len(row) == 1 and row[0].count("|") == 8
+        # 8 columns → 9 delimiters. A truncated title must not add one.
+        assert len(row) == 1 and row[0].count("|") == 9
 
 
 class TestDeadRowsAreHiddenFromBoards:

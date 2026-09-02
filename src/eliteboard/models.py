@@ -116,6 +116,32 @@ class Job:
     #: blocked | error | unchecked. Only "dead" and "closed" hide a row; a bot
     #: wall or a timeout is not evidence that a posting is gone.
     link_status: str = "unchecked"
+    #: How many separate requisitions this displayed row represents. Employers
+    #: like Databricks post one req per metro; the boards show a single role
+    #: with the locations merged. data/v1/jobs.json stays per-requisition.
+    openings: int = 1
+
+    #: A requisition open this long is evergreen: a standing pipeline rather
+    #: than a role someone is filling this quarter. Palantir has 31 of them,
+    #: some first published in 2016.
+    EVERGREEN_DAYS = 365
+
+    @property
+    def posted_age_days(self) -> int | None:
+        """Days since the EMPLOYER published it, not since we noticed it.
+
+        This is the honest answer to "which of these is newest". ``first_seen``
+        only tells you when this repo started watching, so on day one it is the
+        same value for every row.
+        """
+        if self.posted_at is None:
+            return None
+        return max(0, (self.last_verified - self.posted_at).days)
+
+    @property
+    def is_evergreen(self) -> bool:
+        age = self.posted_age_days
+        return age is not None and age >= self.EVERGREEN_DAYS
 
     @property
     def age_days(self) -> int:

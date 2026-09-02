@@ -138,12 +138,23 @@ def dedupe_locations(values: list[str | None]) -> list[str]:
     """
     from ..locations import canonical_key
 
-    best: dict[str, str] = {}
-    order: list[str] = []
+    # Greenhouse packs several offices into one string
+    # ("Austin, Texas; Dallas, Texas; Houston, Texas"). Split first, or the
+    # whole run is treated as a single unmatchable location and the column
+    # becomes an unreadable wall of text.
+    expanded: list[str] = []
     for value in values:
         if not value:
             continue
-        text = " ".join(str(value).split())
+        for part in str(value).split(";"):
+            part = " ".join(part.split())
+            if part:
+                expanded.append(part)
+
+    best: dict[str, str] = {}
+    order: list[str] = []
+    for value in expanded:
+        text = value
         if not text:
             continue
         key = canonical_key(text)
