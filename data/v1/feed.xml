@@ -4,14 +4,30 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-01T21:06:08+00:00</updated>
+  <updated>2026-09-02T02:45:10+00:00</updated>
+  <entry>
+    <title>Roblox — [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career</title>
+    <link href="https://careers.roblox.com/jobs/8027587?gh_jid=8027587"/>
+    <id>tag:ricsign.github.io,2026:0fae6d5462585697</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Verkada — Hardware Engineer (Winter Co-op)</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/4321158007"/>
+    <id>tag:ricsign.github.io,2026:82711dd1dd088ca8</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Mateo, CA United States · sponsors · unspecified</summary>
+  </entry>
   <entry>
     <title>Anthropic — Anthropic Fellows Program</title>
     <link href="https://job-boards.greenhouse.io/anthropic/jobs/5023394008"/>
     <id>tag:ricsign.github.io,2026:2ed1398f7d4975ee</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="ai-research"/>
-    <summary>Remote-Friendly US (Travel Required) · sponsors · bachelors</summary>
+    <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
   </entry>
   <entry>
     <title>Anthropic — Anthropic Fellows Program, AI Safety &amp; Security</title>
@@ -19,7 +35,7 @@
     <id>tag:ricsign.github.io,2026:76cd4ee52178da62</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="ai-research"/>
-    <summary>Remote-Friendly US (Travel Required) · sponsors · bachelors</summary>
+    <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
   </entry>
   <entry>
     <title>Anthropic — Anthropic Fellows Program, ML Systems &amp; Reinforcement Learning</title>
@@ -27,7 +43,7 @@
     <id>tag:ricsign.github.io,2026:fedd5d2f09452b0a</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="ai-research"/>
-    <summary>Remote-Friendly US (Travel Required) · sponsors · bachelors</summary>
+    <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
   </entry>
   <entry>
     <title>Anthropic — Anthropic Fellows Program, The Anthropic Institute (Economics &amp; Policy)</title>
@@ -35,7 +51,7 @@
     <id>tag:ricsign.github.io,2026:54daf78748468c59</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="ai-research"/>
-    <summary>Remote-Friendly US (Travel Required) · sponsors · bachelors</summary>
+    <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
   </entry>
   <entry>
     <title>Cohere — Software Engineer Intern (Winter 2027)</title>
@@ -63,11 +79,35 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002"/>
+    <id>tag:ricsign.github.io,2026:23caec0138bb2c8d</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Chicago, Illinois, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002"/>
     <id>tag:ricsign.github.io,2026:aa4f4e580d236be9</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Boston, Massachusetts, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002"/>
+    <id>tag:ricsign.github.io,2026:654211dd2419b3a1</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, Dallas, Texas, Houston, Texas, Plano, Texas, Remote - California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002"/>
+    <id>tag:ricsign.github.io,2026:4d9d295e983d40ad</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Berkeley, California, Los Angeles, California, Mountain View, California, Sacramento, California, San Diego, California, San Francisco, California, Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
@@ -79,35 +119,11 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002"/>
-    <id>tag:ricsign.github.io,2026:654211dd2419b3a1</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas, Remote - California · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002"/>
     <id>tag:ricsign.github.io,2026:fba8fd2474d18284</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>Bellevue, Washington; Seattle, Washington, Remote - California · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002"/>
-    <id>tag:ricsign.github.io,2026:4d9d295e983d40ad</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California, Remote - California · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002"/>
-    <id>tag:ricsign.github.io,2026:fcb6037524475538</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina, Remote - California · unknown · masters-preferred</summary>
+    <summary>Bellevue, Washington, Seattle, Washington, Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
@@ -115,7 +131,7 @@
     <id>tag:ricsign.github.io,2026:7750787aab42340e</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C., Remote - California · unknown · masters-preferred</summary>
+    <summary>McLean, Virginia, Reston, Virginia, Richmond, Virginia, Washington, D.C., Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
@@ -127,11 +143,11 @@
   </entry>
   <entry>
     <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002"/>
-    <id>tag:ricsign.github.io,2026:23caec0138bb2c8d</id>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002"/>
+    <id>tag:ricsign.github.io,2026:fcb6037524475538</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>Chicago, Illinois, Remote - California · unknown · masters-preferred</summary>
+    <summary>Charlotte, North Carolina, Durham, North Carolina, Raleigh, North Carolina, Remote - California · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Databricks — PhD GenAI Research Scientist Intern</title>
@@ -147,7 +163,7 @@
     <id>tag:ricsign.github.io,2026:9621dd992804227e</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>Bellevue, Washington; Mountain View, California; San Francisco, California · unknown · unspecified</summary>
+    <summary>Bellevue, Washington, Mountain View, California, San Francisco, California · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Figure AI — Firmware Intern [Fall 2026]</title>
@@ -387,22 +403,6 @@
     <id>tag:ricsign.github.io,2026:27fe2f10e6e54ed9</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Quantitative Development &amp; Strategy Intern, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"/>
-    <id>tag:ricsign.github.io,2026:55d77f08e29f2cb2</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Quantitative Researcher</title>
-    <link href="https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416"/>
-    <id>tag:ricsign.github.io,2026:c57a32c33e1779af</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
     <summary>Chicago, IL · unknown · masters-preferred</summary>
   </entry>
 </feed>
