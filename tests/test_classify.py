@@ -422,3 +422,44 @@ class TestBodySignalPrecision:
             description="You are currently pursuing a Bachelor's degree in Computer Science.",
         )
         assert is_eligible(p, company)[0]
+
+
+class TestSalesAndPMRolesDoNotLeakThrough:
+    """Found by reading the live board, not by reading the code.
+
+    Each of these cleared the technical gate on an incidental word — "Account
+    *Development*", "Campus *Infrastructure* Project Manager" — and then had its
+    seniority check bypassed by its own early-career marker. NON_TECH is checked
+    before that logic precisely so it wins regardless.
+    """
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "2027 Business Development Summer Analyst",
+            "(New Grad) Account Development Representative II - Atlanta",
+            "Account Development Representative Intern - Phoenix",
+            "Business Development Representative",
+            "Campus Infrastructure Project Manager",
+            "Technical Program Manager, Compute Infrastructure",
+            "Go-To-Market Engineer, New Grad",
+            "Solutions Consultant, New Grad",
+        ],
+    )
+    def test_rejected_as_non_technical(self, title, company):
+        ok, reason = is_eligible(make_posting(title), company)
+        assert not ok and reason == "non-technical role"
+
+    @pytest.mark.parametrize(
+        "title",
+        [
+            "Campus Software Engineer (Full-Time)",
+            "Campus Full Time 2027 - Quantitative Trader",
+            "Software Engineer, Infrastructure - New Grad",
+            "Developer Relations Engineer, New Grad",
+            "Infrastructure Engineer Intern, Summer 2027",
+        ],
+    )
+    def test_genuine_engineering_titles_survive(self, title, company):
+        # The exclusion must not swallow real infrastructure or campus roles.
+        assert is_eligible(make_posting(title), company)[0]
