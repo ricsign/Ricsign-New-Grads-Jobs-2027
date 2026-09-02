@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**85 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**83 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -116,8 +116,6 @@ Software engineering and research internships at the same curated bar.
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 8d · Aug 25 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
 | **Verkada** | Embedded Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 8d · Aug 25 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | **Verkada** | Frontend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 8d · Aug 25 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) |
-| **Samsara** | Account Development Representative Intern - Atlanta | Atlanta, Georgia, United States, Atlanta - ATL2 | — | · | 12d · Aug 21 | 1d · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) |
-| **Samsara** | Account Development Representative Intern - Phoenix | Phoenix, Arizona, United States, Phoenix - PHX1 | — | · | 12d · Aug 21 | 1d · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) |
 | **Belvedere Trading** | Quantitative Trading Intern - Summer 2027 · _Summer 2027_ | Chicago, Illinois | — | ·📗 | 29d · Aug 4 | 1d · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
 | **Belvedere Trading** | Quantitative Trading Intern - Winter Quarter 2027 · _Winter 2027_ | Chicago, Illinois | — | ·📗 | 29d · Aug 4 | 1d · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) |
 | **Belvedere Trading** | Software Engineer Intern - Summer 2027 · _Summer 2027_ | Chicago, Illinois | — | ·📗 | 29d · Aug 4 | 1d · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
@@ -127,4 +125,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-02 02:45 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-02 02:48 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

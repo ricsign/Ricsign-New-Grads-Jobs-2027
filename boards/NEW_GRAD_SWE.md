@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**42 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**39 open roles** · last verified 2026-09-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -67,12 +67,9 @@ Full-time entry-level software engineering roles in the US.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Elastic** | Principal Software Engineer I - Serverless - Platform Control Plane | United States | — | 🔒 | 3d · Aug 30 | 1d · Sep 1 | [apply](https://jobs.elastic.co/jobs?gh_jid=8130119&gh_jid=8130119) |
-| **Samsara** | (New Grad) Account Development Representative II - Atlanta | Atlanta, Georgia, United States, Atlanta - ATL2 | — | · | 12d · Aug 21 | 1d · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8094373?gh_jid=8094373) |
-| **Samsara** | (New Grad) Account Development Representative II - Phoenix | Phoenix, Arizona, United States, Phoenix - PHX1 | — | · | 12d · Aug 21 | 1d · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8094371?gh_jid=8094371) |
 | **Grafana Labs** | Solutions Engineer \| Central US \| Remote | United States (Remote), USA (Remote) | — | · | 1mo · Jul 27 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004) |
 | **Flexport** | Automation Engineer I | Atlanta, Georgia, United States | — | · | 2mo · Jul 2 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/flexport/jobs/8015840) |
 | **Samsara** | Senior Security Operations Engineer I · `2 openings` | Remote - US, San Francisco - SF9 | — | ·📗 | 2mo · Jun 24 | 1d · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105) |
-| **Temporal** | Business Development Representative | Atlanta, Georgia | $70k | · | 3mo · Jun 2 | 1d · Sep 1 | [apply](https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade/application) |
 | **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ), California - HQ | — | ·📗 | 10mo · Oct 22 2025 | 1d · Sep 1 | [apply](https://nuro.ai/careersitem?gh_jid=7351066) |
 | **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ · `open 1y+` | San Mateo, CA United States | — | 🌏📗 | 1y · Aug 8 2025 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 | **Verkada** | Associate Solutions Engineer, San Mateo · `open 2y+` | San Mateo, CA United States | — | 🛂📗 | 2y · Nov 10 2023 | 1d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/4135277007) |
@@ -80,4 +77,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-02 02:45 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-02 02:48 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

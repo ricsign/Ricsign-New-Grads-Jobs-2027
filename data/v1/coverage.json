@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T02:45:10+00:00",
+ "generated_at": "2026-09-02T02:48:50+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 491,
+   "fetched": 492,
    "published": 3,
    "status": "ok"
   },
@@ -598,7 +598,7 @@
    "ats": "greenhouse",
    "token": "aqr",
    "fetched": 54,
-   "published": 8,
+   "published": 7,
    "status": "ok"
   },
   {
@@ -988,8 +988,8 @@
    "ats": "ashby",
    "token": "temporal",
    "fetched": 61,
-   "published": 1,
-   "status": "ok"
+   "published": 0,
+   "status": "none matched"
   },
   {
    "slug": "sentry",
@@ -1408,7 +1408,7 @@
    "ats": "greenhouse",
    "token": "spacex",
    "fetched": 2236,
-   "published": 29,
+   "published": 28,
    "status": "ok"
   },
   {
@@ -1448,18 +1448,18 @@
    "ats": "greenhouse",
    "token": "samsara",
    "fetched": 232,
-   "published": 7,
+   "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
   "not a US location": 5987,
-  "title is not a technical role": 4192,
-  "senior/experienced role": 4152,
-  "not an early-career posting": 2760,
-  "non-technical role": 2331,
-  "non-CS engineering discipline": 755,
-  "quant role without early-career marker": 262,
+  "senior/experienced role": 3917,
+  "title is not a technical role": 3751,
+  "non-technical role": 3078,
+  "not an early-career posting": 2702,
+  "non-CS engineering discipline": 752,
+  "quant role without early-career marker": 260,
   "research role without early-career marker": 130
  },
  "rejection_samples": {
@@ -1467,15 +1467,15 @@
    "Anthropic — Account Executive, AI Native",
    "Anthropic — Account Executive, Startups",
    "Anthropic — Accounting, Revenue Internal Controls",
+   "Anthropic — Administrative Business Partner, GTM",
+   "Anthropic — AI Engineer, GTM Claudification",
+   "Anthropic — AWS GTM Partnership Lead, Enterprise",
+   "Anthropic — AWS GTM Partnership Lead, Global System Integrators",
+   "Anthropic — AWS GTM Partnership Lead, Startups",
+   "Anthropic — BDR Enablement Lead",
    "Anthropic — Brand Marketing Lead, Enterprise",
-   "Anthropic — Customer Marketing Manager, Industries",
-   "Anthropic — Customer Programs Manager, Co-Marketing & Measurement",
-   "Anthropic — Customer Success Manager, Financial Services",
-   "Anthropic — Customer Success Manager, GSI",
-   "Anthropic — Customer Success Manager, Industries",
-   "Anthropic — Customer Success Manager, Tech",
-   "Anthropic — Customer Success Manager, Top Accounts",
-   "Anthropic — Data Scientist, Marketing"
+   "Anthropic — Business Development Representative",
+   "Anthropic — Commercial Counsel, GTM"
   ],
   "not a US location": [
    "Anthropic — Account Executive - DNB",
@@ -1491,34 +1491,6 @@
    "Anthropic — Applied AI Architect, Industries",
    "Anthropic — Applied AI Architect, Industries"
   ],
-  "title is not a technical role": [
-   "Anthropic — Administrative Business Partner, GTM",
-   "Anthropic — AV Operations Specialist",
-   "Anthropic — AV Production Specialist",
-   "Anthropic — AWS GTM Partnership Lead, Enterprise",
-   "Anthropic — AWS GTM Partnership Lead, Startups",
-   "Anthropic — BDR Enablement Lead",
-   "Anthropic — Cash Manager, Treasury",
-   "Anthropic — Commercial Counsel, GTM",
-   "Anthropic — Commercial Counsel, SPARC",
-   "Anthropic — Communications Lead, Enterprise",
-   "Anthropic — Community & Executive Escalations Program Manager",
-   "Anthropic — Contract Technical Sourcer"
-  ],
-  "not an early-career posting": [
-   "Anthropic — AI Engineer, GTM Claudification",
-   "Anthropic — AI Infrastructure Operations, Demand Planning",
-   "Anthropic — AI Operations Engineer, Partnerships",
-   "Anthropic — Applied AI Engineer, Beneficial Deployments (Life Sciences)",
-   "Anthropic — Applied AI Engineer, Enterprise Tech",
-   "Anthropic — Applied AI Research (Capabilities)",
-   "Anthropic — Applied AI Technical Evangelist, Startup Ecosystem",
-   "Anthropic — AV Engineer",
-   "Anthropic — Business Development Representative",
-   "Anthropic — Business Systems Analyst",
-   "Anthropic — Capital Markets - Infrastructure Financing",
-   "Anthropic — Cyber Evaluations Engineer"
-  ],
   "senior/experienced role": [
    "Anthropic — AI Fluency Education Lead",
    "Anthropic — Applied AI Architect, Commercial",
@@ -1528,10 +1500,38 @@
    "Anthropic — Applied AI Architect, Public Sector (National Security)",
    "Anthropic — Applied AI Architect, Startups",
    "Anthropic — Applied AI Architect, Strategic Enterprise Tech",
-   "Anthropic — AWS GTM Partnership Lead, Global System Integrators",
    "Anthropic — Cloud Partner Enablement Lead",
    "Anthropic — Communications Lead, Platform",
-   "Anthropic — Community Engagement Manager, Data Centers (Texas)"
+   "Anthropic — Community Engagement Manager, Data Centers (Texas)",
+   "Anthropic — Corporate Development Integration Lead"
+  ],
+  "not an early-career posting": [
+   "Anthropic — AI Infrastructure Operations, Demand Planning",
+   "Anthropic — AI Operations Engineer, Partnerships",
+   "Anthropic — Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+   "Anthropic — Applied AI Engineer, Enterprise Tech",
+   "Anthropic — Applied AI Research (Capabilities)",
+   "Anthropic — Applied AI Technical Evangelist, Startup Ecosystem",
+   "Anthropic — AV Engineer",
+   "Anthropic — Business Systems Analyst",
+   "Anthropic — Capital Markets - Infrastructure Financing",
+   "Anthropic — Cyber Evaluations Engineer",
+   "Anthropic — Data Engineer",
+   "Anthropic — Data Engineer, Safeguards"
+  ],
+  "title is not a technical role": [
+   "Anthropic — AV Operations Specialist",
+   "Anthropic — AV Production Specialist",
+   "Anthropic — Cash Manager, Treasury",
+   "Anthropic — Commercial Counsel, SPARC",
+   "Anthropic — Communications Lead, Enterprise",
+   "Anthropic — Contract Technical Sourcer",
+   "Anthropic — Corporate Counsel, M&A",
+   "Anthropic — Corporate Finance & Strategy, Cash Flow Forecasting",
+   "Anthropic — Director, Global Order-to-Cash Transformation",
+   "Anthropic — Director, Investor Relations",
+   "Anthropic — Director, US International Tax",
+   "Anthropic — Director, US International Tax Planning"
   ],
   "non-CS engineering discipline": [
    "Anthropic — Data Center Electrical Engineer",
@@ -1564,16 +1564,16 @@
   "quant role without early-career marker": [
    "OpenAI — Quantitative Intelligence Analyst",
    "Stripe — Treasury Finance AI and Quantitative Analytics, Americas",
-   "AQR Capital — 2027 Business Development Analyst - US Wealth",
    "AQR Capital — 2027 Trading Analyst",
    "AQR Capital — Application Support Engineer",
-   "AQR Capital — Business Development Analyst - U.S. Wealth",
    "AQR Capital — Data Scientist, Machine Learning",
    "AQR Capital — Desktop Support Engineer",
    "AQR Capital — Global Stock Selection Research - Analyst/Associate",
    "AQR Capital — Managed Futures & Commodities Research Analyst",
    "AQR Capital — Quantitative Research – Prediction Markets Analyst",
-   "AQR Capital — Research & Portfolio Management Engineering - Associate"
+   "AQR Capital — Research & Portfolio Management Engineering - Associate",
+   "AQR Capital — Research & Portfolio Management Engineer - Specialized Investments Group",
+   "AQR Capital — Trading Operations Analyst/Associate"
   ]
  },
  "zero_published_samples": {
@@ -1628,7 +1628,7 @@
    "Applied AI Engineer, CyberSecurity — not a US location"
   ],
   "openai": [
-   "Technical Program Manager, Compute Infrastructure — senior/experienced role",
+   "Technical Program Manager, Compute Infrastructure — non-technical role",
    "Research Engineer — research role without early-career marker",
    "Account Director - Tokyo — not a US location",
    "Software Engineer, RL Training Infra — not an early-career posting",
@@ -1828,7 +1828,7 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
-   "Senior Software Program Manager - Datacenter Compute Server — senior/experienced role",
+   "Senior Software Program Manager - Datacenter Compute Server — non-technical role",
    "Senior Software Architect - Data Center Systems — not a US location",
    "Senior Software Engineer, Networking DGX Cloud — not a US location",
    "Applied Systems Engineering Rotation Engineer - New College Graduate 2026 — not an early-career posting",
@@ -1894,7 +1894,7 @@
    "Assistant General Counsel, Credit Cards — title is not a technical role",
    "Assistant General Counsel, Regulatory — title is not a technical role",
    "Business Analyst (New Grad) — title is not a technical role",
-   "Business Development Desk Manager — senior/experienced role"
+   "Business Development Desk Manager — non-technical role"
   ],
   "runway": [
    "⚙️ Senior/Staff Platform Engineer — not a US location",
@@ -1918,7 +1918,7 @@
    "Cloud Platform Architect — senior/experienced role",
    "Cloud Platform Architect — not a US location",
    "Compiler Architect — senior/experienced role",
-   "Contract Manufacturing Program Manager — title is not a technical role",
+   "Contract Manufacturing Program Manager — non-technical role",
    "Customer Success Manager — non-technical role",
    "Customer Success Manager — not a US location"
   ],
@@ -1967,7 +1967,7 @@
    "AI Infrastructure Systems Engineer — not an early-career posting",
    "AI Infrastructure Systems Engineer (Amsterdam & London) — not a US location",
    "Associate, Infrastructure Strategy & Operations — not an early-career posting",
-   "Commercial Counsel-Infrastructure and GTM — not an early-career posting",
+   "Commercial Counsel-Infrastructure and GTM — non-technical role",
    "Customer Success Engineer (CSE), GPU Cluster — non-technical role",
    "Data Center Operations Coordinator — not an early-career posting",
    "Director, Data Center Operations — senior/experienced role"
@@ -1988,7 +1988,7 @@
    "Account Executive, Majors (APAC) — not a US location",
    "Account Executive, Majors- Install Base (APAC) — not a US location",
    "Account Executive-Startups, EMEA (French Speaker) — not a US location",
-   "Business Development Representative, Majors — not an early-career posting",
+   "Business Development Representative, Majors — non-technical role",
    "Business Development Representative , Startups — not a US location",
    "Commercial Account Executive, Greenfield — non-technical role"
   ],
@@ -2007,10 +2007,10 @@
    "Delivery Consultant — title is not a technical role",
    "Engineering Manager, Enterprise Product — senior/experienced role",
    "Global Payroll Manager — non-technical role",
-   "Manager, Business Development Representatives — senior/experienced role",
+   "Manager, Business Development Representatives — non-technical role",
    "Product Designer (8+ YOE) — title is not a technical role",
-   "Program Manager, Professional Services - East — title is not a technical role",
-   "Program Manager, Professional Services - West — title is not a technical role"
+   "Program Manager, Professional Services - East — non-technical role",
+   "Program Manager, Professional Services - West — non-technical role"
   ],
   "amplitude": [
    "Emerging Account Executive (India) — not a US location",
@@ -2028,7 +2028,7 @@
    "Benefits Manager, NAMER — title is not a technical role",
    "Brand Designer — non-technical role",
    "Chief of Staff — title is not a technical role",
-   "Compensation Program Manager — title is not a technical role",
+   "Compensation Program Manager — non-technical role",
    "Corporate Account Executive — not a US location",
    "Corporate Account Executive — non-technical role"
   ],
@@ -2040,7 +2040,7 @@
    "Engineering Manager, Segmentation — senior/experienced role",
    "Enterprise Account Executive, UK (Hybrid) — not a US location",
    "Finance Manager, Revenue — title is not a technical role",
-   "GTM Engineer — not an early-career posting"
+   "GTM Engineer — non-technical role"
   ],
   "broadcom": [
    "Marketing Operations Manager — non-technical role",
@@ -2064,8 +2064,8 @@
   ],
   "dropbox": [
    "Account Executive — non-technical role",
-   "Business Development Manager, Strategic Partnerships — senior/experienced role",
-   "Business Development Manager, Strategic Partnerships — senior/experienced role",
+   "Business Development Manager, Strategic Partnerships — non-technical role",
+   "Business Development Manager, Strategic Partnerships — non-technical role",
    "Business Development Representative - Japan — not a US location",
    "Data Analytics Partner, People Analytics — not an early-career posting",
    "Data Analytics Partner, People Analytics — not an early-career posting",
@@ -2082,7 +2082,7 @@
    "Director of Applied AI/ML Science - Ads — senior/experienced role",
    "Executive Assistant, Brand — non-technical role",
    "Global Safety & Security Leader — not an early-career posting",
-   "GTM Systems Engineer — not an early-career posting",
+   "GTM Systems Engineer — non-technical role",
    "Head of Finance Systems & Data — senior/experienced role",
    "Head of Retailer Product Marketing — non-technical role"
   ],
@@ -2242,6 +2242,16 @@
    "Customer Support Engineer (Tier 1) — not a US location",
    "Customer Support Engineer (Tier 2) — not an early-career posting"
   ],
+  "temporal": [
+   "Senior Account Executive, New Logo — non-technical role",
+   "Manager, India Partnerships — not a US location",
+   "Senior Developer Success Engineer - West — senior/experienced role",
+   "Staff Solutions Architect, Banking — not a US location",
+   "Staff Solutions Architect, New Logo - West — title is not a technical role",
+   "Account Executive, EMEA — not a US location",
+   "Staff Software Engineer, Open Source Server — senior/experienced role",
+   "Senior Software Engineer, Cloud Data Storage — senior/experienced role"
+  ],
   "twilio": [
    "Account Executive 4 — not a US location",
    "Account Executive New Business — not a US location",
@@ -2270,7 +2280,7 @@
    "Customer Experience Specialist — title is not a technical role",
    "Design Engineer — not an early-career posting",
    "Account Manager — non-technical role",
-   "Revenue Operations Specialist — title is not a technical role"
+   "Revenue Operations Specialist — non-technical role"
   ],
   "zed": [
    "Open Source Engineer — not a US location",
