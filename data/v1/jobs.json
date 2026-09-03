@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-03T16:30:11+00:00",
+ "generated_at": "2026-09-03T21:06:26+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 304,
+ "count": 303,
  "jobs": [
   {
    "uid": "2e7fc13de86c918d",
@@ -242,7 +242,7 @@
    "title": "Software Engineer - Evals",
    "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
    "locations": [
-    "Palo Alto, California"
+    "Palo Alto, CA"
    ],
    "track": "new-grad-swe",
    "degree": "unspecified",
@@ -728,6 +728,33 @@
    ],
    "track": "internship",
    "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-03",
+   "last_verified": "2026-09-03",
+   "posted_at": "2026-09-03",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "95832c8910afece0",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+   "locations": [
+    "San Francisco, California, USA",
+    "San Francisco (US-SFO-MKT555)"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
    "sponsorship": "unknown",
    "first_seen": "2026-09-03",
    "last_verified": "2026-09-03",
@@ -1988,18 +2015,19 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "3b733edade933b2c",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
    "locations": [
-    "Redmond, WA",
+    "Palo Alto, CA",
     "Irvine, CA",
-    "Palo Alto - 1200"
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2016,19 +2044,18 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
    "locations": [
-    "Palo Alto, CA",
+    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2071,33 +2098,6 @@
    "openings": 1
   },
   {
-   "uid": "44494ecd7d4aa8c1",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
-   "locations": [
-    "Palo Alto, CA",
-    "Palo Alto - 1450"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-03",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Mobile Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "2fb1d8fb22585078",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -2124,20 +2124,20 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
    "locations": [
     "Palo Alto, CA",
-    "Redmond, WA"
+    "Palo Alto - 1450"
    ],
    "track": "new-grad-swe",
-   "degree": "masters-preferred",
+   "degree": "bachelors",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-03",
@@ -2145,7 +2145,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Product Security - Starlink",
+   "department": "Starlink Mobile Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2187,6 +2187,33 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
     "Bastrop, TX",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-03",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a169755945b07175",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -2823,32 +2850,6 @@
    "season": "2027",
    "compensation": null,
    "department": "University",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "3942e07ae1e80fa5",
-   "company_slug": "cloudflare",
-   "company_name": "Cloudflare",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Research Engineer Intern (Fall 2026)",
-   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
-   "locations": [
-    "Austin, TX"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "no-sponsorship",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-03",
-   "posted_at": "2026-07-28",
-   "closed_at": null,
-   "season": "Fall 2026",
-   "compensation": null,
-   "department": "Technology Research",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -7573,32 +7574,6 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "7b90f560b079de52",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Software Development Graduate Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
-   "locations": [
-    "US, California, Folsom"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-03",
-   "last_verified": "2026-09-03",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1

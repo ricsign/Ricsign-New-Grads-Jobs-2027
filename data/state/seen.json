@@ -622,7 +622,7 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-03",
    "posted_at": "2026-07-28",
-   "closed_at": null
+   "closed_at": "2026-09-03"
   },
   {
    "uid": "39f244426477e103",
@@ -1476,6 +1476,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-03",
    "posted_at": "2026-08-28",
+   "closed_at": null
+  },
+  {
+   "uid": "95832c8910afece0",
+   "first_seen": "2026-09-03",
+   "last_verified": "2026-09-03",
+   "posted_at": "2026-09-03",
    "closed_at": null
   },
   {

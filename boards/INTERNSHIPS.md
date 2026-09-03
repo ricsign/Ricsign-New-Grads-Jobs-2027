@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**86 open roles** · last verified 2026-09-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**84 open roles** · last verified 2026-09-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (9)
+## 🆕 Posted in the last 7 days (8)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -18,7 +18,6 @@ Software engineering and research internships at the same curated bar.
 | **Sierra** | [Intern, Agent Development (Summer 2027)](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application) | San Francisco, CA +1 | 3d · Aug 31 |
 | **Stripe** | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745) | San Francisco, Seattle, New York City +1 | 3d · Aug 31 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco, California, United States +1 | 3d · Aug 31 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion](https://careers.withwaymo.com/jobs?gh_jid=8163364) | San Francisco (US-SFO-MKT555) | 6d · Aug 28 |
 | **Amazon** | [ASIC Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) | Cupertino, California, USA | 7d · Aug 27 |
 | **Amazon** | [Robotics - Software Development Engineer Fall Intern/Co-op - 2026](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) | Westboro, Wisconsin, USA | 7d · Aug 27 |
 | **Amazon** | [Software Development Engineer Intern, Annapurna Labs - 2027](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) | Cupertino, California, USA | 7d · Aug 27 |
@@ -47,8 +46,8 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Waymo** | 2027 Summer Intern, BS, SysEng Software Engineer · _Summer 2027_ | Mountain View, California, USA, Mountain View (US-MTV-EMF680) | — | · | today · Sep 3 | today · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174099) |
+| **Waymo** | 2027 Summer Intern, MS, Software Engineering, Behavior Test · _Summer 2027_ | San Francisco, California, USA, San Francisco (US-SFO-MKT555) | — | ·📗 | today · Sep 3 | today · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing · _Summer 2027_ | San Francisco, California, United States, San Francisco (US-SFO-MKT555) | — | ·🎓 | 3d · Aug 31 | 2d · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8167323) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion · _Summer 2027_ | San Francisco (US-SFO-MKT555) | — | ·🎓 | 6d · Aug 28 | 2d · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8163364) |
 | **Amazon** | ASIC Engineer Intern, Annapurna Labs - 2027 · _2027_ | Cupertino, California, USA | — | ·📗 | 7d · Aug 27 | 2d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) |
 | **Amazon** | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 · _Fall 2026_ | Westboro, Wisconsin, USA | — | · | 7d · Aug 27 | 2d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) |
 | **Amazon** | Software Development Engineer Intern, Annapurna Labs - 2027 · _2027_ | Cupertino, California, USA | — | ·📗 | 7d · Aug 27 | 2d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
@@ -73,7 +72,6 @@ Software engineering and research internships at the same curated bar.
 | **SpaceX** | Spring 2027 Graduate Engineer Internship/Co-op · _Spring 2027_ | Bastrop, TX, Bloomfield, CT +10 | — | 🇺🇸📗 | 1mo · Aug 3 | 2d · Sep 1 | [apply](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) |
 | **SpaceX** | Spring 2027 Silicon Engineering Internship/Co-op · _Spring 2027_ | Bastrop, TX, Cape Canaveral, FL +8 | — | 🇺🇸📗 | 1mo · Aug 3 | 2d · Sep 1 | [apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | **DRW** | Platform Engineer Intern | Chicago | — | ·📗 | 1mo · Jul 30 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7997729) |
-| **Cloudflare** | Research Engineer Intern (Fall 2026) · _Fall 2026_ | Austin, TX | — | 🛂 | 1mo · Jul 28 | 2d · Sep 1 | [apply](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) |
 | **Modal** | ML Research Intern | New York, San Francisco | $15k | ·🎓 | 1mo · Jul 28 | 2d · Sep 1 | [apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application) |
 | **PDT Partners** | Summer 2027 Software Engineering Intern · _Summer 2027_ | New York, NY | — | 🛂📗 | 1mo · Jul 24 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
 | **PDT Partners** | Summer 2027 Systems Engineering Intern · _Summer 2027_ | New York, NY | — | 🛂📗 | 1mo · Jul 24 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
@@ -115,7 +113,6 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Software Development Graduate Intern | US, California, Folsom | — | · | — | today · Sep 3 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 9d · Aug 25 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
 | **Verkada** | Embedded Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 9d · Aug 25 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | **Verkada** | Frontend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 9d · Aug 25 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) |
@@ -128,4 +125,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-03 16:30 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-03 21:06 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

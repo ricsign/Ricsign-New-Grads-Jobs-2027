@@ -29,7 +29,7 @@ Full-time entry-level software engineering roles in the US.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 3d · Aug 31 | 2d · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 3d · Aug 31 | 2d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
-| **xAI** | Software Engineer - Evals | Palo Alto, California | — | · | 1mo · Jul 22 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
+| **xAI** | Software Engineer - Evals | Palo Alto, CA | — | · | 1mo · Jul 22 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
 | **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | United States, Remote - California | — | ·📗 | 3mo · May 13 | 2d · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | **Stripe** | Backend Engineer, Payments and Risk | US | — | · | 7mo · Feb 3 | 2d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=7232592) |
 | **Mercor** | Data Scientist · `open 1y+` | San Francisco | $130k–$500k | · | 1y · Aug 30 2025 | 2d · Sep 1 | [apply](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152/application) |
@@ -79,4 +79,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-03 16:30 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-03 21:06 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
