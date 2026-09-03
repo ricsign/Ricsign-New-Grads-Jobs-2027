@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-09-03T11:21:29+00:00",
+ "generated_at": "2026-09-03T16:30:11+00:00",
  "live_requisitions": 304,
  "live_roles": 270,
  "companies_with_open_roles": 55,
  "posted_age": {
   "median_days": 57,
-  "posted_last_24h": 4,
-  "posted_last_7d": 17,
-  "posted_last_30d": 70,
+  "posted_last_24h": 5,
+  "posted_last_7d": 18,
+  "posted_last_30d": 71,
   "evergreen_over_1y": 43,
-  "with_posted_date_pct": 99.3
+  "with_posted_date_pct": 99.6
  },
  "by_track": {
   "new-grad-swe": 89,
@@ -20,8 +20,8 @@
  },
  "by_tier": {
   "0": 26,
-  "1": 253,
-  "2": 25
+  "1": 254,
+  "2": 24
  },
  "by_sponsorship": {
   "sponsors": 23,
@@ -31,10 +31,10 @@
   "unknown": 196
  },
  "by_degree": {
-  "bachelors": 43,
+  "bachelors": 44,
   "masters-preferred": 118,
   "phd-required": 23,
-  "unspecified": 120
+  "unspecified": 119
  },
  "sponsorship_resolved_pct": 35.5,
  "link_verified_pct": 90.8,
@@ -47,13 +47,13 @@
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 363,
-  "live": 319,
+  "tracked": 364,
+  "live": 320,
   "closed": 44,
   "median_age_days": 2,
   "p90_age_days": 2,
   "max_age_days": 2,
-  "verified_within_24h": 313
+  "verified_within_24h": 314
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -61,7 +61,7 @@
   "boards_empty": 1,
   "boards_failed": 1,
   "success_rate": 0.9845,
-  "postings_fetched": 21407,
+  "postings_fetched": 21373,
   "by_source": {
    "greenhouse": 77,
    "ashby": 41,
@@ -85,15 +85,14 @@
    }
   ],
   "rejections": {
-   "not a US location": 6003,
-   "senior/experienced role": 3922,
-   "title is not a technical role": 3753,
-   "non-technical role": 3089,
-   "not an early-career posting": 2703,
-   "non-CS engineering discipline": 761,
+   "not a US location": 6011,
+   "senior/experienced role": 3916,
+   "title is not a technical role": 3734,
+   "non-technical role": 3078,
+   "not an early-career posting": 2702,
+   "non-CS engineering discipline": 759,
    "quant role without early-career marker": 259,
-   "research role without early-career marker": 132,
-   "missing title or apply url": 1
+   "research role without early-career marker": 133
   },
   "link_check": {
    "ok": 276,

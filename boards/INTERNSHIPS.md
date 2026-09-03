@@ -46,6 +46,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Waymo** | 2027 Summer Intern, BS, SysEng Software Engineer · _Summer 2027_ | Mountain View, California, USA, Mountain View (US-MTV-EMF680) | — | · | today · Sep 3 | today · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174099) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing · _Summer 2027_ | San Francisco, California, United States, San Francisco (US-SFO-MKT555) | — | ·🎓 | 3d · Aug 31 | 2d · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8167323) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion · _Summer 2027_ | San Francisco (US-SFO-MKT555) | — | ·🎓 | 6d · Aug 28 | 2d · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8163364) |
 | **Amazon** | ASIC Engineer Intern, Annapurna Labs - 2027 · _2027_ | Cupertino, California, USA | — | ·📗 | 7d · Aug 27 | 2d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) |
@@ -115,7 +116,6 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Intel** | Software Development Graduate Intern | US, California, Folsom | — | · | — | today · Sep 3 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1) |
-| **Intel** | Module Engineering Undergraduate Intern | US, Oregon, Hillsboro | — | · | — | 1d · Sep 2 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-Undergraduate-Intern_JR0286875) |
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 9d · Aug 25 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
 | **Verkada** | Embedded Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 9d · Aug 25 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | **Verkada** | Frontend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 9d · Aug 25 | 2d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) |
@@ -128,4 +128,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-03 11:21 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-03 16:30 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
