@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-04T11:24:27+00:00</updated>
+  <updated>2026-09-04T16:26:07+00:00</updated>
+  <entry>
+    <title>Scale AI — Software Engineering Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4730845005"/>
+    <id>tag:ricsign.github.io,2026:908129edf2a77e49</id>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Scale AI — Software Engineer - New Grad</title>
+    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4730836005"/>
+    <id>tag:ricsign.github.io,2026:1c529164cf95973d</id>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, CA · unknown · bachelors</summary>
+  </entry>
   <entry>
     <title>Amazon — Software Development Engineer Intern, ROBOTICS - 2027</title>
     <link href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"/>
@@ -12,14 +28,6 @@
     <updated>2026-09-04T00:00:00Z</updated>
     <category term="internship"/>
     <summary>North Reading, Massachusetts, USA · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>DoorDash — Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8163709"/>
-    <id>tag:ricsign.github.io,2026:6cb89570f353d98f</id>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Los Angeles, CA, New York, NY, San Francisco, CA, Sunnyvale, CA, Seattle, WA · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>SpaceX — New Graduate Engineer, Starship Components</title>
@@ -396,13 +404,5 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Platform Engineer Intern, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856"/>
-    <id>tag:ricsign.github.io,2026:27fe2f10e6e54ed9</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
   </entry>
 </feed>

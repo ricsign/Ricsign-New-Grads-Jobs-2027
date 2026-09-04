@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**83 open roles** · last verified 2026-09-04 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**84 open roles** · last verified 2026-09-04 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -26,6 +26,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Scale AI** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA | — | · | today · Sep 4 | today · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | **Sierra** | Intern, Agent Development (Winter 2027) · _Winter 2027_ | San Francisco, CA | — | ·📗 | 3d · Sep 1 | 3d · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application) |
 | **Sierra** | Intern, Agent Development (Summer 2027) · _Summer 2027_ | San Francisco, CA, New York, NY | — | ·📗 | 4d · Aug 31 | 3d · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application) |
 | **Stripe** | Software Engineer, Intern (Summer or Winter) | San Francisco, Seattle, New York City, US | — | ·📗 | 4d · Aug 31 | 3d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128745) |
@@ -122,4 +123,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-04 11:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-04 16:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

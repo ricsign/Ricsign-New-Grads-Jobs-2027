@@ -28,6 +28,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Scale AI** | Software Engineer - New Grad · _Fall 2026_ | San Francisco, CA | — | · | today · Sep 4 | today · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 4d · Aug 31 | 3d · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 4d · Aug 31 | 3d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
 | **xAI** | Software Engineer - Evals | Palo Alto, CA | — | · | 1mo · Jul 22 | 3d · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
@@ -40,7 +41,6 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US · _Fall 2026_ | Los Angeles, CA, New York, NY +3 | — | ·📗 | today · Sep 4 | today · Sep 4 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
 | **SpaceX** | New Graduate Engineer, Starship Components | Hawthorne, CA | — | 🇺🇸 | 1d · Sep 3 | today · Sep 4 | [apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) |
 | **Anduril Industries** | 2027 Early Career Flight Software Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 2d · Sep 2 | 2d · Sep 2 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
 | **Applied Intuition** | Cybersecurity Software Engineer - New Grad (December 2027) · _2027_ | Sunnyvale | $130k–$158k | ·📗 | 2d · Sep 2 | 2d · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) |
@@ -81,4 +81,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-04 11:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-04 16:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
