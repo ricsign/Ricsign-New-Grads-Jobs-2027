@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-04T16:26:07+00:00</updated>
+  <updated>2026-09-04T20:49:09+00:00</updated>
   <entry>
     <title>Scale AI — Software Engineering Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/scaleai/jobs/4730845005"/>
@@ -30,12 +30,52 @@
     <summary>North Reading, Massachusetts, USA · unknown · bachelors</summary>
   </entry>
   <entry>
+    <title>Schonfeld — 2027 Business Analytics Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171703"/>
+    <id>tag:ricsign.github.io,2026:b29cfa275705b519</id>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, New York, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 Data Science Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171692"/>
+    <id>tag:ricsign.github.io,2026:696a333741392d7d</id>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, New York, United States · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8180089"/>
+    <id>tag:ricsign.github.io,2026:522fc740f61c794f</id>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, New York, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 Systematic COO Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8172059"/>
+    <id>tag:ricsign.github.io,2026:271a5ef666dce34d</id>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, New York, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
     <title>SpaceX — New Graduate Engineer, Starship Components</title>
     <link href="https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002"/>
     <id>tag:ricsign.github.io,2026:91ac7eba330bc024</id>
     <updated>2026-09-04T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Hawthorne, CA · citizenship-required · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Tenstorrent — Corporate Development Associate - IR &amp; Fundraising</title>
+    <link href="https://job-boards.greenhouse.io/tenstorrent/jobs/5227926007"/>
+    <id>tag:ricsign.github.io,2026:0601f621414427f2</id>
+    <updated>2026-09-04T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, United States, Boston, Massachusetts, United States, Santa Clara, California, United States · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer</title>
@@ -364,45 +404,5 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Greenwich, CT · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Expression of Interest: 2027 Trading Sneak Peek Weeks</title>
-    <link href="https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086"/>
-    <id>tag:ricsign.github.io,2026:6677109669ced210</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Hardware Engineer Intern, Summer 2027</title>
-    <link href="https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880"/>
-    <id>tag:ricsign.github.io,2026:2a881bab8140af41</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Junior Quantitative Developer &amp; Strategist</title>
-    <link href="https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687"/>
-    <id>tag:ricsign.github.io,2026:a0863ca5d0587fcb</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Junior Quantitative Risk Analyst</title>
-    <link href="https://www.akunacapital.com/careers/job/8035515/?gh_jid=8035515"/>
-    <id>tag:ricsign.github.io,2026:f1b5716b9a610f10</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Akuna Capital — Platform Engineer</title>
-    <link href="https://www.akunacapital.com/careers/job/7974805/?gh_jid=7974805"/>
-    <id>tag:ricsign.github.io,2026:744bb3679992ae9d</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago · unknown · bachelors</summary>
   </entry>
 </feed>

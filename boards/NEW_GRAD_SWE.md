@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**40 open roles** · last verified 2026-09-04 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**41 open roles** · last verified 2026-09-04 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -41,6 +41,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Tenstorrent** | Corporate Development Associate - IR & Fundraising | Austin, Texas, United States, Boston, Massachusetts, United States +1 | — | · | today · Sep 4 | today · Sep 4 | [apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5227926007) |
 | **SpaceX** | New Graduate Engineer, Starship Components | Hawthorne, CA | — | 🇺🇸 | 1d · Sep 3 | today · Sep 4 | [apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) |
 | **Anduril Industries** | 2027 Early Career Flight Software Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 2d · Sep 2 | 2d · Sep 2 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
 | **Applied Intuition** | Cybersecurity Software Engineer - New Grad (December 2027) · _2027_ | Sunnyvale | $130k–$158k | ·📗 | 2d · Sep 2 | 2d · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) |
@@ -81,4 +82,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-04 16:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-04 20:49 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

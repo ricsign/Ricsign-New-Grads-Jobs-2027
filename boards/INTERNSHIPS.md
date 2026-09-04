@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**84 open roles** · last verified 2026-09-04 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**87 open roles** · last verified 2026-09-04 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -45,6 +45,9 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Amazon** | Software Development Engineer Intern, ROBOTICS - 2027 · _2027_ | North Reading, Massachusetts, USA | — | · | today · Sep 4 | today · Sep 4 | [apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
+| **Schonfeld** | 2027 Business Analytics Intern · _2027_ | New York, New York, United States | — | ·📗 | today · Sep 4 | today · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
+| **Schonfeld** | 2027 Data Science Intern · _2027_ | New York, New York, United States | — | · | today · Sep 4 | today · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
+| **Schonfeld** | 2027 Software Engineering Intern · _2027_ | New York, New York, United States | — | ·📗 | today · Sep 4 | today · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
 | **Waymo** | 2027 Summer Intern, BS, SysEng Software Engineer · _Summer 2027_ | Mountain View, California, USA, Mountain View (US-MTV-EMF680) | — | · | 1d · Sep 3 | 1d · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174099) |
 | **Waymo** | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer · _Summer 2027_ | San Francisco, California, USA, San Francisco (US-SFO-MKT555) | — | ·📗 | 1d · Sep 3 | today · Sep 4 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8177651) |
 | **Waymo** | 2027 Summer Intern, MS, Software Engineering, Behavior Test · _Summer 2027_ | San Francisco, California, USA, San Francisco (US-SFO-MKT555) | — | ·📗 | 1d · Sep 3 | 1d · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
@@ -123,4 +126,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-04 16:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-04 20:49 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
