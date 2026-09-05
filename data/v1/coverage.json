@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T04:36:20+00:00",
+ "generated_at": "2026-09-05T10:41:04+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 779,
+   "fetched": 778,
    "published": 0,
    "status": "none matched"
   },
@@ -97,7 +97,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "perplexity",
-   "fetched": 111,
+   "fetched": 112,
    "published": 0,
    "status": "none matched"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 496,
+   "fetched": 499,
    "published": 3,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 606,
+   "fetched": 605,
    "published": 4,
    "status": "ok"
   },
@@ -967,7 +967,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "twilio",
-   "fetched": 135,
+   "fetched": 136,
    "published": 0,
    "status": "none matched"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2313,
+   "fetched": 2316,
    "published": 29,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6011,
-  "senior/experienced role": 3965,
-  "title is not a technical role": 3796,
+  "not a US location": 6014,
+  "senior/experienced role": 3964,
+  "title is not a technical role": 3801,
   "non-technical role": 3127,
-  "not an early-career posting": 2746,
+  "not an early-career posting": 2745,
   "non-CS engineering discipline": 767,
   "quant role without early-career marker": 260,
   "research role without early-career marker": 136
@@ -1913,14 +1913,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Senior Manager, Technical Consulting — not a US location",
    "Principal Software Engineer / Data Scientist, AI — senior/experienced role",
    "ECS Account Executive 5 — not a US location",
    "Senior Director, Controllership & Operations Transformation — not a US location",
    "Senior Director, Controllership & Operations Transformation — not a US location",
    "Forward Deployed Consultant / Senior Consultant (Agentforce Operations) — not a US location",
    "Marketing Strategy & Operations, Lead, Global Marketing Analytics — non-technical role",
-   "Product Owner, Employee Success — title is not a technical role",
-   "Senior Incident Responder, Global CSIRT — not a US location"
+   "Product Owner, Employee Success — title is not a technical role"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -2118,13 +2118,13 @@
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
+   "JR0286659 Lab/Test Mechanical Engineer (Temporary position) — not a US location",
    "Automated Functional Validation Engineer (Temporary position) — not a US location",
    "Facilities Electrical Engineer — not a US location",
    "Foundry Strategic Industrial Engineer — not a US location",
    "Module Development Defect Inspection Engineer — not an early-career posting",
    "CAD/EDA Tools Automation Engineer — not an early-career posting",
-   "Physical AI Solutions Architect — not a US location",
-   "Industrial Engineer - Foundry Quality and Reliability Labs — not a US location"
+   "Physical AI Solutions Architect — not a US location"
   ],
   "klaviyo": [
    "Account Executive, Commercial, French Speaker — not a US location",
