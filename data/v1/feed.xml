@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-04T20:49:09+00:00</updated>
+  <updated>2026-09-05T04:36:20+00:00</updated>
+  <entry>
+    <title>Schonfeld — 2027 PhD Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8172074"/>
+    <id>tag:ricsign.github.io,2026:480320bf117569b8</id>
+    <updated>2026-09-05T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, New York, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 PhD Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076"/>
+    <id>tag:ricsign.github.io,2026:c866eca515542bcd</id>
+    <updated>2026-09-05T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Miami, Florida, United States · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Scale AI — Software Engineering Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/scaleai/jobs/4730845005"/>
@@ -388,21 +404,5 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Greenwich, CT · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>AQR Capital — 2027 Trading Summer Analyst</title>
-    <link href="https://careers.aqr.com/jobs?gh_jid=8077110&amp;gh_jid=8077110"/>
-    <id>tag:ricsign.github.io,2026:539c4c044c6c5874</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Greenwich, CT · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>AQR Capital — AQR Arbitrage - 2027 Research Summer Analyst</title>
-    <link href="https://careers.aqr.com/jobs?gh_jid=8156993&amp;gh_jid=8156993"/>
-    <id>tag:ricsign.github.io,2026:42921704c3d2ff1d</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Greenwich, CT · unknown · bachelors</summary>
   </entry>
 </feed>
