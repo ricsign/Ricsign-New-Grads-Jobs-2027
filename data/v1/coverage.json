@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T15:18:46+00:00",
+ "generated_at": "2026-09-05T20:26:46+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 594,
+   "fetched": 593,
    "published": 4,
    "status": "ok"
   },
@@ -107,7 +107,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "scaleai",
-   "fetched": 216,
+   "fetched": 215,
    "published": 4,
    "status": "ok"
   },
@@ -127,7 +127,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "harvey",
-   "fetched": 342,
+   "fetched": 341,
    "published": 0,
    "status": "none matched"
   },
@@ -217,7 +217,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "suno",
-   "fetched": 64,
+   "fetched": 65,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 855,
+   "fetched": 853,
    "published": 3,
    "status": "ok"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 169,
+   "fetched": 167,
    "published": 0,
    "status": "none matched"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2118,
+   "fetched": 2117,
    "published": 9,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2316,
+   "fetched": 2317,
    "published": 29,
    "status": "ok"
   },
@@ -1417,7 +1417,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "waymo",
-   "fetched": 339,
+   "fetched": 340,
    "published": 6,
    "status": "ok"
   },
@@ -1453,10 +1453,10 @@
   }
  ],
  "rejections": {
-  "not a US location": 6012,
-  "senior/experienced role": 3964,
-  "title is not a technical role": 3799,
-  "non-technical role": 3129,
+  "not a US location": 6006,
+  "senior/experienced role": 3967,
+  "title is not a technical role": 3798,
+  "non-technical role": 3128,
   "not an early-career posting": 2746,
   "non-CS engineering discipline": 767,
   "quant role without early-career marker": 260,
@@ -1913,14 +1913,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Senior Security GRC Analyst — not a US location",
    "Senior Director, Solutions Builder — not a US location",
    "Senior Manager, Technical Consulting — not a US location",
    "Principal Software Engineer / Data Scientist, AI — senior/experienced role",
    "ECS Account Executive 5 — not a US location",
    "Senior Director, Controllership & Operations Transformation — not a US location",
    "Senior Director, Controllership & Operations Transformation — not a US location",
-   "Forward Deployed Consultant / Senior Consultant (Agentforce Operations) — not a US location",
-   "Marketing Strategy & Operations, Lead, Global Marketing Analytics — non-technical role"
+   "Forward Deployed Consultant / Senior Consultant (Agentforce Operations) — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -1929,8 +1929,8 @@
    "Cloud Platform Architect — not a US location",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — not a US location",
-   "Customer Success Manager — non-technical role"
+   "Customer Success Manager — non-technical role",
+   "Customer Success Manager — not a US location"
   ],
   "suno": [
    "Staff Software Engineer, Frontend — senior/experienced role",
@@ -1988,9 +1988,9 @@
    "Analyst — title is not a technical role",
    "Analyst II, Full Stack (Revenue Analytics) — not a US location",
    "Analytics Engineer II — not a US location",
-   "Analytics Lead, Full Stack — senior/experienced role",
    "Analytics Lead, Full Stack — not a US location",
-   "Analytics Lead, Full Stack — not a US location"
+   "Analytics Lead, Full Stack — not a US location",
+   "Analytics Lead, Full Stack — senior/experienced role"
   ],
   "airtable": [
    "Account Executive, Strategic Accounts — non-technical role",
@@ -2154,7 +2154,7 @@
    "Business Manager — title is not a technical role",
    "C# Engineer — not a US location",
    "Client Portfolio Manager — not a US location",
-   "Client Relations Associate — not a US location"
+   "Client Relations Associate — title is not a technical role"
   ],
   "mixpanel": [
    "Account Executive, DACH — not a US location",
@@ -2228,8 +2228,8 @@
    "Customer Account Executive — non-technical role",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Reliability Engineer — not a US location",
-   "Customer Support Engineer (Tier 1) — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location",
+   "Customer Support Engineer (Tier 1) — not an early-career posting",
    "Customer Support Engineer (Tier 2) — not an early-career posting"
   ],
   "temporal": [
