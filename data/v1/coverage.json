@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T10:41:04+00:00",
+ "generated_at": "2026-09-05T15:18:46+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 778,
+   "fetched": 779,
    "published": 0,
    "status": "none matched"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 34,
+   "fetched": 33,
    "published": 0,
    "status": "none matched"
   },
@@ -587,7 +587,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "schonfeld",
-   "fetched": 65,
+   "fetched": 64,
    "published": 6,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 605,
+   "fetched": 606,
    "published": 4,
    "status": "ok"
   },
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 321,
+   "fetched": 320,
    "published": 1,
    "status": "ok"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 295,
+   "fetched": 296,
    "published": 0,
    "status": "none matched"
   },
@@ -1417,7 +1417,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "waymo",
-   "fetched": 340,
+   "fetched": 339,
    "published": 6,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6014,
+  "not a US location": 6012,
   "senior/experienced role": 3964,
-  "title is not a technical role": 3801,
-  "non-technical role": 3127,
-  "not an early-career posting": 2745,
+  "title is not a technical role": 3799,
+  "non-technical role": 3129,
+  "not an early-career posting": 2746,
   "non-CS engineering discipline": 767,
   "quant role without early-career marker": 260,
   "research role without early-career marker": 136
@@ -1828,14 +1828,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
+   "Engineering Manager - OpenBMC Platform — senior/experienced role",
+   "Senior Software Architect - Deep Learning and HPC Communications — not a US location",
    "Senior Software Engineer, NCCL — senior/experienced role",
    "Senior DFT Engineer — senior/experienced role",
    "Senior EDA Engineer, SOC Design Methodology — senior/experienced role",
    "Senior DFT Power Methodology Engineer — senior/experienced role",
    "DFT Methodology Engineer — not an early-career posting",
-   "Senior ASIC Design Engineer - DFX — senior/experienced role",
-   "Senior DFT Methodology - Data Analytics and Applied AI Engineer — senior/experienced role",
-   "Senior DFT - Silicon Validation Engineer — senior/experienced role"
+   "Senior ASIC Design Engineer - DFX — senior/experienced role"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1913,14 +1913,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Senior Director, Solutions Builder — not a US location",
    "Senior Manager, Technical Consulting — not a US location",
    "Principal Software Engineer / Data Scientist, AI — senior/experienced role",
    "ECS Account Executive 5 — not a US location",
    "Senior Director, Controllership & Operations Transformation — not a US location",
    "Senior Director, Controllership & Operations Transformation — not a US location",
    "Forward Deployed Consultant / Senior Consultant (Agentforce Operations) — not a US location",
-   "Marketing Strategy & Operations, Lead, Global Marketing Analytics — non-technical role",
-   "Product Owner, Employee Success — title is not a technical role"
+   "Marketing Strategy & Operations, Lead, Global Marketing Analytics — non-technical role"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",

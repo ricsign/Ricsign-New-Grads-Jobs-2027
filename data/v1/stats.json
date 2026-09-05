@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T10:41:04+00:00",
+ "generated_at": "2026-09-05T15:18:46+00:00",
  "live_requisitions": 312,
  "live_roles": 277,
  "companies_with_open_roles": 55,
@@ -85,11 +85,11 @@
    }
   ],
   "rejections": {
-   "not a US location": 6014,
+   "not a US location": 6012,
    "senior/experienced role": 3964,
-   "title is not a technical role": 3801,
-   "non-technical role": 3127,
-   "not an early-career posting": 2745,
+   "title is not a technical role": 3799,
+   "non-technical role": 3129,
+   "not an early-career posting": 2746,
    "non-CS engineering discipline": 767,
    "quant role without early-career marker": 260,
    "research role without early-career marker": 136
