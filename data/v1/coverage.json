@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T04:45:35+00:00",
+ "generated_at": "2026-09-06T11:03:10+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -247,7 +247,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "togetherai",
-   "fetched": 58,
+   "fetched": 59,
    "published": 0,
    "status": "none matched"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 495,
+   "fetched": 499,
    "published": 3,
    "status": "ok"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 34,
+   "fetched": 35,
    "published": 0,
    "status": "none matched"
   },
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 285,
+   "fetched": 284,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 853,
+   "fetched": 854,
    "published": 3,
    "status": "ok"
   },
@@ -1117,7 +1117,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gongio",
-   "fetched": 92,
+   "fetched": 93,
    "published": 0,
    "status": "none matched"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 296,
+   "fetched": 295,
    "published": 0,
    "status": "none matched"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2319,
+   "fetched": 2318,
    "published": 29,
    "status": "ok"
   },
@@ -1453,14 +1453,14 @@
   }
  ],
  "rejections": {
-  "not a US location": 6011,
-  "senior/experienced role": 3961,
+  "not a US location": 6016,
+  "senior/experienced role": 3962,
   "title is not a technical role": 3795,
   "non-technical role": 3128,
-  "not an early-career posting": 2747,
+  "not an early-career posting": 2745,
   "non-CS engineering discipline": 766,
   "quant role without early-career marker": 260,
-  "research role without early-career marker": 135
+  "research role without early-career marker": 136
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1678,14 +1678,14 @@
    "Software Engineer, Developer Productivity, AI Tools — not an early-career posting"
   ],
   "adobe": [
+   "Principal Product Manager - AI for Engineering — not a US location",
    "Senior Software Engineer, Meta Factory Agent Harness — senior/experienced role",
    "Software Development Engineer 3 - Graph Engineering — not a US location",
    "Senior Manager, Accounting — not a US location",
    "Machine Learning Engineer — not an early-career posting",
    "Photoshop Software Development Engineer - C++/GPU imaging — not a US location",
    "Enterprise Architect — not a US location",
-   "Staff Machine Learning Engineer - ML Frameworks — not a US location",
-   "Senior Product Manager, Data Platform - Knowledge & Retrieval — senior/experienced role"
+   "Staff Machine Learning Engineer - ML Frameworks — not a US location"
   ],
   "airbnb": [
    "Acquisition Manager — not a US location",
@@ -1828,14 +1828,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
+   "Software Engineer – Networking Platforms, Diagnostics Tools and Performance — not a US location",
+   "System Software Engineer — not a US location",
+   "Senior Business Intelligence Analyst — not a US location",
    "Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud — not a US location",
    "Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud — not a US location",
    "Senior Datacenter Technical Program Manager, At-Scale AI Clusters — not a US location",
    "Senior Software Engineer, At Scale Compute Analysis — not a US location",
-   "Senior Software Engineer, Security — not a US location",
-   "Principal Firmware Engineer – Server Manageability and Observability — senior/experienced role",
-   "Senior HPC Architect, Automation and At-Scale Deployment — not a US location",
-   "Senior Firmware Engineer – CSP Engagements — senior/experienced role"
+   "Senior Software Engineer, Security — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -2118,13 +2118,13 @@
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
+   "Security Software Development Engineer — not a US location",
    "JR0286659 Lab/Test Mechanical Engineer (Temporary position) — not a US location",
    "Automated Functional Validation Engineer (Temporary position) — not a US location",
    "Facilities Electrical Engineer — not a US location",
    "Foundry Strategic Industrial Engineer — not a US location",
    "Module Development Defect Inspection Engineer — not an early-career posting",
-   "CAD/EDA Tools Automation Engineer — not an early-career posting",
-   "Physical AI Solutions Architect — not a US location"
+   "CAD/EDA Tools Automation Engineer — not an early-career posting"
   ],
   "klaviyo": [
    "Account Executive, Commercial, French Speaker — not a US location",
