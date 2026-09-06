@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,122 |
+| Postings fetched | 21,124 |
 | Postings published | 312 |
 | Boards that failed to fetch | **1** |
 | Boards live but with nothing early-career | 72 |
@@ -84,7 +84,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>OpenAI</b> — 779 postings read, none early-career</summary>
+<details><summary><b>OpenAI</b> — 780 postings read, none early-career</summary>
 
 - `Technical Program Manager, Compute Infrastructure — non-technical role`
 - `Research Engineer — research role without early-career marker`
@@ -150,7 +150,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>Airbnb</b> — 166 postings read, none early-career</summary>
+<details><summary><b>Airbnb</b> — 165 postings read, none early-career</summary>
 
 - `Acquisition Manager — not a US location`
 - `Acquisition Manager — not a US location`
@@ -317,7 +317,7 @@ rather than take it on faith.
 | [Harvey](https://www.harvey.ai/careers) | 0 | `ashby:harvey` | 341 | — | ○ none matched |
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=student) | 0 | — | — | — | 🔗 link-only |
 | [Mistral AI](https://mistral.ai/careers) | 0 | `ashby:mistral.ai` | 178 | — | ○ none matched |
-| [OpenAI](https://openai.com/careers) | 0 | `ashby:openai` | 779 | — | ○ none matched |
+| [OpenAI](https://openai.com/careers) | 0 | `ashby:openai` | 780 | — | ○ none matched |
 | [Optiver](https://optiver.com/join-us/jobs/?location=us) | 0 | — | — | — | 🔗 link-only |
 | [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 112 | — | ○ none matched |
 | [Poolside](https://poolside.ai/careers) | 0 | `ashby:poolside` | 15 | — | ○ none matched |
@@ -325,7 +325,7 @@ rather than take it on faith.
 | [Thinking Machines Lab](https://thinkingmachines.ai/) | 0 | `ashby:thinkingmachines` | 37 | — | ○ none matched |
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles) | 0 | — | — | — | 🔗 link-only |
 | [Palantir](https://www.palantir.com/careers/) | 1 | `lever:palantir` | 310 | 48 | ✅ ok |
-| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2318 | 29 | ✅ ok |
+| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2317 | 29 | ✅ ok |
 | [Jump Trading](https://www.jumptrading.com/careers/) | 1 | `greenhouse:jumptrading` | 108 | 21 | ✅ ok |
 | [Akuna Capital](https://akunacapital.com/careers) | 1 | `greenhouse:akunacapital` | 35 | 18 | ✅ ok |
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 276 | 17 | ✅ ok |
@@ -347,7 +347,7 @@ rather than take it on faith.
 | [Etched](https://www.etched.com/careers) | 1 | `ashby:etched` | 105 | 3 | ✅ ok |
 | [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 499 | 3 | ✅ ok |
 | [Headlands Technologies](https://www.headlandstech.com/careers/) | 1 | `greenhouse:headlandstechnologiesllc` | 7 | 2 | ✅ ok |
-| [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 105 | 2 | ✅ ok |
+| [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 106 | 2 | ✅ ok |
 | [Baseten](https://www.baseten.co/careers) | 1 | `ashby:baseten` | 88 | 1 | ✅ ok |
 | [Cerebras](https://www.cerebras.ai/careers) | 1 | `ashby:cerebras` | 110 | 1 | ✅ ok |
 | [Cloudflare](https://www.cloudflare.com/careers/) | 1 | `greenhouse:cloudflare` | 320 | 1 | ✅ ok |
@@ -363,7 +363,7 @@ rather than take it on faith.
 | [XTX Markets](https://www.xtxmarkets.com/careers/) | 1 | `greenhouse:xtxmarketstechnologies` | 10 | 1 | ✅ ok |
 | [AMD](https://careers.amd.com/) | 1 | — | — | — | 🔗 link-only |
 | [Adobe](https://careers.adobe.com/) | 1 | `workday:adobe` | 40 | — | ○ none matched |
-| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 166 | — | ○ none matched |
+| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 165 | — | ○ none matched |
 | [Apple](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN) | 1 | — | — | — | 🔗 link-only |
 | [Brex](https://www.brex.com/careers) | 1 | `greenhouse:brex` | 282 | — | ○ none matched |
 | [Bridgewater Associates](https://www.bridgewater.com/working-at-bridgewater) | 1 | `greenhouse:bridgewater89` | 14 | — | ○ none matched |
@@ -383,7 +383,7 @@ rather than take it on faith.
 | [Microsoft](https://jobs.careers.microsoft.com/global/en/search?exp=Students%20and%20graduates) | 1 | — | — | — | 🔗 link-only |
 | [Millennium](https://career.mlp.com/careers) | 1 | — | — | — | 🔗 link-only |
 | [MongoDB](https://www.mongodb.com/company/careers) | 1 | `greenhouse:mongodb` | 397 | — | ○ none matched |
-| [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) | 1 | `workday:nvidia` | 35 | — | ○ none matched |
+| [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) | 1 | `workday:nvidia` | 39 | — | ○ none matched |
 | [Plaid](https://plaid.com/careers/) | 1 | `ashby:plaid` | 103 | — | ○ none matched |
 | [Qube Research & Technologies](https://www.qube-rt.com/careers) | 1 | `greenhouse:quberesearchandtechnologies` | 196 | — | ○ none matched |
 | [Radix Trading (Experienced)](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixexperienced` | 7 | — | ○ none matched |
@@ -422,7 +422,7 @@ rather than take it on faith.
 | [Fastly](https://www.fastly.com/about/careers) | 2 | `greenhouse:fastly` | 48 | — | ○ none matched |
 | [Gong](https://www.gong.io/careers/) | 2 | `greenhouse:gongio` | 92 | — | ○ none matched |
 | [Gusto](https://gusto.com/about/careers) | 2 | `greenhouse:gusto` | 95 | — | ○ none matched |
-| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 112 | — | ○ none matched |
+| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 110 | — | ○ none matched |
 | [Intel](https://jobs.intel.com/) | 2 | `workday:intel` | 18 | — | ○ none matched |
 | [Klaviyo](https://careers.klaviyo.com/) | 2 | `greenhouse:klaviyo` | 137 | — | ○ none matched |
 | [Lyft](https://www.lyft.com/careers) | 2 | `greenhouse:lyft` | 168 | — | ○ none matched |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T15:31:41+00:00",
+ "generated_at": "2026-09-06T20:28:15+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 779,
+   "fetched": 780,
    "published": 0,
    "status": "none matched"
   },
@@ -237,7 +237,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "langchain",
-   "fetched": 105,
+   "fetched": 106,
    "published": 2,
    "status": "ok"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 35,
+   "fetched": 39,
    "published": 0,
    "status": "none matched"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 166,
+   "fetched": 165,
    "published": 0,
    "status": "none matched"
   },
@@ -1317,7 +1317,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "instacart",
-   "fetched": 112,
+   "fetched": 110,
    "published": 0,
    "status": "none matched"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2318,
+   "fetched": 2317,
    "published": 29,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6020,
+  "not a US location": 6022,
   "senior/experienced role": 3962,
-  "title is not a technical role": 3794,
-  "non-technical role": 3128,
-  "not an early-career posting": 2744,
+  "title is not a technical role": 3795,
+  "non-technical role": 3129,
+  "not an early-career posting": 2742,
   "non-CS engineering discipline": 766,
   "quant role without early-career marker": 260,
   "research role without early-career marker": 136
@@ -1828,14 +1828,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
-   "Senior Software Engineer - SONiC Design Group — not a US location",
-   "Software Engineer – Networking Platforms, Diagnostics Tools and Performance — not a US location",
-   "System Software Engineer — not a US location",
-   "Senior Business Intelligence Analyst — not a US location",
-   "Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud — not a US location",
-   "Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud — not a US location",
-   "Senior Datacenter Technical Program Manager, At-Scale AI Clusters — not a US location",
-   "Senior Software Engineer, At Scale Compute Analysis — not a US location"
+   "Senior Software Engineer, System Validation - EDA Infrastructure — not a US location",
+   "Senior Linux Kernel Systems Software Engineer – CSP Engagements — not a US location",
+   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location",
+   "Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role",
+   "Senior Software Program Manager – CSP Engagements — non-technical role",
+   "Director, Software TPM - Server Firmware and System Software — senior/experienced role",
+   "Senior Network Engineer - DGX Cloud — not a US location",
+   "NPI Engineer, Chip — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1929,8 +1929,8 @@
    "Cloud Platform Architect — not a US location",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — not a US location",
-   "Customer Success Manager — non-technical role"
+   "Customer Success Manager — non-technical role",
+   "Customer Success Manager — not a US location"
   ],
   "suno": [
    "Staff Software Engineer, Frontend — senior/experienced role",
@@ -1988,8 +1988,8 @@
    "Analyst — title is not a technical role",
    "Analyst II, Full Stack (Revenue Analytics) — not a US location",
    "Analytics Engineer II — not a US location",
-   "Analytics Lead, Full Stack — senior/experienced role",
    "Analytics Lead, Full Stack — not a US location",
+   "Analytics Lead, Full Stack — senior/experienced role",
    "Analytics Lead, Full Stack — not a US location"
   ],
   "airtable": [
@@ -2090,8 +2090,8 @@
    "Account Executive - Private Equity — non-technical role",
    "Backend Engineer, Communications Capture — not a US location",
    "Collections Specialist — title is not a technical role",
-   "Commercial Account Executive — not a US location",
    "Commercial Account Executive — non-technical role",
+   "Commercial Account Executive — not a US location",
    "Commercial Account Executive, DACH — not a US location",
    "Commercial Account Executive, DACH — not a US location",
    "Commercial Account Executive, Israel — not a US location"
@@ -2108,23 +2108,23 @@
   ],
   "instacart": [
    "Activation Sales Development Representative I — non-technical role",
-   "Ads AI Analytics Lead II — not a US location",
-   "Ads AI Analytics Lead II — senior/experienced role",
    "AI Solutions Lead, Marketing — not a US location",
    "AI Solutions Lead, Marketing — non-technical role",
    "Analytics Engineer II — not a US location",
    "Bilingual Customer Experience Specialist — title is not a technical role",
-   "Customer Experience Systems Senior Associate — senior/experienced role"
+   "Customer Experience Systems Senior Associate — senior/experienced role",
+   "Director, Compensation — not a US location",
+   "Director, Compensation — title is not a technical role"
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
+   "Software Engineer — not a US location",
    "Security Software Development Engineer — not a US location",
    "JR0286659 Lab/Test Mechanical Engineer (Temporary position) — not a US location",
    "Automated Functional Validation Engineer (Temporary position) — not a US location",
    "Facilities Electrical Engineer — not a US location",
    "Foundry Strategic Industrial Engineer — not a US location",
-   "Module Development Defect Inspection Engineer — not an early-career posting",
-   "CAD/EDA Tools Automation Engineer — not an early-career posting"
+   "Module Development Defect Inspection Engineer — not an early-career posting"
   ],
   "klaviyo": [
    "Account Executive, Commercial, French Speaker — not a US location",
@@ -2154,7 +2154,7 @@
    "Business Manager — title is not a technical role",
    "C# Engineer — not a US location",
    "Client Portfolio Manager — not a US location",
-   "Client Relations Associate — not a US location"
+   "Client Relations Associate — title is not a technical role"
   ],
   "mixpanel": [
    "Account Executive, DACH — not a US location",
@@ -2228,8 +2228,8 @@
    "Customer Account Executive — non-technical role",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Reliability Engineer — not a US location",
-   "Customer Support Engineer (Tier 1) — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location",
+   "Customer Support Engineer (Tier 1) — not an early-career posting",
    "Customer Support Engineer (Tier 2) — not an early-career posting"
   ],
   "temporal": [
