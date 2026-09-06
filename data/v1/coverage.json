@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T11:03:10+00:00",
+ "generated_at": "2026-09-06T15:31:41+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 592,
+   "fetched": 591,
    "published": 4,
    "status": "ok"
   },
@@ -117,7 +117,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "sierra",
-   "fetched": 207,
+   "fetched": 210,
    "published": 3,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 606,
+   "fetched": 607,
    "published": 4,
    "status": "ok"
   },
@@ -1117,7 +1117,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gongio",
-   "fetched": 93,
+   "fetched": 92,
    "published": 0,
    "status": "none matched"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6016,
+  "not a US location": 6020,
   "senior/experienced role": 3962,
-  "title is not a technical role": 3795,
+  "title is not a technical role": 3794,
   "non-technical role": 3128,
-  "not an early-career posting": 2745,
+  "not an early-career posting": 2744,
   "non-CS engineering discipline": 766,
   "quant role without early-career marker": 260,
   "research role without early-career marker": 136
@@ -1536,7 +1536,6 @@
   "title is not a technical role": [
    "Anthropic — AV Operations Specialist",
    "Anthropic — AV Production Specialist",
-   "Anthropic — Cash Manager, Treasury",
    "Anthropic — Commercial Counsel, SPARC",
    "Anthropic — Corporate Counsel, M&A",
    "Anthropic — Director, Global Order-to-Cash Transformation",
@@ -1545,7 +1544,8 @@
    "Anthropic — Director, US International Tax Planning",
    "Anthropic — Discovery Operations Lead, Litigation & Regulatory",
    "Anthropic — Economic Mobility Partnerships Manager - Career Pathways",
-   "Anthropic — Energy Scheduling & Portfolio Lead"
+   "Anthropic — Energy Scheduling & Portfolio Lead",
+   "Anthropic — Enterprise Communications"
   ],
   "non-CS engineering discipline": [
    "Anthropic — Data Center Electrical Engineer",
@@ -1828,14 +1828,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
+   "Senior Software Engineer - SONiC Design Group — not a US location",
    "Software Engineer – Networking Platforms, Diagnostics Tools and Performance — not a US location",
    "System Software Engineer — not a US location",
    "Senior Business Intelligence Analyst — not a US location",
    "Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud — not a US location",
    "Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud — not a US location",
    "Senior Datacenter Technical Program Manager, At-Scale AI Clusters — not a US location",
-   "Senior Software Engineer, At Scale Compute Analysis — not a US location",
-   "Senior Software Engineer, Security — not a US location"
+   "Senior Software Engineer, At Scale Compute Analysis — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -2090,8 +2090,8 @@
    "Account Executive - Private Equity — non-technical role",
    "Backend Engineer, Communications Capture — not a US location",
    "Collections Specialist — title is not a technical role",
-   "Commercial Account Executive — non-technical role",
    "Commercial Account Executive — not a US location",
+   "Commercial Account Executive — non-technical role",
    "Commercial Account Executive, DACH — not a US location",
    "Commercial Account Executive, DACH — not a US location",
    "Commercial Account Executive, Israel — not a US location"
