@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T20:26:46+00:00",
+ "generated_at": "2026-09-06T04:45:35+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 593,
+   "fetched": 592,
    "published": 4,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 499,
+   "fetched": 495,
    "published": 3,
    "status": "ok"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 33,
+   "fetched": 34,
    "published": 0,
    "status": "none matched"
   },
@@ -1227,7 +1227,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "affirm",
-   "fetched": 164,
+   "fetched": 163,
    "published": 0,
    "status": "none matched"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 167,
+   "fetched": 166,
    "published": 0,
    "status": "none matched"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2117,
+   "fetched": 2116,
    "published": 9,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2317,
+   "fetched": 2319,
    "published": 29,
    "status": "ok"
   },
@@ -1453,14 +1453,14 @@
   }
  ],
  "rejections": {
-  "not a US location": 6006,
-  "senior/experienced role": 3967,
-  "title is not a technical role": 3798,
+  "not a US location": 6011,
+  "senior/experienced role": 3961,
+  "title is not a technical role": 3795,
   "non-technical role": 3128,
-  "not an early-career posting": 2746,
-  "non-CS engineering discipline": 767,
+  "not an early-career posting": 2747,
+  "non-CS engineering discipline": 766,
   "quant role without early-career marker": 260,
-  "research role without early-career marker": 136
+  "research role without early-career marker": 135
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1539,13 +1539,13 @@
    "Anthropic — Cash Manager, Treasury",
    "Anthropic — Commercial Counsel, SPARC",
    "Anthropic — Corporate Counsel, M&A",
-   "Anthropic — Corporate Finance & Strategy, Cash Flow Forecasting",
    "Anthropic — Director, Global Order-to-Cash Transformation",
    "Anthropic — Director, Investor Relations",
    "Anthropic — Director, US International Tax",
    "Anthropic — Director, US International Tax Planning",
    "Anthropic — Discovery Operations Lead, Litigation & Regulatory",
-   "Anthropic — Economic Mobility Partnerships Manager - Career Pathways"
+   "Anthropic — Economic Mobility Partnerships Manager - Career Pathways",
+   "Anthropic — Energy Scheduling & Portfolio Lead"
   ],
   "non-CS engineering discipline": [
    "Anthropic — Data Center Electrical Engineer",
@@ -1828,14 +1828,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
-   "Engineering Manager - OpenBMC Platform — senior/experienced role",
-   "Senior Software Architect - Deep Learning and HPC Communications — not a US location",
-   "Senior Software Engineer, NCCL — senior/experienced role",
-   "Senior DFT Engineer — senior/experienced role",
-   "Senior EDA Engineer, SOC Design Methodology — senior/experienced role",
-   "Senior DFT Power Methodology Engineer — senior/experienced role",
-   "DFT Methodology Engineer — not an early-career posting",
-   "Senior ASIC Design Engineer - DFX — senior/experienced role"
+   "Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud — not a US location",
+   "Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud — not a US location",
+   "Senior Datacenter Technical Program Manager, At-Scale AI Clusters — not a US location",
+   "Senior Software Engineer, At Scale Compute Analysis — not a US location",
+   "Senior Software Engineer, Security — not a US location",
+   "Principal Firmware Engineer – Server Manageability and Observability — senior/experienced role",
+   "Senior HPC Architect, Automation and At-Scale Deployment — not a US location",
+   "Senior Firmware Engineer – CSP Engagements — senior/experienced role"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1929,8 +1929,8 @@
    "Cloud Platform Architect — not a US location",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — non-technical role",
-   "Customer Success Manager — not a US location"
+   "Customer Success Manager — not a US location",
+   "Customer Success Manager — non-technical role"
   ],
   "suno": [
    "Staff Software Engineer, Frontend — senior/experienced role",
@@ -1988,9 +1988,9 @@
    "Analyst — title is not a technical role",
    "Analyst II, Full Stack (Revenue Analytics) — not a US location",
    "Analytics Engineer II — not a US location",
+   "Analytics Lead, Full Stack — senior/experienced role",
    "Analytics Lead, Full Stack — not a US location",
-   "Analytics Lead, Full Stack — not a US location",
-   "Analytics Lead, Full Stack — senior/experienced role"
+   "Analytics Lead, Full Stack — not a US location"
   ],
   "airtable": [
    "Account Executive, Strategic Accounts — non-technical role",
@@ -2154,7 +2154,7 @@
    "Business Manager — title is not a technical role",
    "C# Engineer — not a US location",
    "Client Portfolio Manager — not a US location",
-   "Client Relations Associate — title is not a technical role"
+   "Client Relations Associate — not a US location"
   ],
   "mixpanel": [
    "Account Executive, DACH — not a US location",
@@ -2228,8 +2228,8 @@
    "Customer Account Executive — non-technical role",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Reliability Engineer — not a US location",
-   "Customer Support Engineer (Tier 1) — not a US location",
    "Customer Support Engineer (Tier 1) — not an early-career posting",
+   "Customer Support Engineer (Tier 1) — not a US location",
    "Customer Support Engineer (Tier 2) — not an early-career posting"
   ],
   "temporal": [
