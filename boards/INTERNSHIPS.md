@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**87 open roles** · last verified 2026-09-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**88 open roles** · last verified 2026-09-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -119,6 +119,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Dropbox** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | Remote - US: All locations | — | ·📗 | today · Sep 7 | today · Sep 7 | [apply](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 13d · Aug 25 | 6d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
 | **Verkada** | Embedded Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 13d · Aug 25 | 6d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5211595007) |
 | **Verkada** | Frontend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 13d · Aug 25 | 6d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) |
@@ -131,4 +132,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-07 12:41 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-07 21:34 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
