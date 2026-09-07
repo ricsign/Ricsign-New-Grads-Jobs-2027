@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T20:28:15+00:00",
+ "generated_at": "2026-09-07T04:49:04+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,8 +7,8 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 591,
-   "published": 4,
+   "fetched": 590,
+   "published": 3,
    "status": "ok"
   },
   {
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 780,
+   "fetched": 782,
    "published": 0,
    "status": "none matched"
   },
@@ -117,7 +117,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "sierra",
-   "fetched": 210,
+   "fetched": 212,
    "published": 3,
    "status": "ok"
   },
@@ -127,7 +127,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "harvey",
-   "fetched": 341,
+   "fetched": 342,
    "published": 0,
    "status": "none matched"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 499,
+   "fetched": 493,
    "published": 3,
    "status": "ok"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 39,
+   "fetched": 40,
    "published": 0,
    "status": "none matched"
   },
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 284,
+   "fetched": 282,
    "published": 0,
    "status": "none matched"
   },
@@ -537,7 +537,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "quberesearchandtechnologies",
-   "fetched": 196,
+   "fetched": 195,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 854,
+   "fetched": 852,
    "published": 3,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 607,
+   "fetched": 608,
    "published": 4,
    "status": "ok"
   },
@@ -877,7 +877,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "notion",
-   "fetched": 133,
+   "fetched": 132,
    "published": 6,
    "status": "ok"
   },
@@ -917,7 +917,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "datadog",
-   "fetched": 419,
+   "fetched": 420,
    "published": 1,
    "status": "ok"
   },
@@ -927,7 +927,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "mongodb",
-   "fetched": 397,
+   "fetched": 396,
    "published": 0,
    "status": "none matched"
   },
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 320,
+   "fetched": 322,
    "published": 1,
    "status": "ok"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 295,
+   "fetched": 294,
    "published": 0,
    "status": "none matched"
   },
@@ -1347,7 +1347,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "flexport",
-   "fetched": 172,
+   "fetched": 171,
    "published": 1,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2317,
+   "fetched": 2318,
    "published": 29,
    "status": "ok"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 240,
+   "fetched": 241,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6022,
-  "senior/experienced role": 3962,
-  "title is not a technical role": 3795,
-  "non-technical role": 3129,
-  "not an early-career posting": 2742,
+  "not a US location": 6031,
+  "senior/experienced role": 3952,
+  "title is not a technical role": 3794,
+  "non-technical role": 3130,
+  "not an early-career posting": 2740,
   "non-CS engineering discipline": 766,
   "quant role without early-career marker": 260,
   "research role without early-career marker": 136
@@ -1691,8 +1691,8 @@
    "Acquisition Manager — not a US location",
    "Acquisition Manager — not a US location",
    "Automation Engineer, Quality Engineering — not a US location",
-   "Business Operations and Growth Lead — title is not a technical role",
    "Business Operations and Growth Lead — not a US location",
+   "Business Operations and Growth Lead — title is not a technical role",
    "Community Engagement Lead, Spain and Portugal — not a US location",
    "Community Support Forecasting and Demand Planning Analyst — title is not a technical role",
    "Compensation Partner — title is not a technical role"
@@ -1828,14 +1828,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
-   "Senior Software Engineer, System Validation - EDA Infrastructure — not a US location",
-   "Senior Linux Kernel Systems Software Engineer – CSP Engagements — not a US location",
-   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location",
-   "Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role",
-   "Senior Software Program Manager – CSP Engagements — non-technical role",
-   "Director, Software TPM - Server Firmware and System Software — senior/experienced role",
-   "Senior Network Engineer - DGX Cloud — not a US location",
-   "NPI Engineer, Chip — not a US location"
+   "Senior Software Engineer, AIOps — not a US location",
+   "Senior Software Engineer - Backend Platform — not a US location",
+   "Israel Country Sales Leader — not a US location",
+   "Senior AI Model Test Developer, SDET — not a US location",
+   "Marketing Specialist, Event and Marcom — not a US location",
+   "Principal Block and File Storage Software Engineer, Linux - DGX Cloud — senior/experienced role",
+   "Senior System Software Engineer - Scientific Computing PaaS — not a US location",
+   "Principal Software Engineer, E2E Performance and Goodput — CSP Engagements — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1913,14 +1913,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Performance Engineer - Software Engineering SMTS — not a US location",
+   "Success Architect, Tableau — not a US location",
+   "Sales Program - Business Analyst Apprentice - September 2026 — not a US location",
    "Senior Security GRC Analyst — not a US location",
-   "Senior Director, Solutions Builder — not a US location",
    "Senior Manager, Technical Consulting — not a US location",
    "Principal Software Engineer / Data Scientist, AI — senior/experienced role",
    "ECS Account Executive 5 — not a US location",
-   "Senior Director, Controllership & Operations Transformation — not a US location",
-   "Senior Director, Controllership & Operations Transformation — not a US location",
-   "Forward Deployed Consultant / Senior Consultant (Agentforce Operations) — not a US location"
+   "Senior Director, Controllership & Operations Transformation — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -1929,8 +1929,8 @@
    "Cloud Platform Architect — not a US location",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — non-technical role",
-   "Customer Success Manager — not a US location"
+   "Customer Success Manager — not a US location",
+   "Customer Success Manager — non-technical role"
   ],
   "suno": [
    "Staff Software Engineer, Frontend — senior/experienced role",
@@ -1988,8 +1988,8 @@
    "Analyst — title is not a technical role",
    "Analyst II, Full Stack (Revenue Analytics) — not a US location",
    "Analytics Engineer II — not a US location",
-   "Analytics Lead, Full Stack — not a US location",
    "Analytics Lead, Full Stack — senior/experienced role",
+   "Analytics Lead, Full Stack — not a US location",
    "Analytics Lead, Full Stack — not a US location"
   ],
   "airtable": [
@@ -2090,8 +2090,8 @@
    "Account Executive - Private Equity — non-technical role",
    "Backend Engineer, Communications Capture — not a US location",
    "Collections Specialist — title is not a technical role",
-   "Commercial Account Executive — non-technical role",
    "Commercial Account Executive — not a US location",
+   "Commercial Account Executive — non-technical role",
    "Commercial Account Executive, DACH — not a US location",
    "Commercial Account Executive, DACH — not a US location",
    "Commercial Account Executive, Israel — not a US location"
@@ -2113,18 +2113,18 @@
    "Analytics Engineer II — not a US location",
    "Bilingual Customer Experience Specialist — title is not a technical role",
    "Customer Experience Systems Senior Associate — senior/experienced role",
-   "Director, Compensation — not a US location",
-   "Director, Compensation — title is not a technical role"
+   "Director, Compensation — title is not a technical role",
+   "Director, Compensation — not a US location"
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
+   "Manufacturing Equipment Engineering Manager (Assembly) — not a US location",
+   "Manufacturing Equipment Engineering Manager (Test) — not a US location",
+   "AI/ML Software App Development Intern — not a US location",
    "Software Engineer — not a US location",
    "Security Software Development Engineer — not a US location",
    "JR0286659 Lab/Test Mechanical Engineer (Temporary position) — not a US location",
-   "Automated Functional Validation Engineer (Temporary position) — not a US location",
-   "Facilities Electrical Engineer — not a US location",
-   "Foundry Strategic Industrial Engineer — not a US location",
-   "Module Development Defect Inspection Engineer — not an early-career posting"
+   "Automated Functional Validation Engineer (Temporary position) — not a US location"
   ],
   "klaviyo": [
    "Account Executive, Commercial, French Speaker — not a US location",
@@ -2154,7 +2154,7 @@
    "Business Manager — title is not a technical role",
    "C# Engineer — not a US location",
    "Client Portfolio Manager — not a US location",
-   "Client Relations Associate — title is not a technical role"
+   "Client Relations Associate — not a US location"
   ],
   "mixpanel": [
    "Account Executive, DACH — not a US location",
@@ -2228,8 +2228,8 @@
    "Customer Account Executive — non-technical role",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Reliability Engineer — not a US location",
-   "Customer Support Engineer (Tier 1) — not a US location",
    "Customer Support Engineer (Tier 1) — not an early-career posting",
+   "Customer Support Engineer (Tier 1) — not a US location",
    "Customer Support Engineer (Tier 2) — not an early-career posting"
   ],
   "temporal": [
