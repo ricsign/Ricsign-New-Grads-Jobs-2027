@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-08T16:42:17+00:00</updated>
+  <updated>2026-09-08T21:14:15+00:00</updated>
   <entry>
     <title>Akuna Capital — Junior Trader</title>
     <link href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"/>
@@ -20,6 +20,38 @@
     <updated>2026-09-08T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Boston, Massachusetts, USA, New York, New York, USA · citizenship-required · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Fireworks AI — Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad)</title>
+    <link href="https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef/application"/>
+    <id>tag:ricsign.github.io,2026:667709664b7538df</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Mateo, New York · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Fireworks AI — Member of Technical Staff, Research (2026 PhD New Grad)</title>
+    <link href="https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application"/>
+    <id>tag:ricsign.github.io,2026:a9bb9ef14a98216e</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Mateo, New York · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Fireworks AI — Member of Technical Staff (2026 Master's New Grad)</title>
+    <link href="https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application"/>
+    <id>tag:ricsign.github.io,2026:74e7a72d21bfd3e8</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Mateo, New York · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Old Mission Capital — Junior Trading Operations/DevOps Engineer</title>
+    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7989374003"/>
+    <id>tag:ricsign.github.io,2026:d2658d6339962b4c</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, IL, United States · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Vercel — Software Engineering Intern - Summer '27</title>
@@ -180,6 +212,14 @@
     <updated>2026-09-02T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, IL, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Roblox — [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career</title>
+    <link href="https://careers.roblox.com/jobs/8027587?gh_jid=8027587"/>
+    <id>tag:ricsign.github.io,2026:0fae6d5462585697</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Verkada — Hardware Engineer (Winter Co-op)</title>
@@ -364,45 +404,5 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>US · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Stripe — Software Engineer, Intern (Summer or Winter)</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8128745"/>
-    <id>tag:ricsign.github.io,2026:a5520d24d118a8f2</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, Seattle, New York City, US · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Stripe — Software Engineer, New Grad</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8128744"/>
-    <id>tag:ricsign.github.io,2026:3b92342cb2921e57</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Francisco, Seattle, New York, US · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>xAI — Software Engineer - Evals</title>
-    <link href="https://job-boards.greenhouse.io/xai/jobs/5188230007"/>
-    <id>tag:ricsign.github.io,2026:1f73052f58f77a16</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Palo Alto, CA · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>AQR Capital — 2027 Engineering Summer Analyst</title>
-    <link href="https://careers.aqr.com/jobs?gh_jid=7926647&amp;gh_jid=7926647"/>
-    <id>tag:ricsign.github.io,2026:a79252000b073d12</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Greenwich, CT · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>AQR Capital — 2027 Quantitative Prediction Markets Research Summer Analyst</title>
-    <link href="https://careers.aqr.com/jobs?gh_jid=8122378&amp;gh_jid=8122378"/>
-    <id>tag:ricsign.github.io,2026:28f39534a0281dfc</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Greenwich, CT · unknown · masters-preferred</summary>
   </entry>
 </feed>

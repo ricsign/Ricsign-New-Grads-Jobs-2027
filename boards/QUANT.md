@@ -21,6 +21,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Old Mission Capital** | Junior Trading Operations/DevOps Engineer | Chicago, IL, United States | — | · | today · Sep 8 | today · Sep 8 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7989374003) |
 | **Old Mission Capital** | Fundamental Research Analyst - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·📗 | 6d · Sep 2 | 6d · Sep 2 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
 | **Jump Trading** | Campus Quantitative Researcher, PhD (Full-Time) | Chicago, New York City | — | 🌏🎓 | 15d · Aug 24 | 7d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8125888) |
 | **Jump Trading** | Research Scientist/Research Engineer, Reinforcement Learning | New York City | — | ·📗 | 21d · Aug 18 | 7d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8122860) |
@@ -34,7 +35,6 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Akuna Capital** | Junior Quantitative Developer & Strategist | Chicago, IL | — | ·📗 | 1mo · Jul 13 | 7d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
 | **Akuna Capital** | Junior Trader | Chicago | — | ·📗 | 1mo · Jul 13 | today · Sep 8 | [apply](https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141) |
 | **DRW** | Leadership Rotation Network Analyst | Chicago, IL | — | ·📗 | 1mo · Jul 13 | 7d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7993341) |
-| **Old Mission Capital** | Quantitative Trader – 2027 Graduate Program (August Start) · _2027_ | Chicago, IL or New York, NY | — | ·📗 | 1mo · Jul 13 | 7d · Sep 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796044003) |
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 7d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) |
 | **IMC Trading** | Graduate Machine Learning Researcher - London | Chicago | — | 🛂 | 2mo · Jul 6 | 7d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 7d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
@@ -61,4 +61,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-09-08 16:42 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-08 21:14 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
