@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-08T11:25:16+00:00",
+ "generated_at": "2026-09-08T16:42:17+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 312,
+ "count": 315,
  "jobs": [
   {
    "uid": "1c529164cf95973d",
@@ -739,6 +739,87 @@
    "openings": 1
   },
   {
+   "uid": "62cd00de68ea2bd8",
+   "company_slug": "datadog",
+   "company_name": "Datadog",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Software Engineering Intern (Summer)",
+   "apply_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+   "locations": [
+    "Boston, Massachusetts, USA",
+    "New York, New York, USA"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-08",
+   "last_verified": "2026-09-08",
+   "posted_at": "2026-09-08",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Engineering Interns",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "1d7faed19ededffe",
+   "company_slug": "vercel",
+   "company_name": "Vercel",
+   "company_tier": 1,
+   "company_category": "dev-tools",
+   "source": "greenhouse",
+   "title": "Software Engineering Intern - Summer '27",
+   "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+   "locations": [
+    "Hybrid - San Francisco",
+    "Office - San Francisco"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-08",
+   "last_verified": "2026-09-08",
+   "posted_at": "2026-09-08",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "60d67793e959f375",
+   "company_slug": "vercel",
+   "company_name": "Vercel",
+   "company_tier": 1,
+   "company_category": "dev-tools",
+   "source": "greenhouse",
+   "title": "Software Engineering Intern - Winter '27",
+   "apply_url": "https://job-boards.greenhouse.io/vercel/jobs/6181755004",
+   "locations": [
+    "Hybrid - San Francisco",
+    "Office - San Francisco"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-08",
+   "last_verified": "2026-09-08",
+   "posted_at": "2026-09-08",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "d3b89a8404fe8031",
    "company_slug": "amazon",
    "company_name": "Amazon",
@@ -916,34 +997,6 @@
    "season": "2027",
    "compensation": null,
    "department": "Internship",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "0601f621414427f2",
-   "company_slug": "tenstorrent",
-   "company_name": "Tenstorrent",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Corporate Development Associate - IR & Fundraising",
-   "apply_url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5227926007",
-   "locations": [
-    "Austin, Texas, United States",
-    "Boston, Massachusetts, United States",
-    "Santa Clara, California, United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-04",
-   "last_verified": "2026-09-08",
-   "posted_at": "2026-09-04",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Operations: Strategic Operations & Corporate Development",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2224,32 +2277,6 @@
    "openings": 1
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-08",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -2276,18 +2303,44 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "14812f7b8d47b8ff",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-08",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mesh Optical",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "d87d4769aff0aa71",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
    "locations": [
-    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200"
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2333,18 +2386,18 @@
    "openings": 1
   },
   {
-   "uid": "d87d4769aff0aa71",
+   "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
    "locations": [
+    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2387,32 +2440,6 @@
    "openings": 1
   },
   {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-08",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -2440,19 +2467,19 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "2fb1d8fb22585078",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
    "locations": [
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
-   "degree": "masters-preferred",
+   "degree": "bachelors",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-08",
@@ -2460,7 +2487,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Product Security - Starlink",
+   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2503,6 +2530,32 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
     "Bastrop, TX",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-08",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "e21bfaf4cdc7c9ad",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "locations": [
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -3536,6 +3589,32 @@
    "season": null,
    "compensation": null,
    "department": "Quant",
+   "active": true,
+   "link_status": "blocked",
+   "openings": 1
+  },
+  {
+   "uid": "efeea8f068c7b358",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Junior Trader",
+   "apply_url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
+   "locations": [
+    "Chicago"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-08",
+   "last_verified": "2026-09-08",
+   "posted_at": "2026-07-13",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Trading",
    "active": true,
    "link_status": "blocked",
    "openings": 1

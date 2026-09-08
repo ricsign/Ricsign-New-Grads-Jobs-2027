@@ -4,7 +4,39 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-08T11:25:16+00:00</updated>
+  <updated>2026-09-08T16:42:17+00:00</updated>
+  <entry>
+    <title>Akuna Capital — Junior Trader</title>
+    <link href="https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141"/>
+    <id>tag:ricsign.github.io,2026:efeea8f068c7b358</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Datadog — Software Engineering Intern (Summer)</title>
+    <link href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"/>
+    <id>tag:ricsign.github.io,2026:62cd00de68ea2bd8</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Boston, Massachusetts, USA, New York, New York, USA · citizenship-required · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Vercel — Software Engineering Intern - Summer '27</title>
+    <link href="https://job-boards.greenhouse.io/vercel/jobs/6181759004"/>
+    <id>tag:ricsign.github.io,2026:1d7faed19ededffe</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Hybrid - San Francisco, Office - San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Vercel — Software Engineering Intern - Winter '27</title>
+    <link href="https://job-boards.greenhouse.io/vercel/jobs/6181755004"/>
+    <id>tag:ricsign.github.io,2026:60d67793e959f375</id>
+    <updated>2026-09-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Hybrid - San Francisco, Office - San Francisco · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Dropbox — Software Engineering Intern (Summer 2027)</title>
     <link href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"/>
@@ -92,14 +124,6 @@
     <updated>2026-09-04T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Hawthorne, CA · citizenship-required · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Tenstorrent — Corporate Development Associate - IR &amp; Fundraising</title>
-    <link href="https://job-boards.greenhouse.io/tenstorrent/jobs/5227926007"/>
-    <id>tag:ricsign.github.io,2026:0601f621414427f2</id>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Austin, Texas, United States, Boston, Massachusetts, United States, Santa Clara, California, United States · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer</title>
@@ -377,30 +401,6 @@
     <title>AQR Capital — 2027 Quantitative Prediction Markets Research Summer Analyst</title>
     <link href="https://careers.aqr.com/jobs?gh_jid=8122378&amp;gh_jid=8122378"/>
     <id>tag:ricsign.github.io,2026:28f39534a0281dfc</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Greenwich, CT · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>AQR Capital — 2027 Research and Portfolio Management Engineering Summer Analyst</title>
-    <link href="https://careers.aqr.com/jobs?gh_jid=7957728&amp;gh_jid=7957728"/>
-    <id>tag:ricsign.github.io,2026:c0410b8156041390</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Greenwich, CT · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>AQR Capital — 2027 Research Product Specialist Summer Analyst</title>
-    <link href="https://careers.aqr.com/jobs?gh_jid=8123095&amp;gh_jid=8123095"/>
-    <id>tag:ricsign.github.io,2026:aa659b42f0236937</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Greenwich, CT · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>AQR Capital — 2027 Research Summer Analyst</title>
-    <link href="https://careers.aqr.com/jobs?gh_jid=7895583&amp;gh_jid=7895583"/>
-    <id>tag:ricsign.github.io,2026:0f383142de4d5cd8</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Greenwich, CT · unknown · masters-preferred</summary>

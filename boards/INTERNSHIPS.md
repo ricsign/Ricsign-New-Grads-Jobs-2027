@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**88 open roles** · last verified 2026-09-08 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**91 open roles** · last verified 2026-09-08 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -48,6 +48,9 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Datadog** | Software Engineering Intern (Summer) | Boston, Massachusetts, USA, New York, New York, USA | — | 🇺🇸 | today · Sep 8 | today · Sep 8 | [apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
+| **Vercel** | Software Engineering Intern - Summer '27 | Hybrid - San Francisco, Office - San Francisco | — | · | today · Sep 8 | today · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
+| **Vercel** | Software Engineering Intern - Winter '27 | Hybrid - San Francisco, Office - San Francisco | — | · | today · Sep 8 | today · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181755004) |
 | **Amazon** | Software Development Engineer Intern, ROBOTICS - 2027 · _2027_ | North Reading, Massachusetts, USA | — | · | 4d · Sep 4 | 4d · Sep 4 | [apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
 | **Schonfeld** | 2027 Business Analytics Intern · _2027_ | New York, New York, United States | — | ·📗 | 4d · Sep 4 | 4d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
 | **Schonfeld** | 2027 Data Science Intern · _2027_ | New York, New York, United States | — | · | 4d · Sep 4 | 4d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
@@ -131,4 +134,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-08 11:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-08 16:42 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

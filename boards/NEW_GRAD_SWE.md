@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**41 open roles** · last verified 2026-09-08 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**40 open roles** · last verified 2026-09-08 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,12 +10,11 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (6)
+## 🆕 Posted in the last 7 days (5)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Scale AI** | [Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | San Francisco, CA | 4d · Sep 4 |
-| **Tenstorrent** | [Corporate Development Associate - IR & Fundraising](https://job-boards.greenhouse.io/tenstorrent/jobs/5227926007) | Austin, Texas, United States +2 | 4d · Sep 4 |
 | **SpaceX** | [New Graduate Engineer, Starship Components](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) | Hawthorne, CA | 5d · Sep 3 |
 | **Anduril Industries** | [2027 Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | Costa Mesa, California, United States | 6d · Sep 2 |
 | **Applied Intuition** | [Cybersecurity Software Engineer - New Grad (December 2027)](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) | Sunnyvale | 6d · Sep 2 |
@@ -39,7 +38,6 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Tenstorrent** | Corporate Development Associate - IR & Fundraising | Austin, Texas, United States, Boston, Massachusetts, United States +1 | — | · | 4d · Sep 4 | 4d · Sep 4 | [apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5227926007) |
 | **SpaceX** | New Graduate Engineer, Starship Components | Hawthorne, CA | — | 🇺🇸 | 5d · Sep 3 | 4d · Sep 4 | [apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) |
 | **Anduril Industries** | 2027 Early Career Flight Software Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 6d · Sep 2 | 6d · Sep 2 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
 | **Applied Intuition** | Cybersecurity Software Engineer - New Grad (December 2027) · _2027_ | Sunnyvale | $130k–$158k | ·📗 | 6d · Sep 2 | 6d · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) |
@@ -80,4 +78,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-08 11:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-08 16:42 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
