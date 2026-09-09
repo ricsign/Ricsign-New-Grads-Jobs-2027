@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**94 open roles** · last verified 2026-09-09 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**95 open roles** · last verified 2026-09-09 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -107,7 +107,6 @@ Software engineering and research internships at the same curated bar.
 | **Jump Trading** | Campus AI Research Engineer – Research Automation (Intern) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 8d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | Chicago | — | 🛂 | 2mo · Jul 6 | 8d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **Tower Research Capital** | Quantitative Developer Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 8d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
-| **Tower Research Capital** | Quantitative Trader Intern, PhD | New York | — | ·🎓 | 2mo · Jul 5 | 8d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) |
 | **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 8d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Intel · _Winter 2027_ | Washington, D.C. | — | · | 2mo · Jul 1 | 8d · Sep 1 | [apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Commercial · _Spring 2028_ · `2 openings` | Chicago, IL, New York, NY | — | · | 2mo · Jun 30 | 8d · Sep 1 | [apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
@@ -129,6 +128,8 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | Module Engineering PhD Intern 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 9 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876) |
+| **Intel** | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 9 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 1d · Sep 8 | today · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 · _Summer 2027_ | San Mateo, CA United States | — | 🌏 | 1d · Sep 8 | today · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | Remote - US: All locations | — | ·📗 | 2d · Sep 7 | 2d · Sep 7 | [apply](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
@@ -142,4 +143,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-09 11:30 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-09 16:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

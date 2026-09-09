@@ -1,10 +1,42 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-09T11:30:19+00:00",
+ "generated_at": "2026-09-09T16:43:41+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 331,
  "jobs": [
+  {
+   "uid": "2c95b80d6d4aeaec",
+   "company_slug": "openai",
+   "company_name": "OpenAI",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "ashby",
+   "title": "Global Program Lead, New Graduate – SMB Fellowship",
+   "apply_url": "https://jobs.ashbyhq.com/openai/1b207778-312f-4d4d-90ca-599d2f5e29a2/application",
+   "locations": [
+    "San Francisco"
+   ],
+   "track": "ai-research",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-09",
+   "last_verified": "2026-09-09",
+   "posted_at": "2026-09-09",
+   "closed_at": null,
+   "season": null,
+   "compensation": {
+    "min": 216000,
+    "max": 240000,
+    "currency": "USD",
+    "interval": "1 YEAR",
+    "source": "ashby"
+   },
+   "department": "Marketing",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
   {
    "uid": "1c529164cf95973d",
    "company_slug": "scale-ai",
@@ -1951,33 +1983,6 @@
    "openings": 1
   },
   {
-   "uid": "fa182fbce987097c",
-   "company_slug": "jump-trading",
-   "company_name": "Jump Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Campus Quantitative Researcher, PhD (Full-Time)",
-   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8125888",
-   "locations": [
-    "Chicago",
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "phd-required",
-   "sponsorship": "sponsors",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-09",
-   "posted_at": "2026-08-24",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Front Office ",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "6cd09005ad1a3546",
    "company_slug": "netflix",
    "company_name": "Netflix",
@@ -2704,15 +2709,16 @@
    "openings": 1
   },
   {
-   "uid": "d87d4769aff0aa71",
+   "uid": "3b733edade933b2c",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
    "locations": [
+    "Palo Alto, CA",
     "Irvine, CA",
     "Palo Alto - 1200",
     "Redmond, WA"
@@ -2760,16 +2766,15 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "d87d4769aff0aa71",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
    "locations": [
-    "Palo Alto, CA",
     "Irvine, CA",
     "Palo Alto - 1200",
     "Redmond, WA"
@@ -2868,16 +2873,15 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -2922,15 +2926,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -4255,32 +4260,6 @@
    "openings": 1
   },
   {
-   "uid": "468329870954cca4",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2026 Early Career Test & Evaluation Systems Integrator",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5185888007?gh_jid=5185888007",
-   "locations": [
-    "Costa Mesa, California, United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-09",
-   "posted_at": "2026-07-13",
-   "closed_at": null,
-   "season": "2026",
-   "compensation": null,
-   "department": "Hardware Platform : Hardware Test Operations : Test & Evaluation",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "c1d2661e1140e6a0",
    "company_slug": "drw",
    "company_name": "DRW",
@@ -5043,32 +5022,6 @@
    "posted_at": "2026-07-05",
    "closed_at": null,
    "season": "Summer 2027",
-   "compensation": null,
-   "department": "On-Campus Recruiting",
-   "active": true,
-   "link_status": "blocked",
-   "openings": 1
-  },
-  {
-   "uid": "d8c15941e965ac0e",
-   "company_slug": "tower-research",
-   "company_name": "Tower Research Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Quantitative Trader Intern, PhD",
-   "apply_url": "https://www.tower-research.com/open-positions/?gh_jid=8024138",
-   "locations": [
-    "New York"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-09",
-   "posted_at": "2026-07-05",
-   "closed_at": null,
-   "season": null,
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
@@ -8237,6 +8190,58 @@
    "openings": 1
   },
   {
+   "uid": "8d94d80309d61bfb",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering PhD Intern 2027",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-09",
+   "last_verified": "2026-09-09",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "eaa54c5b9bebf977",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Software Research Engineering - (PhD Intern)",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-09",
+   "last_verified": "2026-09-09",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "48f830dd976f5a10",
    "company_slug": "verkada",
    "company_name": "Verkada",
@@ -8493,7 +8498,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -8733,32 +8738,6 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
-   "company_slug": "samsara",
-   "company_name": "Samsara",
-   "company_tier": 2,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
-   "locations": [
-    "San Francisco - SF9"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-09",
-   "posted_at": "2026-06-24",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "IT Security",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
@@ -8783,6 +8762,32 @@
    "department": "IT Security",
    "active": true,
    "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "35c694edad6dff80",
+   "company_slug": "samsara",
+   "company_name": "Samsara",
+   "company_tier": 2,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Senior Security Operations Engineer I",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "locations": [
+    "San Francisco - SF9"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-09",
+   "posted_at": "2026-06-24",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "IT Security",
+   "active": true,
+   "link_status": "error",
    "openings": 1
   },
   {

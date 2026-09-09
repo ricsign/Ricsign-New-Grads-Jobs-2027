@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-09T11:30:19+00:00</updated>
+  <updated>2026-09-09T16:43:41+00:00</updated>
+  <entry>
+    <title>OpenAI — Global Program Lead, New Graduate – SMB Fellowship</title>
+    <link href="https://jobs.ashbyhq.com/openai/1b207778-312f-4d4d-90ca-599d2f5e29a2/application"/>
+    <id>tag:ricsign.github.io,2026:2c95b80d6d4aeaec</id>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Applied Intuition — Electrical System Integration Engineer - New Grad</title>
     <link href="https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application"/>
@@ -84,6 +92,22 @@
     <updated>2026-09-09T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Hawthorne, CA, Starbase, TX · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Intel — Software Research Engineering - (PhD Intern)</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"/>
+    <id>tag:ricsign.github.io,2026:eaa54c5b9bebf977</id>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Intel — Module Engineering PhD Intern 2027</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876"/>
+    <id>tag:ricsign.github.io,2026:8d94d80309d61bfb</id>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Verkada — Technical Support Engineering Intern - Spring 2027</title>
@@ -380,29 +404,5 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>United States, Remote - California · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — PhD GenAI Research Scientist Intern</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"/>
-    <id>tag:ricsign.github.io,2026:2ca5d4080b48e19a</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, California, Mountain View, California · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Databricks — Software Engineering Intern (2027 Start) - Winter</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"/>
-    <id>tag:ricsign.github.io,2026:9621dd992804227e</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Bellevue, Washington, Mountain View, California, San Francisco, California · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Figure AI — Firmware Intern [Fall 2026]</title>
-    <link href="https://job-boards.greenhouse.io/figureai/jobs/4691070006"/>
-    <id>tag:ricsign.github.io,2026:3dea65db7b686014</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Jose, CA · unknown · bachelors</summary>
   </entry>
 </feed>
