@@ -4,15 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-09T16:43:41+00:00</updated>
-  <entry>
-    <title>OpenAI — Global Program Lead, New Graduate – SMB Fellowship</title>
-    <link href="https://jobs.ashbyhq.com/openai/1b207778-312f-4d4d-90ca-599d2f5e29a2/application"/>
-    <id>tag:ricsign.github.io,2026:2c95b80d6d4aeaec</id>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
+  <updated>2026-09-09T20:59:18+00:00</updated>
   <entry>
     <title>Applied Intuition — Electrical System Integration Engineer - New Grad</title>
     <link href="https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application"/>
@@ -84,6 +76,14 @@
     <updated>2026-09-09T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Replit — Software Engineer - New Grad (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application"/>
+    <id>tag:ricsign.github.io,2026:fdc76d9b64d5d524</id>
+    <updated>2026-09-09T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Foster City, CA · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>SpaceX — New Graduate Engineer, Software (Starship)</title>
@@ -238,8 +238,8 @@
     <summary>San Francisco, CA · unknown · bachelors</summary>
   </entry>
   <entry>
-    <title>Amazon — Software Development Engineer Intern, ROBOTICS - 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"/>
+    <title>Amazon — Software Development Engineer Intern/Co-Op, ROBOTICS - 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027"/>
     <id>tag:ricsign.github.io,2026:d3b89a8404fe8031</id>
     <updated>2026-09-04T00:00:00Z</updated>
     <category term="internship"/>
@@ -342,6 +342,14 @@
     <summary>Chicago, IL, United States · unknown · masters-preferred</summary>
   </entry>
   <entry>
+    <title>Roblox — [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career</title>
+    <link href="https://careers.roblox.com/jobs/8027587?gh_jid=8027587"/>
+    <id>tag:ricsign.github.io,2026:0fae6d5462585697</id>
+    <updated>2026-09-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>Verkada — Hardware Engineer (Winter Co-op)</title>
     <link href="https://job-boards.greenhouse.io/verkada/jobs/4321158007"/>
     <id>tag:ricsign.github.io,2026:82711dd1dd088ca8</id>
@@ -396,13 +404,5 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Databricks — AI Engineer - FDE (Forward Deployed Engineer)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002"/>
-    <id>tag:ricsign.github.io,2026:f5ada109a807d9ec</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States, Remote - California · unknown · masters-preferred</summary>
   </entry>
 </feed>

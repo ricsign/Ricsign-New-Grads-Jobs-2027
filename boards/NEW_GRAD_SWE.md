@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**40 open roles** · last verified 2026-09-09 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**41 open roles** · last verified 2026-09-09 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -41,6 +41,7 @@ Full-time entry-level software engineering roles in the US.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Applied Intuition** | Electrical System Integration Engineer - New Grad · _Summer 2026_ | Sunnyvale | $110k–$148k | ·📗 | today · Sep 9 | today · Sep 9 | [apply](https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application) |
+| **Replit** | Software Engineer - New Grad (Summer 2027) · _Summer 2027_ | Foster City, CA | $140k–$180k | · | today · Sep 9 | today · Sep 9 | [apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application) |
 | **SpaceX** | New Graduate Engineer, Software (Starship) · `2 openings` | Hawthorne, CA, Starbase, TX | — | 🇺🇸📗 | 1d · Sep 8 | today · Sep 9 | [apply](https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002) |
 | **SpaceX** | New Graduate Engineer, Starship Components | Hawthorne, CA | — | 🇺🇸 | 6d · Sep 3 | 5d · Sep 4 | [apply](https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002) |
 | **Anduril Industries** | 2027 Early Career Flight Software Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 7d · Sep 2 | 7d · Sep 2 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
@@ -58,7 +59,7 @@ Full-time entry-level software engineering roles in the US.
 | **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | 2mo · Jul 6 | 8d · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
 | **Notion** | Software Engineer, Early Career | San Francisco, California | — | · | 2mo · Jul 6 | 8d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application) |
 | **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | — | · | 2mo · Jul 6 | 8d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 8d · Sep 1 | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 7d · Sep 2 | [apply](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial · _Spring 2027_ · `2 openings` | Chicago, IL, New York, NY | — | · | 2mo · Jun 29 | 8d · Sep 1 | [apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | — | 🔒 | 2mo · Jun 15 | 8d · Sep 1 | [apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
 | **DoorDash** | AI Research Fellowship, (Summer and Fall 2026) · _Fall 2026_ | San Francisco, CA | — | · | 4mo · Apr 29 | 8d · Sep 1 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
@@ -80,4 +81,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-09 16:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-09 20:59 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

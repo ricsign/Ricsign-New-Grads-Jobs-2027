@@ -21,7 +21,7 @@ Software engineering and research internships at the same curated bar.
 | **Datadog** | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA +1 | 1d · Sep 8 |
 | **Vercel** | [Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) | Hybrid - San Francisco +1 | 1d · Sep 8 |
 | **Vercel** | [Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) | Hybrid - San Francisco +1 | 1d · Sep 8 |
-| **Amazon** | [Software Development Engineer Intern, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) | North Reading, Massachusetts, USA | 5d · Sep 4 |
+| **Amazon** | [Software Development Engineer Intern/Co-Op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) | North Reading, Massachusetts, USA | 5d · Sep 4 |
 | **Schonfeld** | [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | New York, New York, United States | 5d · Sep 4 |
 | **Schonfeld** | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York, New York, United States | 5d · Sep 4 |
 | **Schonfeld** | [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | New York, New York, United States +1 | 5d · Sep 4 |
@@ -59,7 +59,7 @@ Software engineering and research internships at the same curated bar.
 | **Datadog** | Software Engineering Intern (Summer) | Boston, Massachusetts, USA, New York, New York, USA | — | 🇺🇸 | 1d · Sep 8 | 1d · Sep 8 | [apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
 | **Vercel** | Software Engineering Intern - Summer '27 | Hybrid - San Francisco, Office - San Francisco | — | · | 1d · Sep 8 | 1d · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
 | **Vercel** | Software Engineering Intern - Winter '27 | Hybrid - San Francisco, Office - San Francisco | — | · | 1d · Sep 8 | 1d · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181755004) |
-| **Amazon** | Software Development Engineer Intern, ROBOTICS - 2027 · _2027_ | North Reading, Massachusetts, USA | — | · | 5d · Sep 4 | 5d · Sep 4 | [apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
+| **Amazon** | Software Development Engineer Intern/Co-Op, ROBOTICS - 2027 · _2027_ | North Reading, Massachusetts, USA | — | · | 5d · Sep 4 | 5d · Sep 4 | [apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) |
 | **Schonfeld** | 2027 Business Analytics Intern · _2027_ | New York, New York, United States | — | ·📗 | 5d · Sep 4 | 5d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
 | **Schonfeld** | 2027 Data Science Intern · _2027_ | New York, New York, United States | — | · | 5d · Sep 4 | 5d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | **Schonfeld** | 2027 PhD Quantitative Research Intern · _2027_ · `2 openings` | New York, New York, United States, Miami, Florida, United States | — | ·🎓 | 5d · Sep 4 | 4d · Sep 5 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
@@ -143,4 +143,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-09 16:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-09 20:59 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
