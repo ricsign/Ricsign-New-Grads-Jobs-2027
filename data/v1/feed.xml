@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-09T20:59:18+00:00</updated>
+  <updated>2026-09-10T04:50:11+00:00</updated>
+  <entry>
+    <title>Anysphere (Cursor) — Software Engineer, New Grad 2027</title>
+    <link href="https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application"/>
+    <id>tag:ricsign.github.io,2026:59b6f87bb1dd148e</id>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, New York · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — System Test Engineer - Imaging</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5147719007?gh_jid=5147719007"/>
+    <id>tag:ricsign.github.io,2026:915dc1862352eb76</id>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Boulder, Colorado, United States · security-clearance · bachelors</summary>
+  </entry>
   <entry>
     <title>Applied Intuition — Electrical System Integration Engineer - New Grad</title>
     <link href="https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application"/>
@@ -78,7 +94,7 @@
     <summary>Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
   </entry>
   <entry>
-    <title>Replit — Software Engineer - New Grad (Summer 2027)</title>
+    <title>Replit — Software Engineer - New Grad (2027)</title>
     <link href="https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application"/>
     <id>tag:ricsign.github.io,2026:fdc76d9b64d5d524</id>
     <updated>2026-09-09T00:00:00Z</updated>
@@ -385,22 +401,6 @@
     <title>Cohere — Software Engineer Intern (Winter 2027)</title>
     <link href="https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application"/>
     <id>tag:ricsign.github.io,2026:f8dfa4ed677e4202</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Cohere — Research Internship (Winter 2027)</title>
-    <link href="https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application"/>
-    <id>tag:ricsign.github.io,2026:a64db03dbf5fb174</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, United States · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Cohere — Machine Learning Intern/Co-op (Winter 2027)</title>
-    <link href="https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application"/>
-    <id>tag:ricsign.github.io,2026:0a05645c70a3a172</id>
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>United States · unknown · unspecified</summary>
