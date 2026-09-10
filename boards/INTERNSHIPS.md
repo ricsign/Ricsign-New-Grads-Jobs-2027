@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**95 open roles** · last verified 2026-09-10 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**93 open roles** · last verified 2026-09-10 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -128,8 +128,6 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Module Engineering PhD Intern 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Sep 9 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876) |
-| **Intel** | Software Research Engineering - (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Sep 9 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 2d · Sep 8 | 1d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 · _Summer 2027_ | San Mateo, CA United States | — | 🌏 | 2d · Sep 8 | 1d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | Remote - US: All locations | — | ·📗 | 3d · Sep 7 | 3d · Sep 7 | [apply](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
@@ -143,4 +141,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-10 04:50 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-10 11:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

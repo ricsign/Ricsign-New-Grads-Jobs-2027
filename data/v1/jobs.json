@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-10T04:50:11+00:00",
+ "generated_at": "2026-09-10T11:26:42+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 333,
+ "count": 331,
  "jobs": [
   {
    "uid": "59b6f87bb1dd148e",
@@ -8238,58 +8238,6 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "8d94d80309d61bfb",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Module Engineering PhD Intern 2027",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-2027_JR0286876",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-09",
-   "last_verified": "2026-09-10",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "eaa54c5b9bebf977",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Software Research Engineering - (PhD Intern)",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-09",
-   "last_verified": "2026-09-10",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
