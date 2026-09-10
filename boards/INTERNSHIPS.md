@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**93 open roles** · last verified 2026-09-10 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**95 open roles** · last verified 2026-09-10 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (17)
+## 🆕 Posted in the last 7 days (16)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -24,11 +24,11 @@ Software engineering and research internships at the same curated bar.
 | **Amazon** | [Software Development Engineer Intern/Co-Op, ROBOTICS - 2027](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) | North Reading, Massachusetts, USA | 6d · Sep 4 |
 | **Schonfeld** | [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | New York, New York, United States | 6d · Sep 4 |
 | **Schonfeld** | [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | New York, New York, United States | 6d · Sep 4 |
-| **Schonfeld** | [2027 PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) | New York, New York, United States +1 | 6d · Sep 4 |
 | **Waymo** | [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Mountain View, California, USA +1 | 7d · Sep 3 |
 | **Waymo** | [2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer](https://careers.withwaymo.com/jobs?gh_jid=8177651) | San Francisco, California, USA +1 | 7d · Sep 3 |
 | **Waymo** | [2027 Summer Intern, MS, Software Engineering, Behavior Test](https://careers.withwaymo.com/jobs?gh_jid=8174504) | San Francisco, California, USA +1 | 7d · Sep 3 |
 | **Verkada** | [Technical Support Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/verkada/jobs/5056164007) | San Mateo, CA United States | 2d · Sep 8 |
+| **Verkada** | [Technical Support Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/verkada/jobs/5233011007) | San Mateo, CA United States | 2d · Sep 8 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -53,6 +53,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Schonfeld** | 2027 Platform Engineering Intern · _2027_ | New York, New York, United States | — | · | today · Sep 10 | today · Sep 10 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | **Coinbase** | Analytics Engineer Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | · | 2d · Sep 8 | 1d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | **Coinbase** | Data Engineer Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | · | 2d · Sep 8 | 1d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
 | **Coinbase** | Data Science Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | ·📗 | 2d · Sep 8 | 1d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
@@ -62,7 +63,6 @@ Software engineering and research internships at the same curated bar.
 | **Amazon** | Software Development Engineer Intern/Co-Op, ROBOTICS - 2027 · _2027_ | North Reading, Massachusetts, USA | — | · | 6d · Sep 4 | 6d · Sep 4 | [apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027) |
 | **Schonfeld** | 2027 Business Analytics Intern · _2027_ | New York, New York, United States | — | ·📗 | 6d · Sep 4 | 6d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
 | **Schonfeld** | 2027 Data Science Intern · _2027_ | New York, New York, United States | — | · | 6d · Sep 4 | 6d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
-| **Schonfeld** | 2027 PhD Quantitative Research Intern · _2027_ · `2 openings` | New York, New York, United States, Miami, Florida, United States | — | ·🎓 | 6d · Sep 4 | 5d · Sep 5 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
 | **Waymo** | 2027 Summer Intern, BS, SysEng Software Engineer · _Summer 2027_ | Mountain View, California, USA, Mountain View (US-MTV-EMF680) | — | · | 7d · Sep 3 | 7d · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174099) |
 | **Waymo** | 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer · _Summer 2027_ | San Francisco, California, USA, San Francisco (US-SFO-MKT555) | — | ·📗 | 7d · Sep 3 | 6d · Sep 4 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8177651) |
 | **Waymo** | 2027 Summer Intern, MS, Software Engineering, Behavior Test · _Summer 2027_ | San Francisco, California, USA, San Francisco (US-SFO-MKT555) | — | ·📗 | 7d · Sep 3 | 7d · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
@@ -128,6 +128,8 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | Module Engineering PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 10 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1) |
+| **Intel** | Module Engineering PhD Intern - Wet Etch | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 10 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 2d · Sep 8 | 1d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 · _Summer 2027_ | San Mateo, CA United States | — | 🌏 | 2d · Sep 8 | 1d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | Remote - US: All locations | — | ·📗 | 3d · Sep 7 | 3d · Sep 7 | [apply](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
@@ -141,4 +143,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-10 11:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-10 16:29 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

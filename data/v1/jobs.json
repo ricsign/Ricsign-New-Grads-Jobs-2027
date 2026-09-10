@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-10T11:26:42+00:00",
+ "generated_at": "2026-09-10T16:29:15+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 331,
+ "count": 334,
  "jobs": [
   {
    "uid": "59b6f87bb1dd148e",
@@ -761,6 +761,32 @@
    "season": null,
    "compensation": null,
    "department": "University Recruiting",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "8fc43b48b5dfc952",
+   "company_slug": "schonfeld",
+   "company_name": "Schonfeld",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "2027 Platform Engineering Intern",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
+   "locations": [
+    "New York, New York, United States"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-10",
+   "last_verified": "2026-09-10",
+   "posted_at": "2026-09-10",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Internship",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2684,32 +2710,6 @@
    "openings": 1
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-10",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -2736,21 +2736,19 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "14812f7b8d47b8ff",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
    "locations": [
-    "Redmond, WA",
-    "Irvine, CA",
-    "Palo Alto - 1200"
+    "Bastrop, TX"
    ],
    "track": "new-grad-swe",
-   "degree": "masters-preferred",
+   "degree": "bachelors",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-10",
@@ -2758,7 +2756,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Silicon Engineering",
+   "department": "Mesh Optical",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2777,6 +2775,34 @@
     "Irvine, CA",
     "Palo Alto - 1200",
     "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-10",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Silicon Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a2359351a739a6d9",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Silicon Engineering",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "locations": [
+    "Redmond, WA",
+    "Irvine, CA",
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2900,16 +2926,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -2954,15 +2979,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -8238,6 +8264,58 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "3940f06938383f3a",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering PhD Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-10",
+   "last_verified": "2026-09-10",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "20a7430ade123adc",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering PhD Intern - Wet Etch",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-10",
+   "last_verified": "2026-09-10",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
