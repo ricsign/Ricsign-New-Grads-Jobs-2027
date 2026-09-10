@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-10T16:29:15+00:00</updated>
+  <updated>2026-09-10T20:55:45+00:00</updated>
   <entry>
     <title>Anysphere (Cursor) — Software Engineer, New Grad 2027</title>
     <link href="https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application"/>
@@ -12,6 +12,14 @@
     <updated>2026-09-10T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>San Francisco, New York · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Flight Test Engineer - Imaging</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007"/>
+    <id>tag:ricsign.github.io,2026:64bc43b1a2213be4</id>
+    <updated>2026-09-10T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Waltham, Massachusetts, United States · security-clearance · bachelors</summary>
   </entry>
   <entry>
     <title>Anduril Industries — System Test Engineer - Imaging</title>
@@ -364,14 +372,6 @@
     <updated>2026-09-02T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, IL, United States · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Roblox — [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career</title>
-    <link href="https://careers.roblox.com/jobs/8027587?gh_jid=8027587"/>
-    <id>tag:ricsign.github.io,2026:0fae6d5462585697</id>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Verkada — Hardware Engineer (Winter Co-op)</title>

@@ -68,7 +68,7 @@ Software engineering and research internships at the same curated bar.
 | **Waymo** | 2027 Summer Intern, MS, Software Engineering, Behavior Test · _Summer 2027_ | San Francisco, California, USA, San Francisco (US-SFO-MKT555) | — | ·📗 | 7d · Sep 3 | 7d · Sep 3 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) |
 | **Amazon** | ASIC Engineer Intern, Annapurna Labs - 2027 · _2027_ | Cupertino, California, USA | — | ·📗 | 14d · Aug 27 | 9d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) |
 | **Amazon** | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 · _Fall 2026_ | Westboro, Wisconsin, USA | — | · | 14d · Aug 27 | 9d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) |
-| **IMC Trading** | Performance Engineer Intern - Summer 2027 · _Summer 2027_ | Chicago, United States | — | · | 14d · Aug 27 | 9d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
+| **IMC Trading** | Quant Performance Engineer Intern - Summer 2027 · _Summer 2027_ | Chicago, United States | — | · | 14d · Aug 27 | 9d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | **AQR Capital** | AQR Arbitrage - 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 16d · Aug 25 | 9d · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) |
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Sydney · _Summer 2027_ | Chicago | — | ·🎓 | 17d · Aug 24 | 9d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
 | **Netflix** | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America | — | ·🎓 | 22d · Aug 19 | 9d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317917022) |
@@ -143,4 +143,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-10 16:29 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-10 20:55 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
