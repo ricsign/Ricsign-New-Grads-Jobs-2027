@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-11T11:28:23+00:00</updated>
+  <updated>2026-09-11T16:33:31+00:00</updated>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8193295"/>
@@ -366,14 +366,6 @@
     <summary>Chicago, IL, United States · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Roblox — [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career</title>
-    <link href="https://careers.roblox.com/jobs/8027587?gh_jid=8027587"/>
-    <id>tag:ricsign.github.io,2026:0fae6d5462585697</id>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
-  </entry>
-  <entry>
     <title>Verkada — Hardware Engineer (Winter Co-op)</title>
     <link href="https://job-boards.greenhouse.io/verkada/jobs/4321158007"/>
     <id>tag:ricsign.github.io,2026:82711dd1dd088ca8</id>
@@ -404,5 +396,13 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="ai-research"/>
     <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Cohere — Software Engineer Intern (Winter 2027)</title>
+    <link href="https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application"/>
+    <id>tag:ricsign.github.io,2026:f8dfa4ed677e4202</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>United States · unknown · unspecified</summary>
   </entry>
 </feed>

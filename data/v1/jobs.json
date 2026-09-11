@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-11T11:28:23+00:00",
+ "generated_at": "2026-09-11T16:33:31+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 334,
@@ -2839,7 +2839,7 @@
    "compensation": null,
    "department": "Silicon Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -2979,16 +2979,16 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
-    "Palo Alto, CA",
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -3032,16 +3032,16 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
-    "Bastrop, TX",
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5397,21 +5397,21 @@
    "openings": 1
   },
   {
-   "uid": "0fae6d5462585697",
+   "uid": "fdcb8f1a28def432",
    "company_slug": "roblox",
    "company_name": "Roblox",
    "company_tier": 1,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-   "apply_url": "https://careers.roblox.com/jobs/8027587?gh_jid=8027587",
+   "apply_url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
    "locations": [
     "San Mateo, CA, United States"
    ],
    "track": "new-grad-swe",
    "degree": "phd-required",
    "sponsorship": "unknown",
-   "first_seen": "2026-09-02",
+   "first_seen": "2026-09-01",
    "last_verified": "2026-09-11",
    "posted_at": "2026-06-30",
    "closed_at": null,
@@ -8818,16 +8818,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -8845,15 +8844,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
