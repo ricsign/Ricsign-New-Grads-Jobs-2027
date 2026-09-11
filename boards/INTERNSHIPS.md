@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**93 open roles** · last verified 2026-09-11 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**96 open roles** · last verified 2026-09-11 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -74,7 +74,6 @@ Software engineering and research internships at the same curated bar.
 | **Netflix** | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America | — | ·🎓 | 23d · Aug 19 | 10d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317917022) |
 | **Netflix** | Machine Learning/AI Scientist PhD Intern, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America, Los Angeles,California,United States of America | — | ·🎓 | 23d · Aug 19 | 10d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
 | **Notion** | Data Science Intern (Winter 2027) · _Winter 2027_ | San Francisco, California | — | ·📗 | 23d · Aug 19 | 10d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application) |
-| **Datadog** | Software Engineering Intern (Winter) | Boston, Massachusetts, USA, New York, New York, USA | — | 🇺🇸 | 25d · Aug 17 | 10d · Sep 1 | [apply](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) |
 | **Point72 / Cubist** | Quantitative Developer Intern · _Winter 2027_ | New York, NY | — | · | 25d · Aug 17 | 10d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) |
 | **Notion** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, New York, New York | — | ·📗 | 28d · Aug 14 | 10d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application) |
 | **Notion** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 28d · Aug 14 | 10d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application) |
@@ -97,9 +96,9 @@ Software engineering and research internships at the same curated bar.
 | **Five Rings** | Summer Intern 2027 - Quantitative Researcher (PhD) · _Summer 2027_ | New York City | — | ·🎓 | 1mo · Jul 14 | 10d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Trader · _Summer 2027_ | New York City | — | · | 1mo · Jul 14 | 10d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
 | **Five Rings** | Summer Intern 2027 - Software Developer · _Summer 2027_ | New York City | — | · | 1mo · Jul 14 | 10d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
-| **Akuna Capital** | Hardware Engineer Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 10d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | **Akuna Capital** | Platform Engineer Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 10d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
 | **Akuna Capital** | Quantitative Development & Strategy Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 10d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
+| **Akuna Capital** | Quantitative Research Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 10d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | **DRW** | FPGA Intern | Chicago | — | ·📗 | 2mo · Jul 13 | 10d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | **DRW** | Leadership Rotation Network Intern | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 10d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7993195) |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 10d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
@@ -128,6 +127,10 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | Module Engineering PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 11 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021) |
+| **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | today · Sep 11 | today · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
+| **Lyft** | Data Science Intern, Algorithms (Summer 2027) · _Summer 2027_ · `2 openings` | New York, NY, San Francisco Office +1 | — | ·📗 | today · Sep 11 | today · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
+| **Lyft** | Software Engineer Intern, Backend (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·📗 | today · Sep 11 | today · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 3d · Sep 8 | 2d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 · _Summer 2027_ | San Mateo, CA United States | — | 🌏 | 3d · Sep 8 | 2d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | Remote - US: All locations | — | ·📗 | 4d · Sep 7 | 4d · Sep 7 | [apply](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
@@ -141,4 +144,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-11 16:33 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-11 21:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

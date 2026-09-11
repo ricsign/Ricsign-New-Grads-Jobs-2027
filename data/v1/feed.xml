@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-11T16:33:31+00:00</updated>
+  <updated>2026-09-11T21:02:23+00:00</updated>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8193295"/>
@@ -12,6 +12,54 @@
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, California, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Intel — Module Engineering PhD Intern New 2027</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021"/>
+    <id>tag:ricsign.github.io,2026:b28c4c5a136db5ee</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Data Analyst Intern (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002"/>
+    <id>tag:ricsign.github.io,2026:8f27590ba2a420c0</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY, New York Office · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"/>
+    <id>tag:ricsign.github.io,2026:76f4d3fe53e0ea8d</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"/>
+    <id>tag:ricsign.github.io,2026:158585a21ed46f0a</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY, San Francisco Office · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Software Engineer Intern, Backend (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"/>
+    <id>tag:ricsign.github.io,2026:2af365439c0fddc6</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Software Engineer Intern, Fullstack (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002"/>
+    <id>tag:ricsign.github.io,2026:8aba8f7fd85e35fd</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY, New York Office · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Anysphere (Cursor) — Software Engineer, New Grad 2027</title>
@@ -356,53 +404,5 @@
     <updated>2026-09-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Sunnyvale · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Old Mission Capital — Fundamental Research Analyst - 2027 Graduate Program - (August Start)</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7982061003"/>
-    <id>tag:ricsign.github.io,2026:46f51cc0acecfa54</id>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL, United States · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Verkada — Hardware Engineer (Winter Co-op)</title>
-    <link href="https://job-boards.greenhouse.io/verkada/jobs/4321158007"/>
-    <id>tag:ricsign.github.io,2026:82711dd1dd088ca8</id>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Mateo, CA United States · sponsors · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Anthropic — Anthropic Fellows Program, AI Safety &amp; Security</title>
-    <link href="https://job-boards.greenhouse.io/anthropic/jobs/5183044008"/>
-    <id>tag:ricsign.github.io,2026:76cd4ee52178da62</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Anthropic — Anthropic Fellows Program, ML Systems &amp; Reinforcement Learning</title>
-    <link href="https://job-boards.greenhouse.io/anthropic/jobs/5183051008"/>
-    <id>tag:ricsign.github.io,2026:fedd5d2f09452b0a</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Anthropic — Anthropic Fellows Program, The Anthropic Institute (Economics &amp; Policy)</title>
-    <link href="https://job-boards.greenhouse.io/anthropic/jobs/5183053008"/>
-    <id>tag:ricsign.github.io,2026:54daf78748468c59</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Cohere — Software Engineer Intern (Winter 2027)</title>
-    <link href="https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application"/>
-    <id>tag:ricsign.github.io,2026:f8dfa4ed677e4202</id>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>United States · unknown · unspecified</summary>
   </entry>
 </feed>
