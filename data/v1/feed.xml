@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-10T20:55:45+00:00</updated>
+  <updated>2026-09-11T04:47:12+00:00</updated>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8193295"/>
+    <id>tag:ricsign.github.io,2026:261636294a9e9bf5</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, California, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Anysphere (Cursor) — Software Engineer, New Grad 2027</title>
     <link href="https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application"/>
@@ -36,22 +44,6 @@
     <updated>2026-09-10T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, New York, United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Engineering PhD Intern - Wet Etch</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047"/>
-    <id>tag:ricsign.github.io,2026:20a7430ade123adc</id>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Engineering PhD Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1"/>
-    <id>tag:ricsign.github.io,2026:3940f06938383f3a</id>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Applied Intuition — Electrical System Integration Engineer - New Grad</title>
@@ -239,19 +231,19 @@
   </entry>
   <entry>
     <title>Schonfeld — 2027 PhD Quantitative Research Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076"/>
-    <id>tag:ricsign.github.io,2026:c866eca515542bcd</id>
-    <updated>2026-09-05T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Miami, Florida, United States · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Schonfeld — 2027 PhD Quantitative Research Intern</title>
     <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8172074"/>
     <id>tag:ricsign.github.io,2026:480320bf117569b8</id>
     <updated>2026-09-05T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, New York, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 PhD Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076"/>
+    <id>tag:ricsign.github.io,2026:c866eca515542bcd</id>
+    <updated>2026-09-05T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Miami, Florida, United States · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Scale AI — Software Engineering Intern (Summer 2027)</title>
@@ -404,5 +396,13 @@
     <updated>2026-09-01T00:00:00Z</updated>
     <category term="ai-research"/>
     <summary>Remote-Friendly US (Travel Required), San Francisco, CA · sponsors · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Cohere — Software Engineer Intern (Winter 2027)</title>
+    <link href="https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application"/>
+    <id>tag:ricsign.github.io,2026:f8dfa4ed677e4202</id>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>United States · unknown · unspecified</summary>
   </entry>
 </feed>
