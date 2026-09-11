@@ -186,9 +186,9 @@
   {
    "uid": "0fae6d5462585697",
    "first_seen": "2026-09-02",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-09-11",
    "posted_at": "2026-06-30",
-   "closed_at": "2026-09-10"
+   "closed_at": null
   },
   {
    "uid": "11fe5123e25fd17f",
@@ -2848,7 +2848,7 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-11",
    "posted_at": "2026-06-30",
-   "closed_at": null
+   "closed_at": "2026-09-11"
   },
   {
    "uid": "fe997c39037b637c",
