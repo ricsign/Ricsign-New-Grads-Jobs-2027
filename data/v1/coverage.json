@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T10:53:12+00:00",
+ "generated_at": "2026-09-12T15:35:48+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 795,
+   "fetched": 796,
    "published": 0,
    "status": "none matched"
   },
@@ -477,7 +477,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "jumptrading",
-   "fetched": 106,
+   "fetched": 107,
    "published": 20,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 627,
+   "fetched": 626,
    "published": 4,
    "status": "ok"
   },
@@ -1117,7 +1117,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gongio",
-   "fetched": 87,
+   "fetched": 86,
    "published": 0,
    "status": "none matched"
   },
@@ -1187,7 +1187,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "brex",
-   "fetched": 273,
+   "fetched": 272,
    "published": 0,
    "status": "none matched"
   },
@@ -1453,12 +1453,12 @@
   }
  ],
  "rejections": {
-  "not a US location": 6043,
-  "senior/experienced role": 4009,
+  "not a US location": 6038,
+  "senior/experienced role": 4010,
   "title is not a technical role": 3805,
-  "non-technical role": 3185,
+  "non-technical role": 3187,
   "not an early-career posting": 2784,
-  "non-CS engineering discipline": 800,
+  "non-CS engineering discipline": 801,
   "quant role without early-career marker": 266,
   "research role without early-career marker": 142
  },
@@ -1798,14 +1798,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
+   "Senior Software Engineer, NCCL — senior/experienced role",
    "Senior Embedded Software Engineer, DPU - Networking — senior/experienced role",
    "Senior Software Engineer - DGX Cloud Production Engineering — not a US location",
    "Applied AI Engineer — not a US location",
    "Principal Partner Enablement Product Manager, AI Infrastructure — senior/experienced role",
    "ODM Business Operations Manager — title is not a technical role",
    "Executive Assistant — non-technical role",
-   "Senior Solutions Architect, Networking Solutions — not a US location",
-   "Applied AI Engineer — not a US location"
+   "Senior Solutions Architect, Networking Solutions — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1889,8 +1889,8 @@
    "Cloud Platform Architect — not a US location",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — non-technical role",
-   "Customer Success Manager — not a US location"
+   "Customer Success Manager — not a US location",
+   "Customer Success Manager — non-technical role"
   ],
   "suno": [
    "Senior / Staff Software Engineer, Frontend — senior/experienced role",
@@ -1949,8 +1949,8 @@
    "Analyst II, Credit — not a US location",
    "Analyst II, Full Stack (Revenue Analytics) — not a US location",
    "Analytics Engineer II — not a US location",
-   "Analytics Lead, Full Stack — not a US location",
-   "Analytics Lead, Full Stack — senior/experienced role"
+   "Analytics Lead, Full Stack — senior/experienced role",
+   "Analytics Lead, Full Stack — not a US location"
   ],
   "airtable": [
    "Account Executive, Strategic Accounts — non-technical role",
@@ -1979,8 +1979,8 @@
    "Brand Designer — non-technical role",
    "Chief of Staff — title is not a technical role",
    "Compensation Business Partner — title is not a technical role",
-   "Corporate Account Executive — not a US location",
-   "Corporate Account Executive — non-technical role"
+   "Corporate Account Executive — non-technical role",
+   "Corporate Account Executive — not a US location"
   ],
   "attentive": [
    "Account Executive I, Mid-Market — non-technical role",
@@ -2058,8 +2058,8 @@
   ],
   "instacart": [
    "Activation Sales Development Representative I — non-technical role",
-   "AI Solutions Lead, Marketing — not a US location",
    "AI Solutions Lead, Marketing — non-technical role",
+   "AI Solutions Lead, Marketing — not a US location",
    "Analytics Engineer II — not a US location",
    "Bilingual Customer Experience Specialist — title is not a technical role",
    "Customer Experience Systems Senior Associate — senior/experienced role",
@@ -2157,8 +2157,8 @@
    "Billing Engineer — not an early-career posting",
    "Brand Designer — non-technical role",
    "Customer Account Executive — non-technical role",
-   "Customer Reliability Engineer — not an early-career posting",
    "Customer Reliability Engineer — not a US location",
+   "Customer Reliability Engineer — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location"
   ],
