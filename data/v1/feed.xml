@@ -4,7 +4,39 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-11T21:02:23+00:00</updated>
+  <updated>2026-09-12T04:41:24+00:00</updated>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Power Generation (Starship)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002"/>
+    <id>tag:ricsign.github.io,2026:60dfe7c51e050fe8</id>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Starbase, TX · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002"/>
+    <id>tag:ricsign.github.io,2026:dfd60133b7e37b4d</id>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Washington, DC, Hawthorne, CA · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002"/>
+    <id>tag:ricsign.github.io,2026:923fc644b6611834</id>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Hawthorne, CA, Washington, DC · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Intel — Module Engineering PhD Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932"/>
+    <id>tag:ricsign.github.io,2026:e61508b3c97c1ff9</id>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Arizona, Phoenix · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8193295"/>
@@ -372,37 +404,5 @@
     <updated>2026-09-03T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS, Software Engineering, Behavior Test</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8174504"/>
-    <id>tag:ricsign.github.io,2026:95832c8910afece0</id>
-    <updated>2026-09-03T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, California, USA, San Francisco (US-SFO-MKT555) · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Early Career Flight Software Engineer</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"/>
-    <id>tag:ricsign.github.io,2026:90314dcfd8b092a8</id>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Applied Intuition — Cybersecurity Software Engineer - New Grad (December 2027)</title>
-    <link href="https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application"/>
-    <id>tag:ricsign.github.io,2026:0a727fa7e4c0e8d7</id>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Sunnyvale · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Applied Intuition — Forward Deployed Engineer - New Grad (December 2026)</title>
-    <link href="https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application"/>
-    <id>tag:ricsign.github.io,2026:f26824123044ddf9</id>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Sunnyvale · unknown · masters-preferred</summary>
   </entry>
 </feed>

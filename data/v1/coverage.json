@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T21:02:23+00:00",
+ "generated_at": "2026-09-12T04:41:24+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 789,
+   "fetched": 795,
    "published": 0,
    "status": "none matched"
   },
@@ -27,7 +27,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "xai",
-   "fetched": 254,
+   "fetched": 255,
    "published": 1,
    "status": "ok"
   },
@@ -127,7 +127,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "harvey",
-   "fetched": 322,
+   "fetched": 321,
    "published": 0,
    "status": "none matched"
   },
@@ -167,7 +167,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "physicalintelligence",
-   "fetched": 35,
+   "fetched": 34,
    "published": 1,
    "status": "ok"
   },
@@ -257,7 +257,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "fireworks",
-   "fetched": 73,
+   "fetched": 74,
    "published": 3,
    "status": "ok"
   },
@@ -317,7 +317,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "tenstorrent",
-   "fetched": 132,
+   "fetched": 130,
    "published": 0,
    "status": "none matched"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 492,
+   "fetched": 489,
    "published": 3,
    "status": "ok"
   },
@@ -357,7 +357,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "salesforce",
-   "fetched": 39,
+   "fetched": 38,
    "published": 0,
    "status": "none matched"
   },
@@ -367,7 +367,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "adobe",
-   "fetched": 38,
+   "fetched": 39,
    "published": 0,
    "status": "none matched"
   },
@@ -377,8 +377,8 @@
    "tier": 2,
    "ats": "workday",
    "token": "intel",
-   "fetched": 21,
-   "published": 1,
+   "fetched": 20,
+   "published": 2,
    "status": "ok"
   },
   {
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 286,
+   "fetched": 287,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 870,
+   "fetched": 872,
    "published": 3,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 620,
+   "fetched": 627,
    "published": 4,
    "status": "ok"
   },
@@ -877,7 +877,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "notion",
-   "fetched": 128,
+   "fetched": 127,
    "published": 6,
    "status": "ok"
   },
@@ -917,7 +917,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "datadog",
-   "fetched": 423,
+   "fetched": 424,
    "published": 1,
    "status": "ok"
   },
@@ -927,7 +927,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "mongodb",
-   "fetched": 391,
+   "fetched": 389,
    "published": 0,
    "status": "none matched"
   },
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 346,
+   "fetched": 347,
    "published": 1,
    "status": "ok"
   },
@@ -957,7 +957,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "elastic",
-   "fetched": 350,
+   "fetched": 351,
    "published": 1,
    "status": "ok"
   },
@@ -967,7 +967,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "twilio",
-   "fetched": 140,
+   "fetched": 138,
    "published": 0,
    "status": "none matched"
   },
@@ -1007,7 +1007,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "postman",
-   "fetched": 63,
+   "fetched": 64,
    "published": 1,
    "status": "ok"
   },
@@ -1017,7 +1017,7 @@
    "tier": 2,
    "ats": "ashby",
    "token": "render",
-   "fetched": 35,
+   "fetched": 36,
    "published": 0,
    "status": "none matched"
   },
@@ -1087,7 +1087,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "asana",
-   "fetched": 104,
+   "fetched": 102,
    "published": 0,
    "status": "none matched"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 304,
+   "fetched": 303,
    "published": 0,
    "status": "none matched"
   },
@@ -1157,7 +1157,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "verkada",
-   "fetched": 293,
+   "fetched": 292,
    "published": 12,
    "status": "ok"
   },
@@ -1187,7 +1187,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "brex",
-   "fetched": 270,
+   "fetched": 273,
    "published": 0,
    "status": "none matched"
   },
@@ -1197,7 +1197,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "mercury",
-   "fetched": 60,
+   "fetched": 61,
    "published": 0,
    "status": "none matched"
   },
@@ -1207,7 +1207,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "coinbase",
-   "fetched": 208,
+   "fetched": 209,
    "published": 8,
    "status": "ok"
   },
@@ -1217,7 +1217,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "robinhood",
-   "fetched": 125,
+   "fetched": 126,
    "published": 0,
    "status": "none matched"
   },
@@ -1247,7 +1247,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gusto",
-   "fetched": 93,
+   "fetched": 94,
    "published": 0,
    "status": "none matched"
   },
@@ -1257,7 +1257,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "discord",
-   "fetched": 45,
+   "fetched": 47,
    "published": 0,
    "status": "none matched"
   },
@@ -1267,7 +1267,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "reddit",
-   "fetched": 145,
+   "fetched": 147,
    "published": 0,
    "status": "none matched"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 165,
+   "fetched": 162,
    "published": 0,
    "status": "none matched"
   },
@@ -1297,7 +1297,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "roblox",
-   "fetched": 226,
+   "fetched": 225,
    "published": 4,
    "status": "ok"
   },
@@ -1307,7 +1307,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "doordashusa",
-   "fetched": 454,
+   "fetched": 455,
    "published": 1,
    "status": "ok"
   },
@@ -1317,7 +1317,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "instacart",
-   "fetched": 105,
+   "fetched": 106,
    "published": 0,
    "status": "none matched"
   },
@@ -1347,7 +1347,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "flexport",
-   "fetched": 173,
+   "fetched": 175,
    "published": 1,
    "status": "ok"
   },
@@ -1357,7 +1357,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "faire",
-   "fetched": 62,
+   "fetched": 66,
    "published": 0,
    "status": "none matched"
   },
@@ -1367,7 +1367,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "klaviyo",
-   "fetched": 132,
+   "fetched": 133,
    "published": 0,
    "status": "none matched"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2190,
+   "fetched": 2200,
    "published": 10,
    "status": "ok"
   },
@@ -1407,8 +1407,8 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2370,
-   "published": 30,
+   "fetched": 2381,
+   "published": 33,
    "status": "ok"
   },
   {
@@ -1417,7 +1417,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "waymo",
-   "fetched": 331,
+   "fetched": 328,
    "published": 7,
    "status": "ok"
   },
@@ -1437,7 +1437,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "nuro",
-   "fetched": 110,
+   "fetched": 106,
    "published": 2,
    "status": "ok"
   },
@@ -1453,14 +1453,14 @@
   }
  ],
  "rejections": {
-  "not a US location": 6039,
-  "senior/experienced role": 3992,
-  "title is not a technical role": 3797,
-  "non-technical role": 3172,
-  "not an early-career posting": 2782,
-  "non-CS engineering discipline": 796,
+  "not a US location": 6035,
+  "senior/experienced role": 4001,
+  "title is not a technical role": 3805,
+  "non-technical role": 3185,
+  "not an early-career posting": 2783,
+  "non-CS engineering discipline": 800,
   "quant role without early-career marker": 266,
-  "research role without early-career marker": 141
+  "research role without early-career marker": 142
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1668,7 +1668,7 @@
    "Software Engineer, Developer Productivity, AI Tools — not an early-career posting"
   ],
   "adobe": [
-   "Sr Staff Engineer — senior/experienced role",
+   "Senior Staff Engineer — senior/experienced role",
    "Machine Learning Engineer — not an early-career posting",
    "Sr / Staff Machine Learning Engineer — not a US location",
    "Studio Manager — not a US location",
@@ -1684,8 +1684,8 @@
    "Associate Legal Counsel, Japan — not a US location",
    "Automation Engineer, Quality Engineering — not a US location",
    "Business Operations and Growth Lead — not a US location",
-   "Business Operations and Growth Lead — title is not a technical role",
-   "Community Engagement Lead, Spain and Portugal — not a US location"
+   "Community Engagement Lead, Spain and Portugal — not a US location",
+   "Community Support Forecasting and Demand Planning Analyst — title is not a technical role"
   ],
   "brex": [
    "Account Executive, Small Business — non-technical role",
@@ -1745,7 +1745,7 @@
    "Engineering Manager, Notifications — senior/experienced role",
    "Engineering Manager, Platform Security — senior/experienced role",
    "Engineering Manager, Safety — senior/experienced role",
-   "Oracle ERP Fusion Functional Analyst — title is not a technical role"
+   "Manager, IT Ops Engineering — senior/experienced role"
   ],
   "linear": [
    "Senior / Staff Fullstack Engineer — not a US location",
@@ -1798,14 +1798,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
-   "Senior Staff Site Reliability Operations — title is not a technical role",
-   "Senior Solution Architect, AI Infrastructure — senior/experienced role",
-   "Senior Staff Site Reliability Operations Technical Lead — title is not a technical role",
-   "Senior Solutions Architect, Robotics Simulation — not a US location",
-   "Senior AI and ML Software Engineer — senior/experienced role",
-   "Solutions Architecture Intern - Summer 2027 — title is not a technical role",
-   "DevOps and Automation Engineer – ICPE — not a US location",
-   "Senior Solutions Architect, Generative AI — not a US location"
+   "Senior Embedded Software Engineer, DPU - Networking — senior/experienced role",
+   "Senior Software Engineer - DGX Cloud Production Engineering — not a US location",
+   "Applied AI Engineer — not a US location",
+   "Principal Partner Enablement Product Manager, AI Infrastructure — senior/experienced role",
+   "ODM Business Operations Manager — title is not a technical role",
+   "Executive Assistant — non-technical role",
+   "Senior Solutions Architect, Networking Solutions — not a US location",
+   "Applied AI Engineer — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1873,14 +1873,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Sustainability Corporate Counsel — not a US location",
+   "Director, Agentic Talent Capability & Skills Strategy — not a US location",
+   "Site Reliability Operations Engineer — not an early-career posting",
+   "Software Engineering PMTS - Data Platform — not a US location",
+   "Partner Success Technical Architect — not a US location",
    "Senior Data Engineer — not a US location",
    "Program Delivery Leader (Multiple Levels) — not a US location",
-   "Software Engineering SMTS — not a US location",
-   "ECS Account Executive — not a US location",
-   "Data and Financial Insights Analyst — not a US location",
-   "Manager, Revenue Strategy — not a US location",
-   "Agentic Operations Consultant — not a US location",
-   "Agentforce Operations Account Executive — not a US location"
+   "Software Engineering SMTS — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -1978,7 +1978,7 @@
    "Benefits Manager, NAMER — title is not a technical role",
    "Brand Designer — non-technical role",
    "Chief of Staff — title is not a technical role",
-   "Compensation Program Manager — non-technical role",
+   "Compensation Business Partner — title is not a technical role",
    "Corporate Account Executive — not a US location",
    "Corporate Account Executive — non-technical role"
   ],
@@ -1993,14 +1993,14 @@
    "GTM Engineer — non-technical role"
   ],
   "broadcom": [
+   "Forward Deployed Engineer (Staff) — senior/experienced role",
+   "Administrative Support — title is not a technical role",
    "Product Owner - Precision Design System UX/UI — not a US location",
    "Senior Program Manager – Global Professional Services Channel Programs — not a US location",
    "DSP System Architect — senior/experienced role",
    "R&D Software Engineer — not a US location",
    "R&D Engineer Hardware 5 — not an early-career posting",
-   "OS kernel system software development engineer — not an early-career posting",
-   "Staff Design Engineer — not a US location",
-   "R&D Engineer Mechanical — non-CS engineering discipline"
+   "OS kernel system software development engineer — not an early-career posting"
   ],
   "chime": [
    "Associate Creative Director, Growth Marketing — non-technical role",
@@ -2019,12 +2019,12 @@
   "faire": [
    "Account Executive — not a US location",
    "Account Executive Bilingual (Spanish/English) — not a US location",
+   "Core Strategy Senior Lead — title is not a technical role",
    "Director of Applied AI/ML Science - Ads — senior/experienced role",
    "Global Safety & Security Leader — not an early-career posting",
    "GTM Systems Engineer — non-technical role",
    "Head of Finance Systems & Data — senior/experienced role",
-   "Head of Retailer Product Marketing — non-technical role",
-   "Head of Revenue Operations & AI — non-technical role"
+   "Head of Retailer Product Marketing — non-technical role"
   ],
   "fastly": [
    "Assistant General Counsel, Commercial — title is not a technical role",
@@ -2112,9 +2112,9 @@
    "Client Account Manager, Enterprise Sales - Italian Market — not a US location",
    "Client Account Manager I — non-technical role",
    "Client Account Manager II, CPG (Food) — non-technical role",
+   "Client Account Manager II (tvScientific) — non-technical role",
    "Client Account Manager, Retail Enterprise Sales (Dutch Speaking) — not a US location",
-   "Communications Lead, UK & Europe - Corporate & Policy — not a US location",
-   "Content Designer II, Personalization — title is not a technical role"
+   "Communications Lead, UK & Europe - Corporate & Policy — not a US location"
   ],
   "quadrature": [
    "Internships — not a US location",
