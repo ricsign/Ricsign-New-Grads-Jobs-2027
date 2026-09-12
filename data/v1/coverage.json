@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T04:41:24+00:00",
+ "generated_at": "2026-09-12T10:53:12+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -237,7 +237,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "langchain",
-   "fetched": 108,
+   "fetched": 109,
    "published": 2,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 872,
+   "fetched": 876,
    "published": 3,
    "status": "ok"
   },
@@ -897,7 +897,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "supabase",
-   "fetched": 59,
+   "fetched": 60,
    "published": 0,
    "status": "none matched"
   },
@@ -957,7 +957,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "elastic",
-   "fetched": 351,
+   "fetched": 355,
    "published": 1,
    "status": "ok"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 303,
+   "fetched": 304,
    "published": 0,
    "status": "none matched"
   },
@@ -1177,7 +1177,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "plaid",
-   "fetched": 105,
+   "fetched": 110,
    "published": 0,
    "status": "none matched"
   },
@@ -1257,7 +1257,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "discord",
-   "fetched": 47,
+   "fetched": 46,
    "published": 0,
    "status": "none matched"
   },
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "pinterest",
-   "fetched": 182,
+   "fetched": 183,
    "published": 0,
    "status": "none matched"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 244,
+   "fetched": 245,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6035,
-  "senior/experienced role": 4001,
+  "not a US location": 6043,
+  "senior/experienced role": 4009,
   "title is not a technical role": 3805,
   "non-technical role": 3185,
-  "not an early-career posting": 2783,
+  "not an early-career posting": 2784,
   "non-CS engineering discipline": 800,
   "quant role without early-career marker": 266,
   "research role without early-career marker": 142
@@ -1745,7 +1745,7 @@
    "Engineering Manager, Notifications — senior/experienced role",
    "Engineering Manager, Platform Security — senior/experienced role",
    "Engineering Manager, Safety — senior/experienced role",
-   "Manager, IT Ops Engineering — senior/experienced role"
+   "Oracle ERP Fusion Functional Analyst — title is not a technical role"
   ],
   "linear": [
    "Senior / Staff Fullstack Engineer — not a US location",
@@ -1873,14 +1873,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Account Executive - Slack — not a US location",
+   "Account Executive - Slack — not a US location",
+   "Salesforce Developer (Software Engineering, MTS/SMTS) — not a US location",
+   "Forward Deployed Engineer - Agentforce Operations (Regrillo) — not a US location",
+   "Product Marketing Budget Associate Manager — not a US location",
+   "Product Marketing Sr. Lead — not a US location",
    "Sustainability Corporate Counsel — not a US location",
-   "Director, Agentic Talent Capability & Skills Strategy — not a US location",
-   "Site Reliability Operations Engineer — not an early-career posting",
-   "Software Engineering PMTS - Data Platform — not a US location",
-   "Partner Success Technical Architect — not a US location",
-   "Senior Data Engineer — not a US location",
-   "Program Delivery Leader (Multiple Levels) — not a US location",
-   "Software Engineering SMTS — not a US location"
+   "Director, Agentic Talent Capability & Skills Strategy — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -2109,12 +2109,12 @@
   "pinterest": [
    "Administrative Business Partner I - Engineering, Product and Design — not an early-career posting",
    "Agency Lead — title is not a technical role",
+   "Client Account Manager, Enterprise Sales, Fixed-Term Contract (8 months) — not a US location",
    "Client Account Manager, Enterprise Sales - Italian Market — not a US location",
    "Client Account Manager I — non-technical role",
    "Client Account Manager II, CPG (Food) — non-technical role",
    "Client Account Manager II (tvScientific) — non-technical role",
-   "Client Account Manager, Retail Enterprise Sales (Dutch Speaking) — not a US location",
-   "Communications Lead, UK & Europe - Corporate & Policy — not a US location"
+   "Client Account Manager, Retail Enterprise Sales (Dutch Speaking) — not a US location"
   ],
   "quadrature": [
    "Internships — not a US location",

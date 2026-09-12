@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-12T04:41:24+00:00",
+ "generated_at": "2026-09-12T10:53:12+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 342,
@@ -1538,7 +1538,7 @@
    "compensation": null,
    "department": "Internship",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -5830,7 +5830,7 @@
    "compensation": null,
    "department": "Starship Mechanisms Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
