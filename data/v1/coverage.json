@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T15:35:48+00:00",
+ "generated_at": "2026-09-12T20:38:15+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -157,7 +157,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "mercor",
-   "fetched": 100,
+   "fetched": 101,
    "published": 2,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 876,
+   "fetched": 875,
    "published": 3,
    "status": "ok"
   },
@@ -1037,7 +1037,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "replit",
-   "fetched": 77,
+   "fetched": 76,
    "published": 1,
    "status": "ok"
   },
@@ -1217,7 +1217,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "robinhood",
-   "fetched": 126,
+   "fetched": 125,
    "published": 0,
    "status": "none matched"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2200,
+   "fetched": 2202,
    "published": 10,
    "status": "ok"
   },
@@ -1447,7 +1447,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 245,
+   "fetched": 246,
    "published": 3,
    "status": "ok"
   }
@@ -1455,10 +1455,10 @@
  "rejections": {
   "not a US location": 6038,
   "senior/experienced role": 4010,
-  "title is not a technical role": 3805,
-  "non-technical role": 3187,
-  "not an early-career posting": 2784,
-  "non-CS engineering discipline": 801,
+  "title is not a technical role": 3807,
+  "non-technical role": 3188,
+  "not an early-career posting": 2783,
+  "non-CS engineering discipline": 800,
   "quant role without early-career marker": 266,
   "research role without early-career marker": 142
  },
@@ -1864,7 +1864,7 @@
    "Assistant General Counsel, Canada — not a US location",
    "Assistant General Counsel, Credit Cards — title is not a technical role",
    "Business Analyst (New Grad) — title is not a technical role",
-   "Business Development Desk Manager — non-technical role"
+   "Cashiering Support Associate — title is not a technical role"
   ],
   "runway": [
    "⚙️ Senior/Staff Platform Engineer — not a US location",
@@ -1875,12 +1875,12 @@
   "salesforce": [
    "Account Executive - Slack — not a US location",
    "Account Executive - Slack — not a US location",
-   "Salesforce Developer (Software Engineering, MTS/SMTS) — not a US location",
    "Forward Deployed Engineer - Agentforce Operations (Regrillo) — not a US location",
    "Product Marketing Budget Associate Manager — not a US location",
    "Product Marketing Sr. Lead — not a US location",
    "Sustainability Corporate Counsel — not a US location",
-   "Director, Agentic Talent Capability & Skills Strategy — not a US location"
+   "Director, Agentic Talent Capability & Skills Strategy — not a US location",
+   "Site Reliability Operations Engineer — not an early-career posting"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",

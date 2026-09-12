@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,375 |
+| Postings fetched | 21,376 |
 | Postings published | 342 |
 | Boards that failed to fetch | **1** |
 | Boards live but with nothing early-career | 65 |
@@ -302,10 +302,10 @@ rather than take it on faith.
 | [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 626 | 4 | ✅ ok |
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 594 | 3 | ✅ ok |
 | [Cohere](https://cohere.com/careers) | 0 | `ashby:cohere` | 145 | 3 | ✅ ok |
-| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 876 | 3 | ✅ ok |
+| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 875 | 3 | ✅ ok |
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 102 | 3 | ✅ ok |
 | [Sierra](https://sierra.ai/careers) | 0 | `ashby:sierra` | 210 | 3 | ✅ ok |
-| [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 100 | 2 | ✅ ok |
+| [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 101 | 2 | ✅ ok |
 | [Anysphere (Cursor)](https://cursor.com/careers) | 0 | `ashby:cursor` | 127 | 1 | ✅ ok |
 | [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 34 | 1 | ✅ ok |
 | [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 255 | 1 | ✅ ok |
@@ -331,7 +331,7 @@ rather than take it on faith.
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 286 | 18 | ✅ ok |
 | [IMC Trading](https://careers.imc.com/us/en) | 1 | `greenhouse:imc` | 171 | 11 | ✅ ok |
 | [Point72 / Cubist](https://careers.point72.com/) | 1 | `greenhouse:point72` | 220 | 11 | ✅ ok |
-| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2200 | 10 | ✅ ok |
+| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2202 | 10 | ✅ ok |
 | [DRW](https://drw.com/work-at-drw/) | 1 | `greenhouse:drweng` | 158 | 10 | ✅ ok |
 | [Old Mission Capital](https://www.oldmissioncapital.com/careers/) | 1 | `greenhouse:oldmissioncapital` | 38 | 9 | ✅ ok |
 | [Coinbase](https://www.coinbase.com/careers) | 1 | `greenhouse:coinbase` | 209 | 8 | ✅ ok |
@@ -360,7 +360,7 @@ rather than take it on faith.
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | 1 | `greenhouse:hrttalentcommunity` | 3 | 1 | ✅ ok |
 | [Modal](https://modal.com/careers) | 1 | `ashby:modal` | 31 | 1 | ✅ ok |
 | [Radix Trading](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixuniversity` | 8 | 1 | ✅ ok |
-| [Replit](https://replit.com/careers) | 1 | `ashby:replit` | 77 | 1 | ✅ ok |
+| [Replit](https://replit.com/careers) | 1 | `ashby:replit` | 76 | 1 | ✅ ok |
 | [Squarepoint Capital](https://www.squarepoint-capital.com/careers) | 1 | `greenhouse:squarepointcapital` | 93 | 1 | ✅ ok |
 | [The Voleon Group](https://voleon.com/careers/) | 1 | `ashby:voleon` | 57 | 1 | ✅ ok |
 | [XTX Markets](https://www.xtxmarkets.com/careers/) | 1 | `greenhouse:xtxmarketstechnologies` | 10 | 1 | ✅ ok |
@@ -390,7 +390,7 @@ rather than take it on faith.
 | [Radix Trading (Experienced)](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixexperienced` | 7 | — | ○ none matched |
 | [Ramp](https://ramp.com/careers) | 1 | `ashby:ramp` | 145 | — | ○ none matched |
 | [Reddit](https://redditinc.com/careers) | 1 | `greenhouse:reddit` | 147 | — | ○ none matched |
-| [Robinhood](https://careers.robinhood.com/) | 1 | `greenhouse:robinhood` | 126 | — | ○ none matched |
+| [Robinhood](https://careers.robinhood.com/) | 1 | `greenhouse:robinhood` | 125 | — | ○ none matched |
 | [Runway](https://runwayml.com/careers) | 1 | `ashby:runway` | 4 | — | ○ none matched |
 | [SIG (Susquehanna)](https://careers.sig.com/us-campus/jobs) | 1 | — | — | — | 🔗 link-only |
 | [Salesforce](https://careers.salesforce.com/) | 1 | `workday:salesforce` | 38 | — | ○ none matched |
@@ -404,7 +404,7 @@ rather than take it on faith.
 | [Verkada](https://www.verkada.com/careers/) | 2 | `greenhouse:verkada` | 292 | 12 | ✅ ok |
 | [Belvedere Trading](https://belvederetrading.com/careers/) | 2 | `lever:belvederetrading` | 16 | 5 | ✅ ok |
 | [Lyft](https://www.lyft.com/careers) | 2 | `greenhouse:lyft` | 183 | 5 | ✅ ok |
-| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 245 | 3 | ✅ ok |
+| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 246 | 3 | ✅ ok |
 | [Intel](https://jobs.intel.com/) | 2 | `workday:intel` | 20 | 2 | ✅ ok |
 | [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 106 | 2 | ✅ ok |
 | [Dropbox](https://jobs.dropbox.com/) | 2 | `greenhouse:dropbox` | 41 | 1 | ✅ ok |
