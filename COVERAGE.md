@@ -29,7 +29,7 @@ These companies are hiring — just not for roles that clear the bar today.
 A sample of what we saw and why we dropped it, so you can check our work
 rather than take it on faith.
 
-<details><summary><b>Cognition</b> — 93 postings read, none early-career</summary>
+<details><summary><b>Cognition</b> — 94 postings read, none early-career</summary>
 
 - `General Application - Cognition — title is not a technical role`
 - `Research Engineer, Post-Training — research role without early-career marker`
@@ -311,7 +311,7 @@ rather than take it on faith.
 | [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 255 | 1 | ✅ ok |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
-| [Cognition](https://cognition.ai/careers) | 0 | `ashby:cognition` | 93 | — | ○ none matched |
+| [Cognition](https://cognition.ai/careers) | 0 | `ashby:cognition` | 94 | — | ○ none matched |
 | [D. E. Shaw](https://www.deshaw.com/careers) | 0 | — | — | — | 🔗 link-only |
 | [ElevenLabs](https://elevenlabs.io/careers) | 0 | `ashby:elevenlabs` | 246 | — | ○ none matched |
 | [Harvey](https://www.harvey.ai/careers) | 0 | `ashby:harvey` | 321 | — | ○ none matched |
@@ -349,7 +349,7 @@ rather than take it on faith.
 | [Fireworks AI](https://fireworks.ai/careers) | 1 | `ashby:fireworks` | 74 | 3 | ✅ ok |
 | [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 489 | 3 | ✅ ok |
 | [Headlands Technologies](https://www.headlandstech.com/careers/) | 1 | `greenhouse:headlandstechnologiesllc` | 7 | 2 | ✅ ok |
-| [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 109 | 2 | ✅ ok |
+| [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 108 | 2 | ✅ ok |
 | [Vercel](https://vercel.com/careers) | 1 | `greenhouse:vercel` | 86 | 2 | ✅ ok |
 | [Baseten](https://www.baseten.co/careers) | 1 | `ashby:baseten` | 93 | 1 | ✅ ok |
 | [Cerebras](https://www.cerebras.ai/careers) | 1 | `ashby:cerebras` | 111 | 1 | ✅ ok |

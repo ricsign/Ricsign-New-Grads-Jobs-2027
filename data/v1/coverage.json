@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T04:54:39+00:00",
+ "generated_at": "2026-09-13T11:58:46+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -77,7 +77,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cognition",
-   "fetched": 93,
+   "fetched": 94,
    "published": 0,
    "status": "none matched"
   },
@@ -237,7 +237,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "langchain",
-   "fetched": 109,
+   "fetched": 108,
    "published": 2,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6036,
-  "senior/experienced role": 4014,
+  "not a US location": 6041,
+  "senior/experienced role": 4011,
   "title is not a technical role": 3810,
-  "non-technical role": 3190,
-  "not an early-career posting": 2782,
+  "non-technical role": 3189,
+  "not an early-career posting": 2781,
   "non-CS engineering discipline": 801,
   "quant role without early-career marker": 266,
   "research role without early-career marker": 142
@@ -1889,8 +1889,8 @@
    "Cloud Platform Architect — not a US location",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — not a US location",
-   "Customer Success Manager — non-technical role"
+   "Customer Success Manager — non-technical role",
+   "Customer Success Manager — not a US location"
   ],
   "suno": [
    "Senior / Staff Software Engineer, Frontend — senior/experienced role",
@@ -1949,8 +1949,8 @@
    "Analyst II, Credit — not a US location",
    "Analyst II, Full Stack (Revenue Analytics) — not a US location",
    "Analytics Engineer II — not a US location",
-   "Analytics Lead, Full Stack — senior/experienced role",
-   "Analytics Lead, Full Stack — not a US location"
+   "Analytics Lead, Full Stack — not a US location",
+   "Analytics Lead, Full Stack — senior/experienced role"
   ],
   "airtable": [
    "Account Executive, Strategic Accounts — non-technical role",
@@ -1979,8 +1979,8 @@
    "Brand Designer — non-technical role",
    "Chief of Staff — title is not a technical role",
    "Compensation Business Partner — title is not a technical role",
-   "Corporate Account Executive — non-technical role",
-   "Corporate Account Executive — not a US location"
+   "Corporate Account Executive — not a US location",
+   "Corporate Account Executive — non-technical role"
   ],
   "attentive": [
    "Account Executive I, Mid-Market — non-technical role",
@@ -2058,8 +2058,8 @@
   ],
   "instacart": [
    "Activation Sales Development Representative I — non-technical role",
-   "AI Solutions Lead, Marketing — non-technical role",
    "AI Solutions Lead, Marketing — not a US location",
+   "AI Solutions Lead, Marketing — non-technical role",
    "Analytics Engineer II — not a US location",
    "Bilingual Customer Experience Specialist — title is not a technical role",
    "Customer Experience Systems Senior Associate — senior/experienced role",
@@ -2157,8 +2157,8 @@
    "Billing Engineer — not an early-career posting",
    "Brand Designer — non-technical role",
    "Customer Account Executive — non-technical role",
-   "Customer Reliability Engineer — not a US location",
    "Customer Reliability Engineer — not an early-career posting",
+   "Customer Reliability Engineer — not a US location",
    "Customer Support Engineer (Tier 1) — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location"
   ],
