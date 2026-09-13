@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,383 |
+| Postings fetched | 21,382 |
 | Postings published | 342 |
 | Boards that failed to fetch | **1** |
 | Boards live but with nothing early-career | 65 |
@@ -73,7 +73,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>OpenAI</b> — 795 postings read, none early-career</summary>
+<details><summary><b>OpenAI</b> — 794 postings read, none early-career</summary>
 
 - `Technical Program Manager, Compute Infrastructure — non-technical role`
 - `Research Engineer — research role without early-career marker`
@@ -273,12 +273,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 40 postings read, none early-career</summary>
 
-- `Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role`
-- `Senior Systems Software Engineer- EDA Infrastructure — not a US location`
-- `Distinguished Engineer, Storage – AI Cloud — senior/experienced role`
-- `Principal Architect, System Software - Orbital Data Center — not a US location`
-- `Senior Software Engineer - Manufacturing and Factory — not a US location`
-- `Senior Systems Software Engineer, Compute Stack Acceleration — not a US location`
+- `Senior Site Reliability Engineer - HPC — not a US location`
+- `Compute Platform Engineer, License Scheduling - EDA Infrastructure — not a US location`
+- `Senior AI Infrastructure Engineer - EDA Infrastructure — not a US location`
+- `Senior Linux Systems Engineer - EDA Infrastructure — not a US location`
+- `Linux for Edge System Software Engineer (RDSS intern) — not a US location`
+- `Senior Compute Platform Engineer, LSF - EDA Infrastructure — not a US location`
 
 </details>
 
@@ -302,13 +302,13 @@ rather than take it on faith.
 | [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 625 | 4 | ✅ ok |
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 595 | 3 | ✅ ok |
 | [Cohere](https://cohere.com/careers) | 0 | `ashby:cohere` | 145 | 3 | ✅ ok |
-| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 876 | 3 | ✅ ok |
+| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 875 | 3 | ✅ ok |
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 102 | 3 | ✅ ok |
 | [Sierra](https://sierra.ai/careers) | 0 | `ashby:sierra` | 210 | 3 | ✅ ok |
 | [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 101 | 2 | ✅ ok |
 | [Anysphere (Cursor)](https://cursor.com/careers) | 0 | `ashby:cursor` | 127 | 1 | ✅ ok |
 | [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 35 | 1 | ✅ ok |
-| [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 255 | 1 | ✅ ok |
+| [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 254 | 1 | ✅ ok |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
 | [Cognition](https://cognition.ai/careers) | 0 | `ashby:cognition` | 94 | — | ○ none matched |
@@ -317,7 +317,7 @@ rather than take it on faith.
 | [Harvey](https://www.harvey.ai/careers) | 0 | `ashby:harvey` | 321 | — | ○ none matched |
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=student) | 0 | — | — | — | 🔗 link-only |
 | [Mistral AI](https://mistral.ai/careers) | 0 | `ashby:mistral.ai` | 194 | — | ○ none matched |
-| [OpenAI](https://openai.com/careers) | 0 | `ashby:openai` | 795 | — | ○ none matched |
+| [OpenAI](https://openai.com/careers) | 0 | `ashby:openai` | 794 | — | ○ none matched |
 | [Optiver](https://optiver.com/join-us/jobs/?location=us) | 0 | — | — | — | 🔗 link-only |
 | [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 115 | — | ○ none matched |
 | [Poolside](https://poolside.ai/careers) | 0 | `ashby:poolside` | 13 | — | ○ none matched |
@@ -408,8 +408,8 @@ rather than take it on faith.
 | [Intel](https://jobs.intel.com/) | 2 | `workday:intel` | 20 | 2 | ✅ ok |
 | [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 106 | 2 | ✅ ok |
 | [Dropbox](https://jobs.dropbox.com/) | 2 | `greenhouse:dropbox` | 41 | 1 | ✅ ok |
-| [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 355 | 1 | ✅ ok |
-| [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 175 | 1 | ✅ ok |
+| [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 356 | 1 | ✅ ok |
+| [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 176 | 1 | ✅ ok |
 | [Grafana Labs](https://grafana.com/about/careers/) | 2 | `greenhouse:grafanalabs` | 114 | 1 | ✅ ok |
 | [Postman](https://www.postman.com/company/careers/) | 2 | `greenhouse:postman` | 64 | 1 | ✅ ok |
 | [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 165 | — | ○ none matched |
