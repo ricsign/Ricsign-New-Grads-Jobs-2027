@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T20:38:15+00:00",
+ "generated_at": "2026-09-13T04:54:39+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 594,
+   "fetched": 595,
    "published": 3,
    "status": "ok"
   },
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 796,
+   "fetched": 795,
    "published": 0,
    "status": "none matched"
   },
@@ -167,7 +167,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "physicalintelligence",
-   "fetched": 34,
+   "fetched": 35,
    "published": 1,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 875,
+   "fetched": 876,
    "published": 3,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 626,
+   "fetched": 625,
    "published": 4,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2381,
+   "fetched": 2388,
    "published": 33,
    "status": "ok"
   },
@@ -1447,18 +1447,18 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 246,
+   "fetched": 245,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6038,
-  "senior/experienced role": 4010,
-  "title is not a technical role": 3807,
-  "non-technical role": 3188,
-  "not an early-career posting": 2783,
-  "non-CS engineering discipline": 800,
+  "not a US location": 6036,
+  "senior/experienced role": 4014,
+  "title is not a technical role": 3810,
+  "non-technical role": 3190,
+  "not an early-career posting": 2782,
+  "non-CS engineering discipline": 801,
   "quant role without early-career marker": 266,
   "research role without early-career marker": 142
  },
@@ -1798,14 +1798,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
-   "Senior Software Engineer, NCCL — senior/experienced role",
-   "Senior Embedded Software Engineer, DPU - Networking — senior/experienced role",
-   "Senior Software Engineer - DGX Cloud Production Engineering — not a US location",
-   "Applied AI Engineer — not a US location",
-   "Principal Partner Enablement Product Manager, AI Infrastructure — senior/experienced role",
-   "ODM Business Operations Manager — title is not a technical role",
-   "Executive Assistant — non-technical role",
-   "Senior Solutions Architect, Networking Solutions — not a US location"
+   "Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role",
+   "Senior Systems Software Engineer- EDA Infrastructure — not a US location",
+   "Distinguished Engineer, Storage – AI Cloud — senior/experienced role",
+   "Principal Architect, System Software - Orbital Data Center — not a US location",
+   "Senior Software Engineer - Manufacturing and Factory — not a US location",
+   "Senior Systems Software Engineer, Compute Stack Acceleration — not a US location",
+   "Principal Software Engineer, Rack-Scale System Software — CSP Engagements — not a US location",
+   "Principal Software Engineer, E2E Performance and Goodput — CSP Engagements — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
