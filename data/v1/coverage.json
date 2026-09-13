@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T16:24:01+00:00",
+ "generated_at": "2026-09-13T20:54:31+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -47,7 +47,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cohere",
-   "fetched": 145,
+   "fetched": 144,
    "published": 3,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 489,
+   "fetched": 488,
    "published": 3,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 625,
+   "fetched": 624,
    "published": 4,
    "status": "ok"
   },
@@ -1177,7 +1177,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "plaid",
-   "fetched": 110,
+   "fetched": 111,
    "published": 0,
    "status": "none matched"
   },
@@ -1217,7 +1217,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "robinhood",
-   "fetched": 125,
+   "fetched": 126,
    "published": 0,
    "status": "none matched"
   },
@@ -1227,7 +1227,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "affirm",
-   "fetched": 165,
+   "fetched": 166,
    "published": 0,
    "status": "none matched"
   },
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "pinterest",
-   "fetched": 183,
+   "fetched": 182,
    "published": 0,
    "status": "none matched"
   },
@@ -1317,7 +1317,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "instacart",
-   "fetched": 106,
+   "fetched": 104,
    "published": 0,
    "status": "none matched"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 245,
+   "fetched": 228,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6041,
-  "senior/experienced role": 4011,
-  "title is not a technical role": 3807,
-  "non-technical role": 3191,
-  "not an early-career posting": 2781,
+  "not a US location": 6025,
+  "senior/experienced role": 4010,
+  "title is not a technical role": 3806,
+  "non-technical role": 3190,
+  "not an early-career posting": 2780,
   "non-CS engineering discipline": 801,
   "quant role without early-career marker": 266,
   "research role without early-career marker": 142
@@ -1798,14 +1798,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
+   "Senior Storage Software Engineer, DGXC Data Services — not a US location",
+   "Senior Infrastructure Automation Engineer, Compute Platform - EDA Infrastructure — not a US location",
+   "Senior Distributed Software Engineer, Golang - DGX Cloud — not a US location",
+   "Senior Systems Software Engineer - GPU Performance at Scale — not a US location",
+   "Senior HPC Storage Engineer — not a US location",
    "Senior Site Reliability Engineer - HPC — not a US location",
    "Compute Platform Engineer, License Scheduling - EDA Infrastructure — not a US location",
-   "Senior AI Infrastructure Engineer - EDA Infrastructure — not a US location",
-   "Senior Linux Systems Engineer - EDA Infrastructure — not a US location",
-   "Linux for Edge System Software Engineer (RDSS intern) — not a US location",
-   "Senior Compute Platform Engineer, LSF - EDA Infrastructure — not a US location",
-   "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location",
-   "PhD Research Intern, Circuits - 2027 — not a US location"
+   "Linux for Edge System Software Engineer (RDSS intern) — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1864,7 +1864,7 @@
    "Assistant General Counsel, Canada — not a US location",
    "Assistant General Counsel, Credit Cards — title is not a technical role",
    "Business Analyst (New Grad) — title is not a technical role",
-   "Cashiering Support Associate — title is not a technical role"
+   "Business Development Desk Manager — non-technical role"
   ],
   "runway": [
    "⚙️ Senior/Staff Platform Engineer — not a US location",
@@ -1949,7 +1949,7 @@
    "Analyst II, Credit — not a US location",
    "Analyst II, Full Stack (Revenue Analytics) — not a US location",
    "Analytics Engineer II — not a US location",
-   "Analytics Lead, Full Stack — senior/experienced role",
+   "Analytics Lead, Full Stack — not a US location",
    "Analytics Lead, Full Stack — not a US location"
   ],
   "airtable": [
@@ -2108,13 +2108,13 @@
   ],
   "pinterest": [
    "Administrative Business Partner I - Engineering, Product and Design — not an early-career posting",
-   "Agency Lead — title is not a technical role",
    "Client Account Manager, Enterprise Sales, Fixed-Term Contract (8 months) — not a US location",
    "Client Account Manager, Enterprise Sales - Italian Market — not a US location",
    "Client Account Manager I — non-technical role",
    "Client Account Manager II, CPG (Food) — non-technical role",
    "Client Account Manager II (tvScientific) — non-technical role",
-   "Client Account Manager, Retail Enterprise Sales (Dutch Speaking) — not a US location"
+   "Client Account Manager, Retail Enterprise Sales (Dutch Speaking) — not a US location",
+   "Communications Lead, UK & Europe - Corporate & Policy — not a US location"
   ],
   "quadrature": [
    "Internships — not a US location",

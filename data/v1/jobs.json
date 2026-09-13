@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-13T16:24:01+00:00",
+ "generated_at": "2026-09-13T20:54:31+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 342,
@@ -9032,15 +9032,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -9058,16 +9059,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
