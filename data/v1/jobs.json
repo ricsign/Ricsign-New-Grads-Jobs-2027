@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-14T12:56:22+00:00",
+ "generated_at": "2026-09-14T21:53:20+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 347,
+ "count": 352,
  "jobs": [
   {
    "uid": "59b6f87bb1dd148e",
@@ -80,32 +80,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "University",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "2e7fc13de86c918d",
-   "company_slug": "sierra",
-   "company_name": "Sierra",
-   "company_tier": 0,
-   "company_category": "ai-lab",
-   "source": "ashby",
-   "title": "Software Engineer Intern, Agent (Winter 2027)",
-   "apply_url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application",
-   "locations": [
-    "San Francisco, CA"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-14",
-   "posted_at": "2026-09-01",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "Early Career",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -766,27 +740,81 @@
    "openings": 1
   },
   {
-   "uid": "3655ae8c55e00963",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
+   "uid": "10a25c7d85680fc5",
+   "company_slug": "figma",
+   "company_name": "Figma",
    "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+   "company_category": "dev-tools",
+   "source": "greenhouse",
+   "title": "Data Science Intern (2027)",
+   "apply_url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
    "locations": [
-    "US, CA, Santa Clara"
+    "San Francisco, CA • New York, NY",
+    "US"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "unspecified",
    "sponsorship": "unknown",
    "first_seen": "2026-09-14",
    "last_verified": "2026-09-14",
-   "posted_at": null,
+   "posted_at": "2026-09-14",
    "closed_at": null,
    "season": "2027",
    "compensation": null,
-   "department": null,
+   "department": "Early Career",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "bf9944b47bebd223",
+   "company_slug": "figma",
+   "company_name": "Figma",
+   "company_tier": 1,
+   "company_category": "dev-tools",
+   "source": "greenhouse",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "apply_url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+   "locations": [
+    "San Francisco, CA • New York, NY",
+    "US"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Early Career",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "66cfc9e9ceada88d",
+   "company_slug": "five-rings",
+   "company_name": "Five Rings",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Recent Graduate - Trading Assistant (NYC)",
+   "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008",
+   "locations": [
+    "New York City"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Trading Operations",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -922,6 +950,115 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "ENG Executive Office",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "8ec50c3a32702f97",
+   "company_slug": "squarepoint",
+   "company_name": "Squarepoint Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Primary Research Analyst",
+   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=6914700&gh_jid=6914700",
+   "locations": [
+    "New York"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Investment",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "fd980f56f24646f4",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, BS/MS, Software Engineer",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+   "locations": [
+    "San Francisco, California",
+    "San Francisco (US-SFO-MKT555)"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "1dd6ca1ff1effbdf",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+   "locations": [
+    "Mountain View, California, United States",
+    "San Francisco, California, United States",
+    "Mountain View (US-MTV-EMF690)",
+    "San Francisco (US-SFO-MKT555)"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "dead",
+   "openings": 1
+  },
+  {
+   "uid": "0df311d49fabd099",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1677,16 +1814,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -1703,16 +1840,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -3029,35 +3166,6 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
-   "locations": [
-    "Palo Alto, CA",
-    "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-14",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Silicon Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -3095,6 +3203,35 @@
    "title": "New Graduate Engineer, Silicon Engineering",
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
    "locations": [
+    "Irvine, CA",
+    "Palo Alto - 1200",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Silicon Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "3b733edade933b2c",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Silicon Engineering",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "locations": [
+    "Palo Alto, CA",
     "Irvine, CA",
     "Palo Alto - 1200",
     "Redmond, WA"
@@ -3220,15 +3357,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -3246,16 +3384,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5559,21 +5696,21 @@
    "openings": 1
   },
   {
-   "uid": "0fae6d5462585697",
+   "uid": "fdcb8f1a28def432",
    "company_slug": "roblox",
    "company_name": "Roblox",
    "company_tier": 1,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-   "apply_url": "https://careers.roblox.com/jobs/8027587?gh_jid=8027587",
+   "apply_url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
    "locations": [
     "San Mateo, CA, United States"
    ],
    "track": "new-grad-swe",
    "degree": "phd-required",
    "sponsorship": "unknown",
-   "first_seen": "2026-09-02",
+   "first_seen": "2026-09-01",
    "last_verified": "2026-09-14",
    "posted_at": "2026-06-30",
    "closed_at": null,
@@ -6772,32 +6909,6 @@
    "department": "Data",
    "active": true,
    "link_status": "blocked",
-   "openings": 1
-  },
-  {
-   "uid": "b4d808d8487e834b",
-   "company_slug": "five-rings",
-   "company_name": "Five Rings",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Recent Graduate - Trading Assistant (NYC)",
-   "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008",
-   "locations": [
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-14",
-   "posted_at": "2025-12-24",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Trading Operations",
-   "active": true,
-   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8275,33 +8386,6 @@
    "openings": 1
   },
   {
-   "uid": "f0f2f0d4d1dae6df",
-   "company_slug": "squarepoint",
-   "company_name": "Squarepoint Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Junior Discretionary Trader",
-   "apply_url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
-   "locations": [
-    "Houston",
-    "New York"
-   ],
-   "track": "quant",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-14",
-   "posted_at": "2022-02-04",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Investment",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "97ac62cfaedaaccd",
    "company_slug": "palantir",
    "company_name": "Palantir",
@@ -8484,6 +8568,58 @@
    "openings": 1
   },
   {
+   "uid": "96200d580347a232",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Packaging Technology Development Graduate Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
+   "locations": [
+    "US, Arizona, Phoenix"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "6c507b2c0095c70f",
+   "company_slug": "okta",
+   "company_name": "Okta",
+   "company_tier": 2,
+   "company_category": "security",
+   "source": "greenhouse",
+   "title": "Developer Support Associate (New Grad)",
+   "apply_url": "https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506",
+   "locations": [
+    "Chicago, Illinois"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-14",
+   "last_verified": "2026-09-14",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Customer Support-740",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "e61508b3c97c1ff9",
    "company_slug": "intel",
    "company_name": "Intel",
@@ -8563,16 +8699,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -8590,16 +8726,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -9167,15 +9303,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -9193,16 +9330,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",

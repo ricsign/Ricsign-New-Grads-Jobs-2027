@@ -21,6 +21,8 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Five Rings** | Recent Graduate - Trading Assistant (NYC) | New York City | — | · | today · Sep 14 | today · Sep 14 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) |
+| **Squarepoint Capital** | Primary Research Analyst | New York | — | · | today · Sep 14 | today · Sep 14 | [apply](https://www.squarepoint-capital.com/open-opportunities?id=6914700&gh_jid=6914700) |
 | **Old Mission Capital** | Junior Trading Operations/DevOps Engineer | Chicago, IL, United States | — | · | 6d · Sep 8 | 6d · Sep 8 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7989374003) |
 | **Old Mission Capital** | Fundamental Research Analyst - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·📗 | 12d · Sep 2 | 12d · Sep 2 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
 | **Jump Trading** | Research Scientist/Research Engineer, Reinforcement Learning | New York City | — | ·📗 | 27d · Aug 18 | 13d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8122860) |
@@ -43,14 +45,12 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Headlands Technologies** | Quantitative Researcher – New Grad | Chicago, New York City +1 | — | · | 3mo · May 29 | 13d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | 5mo · Apr 15 | 13d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
 | **DRW** | Prediction Markets Trader | Flexible - US Preferred, Chicago +1 | — | · | 8mo · Jan 7 | 13d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7520816) |
-| **Five Rings** | Recent Graduate - Trading Assistant (NYC) | New York City | — | · | 8mo · Dec 24 2025 | 13d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008) |
 | **DRW** | Research Engineer (FICCO) | Chicago | — | · | 10mo · Nov 5 2025 | 13d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) |
 | **Point72 / Cubist** | Quantitative Portfolio Analyst – 2026 Grad · _2026_ | New York, New York | — | ·📗 | 12mo · Sep 15 2025 | 13d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002) |
 | **IMC Trading** | Software Engineer, Early Career · `open 1y+` | Chicago, United States | — | · | 1y · Apr 17 2025 | 13d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
 | **PDT Partners** | Quantitative Researcher · `open 1y+` | New York, NY | — | ·🎓 | 1y · Oct 28 2024 | 13d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer · `open 2y+` | New York, NY | — | · | 2y · Feb 6 2024 | 13d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
 | **Hudson River Trading** | FPGA Verification and Developer (Internships and Campus Full-time) · `open 3y+` | New York, NY, United States | — | · | 3y · Sep 21 2022 | 13d · Sep 1 | [apply](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/4576493) |
-| **Squarepoint Capital** | Junior Discretionary Trader · `open 4y+` | Houston, New York | — | · | 4y · Feb 4 2022 | 13d · Sep 1 | [apply](https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879) |
 
 ## Tier 2 — Strong specialists
 
@@ -61,4 +61,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-09-14 12:56 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-14 21:53 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
