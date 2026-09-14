@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-14T05:03:12+00:00</updated>
+  <updated>2026-09-14T12:56:22+00:00</updated>
   <entry>
     <title>NVIDIA — PhD Research Intern, Autonomous Systems and Physical AI Research - 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171"/>
@@ -12,6 +12,46 @@
     <updated>2026-09-14T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, CA, Santa Clara · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Robinhood — PeopleX Insights &amp; Analytics Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&amp;gh_jid=8198255"/>
+    <id>tag:ricsign.github.io,2026:114a2ad5bbb46200</id>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Menlo Park, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Robinhood — Software Engineering Intern, Android (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&amp;gh_jid=8142961"/>
+    <id>tag:ricsign.github.io,2026:638e2cf14ff549c0</id>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Menlo Park, CA, New York, NY · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Robinhood — Software Engineering Intern, Backend (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225"/>
+    <id>tag:ricsign.github.io,2026:85ef6a3973a87dc0</id>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Bellevue, WA, Menlo Park, CA, New York, NY · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Robinhood — Software Engineering Intern, iOS (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959"/>
+    <id>tag:ricsign.github.io,2026:783812ebf19d3cec</id>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Menlo Park, CA, New York, NY · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Robinhood — Software Engineering Intern, Web (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&amp;gh_jid=8142963"/>
+    <id>tag:ricsign.github.io,2026:d53ee90cf70ff95a</id>
+    <updated>2026-09-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Menlo Park, CA, New York, NY · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>SpaceX — New Graduate Engineer, Power Generation (Starship)</title>
@@ -364,45 +404,5 @@
     <updated>2026-09-04T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, New York, United States · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Schonfeld — 2027 Data Science Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171692"/>
-    <id>tag:ricsign.github.io,2026:696a333741392d7d</id>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, New York, United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Schonfeld — 2027 Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8180089"/>
-    <id>tag:ricsign.github.io,2026:522fc740f61c794f</id>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, New York, United States · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Schonfeld — 2027 Systematic COO Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8172059"/>
-    <id>tag:ricsign.github.io,2026:271a5ef666dce34d</id>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, New York, United States · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>SpaceX — New Graduate Engineer, Starship Components</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8783046002?gh_jid=8783046002"/>
-    <id>tag:ricsign.github.io,2026:91ac7eba330bc024</id>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Hawthorne, CA · citizenship-required · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8177651"/>
-    <id>tag:ricsign.github.io,2026:c4e3b3f8ed7b5724</id>
-    <updated>2026-09-04T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, California, USA, San Francisco (US-SFO-MKT555) · unknown · masters-preferred</summary>
   </entry>
 </feed>
