@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-15T04:59:34+00:00</updated>
+  <updated>2026-09-15T11:50:57+00:00</updated>
   <entry>
     <title>DoorDash — Software Engineer, Intern (Summer 2027) - US</title>
     <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041"/>
@@ -12,6 +12,14 @@
     <updated>2026-09-15T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY, San Francisco, CA, Sunnyvale, CA, Los Angeles, CA, Seattle, WA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Etched — Core Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application"/>
+    <id>tag:ricsign.github.io,2026:d10662e21035232b</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Intel — AI Solutions Engineering Undergraduate Intern</title>
@@ -116,14 +124,6 @@
     <updated>2026-09-14T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Intel — Packaging Technology Development Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080"/>
-    <id>tag:ricsign.github.io,2026:96200d580347a232</id>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Arizona, Phoenix · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Okta — Developer Support Associate (New Grad)</title>

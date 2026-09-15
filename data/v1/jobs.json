@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-15T04:59:34+00:00",
+ "generated_at": "2026-09-15T11:50:57+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 353,
@@ -740,6 +740,32 @@
    "openings": 1
   },
   {
+   "uid": "d10662e21035232b",
+   "company_slug": "etched",
+   "company_name": "Etched",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "ashby",
+   "title": "Core Engineering Intern",
+   "apply_url": "https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application",
+   "locations": [
+    "San Jose"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Operations",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "327b4e3401c71dc9",
    "company_slug": "doordash",
    "company_name": "DoorDash",
@@ -1063,7 +1089,7 @@
    "compensation": null,
    "department": "Pipeline (N/A)",
    "active": true,
-   "link_status": "dead",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8643,32 +8669,6 @@
    "degree": "unspecified",
    "sponsorship": "unknown",
    "first_seen": "2026-09-15",
-   "last_verified": "2026-09-15",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "96200d580347a232",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Packaging Technology Development Graduate Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
-   "locations": [
-    "US, Arizona, Phoenix"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-14",
    "last_verified": "2026-09-15",
    "posted_at": null,
    "closed_at": null,
