@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-15T17:05:03+00:00",
+ "generated_at": "2026-09-15T21:26:01+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 356,
+ "count": 367,
  "jobs": [
   {
    "uid": "59b6f87bb1dd148e",
@@ -740,6 +740,242 @@
    "openings": 1
   },
   {
+   "uid": "3b6588e6eb8d2c49",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Flight Software Engineer Intern",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Air Dominance & Strike",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "c5a71c14856b6201",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 EWIS Harness Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Hardware Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "951bc063b1e2f587",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 PCB Layout Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Hardware Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "67f36e8715b759ea",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 Software Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "locations": [
+    "Quincy, Massachusetts, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Maritime & Maneuver Dominance : Undersea Reconnaissance & Strike - Engineering & Operations : Software Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f10723b08f8e6e98",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 Systems Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+   "locations": [
+    "Quincy, Massachusetts, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Maritime & Maneuver Dominance ",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "398b24d0fe294771",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 Test & Evaluation Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Hardware Platform : Hardware Test Operations : Test & Evaluation",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "9cf48698433522ca",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 Test Automation Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007",
+   "locations": [
+    "Washington, District of Columbia, United States",
+    "Costa Mesa, CA (OC-00)"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Hardware Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f49e6949cc19d017",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 Warhead Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Hardware Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "5fb895af90b5dc69",
+   "company_slug": "datadog",
+   "company_name": "Datadog",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Research Science Intern (PhD)",
+   "apply_url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+   "locations": [
+    "New York, New York, USA",
+    "Pittsburgh, Pennsylvania, USA"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Engineering Interns",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "d10662e21035232b",
    "company_slug": "etched",
    "company_name": "Etched",
@@ -811,6 +1047,32 @@
    "posted_at": null,
    "closed_at": null,
    "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "67d45507f686be76",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Research Intern, Fundamental Generative AI - 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
    "compensation": null,
    "department": null,
    "active": true,
@@ -1198,17 +1460,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -1225,17 +1487,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -1922,7 +2184,7 @@
    "compensation": null,
    "department": "Internship",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2812,7 +3074,7 @@
    "compensation": null,
    "department": "Mission Systems : Battlespace Awareness Engineering",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -3252,32 +3514,6 @@
    "openings": 1
   },
   {
-   "uid": "838e125facd50072",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-15",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Satellite Payload Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "14812f7b8d47b8ff",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -3304,18 +3540,15 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
    "locations": [
-    "Palo Alto, CA",
-    "Irvine, CA",
-    "Palo Alto - 1200",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -3327,7 +3560,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Silicon Engineering",
+   "department": "Satellite Payload Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -3345,6 +3578,35 @@
     "Redmond, WA",
     "Irvine, CA",
     "Palo Alto - 1200"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Silicon Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "3b733edade933b2c",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Silicon Engineering",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "locations": [
+    "Palo Alto, CA",
+    "Irvine, CA",
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -3415,32 +3677,6 @@
    "openings": 1
   },
   {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-15",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -3463,6 +3699,32 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Mobile Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "2fb1d8fb22585078",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -3682,7 +3944,7 @@
    "compensation": null,
    "department": "Core AI and Machine Learning",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4083,7 +4345,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4331,7 +4593,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4513,7 +4775,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4539,7 +4801,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4565,7 +4827,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4591,7 +4853,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4617,7 +4879,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4643,7 +4905,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4669,7 +4931,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4695,7 +4957,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4721,7 +4983,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4747,7 +5009,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4773,7 +5035,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5405,7 +5667,7 @@
    "compensation": null,
    "department": "Risk",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5568,7 +5830,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5595,7 +5857,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5622,7 +5884,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5960,7 +6222,7 @@
    "compensation": null,
    "department": "Platform",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6400,6 +6662,32 @@
    "openings": 1
   },
   {
+   "uid": "053c6f0dfbe359a2",
+   "company_slug": "schonfeld",
+   "company_name": "Schonfeld",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Senior/Junior AI Engineer",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962",
+   "locations": [
+    "New York, New York, United States"
+   ],
+   "track": "quant",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-04-30",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "AI Technology",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "2684b385740ba8e1",
    "company_slug": "doordash",
    "company_name": "DoorDash",
@@ -6577,32 +6865,6 @@
    "season": null,
    "compensation": null,
    "department": "Starshield Satellite Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "c54a237bd8fff6e8",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Test Stand Design & Build Engineer (Structures/Fluid Systems)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8477422002?gh_jid=8477422002",
-   "locations": [
-    "McGregor, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-15",
-   "posted_at": "2026-03-24",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Texas - Test Equipment Engineers",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6968,7 +7230,7 @@
    "compensation": null,
    "department": "Quant Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6994,7 +7256,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7020,7 +7282,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7046,7 +7308,7 @@
    "compensation": null,
    "department": "Data",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -8026,7 +8288,7 @@
    "compensation": null,
    "department": "Quant Management",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8706,6 +8968,32 @@
    "openings": 1
   },
   {
+   "uid": "c503b45de30b7da0",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering PhD Intern Summer 2027",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "d9deccb5ff98b4c3",
    "company_slug": "intel",
    "company_name": "Intel",
@@ -8812,16 +9100,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -8839,16 +9127,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -9416,16 +9704,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - Seattle",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -9443,15 +9730,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - Seattle",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
