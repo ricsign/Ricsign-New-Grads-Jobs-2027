@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-14T21:53:20+00:00</updated>
+  <updated>2026-09-15T04:59:34+00:00</updated>
+  <entry>
+    <title>DoorDash — Software Engineer, Intern (Summer 2027) - US</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041"/>
+    <id>tag:ricsign.github.io,2026:327b4e3401c71dc9</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY, San Francisco, CA, Sunnyvale, CA, Los Angeles, CA, Seattle, WA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Intel — AI Solutions Engineering Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629"/>
+    <id>tag:ricsign.github.io,2026:93f401ffa3276b3b</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Figma — Data Science Intern (2027)</title>
     <link href="https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"/>
@@ -142,28 +158,12 @@
     <summary>Hawthorne, CA, Washington, DC · security-clearance · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Intel — Module Engineering PhD Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Module-Engineering-PhD-Intern_JR0286932"/>
-    <id>tag:ricsign.github.io,2026:e61508b3c97c1ff9</id>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Arizona, Phoenix · unknown · phd-required</summary>
-  </entry>
-  <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8193295"/>
     <id>tag:ricsign.github.io,2026:261636294a9e9bf5</id>
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, California, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Engineering PhD Intern New 2027</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287021"/>
-    <id>tag:ricsign.github.io,2026:b28c4c5a136db5ee</id>
-    <updated>2026-09-11T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Lyft — Data Analyst Intern (Summer 2027)</title>
