@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**100 open roles** · last verified 2026-09-15 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**101 open roles** · last verified 2026-09-15 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -53,6 +53,8 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Etched** | Core Engineering Intern | San Jose | — | · | today · Sep 15 | today · Sep 15 | [apply](https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application) |
+| **Five Rings** | Summer 2027 - Trading Operations Engineer Intern · _Summer 2027_ | New York City | — | · | today · Sep 15 | today · Sep 15 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
+| **NVIDIA** | Physical Design and Timing Engineer Intern - Summer 2027 · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Sep 15 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
 | **DoorDash** | Software Engineer, Intern (Summer 2027) - US · _Summer 2027_ | New York, NY, San Francisco, CA +3 | — | ·📗 | 1d · Sep 14 | today · Sep 15 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | **Figma** | Data Science Intern (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | · | 1d · Sep 14 | 1d · Sep 14 | [apply](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) |
 | **Figma** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA • New York, NY, US | — | · | 1d · Sep 14 | 1d · Sep 14 | [apply](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) |
@@ -100,7 +102,6 @@ Software engineering and research internships at the same curated bar.
 | **Old Mission Capital** | Software Engineer – 2027 Internship Program (June Start) · _2027_ | Chicago, IL, United States | — | ·📗 | 2mo · Jul 15 | 14d · Sep 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Researcher (PhD) · _Summer 2027_ | New York City | — | ·🎓 | 2mo · Jul 14 | 14d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Trader · _Summer 2027_ | New York City | — | · | 2mo · Jul 14 | 14d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
-| **Five Rings** | Summer Intern 2027 - Software Developer · _Summer 2027_ | New York City | — | · | 2mo · Jul 14 | 14d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
 | **Akuna Capital** | Platform Engineer Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 14d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) |
 | **Akuna Capital** | Quantitative Development & Strategy Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 14d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) |
 | **Akuna Capital** | Quantitative Research Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 14d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
@@ -131,7 +132,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | AI Solutions Engineering Undergraduate Intern | US, Oregon, Hillsboro | — | · | — | today · Sep 15 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629) |
+| **Intel** | Process Integration and Yield Engineering PhD Intern Repeat | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 15 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168) |
 | **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | 4d · Sep 11 | 4d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
 | **Lyft** | Data Science Intern, Algorithms (Summer 2027) · _Summer 2027_ · `2 openings` | New York, NY, San Francisco Office +1 | — | ·📗 | 4d · Sep 11 | 4d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
 | **Lyft** | Software Engineer Intern, Backend (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·📗 | 4d · Sep 11 | 4d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
@@ -148,4 +149,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-15 11:50 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-15 17:05 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

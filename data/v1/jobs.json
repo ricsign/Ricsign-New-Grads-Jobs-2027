@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-15T11:50:57+00:00",
+ "generated_at": "2026-09-15T17:05:03+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 353,
+ "count": 356,
  "jobs": [
   {
    "uid": "59b6f87bb1dd148e",
@@ -761,6 +761,58 @@
    "season": null,
    "compensation": null,
    "department": "Operations",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "fd6489b513c3890b",
+   "company_slug": "five-rings",
+   "company_name": "Five Rings",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Summer 2027 - Trading Operations Engineer Intern",
+   "apply_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
+   "locations": [
+    "New York City"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Trading Operations",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "73299b5abcd8f302",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Physical Design and Timing Engineer Intern - Summer 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1870,7 +1922,7 @@
    "compensation": null,
    "department": "Internship",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -2760,7 +2812,7 @@
    "compensation": null,
    "department": "Mission Systems : Battlespace Awareness Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -3252,18 +3304,19 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "3b733edade933b2c",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
    "locations": [
-    "Redmond, WA",
+    "Palo Alto, CA",
     "Irvine, CA",
-    "Palo Alto - 1200"
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -3280,19 +3333,18 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
    "locations": [
-    "Palo Alto, CA",
+    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -3416,33 +3468,6 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
-   "locations": [
-    "Palo Alto, CA",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-15",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -3479,6 +3504,33 @@
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a169755945b07175",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -3630,7 +3682,7 @@
    "compensation": null,
    "department": "Core AI and Machine Learning",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4279,7 +4331,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4461,7 +4513,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4487,7 +4539,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4513,7 +4565,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4539,7 +4591,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4565,7 +4617,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4591,7 +4643,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4617,7 +4669,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4643,7 +4695,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4669,7 +4721,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4695,7 +4747,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4721,7 +4773,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5353,7 +5405,7 @@
    "compensation": null,
    "department": "Risk",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5516,7 +5568,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5543,7 +5595,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5570,7 +5622,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5908,7 +5960,7 @@
    "compensation": null,
    "department": "Platform",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6916,7 +6968,7 @@
    "compensation": null,
    "department": "Quant Research",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6942,7 +6994,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6968,7 +7020,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6994,7 +7046,7 @@
    "compensation": null,
    "department": "Data",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -7974,7 +8026,7 @@
    "compensation": null,
    "department": "Quant Management",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -8654,19 +8706,19 @@
    "openings": 1
   },
   {
-   "uid": "93f401ffa3276b3b",
+   "uid": "d9deccb5ff98b4c3",
    "company_slug": "intel",
    "company_name": "Intel",
    "company_tier": 2,
    "company_category": "big-tech",
    "source": "workday",
-   "title": "AI Solutions Engineering Undergraduate Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629",
+   "title": "Process Integration and Yield Engineering PhD Intern Repeat",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168",
    "locations": [
     "US, Oregon, Hillsboro"
    ],
    "track": "internship",
-   "degree": "unspecified",
+   "degree": "phd-required",
    "sponsorship": "unknown",
    "first_seen": "2026-09-15",
    "last_verified": "2026-09-15",
@@ -8675,6 +8727,33 @@
    "season": null,
    "compensation": null,
    "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "91a5b81fb218ccb4",
+   "company_slug": "samsara",
+   "company_name": "Samsara",
+   "company_tier": 2,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Senior Security Operations Engineer I",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369",
+   "locations": [
+    "San Francisco, CA, United States",
+    "San Francisco - SF9"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-09-15",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "IT Security",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -9337,15 +9416,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - Seattle",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -9363,16 +9443,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - US",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",

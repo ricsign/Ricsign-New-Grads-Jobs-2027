@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-15T11:50:57+00:00</updated>
+  <updated>2026-09-15T17:05:03+00:00</updated>
   <entry>
     <title>DoorDash — Software Engineer, Intern (Summer 2027) - US</title>
     <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041"/>
@@ -22,12 +22,36 @@
     <summary>San Jose · unknown · unspecified</summary>
   </entry>
   <entry>
-    <title>Intel — AI Solutions Engineering Undergraduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629"/>
-    <id>tag:ricsign.github.io,2026:93f401ffa3276b3b</id>
+    <title>Five Rings — Summer 2027 - Trading Operations Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008"/>
+    <id>tag:ricsign.github.io,2026:fd6489b513c3890b</id>
     <updated>2026-09-15T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · unspecified</summary>
+    <summary>New York City · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — Physical Design and Timing Engineer Intern - Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511"/>
+    <id>tag:ricsign.github.io,2026:73299b5abcd8f302</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Intel — Process Integration and Yield Engineering PhD Intern Repeat</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168"/>
+    <id>tag:ricsign.github.io,2026:d9deccb5ff98b4c3</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Samsara — Senior Security Operations Engineer I</title>
+    <link href="https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369"/>
+    <id>tag:ricsign.github.io,2026:91a5b81fb218ccb4</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, CA, United States, San Francisco - SF9 · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Figma — Data Science Intern (2027)</title>
@@ -380,29 +404,5 @@
     <updated>2026-09-08T00:00:00Z</updated>
     <category term="ai-research"/>
     <summary>San Mateo, New York · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Fireworks AI — Member of Technical Staff, New Grad (BS/MS)</title>
-    <link href="https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application"/>
-    <id>tag:ricsign.github.io,2026:74e7a72d21bfd3e8</id>
-    <updated>2026-09-08T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>San Mateo, New York · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Old Mission Capital — Junior Trading Operations/DevOps Engineer</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7989374003"/>
-    <id>tag:ricsign.github.io,2026:d2658d6339962b4c</id>
-    <updated>2026-09-08T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL, United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Vercel — Software Engineering Intern - Summer '27</title>
-    <link href="https://job-boards.greenhouse.io/vercel/jobs/6181759004"/>
-    <id>tag:ricsign.github.io,2026:1d7faed19ededffe</id>
-    <updated>2026-09-08T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Hybrid - San Francisco, Office - San Francisco · unknown · unspecified</summary>
   </entry>
 </feed>
