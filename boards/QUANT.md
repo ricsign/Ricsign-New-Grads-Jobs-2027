@@ -45,7 +45,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Point72 / Cubist** | Research Engineer, Knowledge Graph Intelligence | New York, NY | — | ·🎓 | 3mo · Jun 10 | 15d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002) |
 | **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 3mo · Jun 2 | 15d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
 | **Headlands Technologies** | Quantitative Researcher – New Grad | Chicago, New York City +1 | — | · | 3mo · May 29 | 15d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
-| **Schonfeld** | Senior/Junior AI Engineer | New York, New York, United States | — | · | 4mo · Apr 30 | 1d · Sep 15 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7843962) |
+| **Schonfeld** | AI Engineer (Junior/Senior) | New York, New York, United States | — | · | 4mo · Apr 30 | 1d · Sep 15 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7843962) |
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | 5mo · Apr 15 | 15d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
 | **DRW** | Prediction Markets Trader | Flexible - US Preferred, Chicago +1 | — | · | 8mo · Jan 7 | 15d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7520816) |
 | **DRW** | Research Engineer (FICCO) | Chicago | — | · | 10mo · Nov 5 2025 | 15d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) |
@@ -64,4 +64,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-09-16 11:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-16 17:05 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
