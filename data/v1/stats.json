@@ -1,69 +1,69 @@
 {
- "generated_at": "2026-09-16T17:05:05+00:00",
- "live_requisitions": 370,
- "live_roles": 330,
- "companies_with_open_roles": 63,
+ "generated_at": "2026-09-16T21:22:53+00:00",
+ "live_requisitions": 375,
+ "live_roles": 335,
+ "companies_with_open_roles": 64,
  "posted_age": {
-  "median_days": 57,
-  "posted_last_24h": 16,
-  "posted_last_7d": 40,
-  "posted_last_30d": 116,
+  "median_days": 56,
+  "posted_last_24h": 20,
+  "posted_last_7d": 43,
+  "posted_last_30d": 120,
   "evergreen_over_1y": 41,
   "with_posted_date_pct": 99.4
  },
  "by_track": {
-  "new-grad-swe": 100,
-  "ai-research": 10,
-  "quant": 57,
-  "internship": 203,
+  "new-grad-swe": 102,
+  "ai-research": 11,
+  "quant": 58,
+  "internship": 204,
   "other": 0
  },
  "by_tier": {
   "0": 28,
-  "1": 306,
-  "2": 36
+  "1": 312,
+  "2": 35
  },
  "by_sponsorship": {
   "sponsors": 23,
-  "no-sponsorship": 8,
+  "no-sponsorship": 9,
   "citizenship-required": 42,
   "security-clearance": 47,
-  "unknown": 250
+  "unknown": 254
  },
  "by_degree": {
-  "bachelors": 50,
+  "bachelors": 51,
   "masters-preferred": 150,
-  "phd-required": 32,
-  "unspecified": 138
+  "phd-required": 33,
+  "unspecified": 141
  },
- "sponsorship_resolved_pct": 32.4,
- "link_verified_pct": 87.8,
+ "sponsorship_resolved_pct": 32.3,
+ "link_verified_pct": 90.7,
  "by_link_status": {
-  "ok": 325,
+  "ok": 340,
   "blocked": 31,
-  "error": 14,
+  "error": 4,
   "dead": 0,
   "closed": 0,
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 464,
-  "live": 416,
+  "tracked": 471,
+  "live": 423,
   "closed": 48,
   "median_age_days": 15,
   "p90_age_days": 15,
   "max_age_days": 15,
-  "verified_within_24h": 378
+  "verified_within_24h": 386
  },
  "pipeline_health": {
   "boards_attempted": 129,
-  "boards_ok": 127,
+  "boards_ok": 126,
   "boards_empty": 1,
-  "boards_failed": 1,
-  "success_rate": 0.9845,
-  "postings_fetched": 21960,
+  "boards_failed": 2,
+  "success_rate": 0.9767,
+  "postings_fetched": 21913,
   "by_source": {
-   "greenhouse": 77,
+   "greenhouse": 76,
    "ashby": 41,
    "workday": 5,
    "amazon": 1,
@@ -75,6 +75,11 @@
     "company": "ClickHouse",
     "ats": "greenhouse",
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+   },
+   {
+    "company": "Postman",
+    "ats": "greenhouse",
+    "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/postman/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
    }
   ],
   "empty_boards": [
@@ -85,21 +90,21 @@
    }
   ],
   "rejections": {
-   "not a US location": 6055,
-   "senior/experienced role": 4030,
-   "title is not a technical role": 3849,
-   "non-technical role": 3178,
-   "not an early-career posting": 2797,
+   "not a US location": 6029,
+   "senior/experienced role": 4008,
+   "title is not a technical role": 3837,
+   "non-technical role": 3171,
+   "not an early-career posting": 2801,
    "non-CS engineering discipline": 824,
-   "quant role without early-career marker": 269,
+   "quant role without early-career marker": 271,
    "research role without early-career marker": 132
   },
   "link_check": {
-   "ok": 325,
+   "ok": 340,
    "blocked": 31,
-   "error": 14,
-   "checked": 370,
-   "conclusive": 325,
+   "error": 4,
+   "checked": 375,
+   "conclusive": 340,
    "resolving_pct": 100.0
   }
  }

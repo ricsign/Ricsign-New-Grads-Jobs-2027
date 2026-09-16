@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-16T17:05:05+00:00</updated>
+  <updated>2026-09-16T21:22:53+00:00</updated>
   <entry>
     <title>Mercor — Data Science Intern</title>
     <link href="https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application"/>
@@ -20,6 +20,46 @@
     <updated>2026-09-16T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Software Engineer, Battlespace Awareness</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007"/>
+    <id>tag:ricsign.github.io,2026:f3c23b9f5051dbbc</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Broomfield, Colorado, United States, Fort Collins, Colorado, United States · security-clearance · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Decagon — Member of Technical Staff - New Grad (2027 Start)</title>
+    <link href="https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f/application"/>
+    <id>tag:ricsign.github.io,2026:263744077a373ef5</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Francisco, New York City · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Decagon — Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application"/>
+    <id>tag:ricsign.github.io,2026:3658a6d3c70c6599</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Headlands Technologies — C++ Software Developer</title>
+    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009"/>
+    <id>tag:ricsign.github.io,2026:f117bfc142f20cf9</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, New York City · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Headlands Technologies — C++ Software Developer - New Grad</title>
+    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009"/>
+    <id>tag:ricsign.github.io,2026:cdbb8abc04589cd9</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, New York City · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Old Mission Capital — Floor Trader - 2027 Graduate Program (August Start)</title>
@@ -54,12 +94,28 @@
     <summary>Mountain View, California, United States, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
   <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Quantitative Software Engineer</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8197554"/>
+    <id>tag:ricsign.github.io,2026:d6d67a47bb5ba91c</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, California, United States | San Francisco, California, United States, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>Intel — Operations Research, Engineering Analytics Graduate Intern</title>
     <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502"/>
     <id>tag:ricsign.github.io,2026:c14ce22b377d7276</id>
     <updated>2026-09-16T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, Arizona, Phoenix · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Verkada — Enterprise Development Representative (December 2026 Grads)</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5226332007"/>
+    <id>tag:ricsign.github.io,2026:ce997880a5100fb0</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, TX United States, Austin office · no-sponsorship · bachelors</summary>
   </entry>
   <entry>
     <title>Anduril Industries — 2027 Flight Software Engineer Intern</title>
@@ -158,20 +214,20 @@
     <summary>New York City · unknown · unspecified</summary>
   </entry>
   <entry>
+    <title>NVIDIA — PhD Research Intern, Fundamental Generative AI - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"/>
+    <id>tag:ricsign.github.io,2026:67d45507f686be76</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>Schonfeld — AI Engineer (Junior/Senior)</title>
     <link href="https://job-boards.greenhouse.io/schonfeld/jobs/7843962"/>
     <id>tag:ricsign.github.io,2026:053c6f0dfbe359a2</id>
     <updated>2026-09-15T00:00:00Z</updated>
     <category term="quant"/>
     <summary>New York, New York, United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Engineering PhD Intern Summer 2027</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916"/>
-    <id>tag:ricsign.github.io,2026:c503b45de30b7da0</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Samsara — Senior Security Operations Engineer I</title>
@@ -246,14 +302,6 @@
     <summary>Menlo Park, CA, New York, NY · unknown · unspecified</summary>
   </entry>
   <entry>
-    <title>Squarepoint Capital — Primary Research Analyst</title>
-    <link href="https://www.squarepoint-capital.com/open-opportunities?id=6914700&amp;gh_jid=6914700"/>
-    <id>tag:ricsign.github.io,2026:8ec50c3a32702f97</id>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>New York · unknown · bachelors</summary>
-  </entry>
-  <entry>
     <title>Waymo — 2027 Summer Intern, BS/MS, Software Engineer</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8193731"/>
     <id>tag:ricsign.github.io,2026:fd980f56f24646f4</id>
@@ -295,19 +343,19 @@
   </entry>
   <entry>
     <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002"/>
-    <id>tag:ricsign.github.io,2026:923fc644b6611834</id>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Hawthorne, CA, Washington, DC · security-clearance · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
     <link href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002"/>
     <id>tag:ricsign.github.io,2026:dfd60133b7e37b4d</id>
     <updated>2026-09-12T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Washington, DC, Hawthorne, CA · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002"/>
+    <id>tag:ricsign.github.io,2026:923fc644b6611834</id>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Hawthorne, CA, Washington, DC · security-clearance · masters-preferred</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
@@ -327,19 +375,19 @@
   </entry>
   <entry>
     <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"/>
-    <id>tag:ricsign.github.io,2026:158585a21ed46f0a</id>
-    <updated>2026-09-11T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY, San Francisco Office · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"/>
     <id>tag:ricsign.github.io,2026:76f4d3fe53e0ea8d</id>
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"/>
+    <id>tag:ricsign.github.io,2026:158585a21ed46f0a</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY, San Francisco Office · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Lyft — Software Engineer Intern, Backend (Summer 2027)</title>
@@ -356,53 +404,5 @@
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY, New York Office · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anysphere (Cursor) — Software Engineer, New Grad 2027</title>
-    <link href="https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application"/>
-    <id>tag:ricsign.github.io,2026:59b6f87bb1dd148e</id>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Francisco, New York · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Flight Test Engineer - Imaging</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007"/>
-    <id>tag:ricsign.github.io,2026:64bc43b1a2213be4</id>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Waltham, Massachusetts, United States · security-clearance · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — System Test Engineer - Imaging</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5147719007?gh_jid=5147719007"/>
-    <id>tag:ricsign.github.io,2026:915dc1862352eb76</id>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Boulder, Colorado, United States · security-clearance · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Schonfeld — 2027 Platform Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699"/>
-    <id>tag:ricsign.github.io,2026:8fc43b48b5dfc952</id>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, New York, United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Applied Intuition — Electrical System Integration Engineer - New Grad</title>
-    <link href="https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application"/>
-    <id>tag:ricsign.github.io,2026:95849b4d3d3a59f6</id>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Sunnyvale · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Coinbase — Analytics Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"/>
-    <id>tag:ricsign.github.io,2026:7298151d218fb67c</id>
-    <updated>2026-09-09T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
   </entry>
 </feed>

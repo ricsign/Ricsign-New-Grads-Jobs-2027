@@ -10,22 +10,21 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (3)
+## 🆕 Posted in the last 7 days (2)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Old Mission Capital** | [Floor Trader - 2027 Graduate Program (August Start)](https://www.oldmissioncapital.com/careers/?gh_jid=7993756003) | Chicago, IL, United States | 1d · Sep 15 |
 | **Five Rings** | [Recent Graduate - Trading Assistant (NYC)](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) | New York City | 2d · Sep 14 |
-| **Squarepoint Capital** | [Primary Research Analyst](https://www.squarepoint-capital.com/open-opportunities?id=6914700&gh_jid=6914700) | New York | 2d · Sep 14 |
 
 
 ## Tier 1 — Established elite
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Headlands Technologies** | C++ Software Developer - New Grad | Chicago, New York City | — | · | today · Sep 16 | today · Sep 16 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) |
 | **Old Mission Capital** | Floor Trader - 2027 Graduate Program (August Start) · _2027_ | Chicago, IL, United States | — | · | 1d · Sep 15 | today · Sep 16 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7993756003) |
 | **Five Rings** | Recent Graduate - Trading Assistant (NYC) | New York City | — | · | 2d · Sep 14 | 2d · Sep 14 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) |
-| **Squarepoint Capital** | Primary Research Analyst | New York | — | · | 2d · Sep 14 | 2d · Sep 14 | [apply](https://www.squarepoint-capital.com/open-opportunities?id=6914700&gh_jid=6914700) |
 | **Old Mission Capital** | Junior Trading Operations/DevOps Engineer | Chicago, IL, United States | — | · | 8d · Sep 8 | 8d · Sep 8 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7989374003) |
 | **Old Mission Capital** | Fundamental Research Analyst - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·📗 | 14d · Sep 2 | 14d · Sep 2 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
 | **Jump Trading** | Research Scientist/Research Engineer, Reinforcement Learning | New York City | — | ·📗 | 29d · Aug 18 | 15d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8122860) |
@@ -64,4 +63,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-09-16 17:05 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-16 21:22 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

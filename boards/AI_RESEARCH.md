@@ -31,13 +31,11 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (3)
+## 🆕 Posted in the last 7 days (1)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Datadog** | [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | New York, New York, USA +1 | 1d · Sep 15 |
-| **Squarepoint Capital** | [Primary Research Analyst](https://www.squarepoint-capital.com/open-opportunities?id=6914700&gh_jid=6914700) | New York | 2d · Sep 14 |
-| **Waymo** | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Mountain View, CA, USA +1 | 2d · Sep 14 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -60,9 +58,9 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer · _Summer 2027_ | Mountain View, California, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Sep 16 | today · Sep 16 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8202801) |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Computer Vision · _Summer 2027_ · `2 openings` | Mountain View, California, United States, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Sep 16 | today · Sep 16 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8202025) |
+| **Waymo** | 2027 Summer Intern, PhD, Quantitative Software Engineer · _Summer 2027_ | Mountain View, California, United States \| San Francisco, California, United States, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | today · Sep 16 | today · Sep 16 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8197554) |
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 1d · Sep 15 | 1d · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
-| **Squarepoint Capital** | Primary Research Analyst | New York | — | · | 2d · Sep 14 | 2d · Sep 14 | [apply](https://www.squarepoint-capital.com/open-opportunities?id=6914700&gh_jid=6914700) |
-| **Waymo** | 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 2d · Sep 14 | 2d · Sep 14 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8197899) |
+| **NVIDIA** | PhD Research Intern, Fundamental Generative AI - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | 1d · Sep 15 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) |
 | **Coinbase** | Machine Learning Engineer Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | ·🎓 | 8d · Sep 8 | 7d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | **Coinbase** | User Research Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | · | 8d · Sep 8 | 7d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) |
 | **Fireworks AI** | Member of Technical Staff, New Grad (BS/MS) · _Summer 2027_ | San Mateo, New York | $160k–$180k | ·📗 | 8d · Sep 8 | 8d · Sep 8 | [apply](https://jobs.ashbyhq.com/fireworks/0c78aede-7c21-4d1e-88f1-f309deb9819e/application) |
@@ -74,6 +72,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Sydney · _Summer 2027_ | Chicago | — | ·🎓 | 23d · Aug 24 | 15d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
 | **Netflix** | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America | — | ·🎓 | 28d · Aug 19 | 15d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317917022) |
 | **Netflix** | Machine Learning/AI Scientist PhD Intern, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America, Los Angeles,California,United States of America | — | ·🎓 | 28d · Aug 19 | 15d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
+| **Decagon** | Member of Technical Staff - New Grad (2027 Start) · _2027_ | San Francisco, New York City | $185k | · | 29d · Aug 18 | today · Sep 16 | [apply](https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f/application) |
 | **Jump Trading** | Research Scientist/Research Engineer, Reinforcement Learning | New York City | — | ·📗 | 29d · Aug 18 | 15d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8122860) |
 | **Applied Intuition** | Research Engineer - New Grad (2027) · _2027_ | Sunnyvale | $140k–$200k | ·🎓 | 1mo · Aug 14 | 15d · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application) |
 | **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 1mo · Aug 11 | 15d · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
@@ -116,8 +115,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Intel** | Operations Research, Engineering Analytics Graduate Intern | US, Arizona, Phoenix | — | · | — | today · Sep 16 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502) |
-| **Intel** | Module Engineering PhD Intern Summer 2027 · _Summer 2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Sep 15 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
 
 ---
 
-Generated 2026-09-16 17:05 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-16 21:22 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
