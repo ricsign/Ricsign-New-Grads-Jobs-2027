@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-17T17:04:52+00:00</updated>
+  <updated>2026-09-17T21:27:17+00:00</updated>
   <entry>
     <title>DRW — Floor Trader</title>
     <link href="https://job-boards.greenhouse.io/drweng/jobs/8207750"/>
@@ -14,12 +14,44 @@
     <summary>Chicago · unknown · bachelors</summary>
   </entry>
   <entry>
+    <title>NVIDIA — PhD Research Intern, Hardware and Systems Architecture - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893"/>
+    <id>tag:ricsign.github.io,2026:c7b4b80851fa0ec3</id>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — Test Stand Design &amp; Build Engineer (Structures/Fluid Systems)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002"/>
+    <id>tag:ricsign.github.io,2026:012d9830eae8c1ca</id>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>McGregor, TX · citizenship-required · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Tower Research Capital — Software Engineer Intern (Summer 2027)</title>
+    <link href="https://www.tower-research.com/open-positions/?gh_jid=8212158"/>
+    <id>tag:ricsign.github.io,2026:4ee7169d42acbbea</id>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
     <title>Waymo — 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8203200"/>
     <id>tag:ricsign.github.io,2026:d65875a38dccbd37</id>
     <updated>2026-09-17T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, California, San Francisco (US-SFO-MKT555) · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Samsara — Senior Security Operations Engineer I</title>
+    <link href="https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286"/>
+    <id>tag:ricsign.github.io,2026:4306ce00e656b094</id>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Remote - OR, San Francisco - SF9 · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Mercor — Data Science Intern</title>
@@ -94,7 +126,7 @@
     <summary>Menlo Park, CA · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineer</title>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8202801"/>
     <id>tag:ricsign.github.io,2026:f3b4fe278f97981a</id>
     <updated>2026-09-16T00:00:00Z</updated>
@@ -142,14 +174,6 @@
     <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Anduril Industries — Winter 2027 PCB Layout Engineer Co-op</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007"/>
-    <id>tag:ricsign.github.io,2026:951bc063b1e2f587</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
     <title>Anduril Industries — Winter 2027 Software Engineer Co-op</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007"/>
     <id>tag:ricsign.github.io,2026:67f36e8715b759ea</id>
@@ -164,14 +188,6 @@
     <updated>2026-09-15T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Quincy, Massachusetts, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Winter 2027 Test Automation Engineer Co-op</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007"/>
-    <id>tag:ricsign.github.io,2026:9cf48698433522ca</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Washington, District of Columbia, United States, Costa Mesa, CA (OC-00) · citizenship-required · masters-preferred</summary>
   </entry>
   <entry>
     <title>Anduril Industries — Winter 2027 Test &amp; Evaluation Engineer Co-op</title>
@@ -374,7 +390,7 @@
     <summary>New York, NY, New York Office · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
+    <title>Lyft — Data Science Intern, Algorithms (Summer 2027 - SF/NYC)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"/>
     <id>tag:ricsign.github.io,2026:158585a21ed46f0a</id>
     <updated>2026-09-11T00:00:00Z</updated>
@@ -382,27 +398,11 @@
     <summary>New York, NY, San Francisco Office · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
+    <title>Lyft — Data Science Intern, Algorithms (Summer 2027 - SF/NYC)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"/>
     <id>tag:ricsign.github.io,2026:76f4d3fe53e0ea8d</id>
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Lyft — Software Engineer Intern, Backend (Summer 2027)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"/>
-    <id>tag:ricsign.github.io,2026:2af365439c0fddc6</id>
-    <updated>2026-09-11T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Lyft — Software Engineer Intern, Fullstack (Summer 2027)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002"/>
-    <id>tag:ricsign.github.io,2026:8aba8f7fd85e35fd</id>
-    <updated>2026-09-11T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY, New York Office · unknown · masters-preferred</summary>
   </entry>
 </feed>
