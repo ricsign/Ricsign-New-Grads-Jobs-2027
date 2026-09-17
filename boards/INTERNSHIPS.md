@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**105 open roles** · last verified 2026-09-17 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**104 open roles** · last verified 2026-09-17 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -64,7 +64,6 @@ Software engineering and research internships at the same curated bar.
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 2d · Sep 15 | 2d · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 | **Etched** | Core Engineering Intern | San Jose | — | · | 2d · Sep 15 | 2d · Sep 15 | [apply](https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application) |
 | **Five Rings** | Summer 2027 - Trading Operations Engineer Intern · _Summer 2027_ | New York City | — | · | 2d · Sep 15 | 2d · Sep 15 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
-| **NVIDIA** | PhD Research Intern, Fundamental Generative AI - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | 2d · Sep 15 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) |
 | **DoorDash** | Software Engineer, Intern (Summer 2027) - US · _Summer 2027_ | New York, NY, San Francisco, CA +3 | — | ·📗 | 3d · Sep 14 | 2d · Sep 15 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | **Figma** | Data Science Intern (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | · | 3d · Sep 14 | 3d · Sep 14 | [apply](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) |
 | **Figma** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA • New York, NY, US | — | · | 3d · Sep 14 | 3d · Sep 14 | [apply](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) |
@@ -89,7 +88,6 @@ Software engineering and research internships at the same curated bar.
 | **Netflix** | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America | — | ·🎓 | 29d · Aug 19 | 16d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317917022) |
 | **Netflix** | Machine Learning/AI Scientist PhD Intern, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America, Los Angeles,California,United States of America | — | ·🎓 | 29d · Aug 19 | 16d · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317916733) |
 | **Notion** | Data Science Intern (Winter 2027) · _Winter 2027_ | San Francisco, California | — | ·📗 | 29d · Aug 19 | 16d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application) |
-| **Point72 / Cubist** | Quantitative Developer Intern · _Winter 2027_ | New York, NY | — | · | 1mo · Aug 17 | 16d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) |
 | **Notion** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, New York, New York | — | ·📗 | 1mo · Aug 14 | 16d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application) |
 | **Notion** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 1mo · Aug 14 | 16d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application) |
 | **The Voleon Group** | Software Engineer Intern - (Summer 2027) · _Summer 2027_ | Berkeley, CA, New York City, NY | $15k | · | 1mo · Aug 14 | 16d · Sep 1 | [apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application) |
@@ -133,6 +131,7 @@ Software engineering and research internships at the same curated bar.
 | **Point72 / Cubist** | Quantitative Research Intern (NLP) · `open 1y+` | New York, NY | — | ·📗 | 1y · May 31 2025 | 16d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
 | **XTX Markets** | AI Research Internship - XTY Labs · `open 1y+` | New York | — | ·📗 | 1y · Nov 18 2024 | 16d · Sep 1 | [apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) |
 | **Point72 / Cubist** | Machine Learning Researcher - Intern · `open 2y+` | New York, NY | — | · | 2y · Aug 15 2024 | 16d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
+| **Point72 / Cubist** | Quantitative Research Intern · `open 2y+` | New York, Seattle, New York, NY | — | ·📗 | 2y · Aug 15 2024 | 16d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
 
 ## Tier 2 — Strong specialists
 
@@ -153,4 +152,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-17 11:48 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-17 17:04 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

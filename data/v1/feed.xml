@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-17T11:48:27+00:00</updated>
+  <updated>2026-09-17T17:04:52+00:00</updated>
   <entry>
     <title>DRW — Floor Trader</title>
     <link href="https://job-boards.greenhouse.io/drweng/jobs/8207750"/>
@@ -222,14 +222,6 @@
     <summary>New York City · unknown · unspecified</summary>
   </entry>
   <entry>
-    <title>NVIDIA — PhD Research Intern, Fundamental Generative AI - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406"/>
-    <id>tag:ricsign.github.io,2026:67d45507f686be76</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
-  </entry>
-  <entry>
     <title>Schonfeld — AI Engineer (Junior/Senior)</title>
     <link href="https://job-boards.greenhouse.io/schonfeld/jobs/7843962"/>
     <id>tag:ricsign.github.io,2026:053c6f0dfbe359a2</id>
@@ -383,19 +375,19 @@
   </entry>
   <entry>
     <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"/>
-    <id>tag:ricsign.github.io,2026:76f4d3fe53e0ea8d</id>
-    <updated>2026-09-11T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"/>
     <id>tag:ricsign.github.io,2026:158585a21ed46f0a</id>
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY, San Francisco Office · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Data Science Intern, Algorithms (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"/>
+    <id>tag:ricsign.github.io,2026:76f4d3fe53e0ea8d</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Lyft — Software Engineer Intern, Backend (Summer 2027)</title>
@@ -404,5 +396,13 @@
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Lyft — Software Engineer Intern, Fullstack (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002"/>
+    <id>tag:ricsign.github.io,2026:8aba8f7fd85e35fd</id>
+    <updated>2026-09-11T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY, New York Office · unknown · masters-preferred</summary>
   </entry>
 </feed>
