@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**106 open roles** · last verified 2026-09-18 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**109 open roles** · last verified 2026-09-18 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,10 +10,11 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (19)
+## 🆕 Posted in the last 7 days (20)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
+| **Amazon** | [Software Development Engineer Intern - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) | Seattle, Washington, USA | 1d · Sep 17 |
 | **Tower Research Capital** | [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) | New York | 1d · Sep 17 |
 | **Robinhood** | [Security Risk Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) | Menlo Park, CA | 2d · Sep 16 |
 | **Waymo** | [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | San Francisco, California +1 | 2d · Sep 16 |
@@ -28,7 +29,6 @@ Software engineering and research internships at the same curated bar.
 | **DoorDash** | [Software Engineer, Intern (Summer 2027) - US](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) | New York, NY +4 | 4d · Sep 14 |
 | **Figma** | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY +1 | 4d · Sep 14 |
 | **Figma** | [Software Engineer Intern (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) | San Francisco, CA • New York, NY +1 | 4d · Sep 14 |
-| **Robinhood** | [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | Menlo Park, CA | 4d · Sep 14 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -54,6 +54,10 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Together AI** | Research Intern, Frontier Agents (Winter 2027) · _Winter 2027_ | San Francisco | — | ·🎓 | today · Sep 18 | today · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) |
+| **Together AI** | Research Intern, Inference (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | today · Sep 18 | today · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) |
+| **Together AI** | Research Intern, Inference (Winter 2027) · _Winter 2027_ | San Francisco | — | ·📗 | today · Sep 18 | today · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238461007) |
+| **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) · _Summer 2027_ | Seattle, Washington, USA | — | · | 1d · Sep 17 | today · Sep 18 | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) |
 | **NVIDIA** | PhD Research Intern, Hardware and Systems Architecture - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | 1d · Sep 17 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893) |
 | **Tower Research Capital** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | New York | — | ·📗 | 1d · Sep 17 | 1d · Sep 17 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8212158) |
 | **Robinhood** | Security Risk Management Intern (Summer 2027) · _Summer 2027_ | Menlo Park, CA | — | ·📗 | 2d · Sep 16 | 2d · Sep 16 | [apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
@@ -82,7 +86,6 @@ Software engineering and research internships at the same curated bar.
 | **Schonfeld** | 2027 Business Analytics Intern · _2027_ | New York, New York, United States | — | ·📗 | 14d · Sep 4 | 14d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
 | **Schonfeld** | 2027 Data Science Intern · _2027_ | New York, New York, United States | — | · | 14d · Sep 4 | 14d · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | **Amazon** | ASIC Engineer Intern, Annapurna Labs - 2027 · _2027_ | Cupertino, California, USA | — | ·📗 | 22d · Aug 27 | 17d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027) |
-| **Amazon** | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 · _Fall 2026_ | Westboro, Wisconsin, USA | — | · | 22d · Aug 27 | 17d · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) |
 | **IMC Trading** | Quant Performance Engineer Intern - Summer 2027 · _Summer 2027_ | Chicago, United States | — | · | 22d · Aug 27 | 17d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | **AQR Capital** | AQR Arbitrage - 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 24d · Aug 25 | 17d · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) |
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Sydney · _Summer 2027_ | Chicago | — | ·🎓 | 25d · Aug 24 | 17d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
@@ -154,4 +157,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-18 11:22 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-18 16:29 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
