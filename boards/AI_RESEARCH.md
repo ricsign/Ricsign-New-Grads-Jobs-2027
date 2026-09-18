@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**67 open roles** · last verified 2026-09-18 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**66 open roles** · last verified 2026-09-18 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -31,13 +31,12 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (4)
+## 🆕 Posted in the last 7 days (3)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8202801) | Mountain View, California, USA +1 | 2d · Sep 16 |
 | **Waymo** | [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) | Mountain View, California, United States +1 | 2d · Sep 16 |
-| **Waymo** | [2027 Summer Intern, PhD, Quantitative Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8197554) | Mountain View, California, United States \| San Francisco, California, United States +2 | 2d · Sep 16 |
 | **Datadog** | [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | New York, New York, USA +1 | 3d · Sep 15 |
 
 
@@ -60,13 +59,12 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Together AI** | Research Intern, Frontier Agents (Summer 2027) · _Summer 2027_ | San Francisco | — | ·🎓 | today · Sep 18 | today · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) |
 | **Together AI** | Research Intern, Frontier Agents (Winter 2027) · _Winter 2027_ | San Francisco | — | ·🎓 | today · Sep 18 | today · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) |
 | **Together AI** | Research Intern, Inference (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | today · Sep 18 | today · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) |
-| **Together AI** | Research Intern, Inference (Winter 2027) · _Winter 2027_ | San Francisco | — | ·📗 | today · Sep 18 | today · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238461007) |
-| **NVIDIA** | PhD Research Intern, Hardware and Systems Architecture - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | 1d · Sep 17 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893) |
+| **Waymo** | 2027 Summer Intern, PhD, Data Science · _Summer 2027_ | San Francisco, California, United States, San Francisco (US-SFO-MKT555) | — | ·🎓 | today · Sep 18 | today · Sep 18 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8199365) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation · _Summer 2027_ | Mountain View, California, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 2d · Sep 16 | 2d · Sep 16 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8202801) |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning, Computer Vision · _Summer 2027_ · `2 openings` | Mountain View, California, United States, Mountain View (US-MTV-EMF680) | — | ·🎓 | 2d · Sep 16 | 2d · Sep 16 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8202025) |
-| **Waymo** | 2027 Summer Intern, PhD, Quantitative Software Engineer · _Summer 2027_ | Mountain View, California, United States \| San Francisco, California, United States, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | 2d · Sep 16 | 2d · Sep 16 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8197554) |
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 3d · Sep 15 | 3d · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 | **Coinbase** | Machine Learning Engineer Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | ·🎓 | 10d · Sep 8 | 9d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | **Coinbase** | User Research Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | · | 10d · Sep 8 | 9d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) |
@@ -120,4 +118,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-09-18 16:29 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-18 20:57 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

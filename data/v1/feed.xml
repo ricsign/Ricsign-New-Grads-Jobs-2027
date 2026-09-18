@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-18T16:29:26+00:00</updated>
+  <updated>2026-09-18T20:57:49+00:00</updated>
   <entry>
     <title>Perplexity — Perplexity Research Fellowship</title>
     <link href="https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application"/>
@@ -28,6 +28,22 @@
     <updated>2026-09-18T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Seattle, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Robinhood — Offensive Security Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142"/>
+    <id>tag:ricsign.github.io,2026:9ba714a561490d13</id>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Bellevue, WA, Menlo Park, CA · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Together AI — Research Intern, Frontier Agents (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238468007"/>
+    <id>tag:ricsign.github.io,2026:db7db0d816eb36e9</id>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Together AI — Research Intern, Frontier Agents (Winter 2027)</title>
@@ -54,22 +70,6 @@
     <summary>San Francisco · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Together AI — Research Intern, Model Shaping (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238466007"/>
-    <id>tag:ricsign.github.io,2026:7b91090d2652314c</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Research Intern, Model Shaping (Winter 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238465007"/>
-    <id>tag:ricsign.github.io,2026:70d33c461cc39920</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
     <title>Together AI — Software Development In Test Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238472007"/>
     <id>tag:ricsign.github.io,2026:2f1a7ae6cbad832f</id>
@@ -83,7 +83,7 @@
     <id>tag:ricsign.github.io,2026:9cd02f8df3e54b33</id>
     <updated>2026-09-18T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>San Francisco · unknown · bachelors</summary>
+    <summary>San Francisco · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Together AI — Software Engineer Intern (Winter 2027)</title>
@@ -118,6 +118,14 @@
     <summary>San Francisco · unknown · unspecified</summary>
   </entry>
   <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Data Science</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8199365"/>
+    <id>tag:ricsign.github.io,2026:dbd1858fe729bcba</id>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, California, United States, San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>Grafana Labs — Solutions Engineer, Acquisition | West Coast | Remote</title>
     <link href="https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004"/>
     <id>tag:ricsign.github.io,2026:d496de7dc576a808</id>
@@ -132,14 +140,6 @@
     <updated>2026-09-17T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — PhD Research Intern, Hardware and Systems Architecture - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893"/>
-    <id>tag:ricsign.github.io,2026:c7b4b80851fa0ec3</id>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>SpaceX — Test Stand Design &amp; Build Engineer (Structures/Fluid Systems)</title>

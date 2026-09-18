@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-18T16:29:26+00:00",
+ "generated_at": "2026-09-18T20:57:49+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 391,
@@ -696,7 +696,7 @@
    "compensation": null,
    "department": "Human Frontier Collective",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -831,6 +831,59 @@
    "openings": 1
   },
   {
+   "uid": "9ba714a561490d13",
+   "company_slug": "robinhood",
+   "company_name": "Robinhood",
+   "company_tier": 1,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Offensive Security Intern (Summer 2027)",
+   "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142",
+   "locations": [
+    "Bellevue, WA",
+    "Menlo Park, CA"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-18",
+   "last_verified": "2026-09-18",
+   "posted_at": "2026-09-18",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Enterprise Technology Division",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "db7db0d816eb36e9",
+   "company_slug": "together-ai",
+   "company_name": "Together AI",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Research Intern, Frontier Agents (Summer 2027)",
+   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238468007",
+   "locations": [
+    "San Francisco"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-18",
+   "last_verified": "2026-09-18",
+   "posted_at": "2026-09-18",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Research",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "39aa7a5c078d9d7e",
    "company_slug": "together-ai",
    "company_name": "Together AI",
@@ -909,58 +962,6 @@
    "openings": 1
   },
   {
-   "uid": "7b91090d2652314c",
-   "company_slug": "together-ai",
-   "company_name": "Together AI",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Research Intern, Model Shaping (Summer 2027)",
-   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
-   "locations": [
-    "San Francisco"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-18",
-   "last_verified": "2026-09-18",
-   "posted_at": "2026-09-18",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Research",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "70d33c461cc39920",
-   "company_slug": "together-ai",
-   "company_name": "Together AI",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Research Intern, Model Shaping (Winter 2027)",
-   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
-   "locations": [
-    "San Francisco"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-18",
-   "last_verified": "2026-09-18",
-   "posted_at": "2026-09-18",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "Research",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "2f1a7ae6cbad832f",
    "company_slug": "together-ai",
    "company_name": "Together AI",
@@ -999,7 +1000,7 @@
     "San Francisco"
    ],
    "track": "internship",
-   "degree": "bachelors",
+   "degree": "unspecified",
    "sponsorship": "unknown",
    "first_seen": "2026-09-18",
    "last_verified": "2026-09-18",
@@ -1117,6 +1118,33 @@
    "openings": 1
   },
   {
+   "uid": "dbd1858fe729bcba",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Data Science",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
+   "locations": [
+    "San Francisco, California, United States",
+    "San Francisco (US-SFO-MKT555)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-18",
+   "last_verified": "2026-09-18",
+   "posted_at": "2026-09-18",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "e375e56f0ddcd93f",
    "company_slug": "amazon",
    "company_name": "Amazon",
@@ -1138,32 +1166,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "studentprograms",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "c7b4b80851fa0ec3",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "PhD Research Intern, Hardware and Systems Architecture - 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-17",
-   "last_verified": "2026-09-18",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4169,18 +4171,18 @@
    "openings": 1
   },
   {
-   "uid": "d87d4769aff0aa71",
+   "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
    "locations": [
+    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4197,18 +4199,18 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "d87d4769aff0aa71",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
    "locations": [
-    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200"
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4333,16 +4335,16 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
-    "Bastrop, TX",
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -4360,16 +4362,16 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
-    "Palo Alto, CA",
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -4626,7 +4628,7 @@
    "compensation": null,
    "department": "Campus",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9282,7 +9284,7 @@
    "compensation": null,
    "department": "Research / Strategies",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9811,16 +9813,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -9838,16 +9840,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
