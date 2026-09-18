@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-17T21:27:17+00:00</updated>
+  <updated>2026-09-18T04:50:09+00:00</updated>
+  <entry>
+    <title>Stripe — Software Engineer, Early Career — Immediate Start</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8212508"/>
+    <id>tag:ricsign.github.io,2026:ab85ad5cbb869f95</id>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, Seattle, New York, US · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Grafana Labs — Solutions Engineer, Acquisition | West Coast | Remote</title>
+    <link href="https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004"/>
+    <id>tag:ricsign.github.io,2026:d496de7dc576a808</id>
+    <updated>2026-09-18T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States (Remote), USA (Remote) · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>DRW — Floor Trader</title>
     <link href="https://job-boards.greenhouse.io/drweng/jobs/8207750"/>
@@ -359,19 +375,19 @@
   </entry>
   <entry>
     <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002"/>
-    <id>tag:ricsign.github.io,2026:dfd60133b7e37b4d</id>
-    <updated>2026-09-12T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Washington, DC, Hawthorne, CA · security-clearance · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
     <link href="https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002"/>
     <id>tag:ricsign.github.io,2026:923fc644b6611834</id>
     <updated>2026-09-12T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Hawthorne, CA, Washington, DC · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Security Software (Starshield)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002"/>
+    <id>tag:ricsign.github.io,2026:dfd60133b7e37b4d</id>
+    <updated>2026-09-12T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Washington, DC, Hawthorne, CA · security-clearance · masters-preferred</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
@@ -388,21 +404,5 @@
     <updated>2026-09-11T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY, New York Office · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Lyft — Data Science Intern, Algorithms (Summer 2027 - SF/NYC)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002"/>
-    <id>tag:ricsign.github.io,2026:158585a21ed46f0a</id>
-    <updated>2026-09-11T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY, San Francisco Office · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Lyft — Data Science Intern, Algorithms (Summer 2027 - SF/NYC)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002"/>
-    <id>tag:ricsign.github.io,2026:76f4d3fe53e0ea8d</id>
-    <updated>2026-09-11T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, San Francisco Office · unknown · masters-preferred</summary>
   </entry>
 </feed>
