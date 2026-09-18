@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**62 open roles** · last verified 2026-09-18 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**64 open roles** · last verified 2026-09-18 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -45,6 +45,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Perplexity** | Perplexity Research Fellowship | San Francisco | $180k–$220k | · | today · Sep 18 | today · Sep 18 | [apply](https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application) |
 | **Mercor** | Mercor Research Fellowship — APEX | San Francisco, New York City | $40k | · | 27d · Aug 22 | 17d · Sep 1 | [apply](https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application) |
 | **Cohere** | Research Internship (Winter 2027) · _Winter 2027_ | San Francisco, United States | — | ·🎓 | 4mo · May 1 | 17d · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Scale AI** | SWE Fellow - Human Frontier Collective (US) | United States | — | 🛂 | 4mo · Apr 29 | 17d · Sep 1 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) |
@@ -84,6 +85,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Old Mission Capital** | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·🎓 | 1mo · Jul 30 | 17d · Sep 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
 | **Modal** | ML Research Intern | New York, San Francisco | $15k | ·🎓 | 1mo · Jul 28 | 17d · Sep 1 | [apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Researcher (PhD) · _Summer 2027_ | New York City | — | ·🎓 | 2mo · Jul 14 | 17d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
+| **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 17d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
 | **Akuna Capital** | Quantitative Research Intern, Summer 2027 · _Summer 2027_ | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 17d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) |
 | **DRW** | Quantitative Research Intern | Chicago, New York City | — | ·📗 | 2mo · Jul 13 | 17d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7818540) |
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 17d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) |
@@ -115,4 +117,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-09-18 04:50 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-18 11:22 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

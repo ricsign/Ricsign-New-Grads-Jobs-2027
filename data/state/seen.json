@@ -1453,7 +1453,7 @@
   {
    "uid": "722d9ecdc58aca28",
    "first_seen": "2026-09-01",
-   "last_verified": "2026-09-01",
+   "last_verified": "2026-09-18",
    "posted_at": "2026-07-13",
    "closed_at": null
   },
@@ -3262,6 +3262,13 @@
    "last_verified": "2026-09-01",
    "posted_at": "2026-08-31",
    "closed_at": "2026-09-01"
+  },
+  {
+   "uid": "f935df93c600aae6",
+   "first_seen": "2026-09-18",
+   "last_verified": "2026-09-18",
+   "posted_at": "2026-09-18",
+   "closed_at": null
   },
   {
    "uid": "fa182fbce987097c",

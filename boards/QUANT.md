@@ -38,7 +38,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Five Rings** | Campus Full Time 2027 - Quantitative Trader · _2027_ | New York City | — | · | 2mo · Jul 14 | 17d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) |
 | **Five Rings** | Campus Full Time 2027 - Software Developer · _2027_ | New York City | — | · | 2mo · Jul 14 | 17d · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) |
 | **Akuna Capital** | Junior Quantitative Developer & Strategist | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 17d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687) |
-| **Akuna Capital** | Junior Trader | Chicago | — | ·📗 | 2mo · Jul 13 | 10d · Sep 8 | [apply](https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141) |
+| **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 17d · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
 | **DRW** | Leadership Rotation Network Analyst | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 17d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7993341) |
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 17d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning (Full-Time) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 17d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052343) |
@@ -65,4 +65,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-09-18 04:50 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-18 11:22 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -1,10 +1,42 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-18T04:50:08+00:00",
+ "generated_at": "2026-09-18T11:22:46+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 377,
+ "count": 379,
  "jobs": [
+  {
+   "uid": "f935df93c600aae6",
+   "company_slug": "perplexity",
+   "company_name": "Perplexity",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "ashby",
+   "title": "Perplexity Research Fellowship",
+   "apply_url": "https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application",
+   "locations": [
+    "San Francisco"
+   ],
+   "track": "ai-research",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-18",
+   "last_verified": "2026-09-18",
+   "posted_at": "2026-09-18",
+   "closed_at": null,
+   "season": null,
+   "compensation": {
+    "min": 180000,
+    "max": 220000,
+    "currency": "USD",
+    "interval": "1 YEAR",
+    "source": "ashby"
+   },
+   "department": "AI Research & Systems",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
   {
    "uid": "ab85ad5cbb869f95",
    "company_slug": "stripe",
@@ -4604,7 +4636,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5020,6 +5052,32 @@
    "source": "greenhouse",
    "title": "Junior Quantitative Developer & Strategist",
    "apply_url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-18",
+   "posted_at": "2026-07-13",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Quant",
+   "active": true,
+   "link_status": "blocked",
+   "openings": 1
+  },
+  {
+   "uid": "722d9ecdc58aca28",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Junior Quantitative Researcher",
+   "apply_url": "https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541",
    "locations": [
     "Chicago, IL"
    ],
@@ -9991,16 +10049,15 @@
    "openings": 1
   },
   {
-   "uid": "0357c28de94b31d8",
+   "uid": "35c694edad6dff80",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
    "locations": [
-    "Remote - Seattle",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
@@ -10018,15 +10075,16 @@
    "openings": 1
   },
   {
-   "uid": "35c694edad6dff80",
+   "uid": "0357c28de94b31d8",
    "company_slug": "samsara",
    "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "Senior Security Operations Engineer I",
-   "apply_url": "https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8021105?gh_jid=8021105",
    "locations": [
+    "Remote - Seattle",
     "San Francisco - SF9"
    ],
    "track": "new-grad-swe",
