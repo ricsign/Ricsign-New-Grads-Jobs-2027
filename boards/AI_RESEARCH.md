@@ -35,8 +35,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
-| **Perplexity** | [Member of Technical Staff, AI Products (Early Career)](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application) | San Francisco | 1d · Sep 18 |
-| **Perplexity** | [Perplexity Research Fellowship](https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application) | San Francisco | 1d · Sep 18 |
+| **Perplexity** | [Member of Technical Staff, AI Products (Early Career - Industry)](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application) | San Francisco | 1d · Sep 18 |
+| **Perplexity** | [Perplexity Research Fellowship](https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application) | San Francisco +2 | 1d · Sep 18 |
 | **Together AI** | [Research Intern, Frontier Agents (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | San Francisco | 1d · Sep 18 |
 | **Together AI** | [Research Intern, Frontier Agents (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | San Francisco | 1d · Sep 18 |
 | **Together AI** | [Research Intern, Inference (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | San Francisco | 1d · Sep 18 |
@@ -50,8 +50,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Perplexity** | Member of Technical Staff, AI Products (Early Career) | San Francisco | $180k–$270k | · | 1d · Sep 18 | today · Sep 19 | [apply](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application) |
-| **Perplexity** | Perplexity Research Fellowship | San Francisco | $180k–$220k | · | 1d · Sep 18 | 1d · Sep 18 | [apply](https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application) |
+| **Perplexity** | Member of Technical Staff, AI Products (Early Career - Industry) | San Francisco | $180k–$270k | · | 1d · Sep 18 | today · Sep 19 | [apply](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application) |
+| **Perplexity** | Perplexity Research Fellowship | San Francisco, Palo Alto +1 | $180k–$220k | · | 1d · Sep 18 | 1d · Sep 18 | [apply](https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application) |
 | **Mercor** | Mercor Research Fellowship — APEX | San Francisco, New York City | $40k | · | 28d · Aug 22 | 18d · Sep 1 | [apply](https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application) |
 | **Cohere** | Research Internship (Winter 2027) · _Winter 2027_ | San Francisco, United States | — | ·🎓 | 4mo · May 1 | 18d · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Scale AI** | SWE Fellow - Human Frontier Collective (US) | United States | — | 🛂 | 4mo · Apr 29 | 18d · Sep 1 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) |
@@ -103,7 +103,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | Chicago | — | 🛂 | 2mo · Jul 6 | 18d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 18d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
 | **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 18d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 17d · Sep 2 | [apply](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 18d · Sep 1 | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
 | **Point72 / Cubist** | Research Engineer, Knowledge Graph Intelligence | New York, NY | — | ·🎓 | 3mo · Jun 10 | 18d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002) |
 | **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 3mo · Jun 2 | 18d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
 | **Headlands Technologies** | Quantitative Researcher – New Grad | Chicago, New York City +1 | — | · | 3mo · May 29 | 18d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
@@ -125,4 +125,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-09-19 15:56 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-19 20:46 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
