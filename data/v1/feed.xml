@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-18T20:57:49+00:00</updated>
+  <updated>2026-09-19T04:42:57+00:00</updated>
+  <entry>
+    <title>Perplexity — Member of Technical Staff, AI Products (Early Career)</title>
+    <link href="https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application"/>
+    <id>tag:ricsign.github.io,2026:c2e13c6d77b74789</id>
+    <updated>2026-09-19T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8214519"/>
+    <id>tag:ricsign.github.io,2026:e06b65f2a6ef320b</id>
+    <updated>2026-09-19T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Perplexity — Perplexity Research Fellowship</title>
     <link href="https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application"/>
@@ -118,7 +134,7 @@
     <summary>San Francisco · unknown · unspecified</summary>
   </entry>
   <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Data Science</title>
+    <title>Waymo — 2027 Summer Intern, PhD, Product Data Science</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8199365"/>
     <id>tag:ricsign.github.io,2026:dbd1858fe729bcba</id>
     <updated>2026-09-18T00:00:00Z</updated>
@@ -388,21 +404,5 @@
     <updated>2026-09-14T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA • New York, NY, US · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Five Rings — Recent Graduate - Trading Assistant (NYC)</title>
-    <link href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008"/>
-    <id>tag:ricsign.github.io,2026:66cfc9e9ceada88d</id>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>New York City · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Robinhood — PeopleX Insights &amp; Analytics Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&amp;gh_jid=8198255"/>
-    <id>tag:ricsign.github.io,2026:114a2ad5bbb46200</id>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Menlo Park, CA · unknown · masters-preferred</summary>
   </entry>
 </feed>
