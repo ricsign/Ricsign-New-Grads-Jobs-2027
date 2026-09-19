@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T04:42:58+00:00",
+ "generated_at": "2026-09-19T11:06:32+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 469,
+   "fetched": 481,
    "published": 3,
    "status": "ok"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 308,
+   "fetched": 307,
    "published": 1,
    "status": "ok"
   },
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "pinterest",
-   "fetched": 162,
+   "fetched": 161,
    "published": 0,
    "status": "none matched"
   },
@@ -1367,7 +1367,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "klaviyo",
-   "fetched": 141,
+   "fetched": 140,
    "published": 0,
    "status": "none matched"
   },
@@ -1447,20 +1447,20 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 248,
+   "fetched": 249,
    "published": 5,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6075,
-  "senior/experienced role": 4058,
-  "title is not a technical role": 3872,
-  "non-technical role": 3227,
+  "not a US location": 6084,
+  "senior/experienced role": 4057,
+  "title is not a technical role": 3874,
+  "non-technical role": 3226,
   "not an early-career posting": 2811,
   "non-CS engineering discipline": 835,
   "quant role without early-career marker": 272,
-  "research role without early-career marker": 132
+  "research role without early-career marker": 133
  },
  "rejection_samples": {
   "title is not a technical role": [
@@ -1843,14 +1843,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Sr. Data Engineer (Python & SQL exp. mandatory) — not a US location",
+   "Senior backend Engineer - Java — not a US location",
    "Qualified Success Architect, University — title is not a technical role",
    "Senior Software Engineer — not a US location",
    "Summer 2027 Intern - Recruiting Data Intelligence — non-technical role",
    "Senior Cloud Platform Engineer (SMTS) — not a US location",
    "Named Account Executive — non-technical role",
-   "Security Practices Director — not a US location",
-   "Data Cloud Success Architect (U.S. Citizen) — not a US location",
-   "Corporate Recruiter (Contract) — not a US location"
+   "Security Practices Director — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",

@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-19T04:42:57+00:00",
+ "generated_at": "2026-09-19T11:06:32+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 392,
@@ -1864,7 +1864,7 @@
    "compensation": null,
    "department": "PeopleX Division",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
