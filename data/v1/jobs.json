@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-20T16:12:29+00:00",
+ "generated_at": "2026-09-20T20:53:42+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 392,
@@ -2088,17 +2088,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2115,17 +2115,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2842,16 +2842,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -2868,16 +2868,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -4154,32 +4154,6 @@
    "openings": 1
   },
   {
-   "uid": "838e125facd50072",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-20",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Satellite Payload Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "14812f7b8d47b8ff",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -4206,18 +4180,15 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
    "locations": [
-    "Palo Alto, CA",
-    "Irvine, CA",
-    "Palo Alto - 1200",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -4229,7 +4200,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Silicon Engineering",
+   "department": "Satellite Payload Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4275,6 +4246,35 @@
     "Redmond, WA",
     "Irvine, CA",
     "Palo Alto - 1200"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-20",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Silicon Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "3b733edade933b2c",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Silicon Engineering",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "locations": [
+    "Palo Alto, CA",
+    "Irvine, CA",
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4370,32 +4370,6 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-20",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -4433,6 +4407,32 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
     "Palo Alto, CA",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-20",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "e21bfaf4cdc7c9ad",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "locations": [
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -9848,16 +9848,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -9875,16 +9875,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
