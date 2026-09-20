@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T04:59:00+00:00",
+ "generated_at": "2026-09-20T11:31:04+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 481,
+   "fetched": 480,
    "published": 3,
    "status": "ok"
   },
@@ -1347,7 +1347,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "flexport",
-   "fetched": 193,
+   "fetched": 194,
    "published": 1,
    "status": "ok"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2278,
+   "fetched": 2280,
    "published": 16,
    "status": "ok"
   },
@@ -1453,10 +1453,10 @@
   }
  ],
  "rejections": {
-  "not a US location": 6089,
+  "not a US location": 6090,
   "senior/experienced role": 4058,
   "title is not a technical role": 3877,
-  "non-technical role": 3222,
+  "non-technical role": 3223,
   "not an early-career posting": 2812,
   "non-CS engineering discipline": 837,
   "quant role without early-career marker": 272,
@@ -1778,14 +1778,14 @@
    "Account Executive, Growth — not a US location"
   ],
   "nvidia": [
+   "Senior Chip Design Verification Engineer — not a US location",
+   "Senior AI Solutions Engineer — not a US location",
+   "Senior AI Systems Engineer — not a US location",
    "Head of Infrastructure Security Engineering - EDA Clusters — not a US location",
    "Senior Software Engineer, Object Storage - DGX Cloud — not a US location",
    "Senior Software Technical Program Manager — not a US location",
    "Principal Block and File Storage Software Engineer, Linux - DGX Cloud — senior/experienced role",
-   "Senior System Software Engineer - Scientific Computing PaaS — not a US location",
-   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location",
-   "Senior Network Reliability Engineer - DGX Cloud — not a US location",
-   "Senior Manager, Engineering - Data Center Firmware — not a US location"
+   "Senior System Software Engineer - Scientific Computing PaaS — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1843,14 +1843,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "AI Builder, Emerging Talent - Polish Market — not a US location",
+   "AI Builder, Emerging Talent - Italian Market — not a US location",
+   "AI Builder, Emerging Talent - Spanish Market — not a US location",
    "Operations Senior Analyst — not a US location",
    "Software Engineering SMTS (Backend - Distributed Systems) — not a US location",
    "Success Guide — not a US location",
    "Sr. Data Engineer (Python & SQL exp. mandatory) — not a US location",
-   "Senior backend Engineer - Java — not a US location",
-   "Qualified Success Architect, University — title is not a technical role",
-   "Senior Software Engineer — not a US location",
-   "Summer 2027 Intern - Recruiting Data Intelligence — non-technical role"
+   "Senior backend Engineer - Java — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -1858,8 +1858,8 @@
    "Cloud Platform Architect — senior/experienced role",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — not a US location",
    "Customer Success Manager — non-technical role",
+   "Customer Success Manager — not a US location",
    "Design Verification Engineer — not an early-career posting"
   ],
   "squarepoint": [
@@ -1919,7 +1919,7 @@
    "Analyst II, Credit — not a US location",
    "Analytics Engineer II — not a US location",
    "Analytics Engineer II, Full Stack (Revenue Analytics) — not a US location",
-   "Analytics Lead, Full Stack — not a US location",
+   "Analytics Lead, Full Stack — senior/experienced role",
    "Analytics Lead, Full Stack — not a US location"
   ],
   "airtable": [
@@ -2012,9 +2012,9 @@
    "Business Development Representative - Australia Based ( Expression of Interest ) — not a US location",
    "Business Development Representative - Australia Market ( Expression of Interest ) — not a US location",
    "Collections Specialist — title is not a technical role",
+   "Commercial Account Executive — not a US location",
    "Commercial Account Executive — non-technical role",
-   "Commercial Account Executive — non-technical role",
-   "Commercial Account Executive — not a US location"
+   "Commercial Account Executive — non-technical role"
   ],
   "gusto": [
    "Account Coordinator (Retirement Sponsor Support) — title is not a technical role",
@@ -2033,8 +2033,8 @@
    "Analytics Engineer II — not a US location",
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist — title is not a technical role",
-   "Chief of Staff, Online Grocery — title is not a technical role",
-   "Chief of Staff, Online Grocery — not a US location"
+   "Chief of Staff, Online Grocery — not a US location",
+   "Chief of Staff, Online Grocery — title is not a technical role"
   ],
   "intel": [
    "Senior DFT Logic Design Engineer — not a US location",
@@ -2071,8 +2071,8 @@
    "Commercial Counsel, APAC — not a US location",
    "Customer Engineer — not an early-career posting",
    "Customer Engineer — not an early-career posting",
-   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect — not a US location",
+   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect — title is not a technical role",
    "Customer Value Architect, EMEA — not a US location"
   ],

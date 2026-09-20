@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,692 |
+| Postings fetched | 21,694 |
 | Postings published | 392 |
 | Boards that failed to fetch | **2** |
 | Boards live but with nothing early-career | 62 |
@@ -252,12 +252,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 40 postings read, none early-career</summary>
 
+- `Senior Chip Design Verification Engineer — not a US location`
+- `Senior AI Solutions Engineer — not a US location`
+- `Senior AI Systems Engineer — not a US location`
 - `Head of Infrastructure Security Engineering - EDA Clusters — not a US location`
 - `Senior Software Engineer, Object Storage - DGX Cloud — not a US location`
 - `Senior Software Technical Program Manager — not a US location`
-- `Principal Block and File Storage Software Engineer, Linux - DGX Cloud — senior/experienced role`
-- `Senior System Software Engineer - Scientific Computing PaaS — not a US location`
-- `Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location`
 
 </details>
 
@@ -330,7 +330,7 @@ rather than take it on faith.
 | [Jump Trading](https://www.jumptrading.com/careers/) | 1 | `greenhouse:jumptrading` | 110 | 20 | ✅ ok |
 | [Akuna Capital](https://akunacapital.com/careers) | 1 | `greenhouse:akunacapital` | 40 | 19 | ✅ ok |
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 287 | 18 | ✅ ok |
-| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2278 | 16 | ✅ ok |
+| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2280 | 16 | ✅ ok |
 | [Waymo](https://waymo.com/careers/) | 1 | `greenhouse:waymo` | 336 | 16 | ✅ ok |
 | [DRW](https://drw.com/work-at-drw/) | 1 | `greenhouse:drweng` | 163 | 11 | ✅ ok |
 | [IMC Trading](https://careers.imc.com/us/en) | 1 | `greenhouse:imc` | 172 | 11 | ✅ ok |
@@ -353,7 +353,7 @@ rather than take it on faith.
 | [DoorDash](https://careers.doordash.com/) | 1 | `greenhouse:doordashusa` | 461 | 3 | ✅ ok |
 | [Figma](https://www.figma.com/careers/) | 1 | `greenhouse:figma` | 152 | 3 | ✅ ok |
 | [Fireworks AI](https://fireworks.ai/careers) | 1 | `ashby:fireworks` | 79 | 3 | ✅ ok |
-| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 481 | 3 | ✅ ok |
+| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 480 | 3 | ✅ ok |
 | [Datadog](https://careers.datadoghq.com/) | 1 | `greenhouse:datadog` | 431 | 2 | ✅ ok |
 | [Decagon](https://decagon.ai/careers) | 1 | `ashby:decagon` | 145 | 2 | ✅ ok |
 | [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 106 | 2 | ✅ ok |
@@ -410,7 +410,7 @@ rather than take it on faith.
 | [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 107 | 2 | ✅ ok |
 | [Dropbox](https://jobs.dropbox.com/) | 2 | `greenhouse:dropbox` | 44 | 1 | ✅ ok |
 | [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 356 | 1 | ✅ ok |
-| [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 193 | 1 | ✅ ok |
+| [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 194 | 1 | ✅ ok |
 | [Okta](https://www.okta.com/company/careers/) | 2 | `greenhouse:okta` | 307 | 1 | ✅ ok |
 | [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 157 | — | ○ none matched |
 | [Airtable](https://www.airtable.com/careers) | 2 | `greenhouse:airtable` | 16 | — | ○ none matched |
