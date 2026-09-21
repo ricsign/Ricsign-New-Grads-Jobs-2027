@@ -4,7 +4,47 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-21T12:56:00+00:00</updated>
+  <updated>2026-09-21T22:01:50+00:00</updated>
+  <entry>
+    <title>Anduril Industries — Entry Level Systems Engineer, C2 Integration</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007"/>
+    <id>tag:ricsign.github.io,2026:c516d5e41ede41b6</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Entry Level Systems Engineer, C2 Networking</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007"/>
+    <id>tag:ricsign.github.io,2026:4735a74af9dd4ece</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · security-clearance · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — New Grad Systems Engineer, C2 Integration</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007"/>
+    <id>tag:ricsign.github.io,2026:a930ebab26896745</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Figma — PhD Intern, Data Science (2027)</title>
+    <link href="https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004"/>
+    <id>tag:ricsign.github.io,2026:c20ae591a05aaeef</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Headlands Technologies — Deep Learning Research Internship</title>
+    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009"/>
+    <id>tag:ricsign.github.io,2026:824aecd648521a11</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, New York, US · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Mercury — Software Engineering Intern - Spring 2027</title>
     <link href="https://job-boards.greenhouse.io/mercury/jobs/6199367004"/>
@@ -12,14 +52,6 @@
     <updated>2026-09-21T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Any Office or Remote · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Intel — Process Integration and Yield Engineering PhD Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132"/>
-    <id>tag:ricsign.github.io,2026:08b17c3f50fb55b2</id>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Perplexity — Member of Technical Staff, AI Products (Early Career - Industry)</title>
@@ -372,37 +404,5 @@
     <updated>2026-09-15T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY, San Francisco, CA, Sunnyvale, CA, Los Angeles, CA, Seattle, WA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Etched — Core Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application"/>
-    <id>tag:ricsign.github.io,2026:d10662e21035232b</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Jose · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Five Rings — Summer 2027 - Trading Operations Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008"/>
-    <id>tag:ricsign.github.io,2026:fd6489b513c3890b</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York City · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Schonfeld — AI Engineer (Junior/Senior)</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/7843962"/>
-    <id>tag:ricsign.github.io,2026:053c6f0dfbe359a2</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>New York, New York, United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Samsara — Senior Security Operations Engineer I</title>
-    <link href="https://www.samsara.com/company/careers/roles/8204369?gh_jid=8204369"/>
-    <id>tag:ricsign.github.io,2026:91a5b81fb218ccb4</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Francisco, CA, United States, San Francisco - SF9 · unknown · masters-preferred</summary>
   </entry>
 </feed>

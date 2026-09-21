@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**68 open roles** · last verified 2026-09-21 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**69 open roles** · last verified 2026-09-21 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -66,6 +66,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Figma** | PhD Intern, Data Science (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | today · Sep 21 | today · Sep 21 | [apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
+| **Headlands Technologies** | Deep Learning Research Internship | Chicago, New York +1 | — | · | today · Sep 21 | today · Sep 21 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009) |
 | **Together AI** | Research Intern, Frontier Agents (Summer 2027) · _Summer 2027_ | San Francisco | — | ·🎓 | 3d · Sep 18 | 3d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) |
 | **Together AI** | Research Intern, Frontier Agents (Winter 2027) · _Winter 2027_ | San Francisco | — | ·🎓 | 3d · Sep 18 | 3d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) |
 | **Together AI** | Research Intern, Inference (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 3d · Sep 18 | 3d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) |
@@ -103,7 +105,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | Chicago | — | 🛂 | 2mo · Jul 6 | 20d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 20d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
 | **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 20d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 20d · Sep 1 | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 19d · Sep 2 | [apply](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) |
 | **Point72 / Cubist** | Research Engineer, Knowledge Graph Intelligence | New York, NY | — | ·🎓 | 3mo · Jun 10 | 20d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002) |
 | **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 3mo · Jun 2 | 20d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
 | **Headlands Technologies** | Quantitative Researcher – New Grad | Chicago, New York City +1 | — | · | 3mo · May 29 | 20d · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
@@ -123,12 +125,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **PDT Partners** | Quantitative Researcher · `open 1y+` | New York, NY | — | ·🎓 | 1y · Oct 28 2024 | 20d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer · `open 2y+` | New York, NY | — | · | 2y · Feb 6 2024 | 20d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
 
-## Tier 2 — Strong specialists
-
-| Company | Role | Location | Comp | Flags | Posted | Found | Apply |
-|:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Process Integration and Yield Engineering PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 21 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) |
-
 ---
 
-Generated 2026-09-21 12:56 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-21 22:01 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

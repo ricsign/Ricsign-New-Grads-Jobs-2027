@@ -54,6 +54,8 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Figma** | PhD Intern, Data Science (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | today · Sep 21 | today · Sep 21 | [apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
+| **Headlands Technologies** | Deep Learning Research Internship | Chicago, New York +1 | — | · | today · Sep 21 | today · Sep 21 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009) |
 | **Mercury** | Software Engineering Intern - Spring 2027 · _Spring 2027_ | Any Office or Remote | — | · | today · Sep 21 | today · Sep 21 | [apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) |
 | **Robinhood** | Offensive Security Intern (Summer 2027) · _Summer 2027_ | Bellevue, WA, Menlo Park, CA | — | · | 3d · Sep 18 | 3d · Sep 18 | [apply](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142) |
 | **Together AI** | Research Intern, Frontier Agents (Summer 2027) · _Summer 2027_ | San Francisco | — | ·🎓 | 3d · Sep 18 | 3d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) |
@@ -98,7 +100,6 @@ Software engineering and research internships at the same curated bar.
 | **The Voleon Group** | Software Engineer Intern - (Summer 2027) · _Summer 2027_ | Berkeley, CA, New York City, NY | $15k | · | 1mo · Aug 14 | 20d · Sep 1 | [apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application) |
 | **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 1mo · Aug 11 | 20d · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | **AQR Capital** | 2027 Research Product Specialist Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 1mo · Aug 11 | 20d · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
-| **Figma** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | San Francisco, CA • New York, NY, US | — | · | 1mo · Aug 10 | 20d · Sep 1 | [apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) |
 | **Roblox** | [Summer 2027] Software Engineer Intern · _Summer 2027_ | San Mateo, CA, United States | — | ·📗 | 1mo · Aug 5 | 20d · Sep 1 | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
 | **Chicago Trading Company** | Quant Trading Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | 1mo · Aug 3 | 20d · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) |
 | **Chicago Trading Company** | Software Engineering Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | 1mo · Aug 3 | 20d · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
@@ -142,7 +143,6 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Process Integration and Yield Engineering PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Sep 21 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132) |
 | **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | 10d · Sep 11 | 10d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
 | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) · _Summer 2027_ · `2 openings` | New York, NY, San Francisco Office +1 | — | ·📗 | 10d · Sep 11 | 10d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
 | **Lyft** | Software Engineer Intern, Backend (Summer 2027 - SF) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·📗 | 10d · Sep 11 | 10d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) |
@@ -158,4 +158,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-21 12:56 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-21 22:01 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

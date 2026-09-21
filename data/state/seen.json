@@ -221,9 +221,9 @@
   {
    "uid": "0fae6d5462585697",
    "first_seen": "2026-09-02",
-   "last_verified": "2026-09-19",
+   "last_verified": "2026-09-21",
    "posted_at": "2026-06-30",
-   "closed_at": "2026-09-19"
+   "closed_at": null
   },
   {
    "uid": "10a25c7d85680fc5",
@@ -1010,6 +1010,13 @@
    "closed_at": null
   },
   {
+   "uid": "4735a74af9dd4ece",
+   "first_seen": "2026-09-21",
+   "last_verified": "2026-09-21",
+   "posted_at": "2026-09-21",
+   "closed_at": null
+  },
+  {
    "uid": "47cdbc6ba338d873",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-21",
@@ -1773,6 +1780,13 @@
    "closed_at": null
   },
   {
+   "uid": "824aecd648521a11",
+   "first_seen": "2026-09-21",
+   "last_verified": "2026-09-21",
+   "posted_at": "2026-09-21",
+   "closed_at": null
+  },
+  {
    "uid": "82711dd1dd088ca8",
    "first_seen": "2026-09-02",
    "last_verified": "2026-09-21",
@@ -2326,6 +2340,13 @@
    "closed_at": null
   },
   {
+   "uid": "a930ebab26896745",
+   "first_seen": "2026-09-21",
+   "last_verified": "2026-09-21",
+   "posted_at": "2026-09-21",
+   "closed_at": null
+  },
+  {
    "uid": "a9bb9ef14a98216e",
    "first_seen": "2026-09-08",
    "last_verified": "2026-09-21",
@@ -2655,6 +2676,13 @@
    "closed_at": null
   },
   {
+   "uid": "c20ae591a05aaeef",
+   "first_seen": "2026-09-21",
+   "last_verified": "2026-09-21",
+   "posted_at": "2026-09-21",
+   "closed_at": null
+  },
+  {
    "uid": "c2552af8f53ed356",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-21",
@@ -2680,6 +2708,13 @@
    "first_seen": "2026-09-15",
    "last_verified": "2026-09-16",
    "posted_at": null,
+   "closed_at": null
+  },
+  {
+   "uid": "c516d5e41ede41b6",
+   "first_seen": "2026-09-21",
+   "last_verified": "2026-09-21",
+   "posted_at": "2026-09-21",
    "closed_at": null
   },
   {
@@ -3457,7 +3492,7 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-21",
    "posted_at": "2026-06-30",
-   "closed_at": null
+   "closed_at": "2026-09-21"
   },
   {
    "uid": "fe997c39037b637c",

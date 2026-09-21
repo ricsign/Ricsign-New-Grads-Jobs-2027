@@ -10,14 +10,13 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (8)
+## 🆕 Posted in the last 7 days (7)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Stripe** | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York +1 | 4d · Sep 17 |
 | **Together AI** | [Software Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | San Francisco | 3d · Sep 18 |
 | **SpaceX** | [Test Stand Design & Build Engineer (Structures/Fluid Systems)](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) | McGregor, TX | 4d · Sep 17 |
-| **Anduril Industries** | [Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007) | Broomfield, Colorado, United States +1 | 5d · Sep 16 |
 | **Grafana Labs** | [Solutions Engineer, Acquisition \| West Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004) | United States (Remote) +1 | 4d · Sep 17 |
 | **Samsara** | [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) | Remote - Seattle +2 | 4d · Sep 17 |
 | **Verkada** | [Enterprise Development Representative (December 2026 Grads)](https://job-boards.greenhouse.io/verkada/jobs/5226332007) | Austin, TX United States +1 | 5d · Sep 16 |
@@ -34,23 +33,23 @@ Full-time entry-level software engineering roles in the US.
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 21d · Aug 31 | 20d · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 21d · Aug 31 | 20d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
 | **xAI** | Software Engineer - Evals | Palo Alto, CA | — | · | 2mo · Jul 22 | 20d · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
-| **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | United States, Remote - California | — | ·📗 | 4mo · May 13 | 20d · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
+| **Databricks** | AI Engineer – Forward Deployed Engineering (AI FDE) | United States, Remote - California | — | ·📗 | 4mo · May 13 | 20d · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | **Stripe** | Backend Engineer, Payments and Risk | US | — | · | 7mo · Feb 3 | 20d · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=7232592) |
 
 ## Tier 1 — Established elite
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Anduril Industries** | Entry Level Systems Engineer, C2 Integration | Costa Mesa, California, United States | — | 🔒📗 | today · Sep 21 | today · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) |
+| **Anduril Industries** | Entry Level Systems Engineer, C2 Networking | Costa Mesa, California, United States | — | 🔒 | today · Sep 21 | today · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007) |
+| **Anduril Industries** | New Grad Systems Engineer, C2 Integration | Costa Mesa, California, United States | — | 🔒📗 | today · Sep 21 | today · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007) |
 | **Together AI** | Software Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 3d · Sep 18 | 3d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) |
 | **SpaceX** | Test Stand Design & Build Engineer (Structures/Fluid Systems) | McGregor, TX | — | 🇺🇸 | 4d · Sep 17 | 4d · Sep 17 | [apply](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) |
-| **Anduril Industries** | Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States, Fort Collins, Colorado, United States | — | 🔒 | 5d · Sep 16 | 5d · Sep 16 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007) |
 | **SpaceX** | New Graduate Engineer, Power Generation (Starship) | Starbase, TX | — | 🇺🇸📗 | 10d · Sep 11 | 9d · Sep 12 | [apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) |
 | **SpaceX** | New Graduate Engineer, Security Software (Starshield) · `2 openings` | Hawthorne, CA, Washington, DC | — | 🔒📗 | 10d · Sep 11 | 9d · Sep 12 | [apply](https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002) |
-| **Anduril Industries** | Flight Test Engineer - Imaging | Waltham, Massachusetts, United States | — | 🔒 | 11d · Sep 10 | 11d · Sep 10 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5234118007?gh_jid=5234118007) |
 | **Applied Intuition** | Electrical System Integration Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $110k–$148k | ·📗 | 12d · Sep 9 | 12d · Sep 9 | [apply](https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application) |
 | **Replit** | Software Engineer - New Grad (2027) · _2027_ | Foster City, CA | $140k–$180k | · | 12d · Sep 9 | 12d · Sep 9 | [apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application) |
 | **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US · _Fall 2026_ | Los Angeles, CA, New York, NY +3 | — | ·📗 | 17d · Sep 4 | 17d · Sep 4 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
-| **Anduril Industries** | 2027 Early Career Flight Software Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 19d · Sep 2 | 19d · Sep 2 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) |
 | **Applied Intuition** | Cybersecurity Software Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $130k–$158k | ·📗 | 19d · Sep 2 | 19d · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) |
 | **Applied Intuition** | Forward Deployed Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | — | ·📗 | 19d · Sep 2 | 19d · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application) |
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government · `4 openings` | Honolulu, HI, New York, NY +2 | — | 🔒 | 21d · Aug 31 | 20d · Sep 1 | [apply](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) |
@@ -62,7 +61,7 @@ Full-time entry-level software engineering roles in the US.
 | **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | 2mo · Jul 6 | 20d · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
 | **Notion** | Software Engineer, Early Career | San Francisco, California | — | · | 2mo · Jul 6 | 20d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application) |
 | **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | — | · | 2mo · Jul 6 | 20d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 20d · Sep 1 | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 19d · Sep 2 | [apply](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial · _Spring 2027_ · `2 openings` | Chicago, IL, New York, NY | — | · | 2mo · Jun 29 | 20d · Sep 1 | [apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | — | 🔒 | 3mo · Jun 15 | 20d · Sep 1 | [apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
 | **Airbnb** | Machine Learning Engineer, Relevance and Personalization | United States | — | ·📗 | 4mo · May 8 | 20d · Sep 1 | [apply](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) |
@@ -87,4 +86,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-21 12:56 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-21 22:01 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
