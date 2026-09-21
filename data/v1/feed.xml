@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-21T05:03:21+00:00</updated>
+  <updated>2026-09-21T12:56:00+00:00</updated>
+  <entry>
+    <title>Mercury — Software Engineering Intern - Spring 2027</title>
+    <link href="https://job-boards.greenhouse.io/mercury/jobs/6199367004"/>
+    <id>tag:ricsign.github.io,2026:b545806ecde9d566</id>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Any Office or Remote · unknown · bachelors</summary>
+  </entry>
   <entry>
     <title>Intel — Process Integration and Yield Engineering PhD Intern</title>
     <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132"/>
@@ -396,13 +404,5 @@
     <updated>2026-09-15T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>San Francisco, CA, United States, San Francisco - SF9 · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Figma — Data Science Intern (2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004"/>
-    <id>tag:ricsign.github.io,2026:10a25c7d85680fc5</id>
-    <updated>2026-09-14T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA • New York, NY, US · unknown · unspecified</summary>
   </entry>
 </feed>
