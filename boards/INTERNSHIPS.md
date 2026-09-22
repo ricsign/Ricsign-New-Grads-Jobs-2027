@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**112 open roles** · last verified 2026-09-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**110 open roles** · last verified 2026-09-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,13 +10,12 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (20)
+## 🆕 Posted in the last 7 days (19)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Coinbase** | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | Hybrid - New York, NY +1 | 1d · Sep 21 |
 | **Figma** | [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) | San Francisco, CA • New York, NY +1 | 1d · Sep 21 |
-| **Headlands Technologies** | [Deep Learning Research Internship](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009) | Chicago +2 | 1d · Sep 21 |
 | **Mercury** | [Software Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | Any Office or Remote | 1d · Sep 21 |
 | **Waymo** | [2027 Summer Intern, BS/MS, Embedded, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8221198) | Mountain View, CA, USA +1 | 1d · Sep 21 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model](https://careers.withwaymo.com/jobs?gh_jid=8221795) | Mountain View, California, USA +1 | 1d · Sep 21 |
@@ -29,6 +28,7 @@ Software engineering and research internships at the same curated bar.
 | **Tower Research Capital** | [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) | New York | 5d · Sep 17 |
 | **Robinhood** | [Security Risk Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) | Menlo Park, CA | 6d · Sep 16 |
 | **Anduril Industries** | [2027 Flight Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) | Costa Mesa, California, United States | 7d · Sep 15 |
+| **Anduril Industries** | [Winter 2027 EWIS Harness Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) | Costa Mesa, California, United States | 7d · Sep 15 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -55,10 +55,8 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **NVIDIA** | PhD Research Intern, Learning Embodied Skills from Human Data - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Sep 22 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405) |
-| **NVIDIA** | PhD Research Intern, Networking - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Sep 22 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) |
 | **Coinbase** | Internal Audit Analytics Intern · _Summer 2027_ | Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) | — | · | 1d · Sep 21 | today · Sep 22 | [apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
 | **Figma** | PhD Intern, Data Science (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 1d · Sep 21 | 1d · Sep 21 | [apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
-| **Headlands Technologies** | Deep Learning Research Internship | Chicago, New York +1 | — | · | 1d · Sep 21 | 1d · Sep 21 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009) |
 | **Mercury** | Software Engineering Intern - Spring 2027 · _Spring 2027_ | Any Office or Remote | — | · | 1d · Sep 21 | 1d · Sep 21 | [apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) |
 | **Waymo** | 2027 Summer Intern, BS/MS, Embedded, Software Engineer · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·📗 | 1d · Sep 21 | today · Sep 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8221198) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model · _Summer 2027_ | Mountain View, California, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Sep 21 | today · Sep 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8221795) |
@@ -160,4 +158,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-22 11:45 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-22 17:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

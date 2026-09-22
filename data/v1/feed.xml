@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-22T11:45:43+00:00</updated>
+  <updated>2026-09-22T17:02:10+00:00</updated>
   <entry>
     <title>Coinbase — Internal Audit Analytics Intern</title>
     <link href="https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238"/>
@@ -14,17 +14,17 @@
     <summary>Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
   </entry>
   <entry>
+    <title>Jump Trading — Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)</title>
+    <link href="https://www.jumptrading.com/hr/job?gh_jid=8209424"/>
+    <id>tag:ricsign.github.io,2026:c899f6bbb5de2c28</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>New York City · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>NVIDIA — PhD Research Intern, Learning Embodied Skills from Human Data - 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405"/>
     <id>tag:ricsign.github.io,2026:1ea1a66dc3cfb591</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — PhD Research Intern, Networking - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098"/>
-    <id>tag:ricsign.github.io,2026:45c39e65315389a8</id>
     <updated>2026-09-22T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, CA, Santa Clara · unknown · phd-required</summary>
@@ -92,14 +92,6 @@
     <updated>2026-09-21T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Headlands Technologies — Deep Learning Research Internship</title>
-    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4412947009"/>
-    <id>tag:ricsign.github.io,2026:824aecd648521a11</id>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, New York, US · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Mercury — Software Engineering Intern - Spring 2027</title>
@@ -286,14 +278,6 @@
     <summary>San Francisco, California, San Francisco (US-SFO-MKT555) · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Samsara — Senior Security Operations Engineer I</title>
-    <link href="https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286"/>
-    <id>tag:ricsign.github.io,2026:4306ce00e656b094</id>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Remote - OR, San Francisco - SF9 · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
     <title>Mercor — Data Science Intern</title>
     <link href="https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application"/>
     <id>tag:ricsign.github.io,2026:4d2dfae68f01e375</id>
@@ -404,5 +388,21 @@
     <updated>2026-09-15T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Winter 2027 EWIS Harness Engineer Co-op</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007"/>
+    <id>tag:ricsign.github.io,2026:c5a71c14856b6201</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Winter 2027 Software Engineer Co-op</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007"/>
+    <id>tag:ricsign.github.io,2026:67f36e8715b759ea</id>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Quincy, Massachusetts, United States · citizenship-required · masters-preferred</summary>
   </entry>
 </feed>

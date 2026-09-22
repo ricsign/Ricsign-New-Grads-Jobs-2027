@@ -10,7 +10,7 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (9)
+## 🆕 Posted in the last 7 days (8)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -21,7 +21,6 @@ Full-time entry-level software engineering roles in the US.
 | **Together AI** | [Software Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | San Francisco | 4d · Sep 18 |
 | **SpaceX** | [Test Stand Design & Build Engineer (Structures/Fluid Systems)](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) | McGregor, TX | 5d · Sep 17 |
 | **Grafana Labs** | [Solutions Engineer, Acquisition \| West Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004) | United States (Remote) +1 | 5d · Sep 17 |
-| **Samsara** | [Senior Security Operations Engineer I](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) | Remote - Seattle +2 | 5d · Sep 17 |
 | **Verkada** | [Enterprise Development Representative (December 2026 Grads)](https://job-boards.greenhouse.io/verkada/jobs/5226332007) | Austin, TX United States +1 | 6d · Sep 16 |
 
 
@@ -64,7 +63,7 @@ Full-time entry-level software engineering roles in the US.
 | **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | 2mo · Jul 6 | 21d · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
 | **Notion** | Software Engineer, Early Career | San Francisco, California | — | · | 2mo · Jul 6 | 21d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application) |
 | **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | — | · | 2mo · Jul 6 | 21d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 21d · Sep 1 | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
+| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 20d · Sep 2 | [apply](https://careers.roblox.com/jobs/8027587?gh_jid=8027587) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial · _Spring 2027_ · `2 openings` | Chicago, IL, New York, NY | — | · | 2mo · Jun 29 | 21d · Sep 1 | [apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | — | 🔒 | 3mo · Jun 15 | 21d · Sep 1 | [apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
 | **DoorDash** | AI Research Fellowship, (Summer and Fall 2026) · _Fall 2026_ | San Francisco, CA | — | · | 4mo · Apr 29 | 21d · Sep 1 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
@@ -76,16 +75,16 @@ Full-time entry-level software engineering roles in the US.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Grafana Labs** | Solutions Engineer, Acquisition \| West Coast \| Remote | United States (Remote), USA (Remote) | — | · | 5d · Sep 17 | 4d · Sep 18 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004) |
-| **Samsara** | Senior Security Operations Engineer I · `4 openings` | Remote - Seattle, San Francisco - SF9 +1 | — | ·📗 | 5d · Sep 17 | 5d · Sep 17 | [apply](https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286) |
 | **Verkada** | Enterprise Development Representative (December 2026 Grads) · _2026_ | Austin, TX United States, Austin office | — | 🛂 | 6d · Sep 16 | 6d · Sep 16 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5226332007) |
 | **Okta** | Developer Support Associate (New Grad) · _Summer 2025_ | Chicago, Illinois | — | · | 8d · Sep 14 | 8d · Sep 14 | [apply](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 14d · Sep 8 | 13d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
 | **Elastic** | Principal Software Engineer I - Serverless - Platform Control Plane | United States | — | 🔒 | 23d · Aug 30 | 21d · Sep 1 | [apply](https://jobs.elastic.co/jobs?gh_jid=8130119&gh_jid=8130119) |
 | **Grafana Labs** | Solutions Engineer \| Central US \| Remote | United States (Remote), USA (Remote) | — | · | 1mo · Jul 27 | 21d · Sep 1 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004) |
 | **Flexport** | Automation Engineer I | Atlanta, Georgia, United States | — | · | 2mo · Jul 2 | 21d · Sep 1 | [apply](https://job-boards.greenhouse.io/flexport/jobs/8015840) |
+| **Samsara** | Senior Security Operations Engineer I | San Francisco - SF9 | — | ·📗 | 3mo · Jun 24 | 21d · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084) |
 | **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ), California - HQ | — | ·📗 | 11mo · Oct 22 2025 | 21d · Sep 1 | [apply](https://nuro.ai/careersitem?gh_jid=7351066) |
 | **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ · `open 1y+` | San Mateo, CA United States | — | 🌏📗 | 1y · Aug 8 2025 | 21d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 
 ---
 
-Generated 2026-09-22 11:45 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-22 17:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
