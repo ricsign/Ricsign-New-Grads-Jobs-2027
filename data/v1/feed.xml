@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-22T17:02:10+00:00</updated>
+  <updated>2026-09-22T21:24:12+00:00</updated>
+  <entry>
+    <title>Anduril Industries — 2027 Early Career Firmware Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"/>
+    <id>tag:ricsign.github.io,2026:7eed5860128b3033</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2027 Early Career Flight Test Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007"/>
+    <id>tag:ricsign.github.io,2026:3a8569234712d305</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
   <entry>
     <title>Coinbase — Internal Audit Analytics Intern</title>
     <link href="https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238"/>
@@ -20,14 +36,6 @@
     <updated>2026-09-22T00:00:00Z</updated>
     <category term="quant"/>
     <summary>New York City · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — PhD Research Intern, Learning Embodied Skills from Human Data - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405"/>
-    <id>tag:ricsign.github.io,2026:1ea1a66dc3cfb591</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Together AI — [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure Engineering</title>
@@ -46,6 +54,14 @@
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · masters-preferred</summary>
   </entry>
   <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning Engineer</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8223735"/>
+    <id>tag:ricsign.github.io,2026:ba8f055f95f3c686</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, USA, San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8221795"/>
     <id>tag:ricsign.github.io,2026:d942d2e2f3a5534d</id>
@@ -62,7 +78,23 @@
     <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Anduril Industries — Entry Level Systems Engineer, C2 Integration</title>
+    <title>Belvedere Trading — Early Career Talent Partner- Technology &amp; Platform</title>
+    <link href="https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde"/>
+    <id>tag:ricsign.github.io,2026:46f6166524cfdf70</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, Illinois · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Belvedere Trading — Early Career Talent Partner- Trading</title>
+    <link href="https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27"/>
+    <id>tag:ricsign.github.io,2026:a29f21ad3e58be31</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, Illinois · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Entry Level Systems Engineer, C2 Integration, Clearance Eligible</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007"/>
     <id>tag:ricsign.github.io,2026:c516d5e41ede41b6</id>
     <updated>2026-09-21T00:00:00Z</updated>
@@ -70,7 +102,7 @@
     <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Anduril Industries — Entry Level Systems Engineer, C2 Networking</title>
+    <title>Anduril Industries — Entry Level Systems Engineer, C2 Networking, Clearance Eligible</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007"/>
     <id>tag:ricsign.github.io,2026:4735a74af9dd4ece</id>
     <updated>2026-09-21T00:00:00Z</updated>
@@ -78,7 +110,7 @@
     <summary>Costa Mesa, California, United States · security-clearance · bachelors</summary>
   </entry>
   <entry>
-    <title>Anduril Industries — New Grad Systems Engineer, C2 Integration</title>
+    <title>Anduril Industries — New Grad Systems Engineer, C2 Integration, Clearance Eligible</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007"/>
     <id>tag:ricsign.github.io,2026:a930ebab26896745</id>
     <updated>2026-09-21T00:00:00Z</updated>
@@ -372,37 +404,5 @@
     <updated>2026-09-16T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, California, United States | San Francisco, California, United States, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Verkada — Enterprise Development Representative (December 2026 Grads)</title>
-    <link href="https://job-boards.greenhouse.io/verkada/jobs/5226332007"/>
-    <id>tag:ricsign.github.io,2026:ce997880a5100fb0</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Austin, TX United States, Austin office · no-sponsorship · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Flight Software Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007"/>
-    <id>tag:ricsign.github.io,2026:3b6588e6eb8d2c49</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Winter 2027 EWIS Harness Engineer Co-op</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007"/>
-    <id>tag:ricsign.github.io,2026:c5a71c14856b6201</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Winter 2027 Software Engineer Co-op</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007"/>
-    <id>tag:ricsign.github.io,2026:67f36e8715b759ea</id>
-    <updated>2026-09-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Quincy, Massachusetts, United States · citizenship-required · masters-preferred</summary>
   </entry>
 </feed>

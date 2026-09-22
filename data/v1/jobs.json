@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-22T17:02:10+00:00",
+ "generated_at": "2026-09-22T21:24:12+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 400,
+ "count": 404,
  "jobs": [
   {
    "uid": "c2e13c6d77b74789",
@@ -148,7 +148,7 @@
    "compensation": null,
    "department": "University",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -839,6 +839,58 @@
    "openings": 1
   },
   {
+   "uid": "7eed5860128b3033",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Early Career Firmware Engineer",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-22",
+   "last_verified": "2026-09-22",
+   "posted_at": "2026-09-22",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Connected Warfare",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "3a8569234712d305",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Early Career Flight Test Engineer",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007",
+   "locations": [
+    "Costa Mesa, California, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-22",
+   "last_verified": "2026-09-22",
+   "posted_at": "2026-09-22",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "AFS",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "c899f6bbb5de2c28",
    "company_slug": "jump-trading",
    "company_name": "Jump Trading",
@@ -865,27 +917,28 @@
    "openings": 1
   },
   {
-   "uid": "1ea1a66dc3cfb591",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
+   "uid": "ba8f055f95f3c686",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
    "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8223735",
    "locations": [
-    "US, CA, Santa Clara"
+    "San Francisco, CA, USA",
+    "San Francisco (US-SFO-MKT555)"
    ],
    "track": "internship",
    "degree": "phd-required",
    "sponsorship": "unknown",
    "first_seen": "2026-09-22",
    "last_verified": "2026-09-22",
-   "posted_at": null,
+   "posted_at": "2026-09-22",
    "closed_at": null,
-   "season": "2027",
+   "season": "Summer 2027",
    "compensation": null,
-   "department": null,
+   "department": "Pipeline (N/A)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -897,7 +950,7 @@
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "Entry Level Systems Engineer, C2 Integration",
+   "title": "Entry Level Systems Engineer, C2 Integration, Clearance Eligible",
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007",
    "locations": [
     "Costa Mesa, California, United States"
@@ -923,7 +976,7 @@
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "Entry Level Systems Engineer, C2 Networking",
+   "title": "Entry Level Systems Engineer, C2 Networking, Clearance Eligible",
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007",
    "locations": [
     "Costa Mesa, California, United States"
@@ -949,7 +1002,7 @@
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Grad Systems Engineer, C2 Integration",
+   "title": "New Grad Systems Engineer, C2 Integration, Clearance Eligible",
    "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007",
    "locations": [
     "Costa Mesa, California, United States"
@@ -1864,7 +1917,7 @@
    "compensation": null,
    "department": "Maritime & Maneuver Dominance ",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -1995,7 +2048,7 @@
    "compensation": null,
    "department": "Trading Operations",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2375,7 +2428,7 @@
    "compensation": null,
    "department": "Starship Avionics Engineering",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -3133,16 +3186,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -3159,16 +3212,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -3366,7 +3419,7 @@
    "compensation": null,
    "department": "Air Dominance & Strike",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -4467,7 +4520,7 @@
    "compensation": null,
    "department": "Satellite Payload Engineering",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4497,16 +4550,15 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "d87d4769aff0aa71",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
    "locations": [
-    "Palo Alto, CA",
     "Irvine, CA",
     "Palo Alto - 1200",
     "Redmond, WA"
@@ -4526,15 +4578,16 @@
    "openings": 1
   },
   {
-   "uid": "d87d4769aff0aa71",
+   "uid": "3b733edade933b2c",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
    "locations": [
+    "Palo Alto, CA",
     "Irvine, CA",
     "Palo Alto - 1200",
     "Redmond, WA"
@@ -4608,6 +4661,33 @@
    "openings": 1
   },
   {
+   "uid": "44494ecd7d4aa8c1",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
+   "locations": [
+    "Palo Alto, CA",
+    "Palo Alto - 1450"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-22",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starlink Mobile Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "2fb1d8fb22585078",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -4634,20 +4714,20 @@
    "openings": 1
   },
   {
-   "uid": "44494ecd7d4aa8c1",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
     "Palo Alto, CA",
-    "Palo Alto - 1450"
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
-   "degree": "bachelors",
+   "degree": "masters-preferred",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-22",
@@ -4655,7 +4735,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Starlink Mobile Engineering",
+   "department": "Product Security - Starlink",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4697,33 +4777,6 @@
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-22",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "a169755945b07175",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
-   "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5276,7 +5329,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5550,7 +5603,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -6044,7 +6097,7 @@
    "compensation": null,
    "department": "Hardware Platform : Hardware Test Operations",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -6122,7 +6175,7 @@
    "compensation": null,
    "department": "Campus",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -7694,7 +7747,7 @@
    "compensation": null,
    "department": "AI Technology",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -9610,7 +9663,7 @@
    "compensation": null,
    "department": "Research / Strategies",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9978,6 +10031,58 @@
    "openings": 1
   },
   {
+   "uid": "46f6166524cfdf70",
+   "company_slug": "belvedere",
+   "company_name": "Belvedere Trading",
+   "company_tier": 2,
+   "company_category": "quant",
+   "source": "lever",
+   "title": "Early Career Talent Partner- Technology & Platform",
+   "apply_url": "https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde",
+   "locations": [
+    "Chicago, Illinois"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-22",
+   "last_verified": "2026-09-22",
+   "posted_at": "2026-09-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Talent",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a29f21ad3e58be31",
+   "company_slug": "belvedere",
+   "company_name": "Belvedere Trading",
+   "company_tier": 2,
+   "company_category": "quant",
+   "source": "lever",
+   "title": "Early Career Talent Partner- Trading",
+   "apply_url": "https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27",
+   "locations": [
+    "Chicago, Illinois"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-22",
+   "last_verified": "2026-09-22",
+   "posted_at": "2026-09-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Talent",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "d496de7dc576a808",
    "company_slug": "grafana-labs",
    "company_name": "Grafana Labs",
@@ -10188,7 +10293,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10214,7 +10319,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10240,7 +10345,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10422,7 +10527,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10737,7 +10842,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {

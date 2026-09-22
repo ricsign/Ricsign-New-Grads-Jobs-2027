@@ -10,14 +10,12 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (8)
+## 🆕 Posted in the last 7 days (6)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Stripe** | [Software Engineer, Early Career — Immediate Start](https://stripe.com/jobs/search?gh_jid=8212508) | San Francisco, Seattle, New York +1 | 5d · Sep 17 |
-| **Anduril Industries** | [Entry Level Systems Engineer, C2 Integration](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) | Costa Mesa, California, United States | 1d · Sep 21 |
-| **Anduril Industries** | [Entry Level Systems Engineer, C2 Networking](https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007) | Costa Mesa, California, United States | 1d · Sep 21 |
-| **Anduril Industries** | [New Grad Systems Engineer, C2 Integration](https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007) | Costa Mesa, California, United States | 1d · Sep 21 |
+| **Anduril Industries** | [Entry Level Systems Engineer, C2 Integration, Clearance Eligible](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) | Costa Mesa, California, United States | 1d · Sep 21 |
 | **Together AI** | [Software Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | San Francisco | 4d · Sep 18 |
 | **SpaceX** | [Test Stand Design & Build Engineer (Structures/Fluid Systems)](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) | McGregor, TX | 5d · Sep 17 |
 | **Grafana Labs** | [Solutions Engineer, Acquisition \| West Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004) | United States (Remote) +1 | 5d · Sep 17 |
@@ -41,9 +39,9 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Anduril Industries** | Entry Level Systems Engineer, C2 Integration | Costa Mesa, California, United States | — | 🔒📗 | 1d · Sep 21 | 1d · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) |
-| **Anduril Industries** | Entry Level Systems Engineer, C2 Networking | Costa Mesa, California, United States | — | 🔒 | 1d · Sep 21 | 1d · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007) |
-| **Anduril Industries** | New Grad Systems Engineer, C2 Integration | Costa Mesa, California, United States | — | 🔒📗 | 1d · Sep 21 | 1d · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007) |
+| **Anduril Industries** | 2027 Early Career Firmware Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | today · Sep 22 | today · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
+| **Anduril Industries** | 2027 Early Career Flight Test Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | today · Sep 22 | today · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
+| **Anduril Industries** | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | — | 🔒📗 | 1d · Sep 21 | 1d · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) |
 | **Together AI** | Software Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 4d · Sep 18 | 4d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) |
 | **SpaceX** | Test Stand Design & Build Engineer (Structures/Fluid Systems) | McGregor, TX | — | 🇺🇸 | 5d · Sep 17 | 5d · Sep 17 | [apply](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) |
 | **SpaceX** | New Graduate Engineer, Power Generation (Starship) | Starbase, TX | — | 🇺🇸📗 | 11d · Sep 11 | 10d · Sep 12 | [apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) |
@@ -87,4 +85,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-22 17:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-22 21:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
