@@ -4,7 +4,31 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-22T21:24:12+00:00</updated>
+  <updated>2026-09-23T04:50:50+00:00</updated>
+  <entry>
+    <title>Anduril Industries — System Test Engineer - Frontier &amp; Mission Systems</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/4643993007?gh_jid=4643993007"/>
+    <id>tag:ricsign.github.io,2026:1debf11589a7c830</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · security-clearance · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8214350"/>
+    <id>tag:ricsign.github.io,2026:71e2914a01879e64</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, California, United States, San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Data Science</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8221956"/>
+    <id>tag:ricsign.github.io,2026:00569f2059ba9831</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, San Francisco, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Anduril Industries — 2027 Early Career Firmware Engineer</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"/>
@@ -380,29 +404,5 @@
     <updated>2026-09-16T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Menlo Park, CA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8202801"/>
-    <id>tag:ricsign.github.io,2026:f3b4fe278f97981a</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Computer Vision</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8202025"/>
-    <id>tag:ricsign.github.io,2026:7f8dd98117d5da6c</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, California, United States, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Quantitative Software Engineer</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8197554"/>
-    <id>tag:ricsign.github.io,2026:d6d67a47bb5ba91c</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, California, United States | San Francisco, California, United States, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
   </entry>
 </feed>
