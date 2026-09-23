@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**46 open roles** · last verified 2026-09-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**45 open roles** · last verified 2026-09-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (8)
+## 🆕 Posted in the last 7 days (7)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -20,7 +20,6 @@ Full-time entry-level software engineering roles in the US.
 | **Anduril Industries** | [Entry Level Systems Engineer, C2 Integration, Clearance Eligible](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) | Costa Mesa, California, United States | 2d · Sep 21 |
 | **Together AI** | [Software Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | San Francisco | 5d · Sep 18 |
 | **SpaceX** | [Test Stand Design & Build Engineer (Structures/Fluid Systems)](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) | McGregor, TX | 6d · Sep 17 |
-| **Grafana Labs** | [Solutions Engineer, Acquisition \| West Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004) | United States (Remote) +1 | 6d · Sep 17 |
 | **Verkada** | [Enterprise Development Representative (December 2026 Grads)](https://job-boards.greenhouse.io/verkada/jobs/5226332007) | Austin, TX United States +1 | 7d · Sep 16 |
 
 
@@ -28,6 +27,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | today · Sep 23 | today · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 6d · Sep 17 | 5d · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
 | **Anysphere (Cursor)** | Software Engineer, New Grad 2027 · _2027_ | San Francisco, New York | — | · | 15d · Sep 8 | 13d · Sep 10 | [apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application) |
 | **Scale AI** | Software Engineer - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 19d · Sep 4 | 19d · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
@@ -63,18 +63,16 @@ Full-time entry-level software engineering roles in the US.
 | **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | 2mo · Jul 6 | 22d · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
 | **Notion** | Software Engineer, Early Career | San Francisco, California | — | · | 2mo · Jul 6 | 22d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application) |
 | **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | — | · | 2mo · Jul 6 | 22d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
-| **Roblox** | [2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD… · _2026_ | San Mateo, CA, United States | — | ·🎓 | 2mo · Jun 30 | 22d · Sep 1 | [apply](https://careers.roblox.com/jobs/8027588?gh_jid=8027588) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial · _Spring 2027_ · `2 openings` | Chicago, IL, New York, NY | — | · | 2mo · Jun 29 | 22d · Sep 1 | [apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
 | **Palantir** | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | — | 🔒 | 3mo · Jun 15 | 22d · Sep 1 | [apply](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
 | **DoorDash** | AI Research Fellowship, (Summer and Fall 2026) · _Fall 2026_ | San Francisco, CA | — | · | 4mo · Apr 29 | 22d · Sep 1 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
 | **Waymo** | Machine Learning Engineer Perception LLM/VLM (PhD, New Grad) | Mountain View, CA USA, San Francisco, CA USA +2 | — | ·🎓 | 9mo · Dec 22 2025 | 22d · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) |
-| **Roblox** | [2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career · _2026_ | San Mateo, CA, United States | — | ·🎓 | 11mo · Oct 27 2025 | 22d · Sep 1 | [apply](https://careers.roblox.com/jobs/7350081?gh_jid=7350081) |
 
 ## Tier 2 — Strong specialists
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Grafana Labs** | Solutions Engineer, Acquisition \| West Coast \| Remote | United States (Remote), USA (Remote) | — | · | 6d · Sep 17 | 5d · Sep 18 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004) |
+| **Nuro** | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ), California - HQ | — | · | today · Sep 23 | today · Sep 23 | [apply](https://nuro.ai/careersitem?gh_jid=8227399) |
 | **Verkada** | Enterprise Development Representative (December 2026 Grads) · _2026_ | Austin, TX United States, Austin office | — | 🛂 | 7d · Sep 16 | 7d · Sep 16 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5226332007) |
 | **Okta** | Developer Support Associate (New Grad) · _Summer 2025_ | Chicago, Illinois | — | · | 9d · Sep 14 | 9d · Sep 14 | [apply](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 15d · Sep 8 | 14d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
@@ -87,4 +85,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-23 17:08 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-23 21:34 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

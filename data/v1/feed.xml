@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-23T17:08:52+00:00</updated>
+  <updated>2026-09-23T21:34:13+00:00</updated>
+  <entry>
+    <title>Scale AI — Software Engineer, Public Sector - New Grad</title>
+    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4736426005"/>
+    <id>tag:ricsign.github.io,2026:06b42ee7c28fcc6f</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, CA · unknown · bachelors</summary>
+  </entry>
   <entry>
     <title>Anduril Industries — System Test Engineer - Frontier &amp; Mission Systems</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/4643993007?gh_jid=4643993007"/>
@@ -12,6 +20,38 @@
     <updated>2026-09-23T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Costa Mesa, California, United States · security-clearance · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Figma — Data Engineer Intern (2027)</title>
+    <link href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"/>
+    <id>tag:ricsign.github.io,2026:f31766fa19ea3e9e</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA • New York, NY, US · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>IMC Trading — Hardware Machine Learning PhD Research Internship</title>
+    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4975945101"/>
+    <id>tag:ricsign.github.io,2026:d15ddc27a4d619e2</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Chicago, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — PhD Research Intern, Electronic Design Automation - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471"/>
+    <id>tag:ricsign.github.io,2026:b822214a7400db95</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — PhD Research Intern, Quantum Simulation and AI - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004"/>
+    <id>tag:ricsign.github.io,2026:5bf466a0e6a8b586</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation</title>
@@ -22,12 +62,36 @@
     <summary>San Francisco, California, United States, San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
   </entry>
   <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8224746"/>
+    <id>tag:ricsign.github.io,2026:51da1563ee254686</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, California, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineer</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8224729"/>
+    <id>tag:ricsign.github.io,2026:165d61e036b41249</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, California, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Data Science</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8221956"/>
     <id>tag:ricsign.github.io,2026:00569f2059ba9831</id>
     <updated>2026-09-23T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, San Francisco, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Nuro — Software Engineer, Performance Tooling and Infrastructure New Grad</title>
+    <link href="https://nuro.ai/careersitem?gh_jid=8227399"/>
+    <id>tag:ricsign.github.io,2026:9ded53f7cc940983</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Mountain View, California (HQ), California - HQ · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Anduril Industries — 2027 Early Career Firmware Engineer</title>
@@ -294,14 +358,6 @@
     <summary>San Francisco, California, United States, San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Grafana Labs — Solutions Engineer, Acquisition | West Coast | Remote</title>
-    <link href="https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004"/>
-    <id>tag:ricsign.github.io,2026:d496de7dc576a808</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States (Remote), USA (Remote) · unknown · unspecified</summary>
-  </entry>
-  <entry>
     <title>DRW — Floor Trader</title>
     <link href="https://job-boards.greenhouse.io/drweng/jobs/8207750"/>
     <id>tag:ricsign.github.io,2026:eacf9f373aa5583e</id>
@@ -348,61 +404,5 @@
     <updated>2026-09-16T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Broomfield, Colorado, United States, Fort Collins, Colorado, United States · security-clearance · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Decagon — Member of Technical Staff - New Grad (2027 Start)</title>
-    <link href="https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f/application"/>
-    <id>tag:ricsign.github.io,2026:263744077a373ef5</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>San Francisco, New York City · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Decagon — Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application"/>
-    <id>tag:ricsign.github.io,2026:3658a6d3c70c6599</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Headlands Technologies — C++ Software Developer</title>
-    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009"/>
-    <id>tag:ricsign.github.io,2026:f117bfc142f20cf9</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, New York City · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Headlands Technologies — C++ Software Developer - New Grad</title>
-    <link href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009"/>
-    <id>tag:ricsign.github.io,2026:cdbb8abc04589cd9</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, New York City · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Old Mission Capital — Floor Trader - 2027 Graduate Program (August Start)</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=7993756003"/>
-    <id>tag:ricsign.github.io,2026:73f1da57fbc606b9</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, IL, United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Robinhood — Security Risk Management Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970"/>
-    <id>tag:ricsign.github.io,2026:88f25efed5fbf378</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Menlo Park, CA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8202801"/>
-    <id>tag:ricsign.github.io,2026:f3b4fe278f97981a</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>

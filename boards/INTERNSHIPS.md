@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**105 open roles** · last verified 2026-09-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**107 open roles** · last verified 2026-09-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,13 +10,11 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (12)
+## 🆕 Posted in the last 7 days (10)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning Engineer](https://careers.withwaymo.com/jobs?gh_jid=8223735) | San Francisco, CA, USA +1 | 1d · Sep 22 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8214350) | San Francisco, California, United States +1 | 1d · Sep 22 |
-| **Waymo** | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Mountain View, CA, USA +3 | 1d · Sep 22 |
 | **Coinbase** | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | Hybrid - New York, NY +1 | 2d · Sep 21 |
 | **Figma** | [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) | San Francisco, CA • New York, NY +1 | 2d · Sep 21 |
 | **Mercury** | [Software Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | Any Office or Remote | 2d · Sep 21 |
@@ -48,9 +46,13 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Figma** | Data Engineer Intern (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | · | today · Sep 23 | today · Sep 23 | [apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
+| **IMC Trading** | Hardware Machine Learning PhD Research Internship | Chicago, United States | — | ·🎓 | today · Sep 23 | today · Sep 23 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
+| **NVIDIA** | PhD Research Intern, Electronic Design Automation - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Sep 23 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471) |
+| **NVIDIA** | PhD Research Intern, Quantum Simulation and AI - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Sep 23 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004) |
+| **Waymo** | 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer · _Summer 2027_ | Mountain View, California, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Sep 23 | today · Sep 23 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8224746) |
+| **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer · _Summer 2027_ | Mountain View, California, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Sep 23 | today · Sep 23 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8224729) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning Engineer · _Summer 2027_ | San Francisco, CA, USA, San Francisco (US-SFO-MKT555) | — | ·🎓 | 1d · Sep 22 | 1d · Sep 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8223735) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation · _Summer 2027_ | San Francisco, California, United States, San Francisco (US-SFO-MKT555) | — | ·🎓 | 1d · Sep 22 | today · Sep 23 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8214350) |
-| **Waymo** | 2027 Summer Intern, PhD, Data Science · _Summer 2027_ | Mountain View, CA, USA, San Francisco, CA, USA +2 | — | ·🎓 | 1d · Sep 22 | today · Sep 23 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8221956) |
 | **Coinbase** | Internal Audit Analytics Intern · _Summer 2027_ | Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) | — | · | 2d · Sep 21 | 1d · Sep 22 | [apply](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) |
 | **Figma** | PhD Intern, Data Science (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 2d · Sep 21 | 2d · Sep 21 | [apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 | **Mercury** | Software Engineering Intern - Spring 2027 · _Spring 2027_ | Any Office or Remote | — | · | 2d · Sep 21 | 2d · Sep 21 | [apply](https://job-boards.greenhouse.io/mercury/jobs/6199367004) |
@@ -68,7 +70,6 @@ Software engineering and research internships at the same curated bar.
 | **Five Rings** | Summer 2027 - Trading Operations Engineer Intern · _Summer 2027_ | New York City | — | · | 8d · Sep 15 | 8d · Sep 15 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
 | **DoorDash** | Software Engineer, Intern (Summer 2027) - US · _Summer 2027_ | New York, NY, San Francisco, CA +3 | — | ·📗 | 9d · Sep 14 | 8d · Sep 15 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | **Figma** | Data Science Intern (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | · | 9d · Sep 14 | 9d · Sep 14 | [apply](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) |
-| **Figma** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA • New York, NY, US | — | · | 9d · Sep 14 | 9d · Sep 14 | [apply](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) |
 | **Robinhood** | PeopleX Insights & Analytics Intern (Summer 2027) · _Summer 2027_ | Menlo Park, CA | — | ·📗 | 9d · Sep 14 | 9d · Sep 14 | [apply](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) |
 | **Schonfeld** | 2027 Platform Engineering Intern · _2027_ | New York, New York, United States | — | · | 13d · Sep 10 | 13d · Sep 10 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | **Coinbase** | Analytics Engineer Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | · | 15d · Sep 8 | 14d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
@@ -113,7 +114,6 @@ Software engineering and research internships at the same curated bar.
 | **Jump Trading** | Campus AI Research Engineer (Intern) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 22d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
 | **Jump Trading** | Campus AI Research Engineer - Deep Learning (Intern) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 22d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052338) |
 | **Jump Trading** | Campus AI Research Engineer – Research Automation (Intern) | Chicago, New York City | — | 🌏 | 2mo · Jul 8 | 22d · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052351) |
-| **IMC Trading** | Machine Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | Chicago | — | 🛂 | 2mo · Jul 6 | 22d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **Tower Research Capital** | Quantitative Developer Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 22d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8044334) |
 | **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 2mo · Jul 5 | 22d · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Intel · _Winter 2027_ | Washington, D.C. | — | · | 2mo · Jul 1 | 22d · Sep 1 | [apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
@@ -150,4 +150,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-23 17:08 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-23 21:34 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

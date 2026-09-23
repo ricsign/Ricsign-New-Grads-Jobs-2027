@@ -1,10 +1,36 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-23T17:08:52+00:00",
+ "generated_at": "2026-09-23T21:34:12+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 403,
+ "count": 408,
  "jobs": [
+  {
+   "uid": "06b42ee7c28fcc6f",
+   "company_slug": "scale-ai",
+   "company_name": "Scale AI",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "greenhouse",
+   "title": "Software Engineer, Public Sector - New Grad",
+   "apply_url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": "2026-09-23",
+   "closed_at": null,
+   "season": "Fall 2026",
+   "compensation": null,
+   "department": "University",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
   {
    "uid": "c2e13c6d77b74789",
    "company_slug": "perplexity",
@@ -347,7 +373,7 @@
    "closed_at": null,
    "season": "Winter 2027",
    "compensation": null,
-   "department": "University Recruiting",
+   "department": "University Recruiting - Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -598,7 +624,7 @@
    "compensation": null,
    "department": "AI Research & Engineering",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -761,6 +787,165 @@
    "openings": 1
   },
   {
+   "uid": "f31766fa19ea3e9e",
+   "company_slug": "figma",
+   "company_name": "Figma",
+   "company_tier": 1,
+   "company_category": "dev-tools",
+   "source": "greenhouse",
+   "title": "Data Engineer Intern (2027)",
+   "apply_url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+   "locations": [
+    "San Francisco, CA • New York, NY",
+    "US"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": "2026-09-23",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Early Career",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "d15ddc27a4d619e2",
+   "company_slug": "imc",
+   "company_name": "IMC Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Hardware Machine Learning PhD Research Internship",
+   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
+   "locations": [
+    "Chicago, United States"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": "2026-09-23",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Development (Group)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "b822214a7400db95",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "PhD Research Intern, Electronic Design Automation - 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "5bf466a0e6a8b586",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "51da1563ee254686",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+   "locations": [
+    "Mountain View, California",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": "2026-09-23",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "165d61e036b41249",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+   "locations": [
+    "Mountain View, California",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": "2026-09-23",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "7eed5860128b3033",
    "company_slug": "anduril",
    "company_name": "Anduril Industries",
@@ -809,7 +994,7 @@
    "compensation": null,
    "department": "AFS",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2384,17 +2569,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2411,17 +2596,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -3264,7 +3449,7 @@
    "compensation": null,
    "department": "Starship Components Design",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4502,18 +4687,19 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "3b733edade933b2c",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
    "locations": [
-    "Redmond, WA",
+    "Palo Alto, CA",
     "Irvine, CA",
-    "Palo Alto - 1200"
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4558,19 +4744,18 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
    "locations": [
-    "Palo Alto, CA",
+    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4880,7 +5065,7 @@
    "compensation": null,
    "department": "Core AI and Machine Learning",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5425,7 +5610,7 @@
    "compensation": null,
    "department": "Technology",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -5529,7 +5714,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5737,7 +5922,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5763,7 +5948,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5789,7 +5974,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5815,7 +6000,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5841,7 +6026,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5867,7 +6052,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5893,7 +6078,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5919,7 +6104,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5945,7 +6130,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5971,7 +6156,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5997,7 +6182,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6023,7 +6208,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6655,7 +6840,7 @@
    "compensation": null,
    "department": "Risk",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6818,7 +7003,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6845,7 +7030,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6872,7 +7057,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -7084,32 +7269,6 @@
    "openings": 1
   },
   {
-   "uid": "fdcb8f1a28def432",
-   "company_slug": "roblox",
-   "company_name": "Roblox",
-   "company_tier": 1,
-   "company_category": "consumer",
-   "source": "greenhouse",
-   "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-   "apply_url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588",
-   "locations": [
-    "San Mateo, CA, United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-23",
-   "posted_at": "2026-06-30",
-   "closed_at": null,
-   "season": "2026",
-   "compensation": null,
-   "department": "Early Career Full-Time",
-   "active": true,
-   "link_status": "error",
-   "openings": 1
-  },
-  {
    "uid": "0c84ce2cf697374f",
    "company_slug": "palantir",
    "company_name": "Palantir",
@@ -7210,7 +7369,7 @@
    "compensation": null,
    "department": "Platform",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8271,7 +8430,7 @@
    "compensation": null,
    "department": "Quant Research",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8297,7 +8456,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8323,7 +8482,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8349,7 +8508,7 @@
    "compensation": null,
    "department": "Data",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8561,32 +8720,6 @@
    "department": "Delta",
    "active": true,
    "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "eaa873c529f6a336",
-   "company_slug": "roblox",
-   "company_name": "Roblox",
-   "company_tier": 1,
-   "company_category": "consumer",
-   "source": "greenhouse",
-   "title": "[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career",
-   "apply_url": "https://careers.roblox.com/jobs/7350081?gh_jid=7350081",
-   "locations": [
-    "San Mateo, CA, United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-23",
-   "posted_at": "2025-10-27",
-   "closed_at": null,
-   "season": "2026",
-   "compensation": null,
-   "department": "Early Career Full-Time",
-   "active": true,
-   "link_status": "error",
    "openings": 1
   },
   {
@@ -9641,7 +9774,7 @@
    "compensation": null,
    "department": "Research / Strategies",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -9693,7 +9826,7 @@
    "compensation": null,
    "department": null,
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -10009,6 +10142,33 @@
    "openings": 1
   },
   {
+   "uid": "9ded53f7cc940983",
+   "company_slug": "nuro",
+   "company_name": "Nuro",
+   "company_tier": 2,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+   "apply_url": "https://nuro.ai/careersitem?gh_jid=8227399",
+   "locations": [
+    "Mountain View, California (HQ)",
+    "California - HQ"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-23",
+   "last_verified": "2026-09-23",
+   "posted_at": "2026-09-23",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Fleet Infrastructure",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "46f6166524cfdf70",
    "company_slug": "belvedere",
    "company_name": "Belvedere Trading",
@@ -10056,33 +10216,6 @@
    "season": null,
    "compensation": null,
    "department": "Talent",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "d496de7dc576a808",
-   "company_slug": "grafana-labs",
-   "company_name": "Grafana Labs",
-   "company_tier": 2,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Solutions Engineer, Acquisition | West Coast | Remote",
-   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6199208004",
-   "locations": [
-    "United States (Remote)",
-    "USA (Remote)"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-18",
-   "last_verified": "2026-09-23",
-   "posted_at": "2026-09-17",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Solutions Engineering (North & South America)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -10168,16 +10301,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -10195,16 +10328,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -10271,7 +10404,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10297,7 +10430,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10323,7 +10456,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10661,7 +10794,7 @@
    "compensation": null,
    "department": "CTO",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
