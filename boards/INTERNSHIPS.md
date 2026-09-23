@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**106 open roles** · last verified 2026-09-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**105 open roles** · last verified 2026-09-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (13)
+## 🆕 Posted in the last 7 days (12)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -25,7 +25,6 @@ Software engineering and research internships at the same curated bar.
 | **Together AI** | [Research Intern, Frontier Agents (Winter 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | San Francisco | 5d · Sep 18 |
 | **Together AI** | [Research Intern, Inference (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | San Francisco | 5d · Sep 18 |
 | **Amazon** | [Software Development Engineer Intern - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) | Seattle, Washington, USA | 6d · Sep 17 |
-| **Tower Research Capital** | [Software Engineer Intern (Summer 2027)](https://www.tower-research.com/open-positions/?gh_jid=8212158) | New York | 6d · Sep 17 |
 | **Robinhood** | [Security Risk Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) | Menlo Park, CA | 7d · Sep 16 |
 
 
@@ -60,7 +59,6 @@ Software engineering and research internships at the same curated bar.
 | **Together AI** | Research Intern, Frontier Agents (Winter 2027) · _Winter 2027_ | San Francisco | — | ·🎓 | 5d · Sep 18 | 5d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) |
 | **Together AI** | Research Intern, Inference (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 5d · Sep 18 | 5d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) |
 | **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) · _Summer 2027_ | Seattle, Washington, USA | — | · | 6d · Sep 17 | 5d · Sep 18 | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) |
-| **Tower Research Capital** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | New York | — | ·📗 | 6d · Sep 17 | 6d · Sep 17 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8212158) |
 | **Robinhood** | Security Risk Management Intern (Summer 2027) · _Summer 2027_ | Menlo Park, CA | — | ·📗 | 7d · Sep 16 | 7d · Sep 16 | [apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
 | **Anduril Industries** | 2027 Flight Software Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 8d · Sep 15 | 8d · Sep 15 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
 | **Anduril Industries** | Winter 2027 EWIS Harness Engineer Co-op · _Winter 2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 8d · Sep 15 | 8d · Sep 15 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
@@ -152,4 +150,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-23 11:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-23 17:08 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

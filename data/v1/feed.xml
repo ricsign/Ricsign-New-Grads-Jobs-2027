@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-23T11:44:47+00:00</updated>
+  <updated>2026-09-23T17:08:52+00:00</updated>
   <entry>
     <title>Anduril Industries — System Test Engineer - Frontier &amp; Mission Systems</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/4643993007?gh_jid=4643993007"/>
@@ -318,14 +318,6 @@
     <summary>McGregor, TX · citizenship-required · bachelors</summary>
   </entry>
   <entry>
-    <title>Tower Research Capital — Software Engineer Intern (Summer 2027)</title>
-    <link href="https://www.tower-research.com/open-positions/?gh_jid=8212158"/>
-    <id>tag:ricsign.github.io,2026:4ee7169d42acbbea</id>
-    <updated>2026-09-17T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
     <title>Waymo — 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8203200"/>
     <id>tag:ricsign.github.io,2026:d65875a38dccbd37</id>
@@ -404,5 +396,13 @@
     <updated>2026-09-16T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Menlo Park, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8202801"/>
+    <id>tag:ricsign.github.io,2026:f3b4fe278f97981a</id>
+    <updated>2026-09-16T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>
