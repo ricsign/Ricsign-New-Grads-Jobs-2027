@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**110 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**109 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -65,7 +65,6 @@ Software engineering and research internships at the same curated bar.
 | **Together AI** | Research Intern, Frontier Agents (Winter 2027) · _Winter 2027_ | San Francisco | — | ·🎓 | 6d · Sep 18 | 6d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) |
 | **Together AI** | Research Intern, Inference (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 6d · Sep 18 | 6d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) |
 | **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) · _Summer 2027_ | Seattle, Washington, USA | — | · | 7d · Sep 17 | 6d · Sep 18 | [apply](https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa) |
-| **NVIDIA** | PhD Research Intern, Physical AI - Foundation Models - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | 8d · Sep 16 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
 | **Robinhood** | Security Risk Management Intern (Summer 2027) · _Summer 2027_ | Menlo Park, CA | — | ·📗 | 8d · Sep 16 | 8d · Sep 16 | [apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
 | **Anduril Industries** | 2027 Flight Software Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 9d · Sep 15 | 9d · Sep 15 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
 | **Anduril Industries** | Winter 2027 EWIS Harness Engineer Co-op · _Winter 2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 9d · Sep 15 | 9d · Sep 15 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007) |
@@ -156,4 +155,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-24 04:58 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-24 11:53 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -2,7 +2,7 @@
 
 Campus and new-grad roles at elite quant and HFT firms. Highest compensation band on this repo.
 
-**34 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**35 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,13 +10,14 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (3)
+## 🆕 Posted in the last 7 days (4)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Jump Trading** | [Campus Quantitative Researcher \| Trading Team PhD/Postdoc (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8209424) | New York City | 2d · Sep 22 |
 | **Belvedere Trading** | [Early Career Talent Partner- Technology & Platform](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) | Chicago, Illinois | 2d · Sep 22 |
 | **Belvedere Trading** | [Early Career Talent Partner- Trading](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) | Chicago, Illinois | 2d · Sep 22 |
+| **Man Group** | [Junior Quant - MBS](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101) | Boston +2 | 3d · Sep 21 |
 
 
 ## Tier 1 — Established elite
@@ -61,8 +62,9 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Belvedere Trading** | Early Career Talent Partner- Technology & Platform | Chicago, Illinois | — | ·📗 | 2d · Sep 22 | 2d · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
 | **Belvedere Trading** | Early Career Talent Partner- Trading | Chicago, Illinois | — | ·📗 | 2d · Sep 22 | 2d · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
+| **Man Group** | Junior Quant - MBS | Boston, New York +1 | — | · | 3d · Sep 21 | today · Sep 24 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101) |
 | **Belvedere Trading** | Quantitative Trader - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 1mo · Aug 4 | 23d · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/34369a5c-55c0-4e9f-9d2e-4f21b9418bee) |
 
 ---
 
-Generated 2026-09-24 04:58 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-24 11:53 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

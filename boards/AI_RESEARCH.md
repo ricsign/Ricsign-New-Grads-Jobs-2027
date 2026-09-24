@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**68 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**67 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -77,7 +77,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Together AI** | Research Intern, Frontier Agents (Summer 2027) · _Summer 2027_ | San Francisco | — | ·🎓 | 6d · Sep 18 | 6d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) |
 | **Together AI** | Research Intern, Frontier Agents (Winter 2027) · _Winter 2027_ | San Francisco | — | ·🎓 | 6d · Sep 18 | 6d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) |
 | **Together AI** | Research Intern, Inference (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 6d · Sep 18 | 6d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) |
-| **NVIDIA** | PhD Research Intern, Physical AI - Foundation Models - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | 8d · Sep 16 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 9d · Sep 15 | 9d · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 | **Coinbase** | Machine Learning Engineer Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | ·🎓 | 16d · Sep 8 | 15d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | **Coinbase** | User Research Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | · | 16d · Sep 8 | 15d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) |
@@ -133,4 +132,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-09-24 04:58 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-24 11:53 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
