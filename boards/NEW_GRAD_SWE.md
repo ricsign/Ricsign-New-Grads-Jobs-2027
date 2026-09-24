@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**45 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**44 open roles** · last verified 2026-09-24 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (8)
+## 🆕 Posted in the last 7 days (7)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -21,7 +21,6 @@ Full-time entry-level software engineering roles in the US.
 | **Anduril Industries** | [Entry Level Systems Engineer, C2 Integration, Clearance Eligible](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) | Costa Mesa, California, United States | 3d · Sep 21 |
 | **Together AI** | [Software Engineer, New Grad (2027)](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) | San Francisco | 6d · Sep 18 |
 | **SpaceX** | [Test Stand Design & Build Engineer (Structures/Fluid Systems)](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) | McGregor, TX | 7d · Sep 17 |
-| **Nuro** | [Software Engineer, Performance Tooling and Infrastructure New Grad](https://nuro.ai/careersitem?gh_jid=8227399) | Mountain View, California (HQ) +1 | 1d · Sep 23 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -73,7 +72,6 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Nuro** | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ), California - HQ | — | · | 1d · Sep 23 | 1d · Sep 23 | [apply](https://nuro.ai/careersitem?gh_jid=8227399) |
 | **Verkada** | Enterprise Development Representative (December 2026 Grads) · _2026_ | Austin, TX United States, Austin office | — | 🛂 | 8d · Sep 16 | 8d · Sep 16 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5226332007) |
 | **Okta** | Developer Support Associate (New Grad) · _Summer 2025_ | Chicago, Illinois | — | · | 10d · Sep 14 | 10d · Sep 14 | [apply](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 16d · Sep 8 | 15d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
@@ -86,4 +84,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-24 17:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-24 21:34 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

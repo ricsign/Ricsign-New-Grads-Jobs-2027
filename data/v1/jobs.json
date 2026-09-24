@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-24T17:17:15+00:00",
+ "generated_at": "2026-09-24T21:34:46+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 411,
+ "count": 415,
  "jobs": [
   {
    "uid": "748582cceef90eb9",
@@ -650,7 +650,7 @@
    "compensation": null,
    "department": "AI Research & Engineering",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -813,6 +813,33 @@
    "openings": 1
   },
   {
+   "uid": "e49c3a68c92c3c50",
+   "company_slug": "notion",
+   "company_name": "Notion",
+   "company_tier": 1,
+   "company_category": "dev-tools",
+   "source": "ashby",
+   "title": "Software Engineer Intern, Mobile (Winter 2027)",
+   "apply_url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application",
+   "locations": [
+    "San Francisco, California",
+    "New York, New York"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-24",
+   "last_verified": "2026-09-24",
+   "posted_at": "2026-09-24",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Early Career",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "80c5ab2ed3d72712",
    "company_slug": "ramp",
    "company_name": "Ramp",
@@ -904,6 +931,33 @@
     "source": "ashby"
    },
    "department": "Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "008a927fdf463ad3",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Software Engineer, Simulation",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8227640",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-24",
+   "last_verified": "2026-09-24",
+   "posted_at": "2026-09-24",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2098,7 +2152,7 @@
    "compensation": null,
    "department": "Maritime & Maneuver Dominance : Undersea Reconnaissance & Strike - Engineering & Operations : Software Engineering",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2391,7 +2445,7 @@
    "compensation": null,
    "department": "Trading Operations",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2499,7 +2553,7 @@
    "compensation": null,
    "department": "ENG Executive Office",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2639,17 +2693,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -2666,17 +2720,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4757,18 +4811,19 @@
    "openings": 1
   },
   {
-   "uid": "a2359351a739a6d9",
+   "uid": "3b733edade933b2c",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
    "locations": [
-    "Redmond, WA",
+    "Palo Alto, CA",
     "Irvine, CA",
-    "Palo Alto - 1200"
+    "Palo Alto - 1200",
+    "Redmond, WA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4813,19 +4868,18 @@
    "openings": 1
   },
   {
-   "uid": "3b733edade933b2c",
+   "uid": "a2359351a739a6d9",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Silicon Engineering",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002",
    "locations": [
-    "Palo Alto, CA",
+    "Redmond, WA",
     "Irvine, CA",
-    "Palo Alto - 1200",
-    "Redmond, WA"
+    "Palo Alto - 1200"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4948,15 +5002,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -4974,16 +5029,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -7639,7 +7693,33 @@
    "compensation": null,
    "department": "Monetization",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a3215390d6c10524",
+   "company_slug": "jump-trading",
+   "company_name": "Jump Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Research Engineer, Pre-Training",
+   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7977686",
+   "locations": [
+    "New York City"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-24",
+   "posted_at": "2026-06-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Front Office ",
+   "active": true,
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9616,7 +9696,7 @@
    "compensation": null,
    "department": "Quant Management",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -10218,28 +10298,53 @@
    "openings": 1
   },
   {
-   "uid": "9ded53f7cc940983",
-   "company_slug": "nuro",
-   "company_name": "Nuro",
+   "uid": "eaddced17eba7874",
+   "company_slug": "man-group",
+   "company_name": "Man Group",
+   "company_tier": 2,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Technology Rotational Program - Associate Engineer",
+   "apply_url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101",
+   "locations": [
+    "Massachusetts"
+   ],
+   "track": "quant",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-24",
+   "last_verified": "2026-09-24",
+   "posted_at": "2026-09-24",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Technology",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "0d14d6a605a96be8",
+   "company_slug": "samsara",
+   "company_name": "Samsara",
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-   "apply_url": "https://nuro.ai/careersitem?gh_jid=8227399",
+   "title": "Firmware Engineer Co-Op",
+   "apply_url": "https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602",
    "locations": [
-    "Mountain View, California (HQ)",
-    "California - HQ"
+    "San Francisco - SF9"
    ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
+   "track": "internship",
+   "degree": "bachelors",
    "sponsorship": "unknown",
-   "first_seen": "2026-09-23",
+   "first_seen": "2026-09-24",
    "last_verified": "2026-09-24",
-   "posted_at": "2026-09-23",
+   "posted_at": "2026-09-24",
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Fleet Infrastructure",
+   "department": "STCE & Maintenance",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -10251,7 +10356,7 @@
    "company_tier": 2,
    "company_category": "quant",
    "source": "lever",
-   "title": "Early Career Talent Partner- Technology & Platform",
+   "title": "Early Career Talent Partner - Technology & Platform",
    "apply_url": "https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde",
    "locations": [
     "Chicago, Illinois"
@@ -10277,7 +10382,7 @@
    "company_tier": 2,
    "company_category": "quant",
    "source": "lever",
-   "title": "Early Career Talent Partner- Trading",
+   "title": "Early Career Talent Partner - Trading",
    "apply_url": "https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27",
    "locations": [
     "Chicago, Illinois"
