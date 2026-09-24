@@ -4,7 +4,47 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-23T21:34:13+00:00</updated>
+  <updated>2026-09-24T04:58:30+00:00</updated>
+  <entry>
+    <title>Ramp — Software Engineer Internship, Frontend</title>
+    <link href="https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application"/>
+    <id>tag:ricsign.github.io,2026:80c5ab2ed3d72712</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY (HQ) · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Ramp — Software Engineering Intern, Backend</title>
+    <link href="https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application"/>
+    <id>tag:ricsign.github.io,2026:122f4b27f1e1d8c8</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY (HQ) · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Ramp — Software Engineering Intern, Android</title>
+    <link href="https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application"/>
+    <id>tag:ricsign.github.io,2026:d81e1d8a73726614</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY (HQ) · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Ramp — Software Engineering Intern, iOS</title>
+    <link href="https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9/application"/>
+    <id>tag:ricsign.github.io,2026:26f9bc918c4a9a58</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY (HQ) · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Intel — Technology Research 2D Transistor Engineer Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001"/>
+    <id>tag:ricsign.github.io,2026:d051716ef945ce3e</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Scale AI — Software Engineer, Public Sector - New Grad</title>
     <link href="https://job-boards.greenhouse.io/scaleai/jobs/4736426005"/>
@@ -36,22 +76,6 @@
     <updated>2026-09-23T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Chicago, United States · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — PhD Research Intern, Electronic Design Automation - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471"/>
-    <id>tag:ricsign.github.io,2026:b822214a7400db95</id>
-    <updated>2026-09-23T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — PhD Research Intern, Quantum Simulation and AI - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004"/>
-    <id>tag:ricsign.github.io,2026:5bf466a0e6a8b586</id>
-    <updated>2026-09-23T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation</title>
@@ -380,29 +404,5 @@
     <updated>2026-09-17T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, California, San Francisco (US-SFO-MKT555) · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Mercor — Data Science Intern</title>
-    <link href="https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application"/>
-    <id>tag:ricsign.github.io,2026:4d2dfae68f01e375</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Mercor — Software Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application"/>
-    <id>tag:ricsign.github.io,2026:7a5eb4bc8addbec4</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Software Engineer, Battlespace Awareness</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007"/>
-    <id>tag:ricsign.github.io,2026:f3c23b9f5051dbbc</id>
-    <updated>2026-09-16T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Broomfield, Colorado, United States, Fort Collins, Colorado, United States · security-clearance · bachelors</summary>
   </entry>
 </feed>
