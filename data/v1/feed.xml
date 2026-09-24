@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-24T11:53:38+00:00</updated>
+  <updated>2026-09-24T17:17:15+00:00</updated>
+  <entry>
+    <title>Perplexity — Member of Technical Staff (New Grad)</title>
+    <link href="https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523/application"/>
+    <id>tag:ricsign.github.io,2026:748582cceef90eb9</id>
+    <updated>2026-09-24T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Francisco · unknown · bachelors</summary>
+  </entry>
   <entry>
     <title>Ramp — Software Engineer Internship, Frontend</title>
     <link href="https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application"/>
@@ -36,14 +44,6 @@
     <updated>2026-09-24T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY (HQ) · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Intel — Technology Research 2D Transistor Engineer Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001"/>
-    <id>tag:ricsign.github.io,2026:d051716ef945ce3e</id>
-    <updated>2026-09-24T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Man Group — Junior Quant - MBS</title>

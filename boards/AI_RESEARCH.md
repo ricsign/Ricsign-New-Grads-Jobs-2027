@@ -52,6 +52,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Perplexity** | Member of Technical Staff (New Grad) | San Francisco | — | · | today · Sep 24 | today · Sep 24 | [apply](https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523/application) |
 | **Perplexity** | Member of Technical Staff, AI Products (Early Career - Industry) | San Francisco | $180k–$270k | · | 6d · Sep 18 | 5d · Sep 19 | [apply](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application) |
 | **Perplexity** | Perplexity Research Fellowship | San Francisco, Palo Alto +1 | $180k–$220k | · | 6d · Sep 18 | 6d · Sep 18 | [apply](https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application) |
 | **Mercor** | Mercor Research Fellowship — APEX | San Francisco, New York City | $40k | · | 1mo · Aug 22 | 23d · Sep 1 | [apply](https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application) |
@@ -124,12 +125,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **PDT Partners** | Quantitative Researcher · `open 1y+` | New York, NY | — | ·🎓 | 1y · Oct 28 2024 | 23d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer · `open 2y+` | New York, NY | — | · | 2y · Feb 6 2024 | 23d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
 
-## Tier 2 — Strong specialists
-
-| Company | Role | Location | Comp | Flags | Posted | Found | Apply |
-|:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Technology Research 2D Transistor Engineer Intern | US, Oregon, Hillsboro | — | · | — | today · Sep 24 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001) |
-
 ---
 
-Generated 2026-09-24 11:53 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-24 17:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

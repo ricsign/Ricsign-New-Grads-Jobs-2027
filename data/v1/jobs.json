@@ -1,10 +1,36 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-24T11:53:38+00:00",
+ "generated_at": "2026-09-24T17:17:15+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 412,
+ "count": 411,
  "jobs": [
+  {
+   "uid": "748582cceef90eb9",
+   "company_slug": "perplexity",
+   "company_name": "Perplexity",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "ashby",
+   "title": "Member of Technical Staff (New Grad)",
+   "apply_url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523/application",
+   "locations": [
+    "San Francisco"
+   ],
+   "track": "ai-research",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-24",
+   "last_verified": "2026-09-24",
+   "posted_at": "2026-09-24",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "University Recruiting",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
   {
    "uid": "06b42ee7c28fcc6f",
    "company_slug": "scale-ai",
@@ -624,7 +650,7 @@
    "compensation": null,
    "department": "AI Research & Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -2072,7 +2098,7 @@
    "compensation": null,
    "department": "Maritime & Maneuver Dominance : Undersea Reconnaissance & Strike - Engineering & Operations : Software Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -2365,7 +2391,7 @@
    "compensation": null,
    "department": "Trading Operations",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -2473,7 +2499,7 @@
    "compensation": null,
    "department": "ENG Executive Office",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -7613,33 +7639,7 @@
    "compensation": null,
    "department": "Monetization",
    "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "a3215390d6c10524",
-   "company_slug": "jump-trading",
-   "company_name": "Jump Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Research Engineer, Pre-Training",
-   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7977686",
-   "locations": [
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-24",
-   "posted_at": "2026-06-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Front Office ",
-   "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -9616,7 +9616,7 @@
    "compensation": null,
    "department": "Quant Management",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -10213,32 +10213,6 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "d051716ef945ce3e",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Technology Research 2D Transistor Engineer Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-24",
-   "last_verified": "2026-09-24",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
