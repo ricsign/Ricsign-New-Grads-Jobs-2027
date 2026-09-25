@@ -4,7 +4,47 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-24T21:34:46+00:00</updated>
+  <updated>2026-09-25T05:03:44+00:00</updated>
+  <entry>
+    <title>Amazon — Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"/>
+    <id>tag:ricsign.github.io,2026:8d2c4589ee15a3dc</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Seattle, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"/>
+    <id>tag:ricsign.github.io,2026:671f7ea376e13177</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Redmond, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government</title>
+    <link href="https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"/>
+    <id>tag:ricsign.github.io,2026:571421a6bf611291</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Washington, D.C. · security-clearance · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government</title>
+    <link href="https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"/>
+    <id>tag:ricsign.github.io,2026:4496c47ac980297d</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Palo Alto, CA · security-clearance · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government</title>
+    <link href="https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"/>
+    <id>tag:ricsign.github.io,2026:2e0a1c47456c3b63</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY · security-clearance · unspecified</summary>
+  </entry>
   <entry>
     <title>Perplexity — Member of Technical Staff (New Grad)</title>
     <link href="https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523/application"/>
@@ -361,46 +401,6 @@
     <title>Together AI — Software Development In Test Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238472007"/>
     <id>tag:ricsign.github.io,2026:2f1a7ae6cbad832f</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5232036007"/>
-    <id>tag:ricsign.github.io,2026:9cd02f8df3e54b33</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Software Engineer Intern (Winter 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238031007"/>
-    <id>tag:ricsign.github.io,2026:7ceb1f92a3818a66</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Software Engineer, New Grad (2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5211582007"/>
-    <id>tag:ricsign.github.io,2026:fea71936c4976b97</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Systems Research Engineer Intern - GPU Programming (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238460007"/>
-    <id>tag:ricsign.github.io,2026:ba0371e4ad010833</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Systems Research Engineer Intern - GPU Programming (Winter 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238411007"/>
-    <id>tag:ricsign.github.io,2026:3c398c3f86860516</id>
     <updated>2026-09-18T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco · unknown · unspecified</summary>
