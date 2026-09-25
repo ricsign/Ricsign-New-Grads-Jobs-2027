@@ -1339,6 +1339,13 @@
    "closed_at": null
   },
   {
+   "uid": "59252be027362107",
+   "first_seen": "2026-09-25",
+   "last_verified": "2026-09-25",
+   "posted_at": "2026-09-25",
+   "closed_at": null
+  },
+  {
    "uid": "593742b71f0bd31b",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-25",
@@ -1535,6 +1542,13 @@
    "closed_at": null
   },
   {
+   "uid": "6966ab554556be2c",
+   "first_seen": "2026-09-25",
+   "last_verified": "2026-09-25",
+   "posted_at": "2026-09-25",
+   "closed_at": null
+  },
+  {
    "uid": "696a333741392d7d",
    "first_seen": "2026-09-04",
    "last_verified": "2026-09-25",
@@ -1609,6 +1623,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-25",
    "posted_at": "2026-07-24",
+   "closed_at": null
+  },
+  {
+   "uid": "6dc22604e696a704",
+   "first_seen": "2026-09-25",
+   "last_verified": "2026-09-25",
+   "posted_at": null,
    "closed_at": null
   },
   {
@@ -1980,6 +2001,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-25",
    "posted_at": "2026-08-03",
+   "closed_at": null
+  },
+  {
+   "uid": "85045a66afbdde01",
+   "first_seen": "2026-09-25",
+   "last_verified": "2026-09-25",
+   "posted_at": null,
    "closed_at": null
   },
   {
@@ -2655,6 +2683,13 @@
    "closed_at": null
   },
   {
+   "uid": "adcfa9585bd85ef4",
+   "first_seen": "2026-09-25",
+   "last_verified": "2026-09-25",
+   "posted_at": "2026-09-23",
+   "closed_at": null
+  },
+  {
    "uid": "ade798a89071085a",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-25",
@@ -2736,6 +2771,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-08",
    "posted_at": "2026-08-17",
+   "closed_at": null
+  },
+  {
+   "uid": "b62b2c86e6e2c563",
+   "first_seen": "2026-09-25",
+   "last_verified": "2026-09-25",
+   "posted_at": "2026-09-25",
    "closed_at": null
   },
   {
@@ -3675,6 +3717,13 @@
    "last_verified": "2026-09-16",
    "posted_at": "2025-08-30",
    "closed_at": "2026-09-16"
+  },
+  {
+   "uid": "f6cd38a8c43c5c20",
+   "first_seen": "2026-09-25",
+   "last_verified": "2026-09-25",
+   "posted_at": "2026-09-25",
+   "closed_at": null
   },
   {
    "uid": "f6ff800c120a6569",

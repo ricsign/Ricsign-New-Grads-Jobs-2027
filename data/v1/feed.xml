@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-25T17:17:07+00:00</updated>
+  <updated>2026-09-25T21:39:05+00:00</updated>
   <entry>
     <title>Amazon — Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</title>
     <link href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"/>
@@ -20,6 +20,30 @@
     <updated>2026-09-25T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Redmond, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Systems Engineer, Space Emerging Talent</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007"/>
+    <id>tag:ricsign.github.io,2026:b62b2c86e6e2c563</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>DoorDash — Machine Learning Intern (Masters) - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8204111"/>
+    <id>tag:ricsign.github.io,2026:adcfa9585bd85ef4</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, Sunnyvale, CA, New York City, NY, Seattle, WA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>DoorDash — Machine Learning Intern (PhD) - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8233953"/>
+    <id>tag:ricsign.github.io,2026:59252be027362107</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, Sunnyvale, CA, New York City, NY, Seattle, WA · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government</title>
@@ -44,6 +68,38 @@
     <updated>2026-09-25T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY · security-clearance · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel &amp; Machine Learning</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8233746"/>
+    <id>tag:ricsign.github.io,2026:f6cd38a8c43c5c20</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks &amp; Diagnostics</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8231711"/>
+    <id>tag:ricsign.github.io,2026:6966ab554556be2c</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF690) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Intel — Software Solutions PhD Intern New 2027</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314"/>
+    <id>tag:ricsign.github.io,2026:85045a66afbdde01</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Intel — System Software Engineering - PhD Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457"/>
+    <id>tag:ricsign.github.io,2026:6dc22604e696a704</id>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Perplexity — Member of Technical Staff (New Grad)</title>
@@ -348,61 +404,5 @@
     <updated>2026-09-18T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>San Francisco, Seattle, New York, US · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Amazon — Software Development Engineer Intern - Summer 2027 (USA)</title>
-    <link href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa"/>
-    <id>tag:ricsign.github.io,2026:e375e56f0ddcd93f</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Seattle, Washington, USA · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Robinhood — Offensive Security Intern (Summer 2027)</title>
-    <link href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142"/>
-    <id>tag:ricsign.github.io,2026:9ba714a561490d13</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Bellevue, WA, Menlo Park, CA · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Research Intern, Frontier Agents (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238468007"/>
-    <id>tag:ricsign.github.io,2026:db7db0d816eb36e9</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Research Intern, Frontier Agents (Winter 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238467007"/>
-    <id>tag:ricsign.github.io,2026:39aa7a5c078d9d7e</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Research Intern, Inference (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238462007"/>
-    <id>tag:ricsign.github.io,2026:07df3a9545b00633</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Research Intern, Inference (Winter 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238461007"/>
-    <id>tag:ricsign.github.io,2026:3d5b6696ca1614d2</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Software Development In Test Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238472007"/>
-    <id>tag:ricsign.github.io,2026:2f1a7ae6cbad832f</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · unspecified</summary>
   </entry>
 </feed>
