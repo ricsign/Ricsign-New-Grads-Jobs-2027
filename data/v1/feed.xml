@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-25T21:39:05+00:00</updated>
+  <updated>2026-09-26T05:06:22+00:00</updated>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Perception, Machine Learning</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8227411"/>
+    <id>tag:ricsign.github.io,2026:de841021b5e97fb3</id>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel &amp; ML</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8234161"/>
+    <id>tag:ricsign.github.io,2026:98ea3d5e733b3459</id>
+    <updated>2026-09-26T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Amazon — Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</title>
     <link href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"/>
@@ -388,21 +404,5 @@
     <updated>2026-09-19T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Perplexity — Perplexity Research Fellowship</title>
-    <link href="https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application"/>
-    <id>tag:ricsign.github.io,2026:f935df93c600aae6</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>San Francisco, Palo Alto, New York City · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Stripe — Software Engineer, Early Career — Immediate Start</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8212508"/>
-    <id>tag:ricsign.github.io,2026:ab85ad5cbb869f95</id>
-    <updated>2026-09-18T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Francisco, Seattle, New York, US · unknown · masters-preferred</summary>
   </entry>
 </feed>
