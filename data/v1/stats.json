@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T11:30:56+00:00",
+ "generated_at": "2026-09-26T16:28:12+00:00",
  "live_requisitions": 424,
  "live_roles": 386,
  "companies_with_open_roles": 66,
@@ -90,8 +90,8 @@
    }
   ],
   "rejections": {
-   "not a US location": 6116,
-   "senior/experienced role": 4079,
+   "not a US location": 6115,
+   "senior/experienced role": 4080,
    "title is not a technical role": 3951,
    "non-technical role": 3199,
    "not an early-career posting": 2885,
