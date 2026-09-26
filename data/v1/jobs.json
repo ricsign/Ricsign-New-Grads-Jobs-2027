@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-26T05:06:22+00:00",
+ "generated_at": "2026-09-26T11:30:56+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 425,
+ "count": 424,
  "jobs": [
   {
    "uid": "748582cceef90eb9",
@@ -339,39 +339,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "5112 General University",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "4614ee5c7e5d86ed",
-   "company_slug": "mercor",
-   "company_name": "Mercor",
-   "company_tier": 0,
-   "company_category": "ai-lab",
-   "source": "ashby",
-   "title": "Mercor Research Fellowship — APEX",
-   "apply_url": "https://jobs.ashbyhq.com/mercor/a0a98be0-d856-4129-b500-c0a3e412ef01/application",
-   "locations": [
-    "San Francisco",
-    "New York City"
-   ],
-   "track": "ai-research",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-26",
-   "posted_at": "2026-08-22",
-   "closed_at": null,
-   "season": null,
-   "compensation": {
-    "min": 40000,
-    "max": 40000,
-    "currency": "USD",
-    "interval": "1 TIME",
-    "source": "ashby"
-   },
-   "department": "Research",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1549,7 +1516,7 @@
    "compensation": null,
    "department": "Air Dominance & Strike",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2396,7 +2363,7 @@
    "compensation": null,
    "department": "Maritime & Maneuver Dominance : Undersea Reconnaissance & Strike - Engineering & Operations : Software Engineering",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5087,32 +5054,6 @@
    "openings": 1
   },
   {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-26",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -5140,20 +5081,19 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "2fb1d8fb22585078",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
-   "degree": "masters-preferred",
+   "degree": "bachelors",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-26",
@@ -5161,7 +5101,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Product Security - Starlink",
+   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5203,6 +5143,33 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
     "Bastrop, TX",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-26",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a169755945b07175",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -9808,7 +9775,7 @@
    "compensation": null,
    "department": "Quant Management",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {

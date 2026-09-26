@@ -9,8 +9,8 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,889 |
-| Postings published | 425 |
+| Postings fetched | 21,888 |
+| Postings published | 424 |
 | Boards that failed to fetch | **2** |
 | Boards live but with nothing early-career | 60 |
 | Boards returning nothing at all | 1 |
@@ -140,7 +140,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>Airbnb</b> — 156 postings read, none early-career</summary>
+<details><summary><b>Airbnb</b> — 157 postings read, none early-career</summary>
 
 - `Accountant — non-technical role`
 - `Account Manager — not a US location`
@@ -252,10 +252,10 @@ rather than take it on faith.
 
 <details><summary><b>MongoDB</b> — 376 postings read, none early-career</summary>
 
-- `Account Development Representative — not a US location`
-- `Account Development Representative — non-technical role`
 - `Account Development Representative — non-technical role`
 - `Account Development Representative — not a US location`
+- `Account Development Representative — not a US location`
+- `Account Development Representative — non-technical role`
 - `Account Development Representative - English Speaking — not a US location`
 - `Account Development Representative, French Speaking — not a US location`
 
@@ -263,12 +263,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 39 postings read, none early-career</summary>
 
+- `Engineering Manager - OpenBMC Platform — senior/experienced role`
+- `Senior Systems Software Engineer - GPU Performance at Scale — not a US location`
 - `HPC Operations Engineer — not a US location`
 - `Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role`
 - `Senior Software Architect - Data Center Systems — not a US location`
 - `Senior System Architect, Infrastructure Reliability — not a US location`
-- `Principal Firmware Engineer – Server Manageability and Observability — senior/experienced role`
-- `Senior Software Engineer, Security — not a US location`
 
 </details>
 
@@ -304,8 +304,8 @@ rather than take it on faith.
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 619 | 3 | ✅ ok |
 | [Cohere](https://cohere.com/careers) | 0 | `ashby:cohere` | 147 | 3 | ✅ ok |
 | [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 875 | 3 | ✅ ok |
-| [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 112 | 3 | ✅ ok |
 | [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 122 | 3 | ✅ ok |
+| [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 111 | 2 | ✅ ok |
 | [Sierra](https://sierra.ai/careers) | 0 | `ashby:sierra` | 207 | 2 | ✅ ok |
 | [Anysphere (Cursor)](https://cursor.com/careers) | 0 | `ashby:cursor` | 126 | 1 | ✅ ok |
 | [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 35 | 1 | ✅ ok |
@@ -354,7 +354,7 @@ rather than take it on faith.
 | [Tower Research Capital](https://www.tower-research.com/open-positions/) | 1 | `greenhouse:towerresearchcapital` | 91 | 4 | ✅ ok |
 | [Fireworks AI](https://fireworks.ai/careers) | 1 | `ashby:fireworks` | 82 | 3 | ✅ ok |
 | [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 484 | 3 | ✅ ok |
-| [Datadog](https://careers.datadoghq.com/) | 1 | `greenhouse:datadog` | 427 | 2 | ✅ ok |
+| [Datadog](https://careers.datadoghq.com/) | 1 | `greenhouse:datadog` | 426 | 2 | ✅ ok |
 | [Decagon](https://decagon.ai/careers) | 1 | `ashby:decagon` | 144 | 2 | ✅ ok |
 | [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 102 | 2 | ✅ ok |
 | [Roblox](https://careers.roblox.com/) | 1 | `greenhouse:roblox` | 249 | 2 | ✅ ok |
@@ -370,7 +370,7 @@ rather than take it on faith.
 | [XTX Markets](https://www.xtxmarkets.com/careers/) | 1 | `greenhouse:xtxmarketstechnologies` | 9 | 1 | ✅ ok |
 | [AMD](https://careers.amd.com/) | 1 | — | — | — | 🔗 link-only |
 | [Adobe](https://careers.adobe.com/) | 1 | `workday:adobe` | 39 | — | ○ none matched |
-| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 156 | — | ○ none matched |
+| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 157 | — | ○ none matched |
 | [Apple](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN) | 1 | — | — | — | 🔗 link-only |
 | [Brex](https://www.brex.com/careers) | 1 | `greenhouse:brex` | 259 | — | ○ none matched |
 | [Bridgewater Associates](https://www.bridgewater.com/working-at-bridgewater) | 1 | `greenhouse:bridgewater89` | 15 | — | ○ none matched |
@@ -419,14 +419,14 @@ rather than take it on faith.
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | 37 | — | ○ none matched |
 | [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 97 | — | ○ none matched |
 | [Attentive](https://www.attentive.com/careers) | 2 | `greenhouse:attentive` | 33 | — | ○ none matched |
-| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 290 | — | ○ none matched |
+| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 289 | — | ○ none matched |
 | [Chime](https://www.chime.com/careers/) | 2 | `greenhouse:chime` | 66 | — | ○ none matched |
 | [ExodusPoint](https://www.exoduspoint.com/careers) | 2 | `greenhouse:exoduspoint` | 2 | — | ○ none matched |
 | [Faire](https://www.faire.com/careers) | 2 | `greenhouse:faire` | 75 | — | ○ none matched |
 | [Fastly](https://www.fastly.com/about/careers) | 2 | `greenhouse:fastly` | 40 | — | ○ none matched |
 | [Gong](https://www.gong.io/careers/) | 2 | `greenhouse:gongio` | 96 | — | ○ none matched |
 | [Gusto](https://gusto.com/about/careers) | 2 | `greenhouse:gusto` | 97 | — | ○ none matched |
-| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 115 | — | ○ none matched |
+| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 116 | — | ○ none matched |
 | [Klaviyo](https://careers.klaviyo.com/) | 2 | `greenhouse:klaviyo` | 144 | — | ○ none matched |
 | [Marshall Wace](https://www.mwam.com/careers/) | 2 | `greenhouse:marshallwace` | — | — | ○ board empty |
 | [Mixpanel](https://mixpanel.com/careers/) | 2 | `greenhouse:mixpanel` | 72 | — | ○ none matched |

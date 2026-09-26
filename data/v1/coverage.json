@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T05:06:22+00:00",
+ "generated_at": "2026-09-26T11:30:56+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -157,8 +157,8 @@
    "tier": 0,
    "ats": "ashby",
    "token": "mercor",
-   "fetched": 112,
-   "published": 3,
+   "fetched": 111,
+   "published": 2,
    "status": "ok"
   },
   {
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 290,
+   "fetched": 289,
    "published": 0,
    "status": "none matched"
   },
@@ -917,7 +917,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "datadog",
-   "fetched": 427,
+   "fetched": 426,
    "published": 2,
    "status": "ok"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 156,
+   "fetched": 157,
    "published": 0,
    "status": "none matched"
   },
@@ -1317,7 +1317,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "instacart",
-   "fetched": 115,
+   "fetched": 116,
    "published": 0,
    "status": "none matched"
   },
@@ -1456,8 +1456,8 @@
   "not a US location": 6116,
   "senior/experienced role": 4079,
   "title is not a technical role": 3951,
-  "non-technical role": 3198,
-  "not an early-career posting": 2886,
+  "non-technical role": 3199,
+  "not an early-career posting": 2885,
   "non-CS engineering discipline": 839,
   "quant role without early-career marker": 261,
   "research role without early-career marker": 134
@@ -1776,24 +1776,24 @@
    "Forward Deployed Creative [Germany] — not a US location"
   ],
   "mongodb": [
-   "Account Development Representative — not a US location",
-   "Account Development Representative — non-technical role",
    "Account Development Representative — non-technical role",
    "Account Development Representative — not a US location",
+   "Account Development Representative — not a US location",
+   "Account Development Representative — non-technical role",
    "Account Development Representative - English Speaking — not a US location",
    "Account Development Representative, French Speaking — not a US location",
    "Account Development Representative, German Speaking — not a US location",
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
+   "Engineering Manager - OpenBMC Platform — senior/experienced role",
+   "Senior Systems Software Engineer - GPU Performance at Scale — not a US location",
    "HPC Operations Engineer — not a US location",
    "Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role",
    "Senior Software Architect - Data Center Systems — not a US location",
    "Senior System Architect, Infrastructure Reliability — not a US location",
    "Principal Firmware Engineer – Server Manageability and Observability — senior/experienced role",
-   "Senior Software Engineer, Security — not a US location",
-   "Senior Software Engineer, PyTorch - Deep Learning — not a US location",
-   "Senior Software Architect - Deep Learning and HPC Communications — not a US location"
+   "Senior Software Engineer, Security — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1856,8 +1856,8 @@
    "Cloud Platform Architect — senior/experienced role",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — non-technical role",
    "Customer Success Manager — not a US location",
+   "Customer Success Manager — non-technical role",
    "Design Verification Engineer — not an early-career posting"
   ],
   "squarepoint": [
@@ -2021,13 +2021,13 @@
   ],
   "instacart": [
    "Activation Sales Development Representative I — non-technical role",
-   "AI Solutions Lead, Marketing — non-technical role",
    "AI Solutions Lead, Marketing — not a US location",
+   "AI Solutions Lead, Marketing — non-technical role",
    "Analytics Engineer II — not a US location",
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist — title is not a technical role",
-   "Billing Operations Associate — not a US location",
-   "Billing Operations Associate — title is not a technical role"
+   "Billing Operations Associate — title is not a technical role",
+   "Billing Operations Associate — not a US location"
   ],
   "klaviyo": [
    "Account Executive - Commercial (MEA) — not a US location",
@@ -2043,8 +2043,8 @@
    "Commercial Counsel, APAC — not a US location",
    "Customer Engineer — not an early-career posting",
    "Customer Engineer — not an early-career posting",
-   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect — not a US location",
+   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect — title is not a technical role",
    "Customer Value Architect, EMEA — not a US location",
    "Customer Value Architect III — title is not a technical role"
@@ -2102,8 +2102,8 @@
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
    "Customer Account Executive — non-technical role",
-   "Customer Reliability Engineer — not a US location",
-   "Customer Reliability Engineer — not an early-career posting"
+   "Customer Reliability Engineer — not an early-career posting",
+   "Customer Reliability Engineer — not a US location"
   ],
   "temporal": [
    "Technical Executive Communications, Senior Manager — title is not a technical role",

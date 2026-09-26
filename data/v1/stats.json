@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-26T05:06:22+00:00",
- "live_requisitions": 425,
- "live_roles": 387,
+ "generated_at": "2026-09-26T11:30:56+00:00",
+ "live_requisitions": 424,
+ "live_roles": 386,
  "companies_with_open_roles": 66,
  "posted_age": {
-  "median_days": 52,
+  "median_days": 53,
   "posted_last_24h": 6,
   "posted_last_7d": 40,
   "posted_last_30d": 149,
@@ -13,13 +13,13 @@
  },
  "by_track": {
   "new-grad-swe": 104,
-  "ai-research": 14,
+  "ai-research": 13,
   "quant": 65,
   "internship": 242,
   "other": 0
  },
  "by_tier": {
-  "0": 29,
+  "0": 28,
   "1": 358,
   "2": 38
  },
@@ -28,20 +28,20 @@
   "no-sponsorship": 9,
   "citizenship-required": 40,
   "security-clearance": 54,
-  "unknown": 299
+  "unknown": 298
  },
  "by_degree": {
   "bachelors": 62,
   "masters-preferred": 156,
   "phd-required": 52,
-  "unspecified": 155
+  "unspecified": 154
  },
- "sponsorship_resolved_pct": 29.6,
- "link_verified_pct": 96.5,
+ "sponsorship_resolved_pct": 29.7,
+ "link_verified_pct": 97.2,
  "by_link_status": {
-  "ok": 410,
+  "ok": 412,
   "blocked": 10,
-  "error": 5,
+  "error": 2,
   "dead": 0,
   "closed": 0,
   "unchecked": 0
@@ -61,7 +61,7 @@
   "boards_empty": 1,
   "boards_failed": 2,
   "success_rate": 0.9767,
-  "postings_fetched": 22349,
+  "postings_fetched": 22348,
   "by_source": {
    "greenhouse": 76,
    "ashby": 41,
@@ -93,18 +93,18 @@
    "not a US location": 6116,
    "senior/experienced role": 4079,
    "title is not a technical role": 3951,
-   "non-technical role": 3198,
-   "not an early-career posting": 2886,
+   "non-technical role": 3199,
+   "not an early-career posting": 2885,
    "non-CS engineering discipline": 839,
    "quant role without early-career marker": 261,
    "research role without early-career marker": 134
   },
   "link_check": {
-   "ok": 410,
-   "error": 5,
+   "ok": 412,
    "blocked": 10,
-   "checked": 425,
-   "conclusive": 410,
+   "error": 2,
+   "checked": 424,
+   "conclusive": 412,
    "resolving_pct": 100.0
   }
  }
