@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,888 |
+| Postings fetched | 21,887 |
 | Postings published | 424 |
 | Boards that failed to fetch | **2** |
 | Boards live but with nothing early-career | 60 |
@@ -252,10 +252,10 @@ rather than take it on faith.
 
 <details><summary><b>MongoDB</b> — 376 postings read, none early-career</summary>
 
-- `Account Development Representative — non-technical role`
-- `Account Development Representative — not a US location`
 - `Account Development Representative — not a US location`
 - `Account Development Representative — non-technical role`
+- `Account Development Representative — non-technical role`
+- `Account Development Representative — not a US location`
 - `Account Development Representative - English Speaking — not a US location`
 - `Account Development Representative, French Speaking — not a US location`
 
@@ -301,7 +301,7 @@ rather than take it on faith.
 |:--|:-:|:--|--:|--:|:--|
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 203 | 5 | ✅ ok |
 | [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 695 | 4 | ✅ ok |
-| [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 619 | 3 | ✅ ok |
+| [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 618 | 3 | ✅ ok |
 | [Cohere](https://cohere.com/careers) | 0 | `ashby:cohere` | 147 | 3 | ✅ ok |
 | [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 874 | 3 | ✅ ok |
 | [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 123 | 3 | ✅ ok |
@@ -326,9 +326,9 @@ rather than take it on faith.
 | [Thinking Machines Lab](https://thinkingmachines.ai/) | 0 | `ashby:thinkingmachines` | 47 | — | ○ none matched |
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles) | 0 | — | — | — | 🔗 link-only |
 | [Palantir](https://www.palantir.com/careers/) | 1 | `lever:palantir` | 321 | 51 | ✅ ok |
-| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2566 | 30 | ✅ ok |
+| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2567 | 30 | ✅ ok |
 | [Waymo](https://waymo.com/careers/) | 1 | `greenhouse:waymo` | 356 | 29 | ✅ ok |
-| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2280 | 22 | ✅ ok |
+| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2279 | 22 | ✅ ok |
 | [Jump Trading](https://www.jumptrading.com/careers/) | 1 | `greenhouse:jumptrading` | 113 | 21 | ✅ ok |
 | [Akuna Capital](https://akunacapital.com/careers) | 1 | `greenhouse:akunacapital` | 42 | 19 | ✅ ok |
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 301 | 18 | ✅ ok |
