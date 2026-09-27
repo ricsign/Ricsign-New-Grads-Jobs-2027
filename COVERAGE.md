@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 21,884 |
+| Postings fetched | 21,881 |
 | Postings published | 424 |
 | Boards that failed to fetch | **2** |
 | Boards live but with nothing early-career | 60 |
@@ -300,7 +300,7 @@ rather than take it on faith.
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 203 | 5 | ✅ ok |
-| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 695 | 4 | ✅ ok |
+| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 694 | 4 | ✅ ok |
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 618 | 3 | ✅ ok |
 | [Cohere](https://cohere.com/careers) | 0 | `ashby:cohere` | 147 | 3 | ✅ ok |
 | [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 874 | 3 | ✅ ok |
@@ -419,7 +419,7 @@ rather than take it on faith.
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | 36 | — | ○ none matched |
 | [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 97 | — | ○ none matched |
 | [Attentive](https://www.attentive.com/careers) | 2 | `greenhouse:attentive` | 33 | — | ○ none matched |
-| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 289 | — | ○ none matched |
+| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 287 | — | ○ none matched |
 | [Chime](https://www.chime.com/careers/) | 2 | `greenhouse:chime` | 66 | — | ○ none matched |
 | [ExodusPoint](https://www.exoduspoint.com/careers) | 2 | `greenhouse:exoduspoint` | 2 | — | ○ none matched |
 | [Faire](https://www.faire.com/careers) | 2 | `greenhouse:faire` | 75 | — | ○ none matched |

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T05:24:03+00:00",
+ "generated_at": "2026-09-27T12:09:01+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 289,
+   "fetched": 287,
    "published": 0,
    "status": "none matched"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 695,
+   "fetched": 694,
    "published": 4,
    "status": "ok"
   },
@@ -1453,10 +1453,10 @@
   }
  ],
  "rejections": {
-  "not a US location": 6114,
+  "not a US location": 6112,
   "senior/experienced role": 4077,
   "title is not a technical role": 3950,
-  "non-technical role": 3199,
+  "non-technical role": 3198,
   "not an early-career posting": 2887,
   "non-CS engineering discipline": 838,
   "quant role without early-career marker": 261,
@@ -1841,14 +1841,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Director, Strategy & Enablement — not a US location",
    "Manager/Senior Manager - Business Strategy — not a US location",
    "Specialist Account Executive - Slack — not a US location",
    "Zuora Revenue System -Senior Analyst — not a US location",
    "Sr Solution Engineer — senior/experienced role",
    "Accounting Manager — not a US location",
    "Deal Strategy & Pricing Terms Analyst — not a US location",
-   "Senior Manager, Revenue Strategy — not a US location",
-   "Account Executive, Slack — not a US location"
+   "Senior Manager, Revenue Strategy — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
