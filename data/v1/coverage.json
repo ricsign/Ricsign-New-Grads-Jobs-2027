@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T17:02:03+00:00",
+ "generated_at": "2026-09-27T21:24:37+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 618,
+   "fetched": 619,
    "published": 3,
    "status": "ok"
   },
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 827,
+   "fetched": 826,
    "published": 0,
    "status": "none matched"
   },
@@ -287,7 +287,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "cerebras",
-   "fetched": 112,
+   "fetched": 111,
    "published": 1,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 484,
+   "fetched": 478,
    "published": 3,
    "status": "ok"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 39,
+   "fetched": 40,
    "published": 0,
    "status": "none matched"
   },
@@ -1227,7 +1227,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "affirm",
-   "fetched": 140,
+   "fetched": 139,
    "published": 0,
    "status": "none matched"
   },
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "pinterest",
-   "fetched": 153,
+   "fetched": 152,
    "published": 0,
    "status": "none matched"
   },
@@ -1307,7 +1307,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "doordashusa",
-   "fetched": 455,
+   "fetched": 457,
    "published": 5,
    "status": "ok"
   },
@@ -1453,14 +1453,14 @@
   }
  ],
  "rejections": {
-  "not a US location": 6115,
-  "senior/experienced role": 4077,
-  "title is not a technical role": 3950,
-  "non-technical role": 3197,
-  "not an early-career posting": 2886,
-  "non-CS engineering discipline": 838,
+  "not a US location": 6116,
+  "senior/experienced role": 4073,
+  "title is not a technical role": 3948,
+  "non-technical role": 3199,
+  "not an early-career posting": 2885,
+  "non-CS engineering discipline": 837,
   "quant role without early-career marker": 261,
-  "research role without early-career marker": 134
+  "research role without early-career marker": 133
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1776,24 +1776,24 @@
    "Forward Deployed Creative [Germany] — not a US location"
   ],
   "mongodb": [
-   "Account Development Representative — not a US location",
-   "Account Development Representative — non-technical role",
    "Account Development Representative — non-technical role",
    "Account Development Representative — not a US location",
+   "Account Development Representative — not a US location",
+   "Account Development Representative — non-technical role",
    "Account Development Representative - English Speaking — not a US location",
    "Account Development Representative, French Speaking — not a US location",
    "Account Development Representative, German Speaking — not a US location",
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
+   "Senior Network Engineer - DGX Cloud — not a US location",
+   "Senior Engineering Manager, Infrastructure Security Engineering - DGX Cloud — not a US location",
+   "Senior Software Program Manager - Datacenter Compute Server — non-technical role",
+   "Senior Solutions Architect, Agentic AI - Public Sector — not a US location",
+   "Senior System Software Engineer - GPU Power Management — not a US location",
+   "Software Engineering Manager - GPU Communications Libraries — senior/experienced role",
    "Engineering Manager - OpenBMC Platform — senior/experienced role",
-   "Senior Systems Software Engineer - GPU Performance at Scale — not a US location",
-   "HPC Operations Engineer — not a US location",
-   "Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role",
-   "Senior Software Architect - Data Center Systems — not a US location",
-   "Senior System Architect, Infrastructure Reliability — not a US location",
-   "Principal Firmware Engineer – Server Manageability and Observability — senior/experienced role",
-   "Senior Software Engineer, Security — not a US location"
+   "Senior Systems Software Engineer - GPU Performance at Scale — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1856,8 +1856,8 @@
    "Cloud Platform Architect — senior/experienced role",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — non-technical role",
    "Customer Success Manager — not a US location",
+   "Customer Success Manager — non-technical role",
    "Design Verification Engineer — not an early-career posting"
   ],
   "squarepoint": [
@@ -1917,8 +1917,8 @@
    "Analyst II, Credit — not a US location",
    "Analytics Engineer II — not a US location",
    "Analytics Engineer II, Full Stack (Revenue Analytics) — not a US location",
-   "Analytics Lead, Full Stack — not a US location",
-   "Analytics Lead, Full Stack — senior/experienced role"
+   "Analytics Lead, Full Stack — senior/experienced role",
+   "Analytics Lead, Full Stack — not a US location"
   ],
   "airtable": [
    "Account Executive, Strategic Accounts — non-technical role",
@@ -2021,13 +2021,13 @@
   ],
   "instacart": [
    "Activation Sales Development Representative I — non-technical role",
-   "AI Solutions Lead, Marketing — non-technical role",
    "AI Solutions Lead, Marketing — not a US location",
+   "AI Solutions Lead, Marketing — non-technical role",
    "Analytics Engineer II — not a US location",
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist — title is not a technical role",
-   "Billing Operations Associate — not a US location",
-   "Billing Operations Associate — title is not a technical role"
+   "Billing Operations Associate — title is not a technical role",
+   "Billing Operations Associate — not a US location"
   ],
   "klaviyo": [
    "Account Executive - Commercial (MEA) — not a US location",
@@ -2043,8 +2043,8 @@
    "Commercial Counsel, APAC — not a US location",
    "Customer Engineer — not an early-career posting",
    "Customer Engineer — not an early-career posting",
-   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect — not a US location",
+   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect — title is not a technical role",
    "Customer Value Architect, EMEA — not a US location",
    "Customer Value Architect III — title is not a technical role"
@@ -2053,11 +2053,11 @@
    "Administrative Business Partner I - Engineering, Product and Design — not an early-career posting",
    "Client Account Manager, Enterprise Sales [12-Month Fixed Term] — not a US location",
    "Client Account Manager II — not a US location",
-   "Client Account Manager II — not a US location",
    "Client Account Manager II, CPG (Food) — non-technical role",
    "Client Account Manager II (tvScientific) — non-technical role",
    "Content Designer II, Personalization — title is not a technical role",
-   "Content Growth Specialist, APAC Growth [6-Month Fixed Term] — not a US location"
+   "Content Growth Specialist, APAC Growth [6-Month Fixed Term] — not a US location",
+   "Data Scientist II, Infrastructure — senior/experienced role"
   ],
   "quadrature": [
    "Internships — not a US location",
@@ -2102,8 +2102,8 @@
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
    "Customer Account Executive — non-technical role",
-   "Customer Reliability Engineer — not a US location",
-   "Customer Reliability Engineer — not an early-career posting"
+   "Customer Reliability Engineer — not an early-career posting",
+   "Customer Reliability Engineer — not a US location"
   ],
   "temporal": [
    "Technical Executive Communications, Senior Manager — title is not a technical role",
