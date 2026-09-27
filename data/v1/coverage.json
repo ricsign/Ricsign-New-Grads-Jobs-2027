@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T12:09:01+00:00",
+ "generated_at": "2026-09-27T17:02:03+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -77,7 +77,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cognition",
-   "fetched": 103,
+   "fetched": 102,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 874,
+   "fetched": 875,
    "published": 3,
    "status": "ok"
   },
@@ -1117,7 +1117,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gongio",
-   "fetched": 96,
+   "fetched": 97,
    "published": 0,
    "status": "none matched"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6112,
+  "not a US location": 6115,
   "senior/experienced role": 4077,
   "title is not a technical role": 3950,
-  "non-technical role": 3198,
-  "not an early-career posting": 2887,
+  "non-technical role": 3197,
+  "not an early-career posting": 2886,
   "non-CS engineering discipline": 838,
   "quant role without early-career marker": 261,
   "research role without early-career marker": 134
@@ -1776,10 +1776,10 @@
    "Forward Deployed Creative [Germany] — not a US location"
   ],
   "mongodb": [
-   "Account Development Representative — non-technical role",
-   "Account Development Representative — not a US location",
    "Account Development Representative — not a US location",
    "Account Development Representative — non-technical role",
+   "Account Development Representative — non-technical role",
+   "Account Development Representative — not a US location",
    "Account Development Representative - English Speaking — not a US location",
    "Account Development Representative, French Speaking — not a US location",
    "Account Development Representative, German Speaking — not a US location",
@@ -1856,8 +1856,8 @@
    "Cloud Platform Architect — senior/experienced role",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — not a US location",
    "Customer Success Manager — non-technical role",
+   "Customer Success Manager — not a US location",
    "Design Verification Engineer — not an early-career posting"
   ],
   "squarepoint": [
@@ -2021,13 +2021,13 @@
   ],
   "instacart": [
    "Activation Sales Development Representative I — non-technical role",
-   "AI Solutions Lead, Marketing — not a US location",
    "AI Solutions Lead, Marketing — non-technical role",
+   "AI Solutions Lead, Marketing — not a US location",
    "Analytics Engineer II — not a US location",
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist — title is not a technical role",
-   "Billing Operations Associate — title is not a technical role",
-   "Billing Operations Associate — not a US location"
+   "Billing Operations Associate — not a US location",
+   "Billing Operations Associate — title is not a technical role"
   ],
   "klaviyo": [
    "Account Executive - Commercial (MEA) — not a US location",
@@ -2043,8 +2043,8 @@
    "Commercial Counsel, APAC — not a US location",
    "Customer Engineer — not an early-career posting",
    "Customer Engineer — not an early-career posting",
-   "Customer Value Architect — not a US location",
    "Customer Value Architect — title is not a technical role",
+   "Customer Value Architect — not a US location",
    "Customer Value Architect — title is not a technical role",
    "Customer Value Architect, EMEA — not a US location",
    "Customer Value Architect III — title is not a technical role"
@@ -2102,8 +2102,8 @@
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
    "Customer Account Executive — non-technical role",
-   "Customer Reliability Engineer — not an early-career posting",
-   "Customer Reliability Engineer — not a US location"
+   "Customer Reliability Engineer — not a US location",
+   "Customer Reliability Engineer — not an early-career posting"
   ],
   "temporal": [
    "Technical Executive Communications, Senior Manager — title is not a technical role",
