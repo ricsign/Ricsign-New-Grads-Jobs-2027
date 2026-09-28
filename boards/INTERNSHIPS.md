@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**113 open roles** · last verified 2026-09-28 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**111 open roles** · last verified 2026-09-28 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -135,7 +135,6 @@ Software engineering and research internships at the same curated bar.
 | **Applied Intuition** | Research Intern - Robotic Hardware, Simulation and Data | Sunnyvale | $65/hr | · | 7mo · Feb 13 | 27d · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application) |
 | **Etched** | Electrical Platform Intern | San Jose | — | ·📗 | 7mo · Feb 7 | 27d · Sep 1 | [apply](https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application) |
 | **Point72 / Cubist** | Quantitative Research Intern (NLP) · `open 1y+` | New York, NY | — | ·📗 | 1y · May 31 2025 | 27d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
-| **XTX Markets** | AI Research Internship - XTY Labs · `open 1y+` | New York | — | ·📗 | 1y · Nov 18 2024 | 27d · Sep 1 | [apply](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) |
 | **Point72 / Cubist** | Machine Learning Researcher - Intern · `open 2y+` | New York, NY | — | · | 2y · Aug 15 2024 | 27d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
 | **Point72 / Cubist** | Quantitative Research Intern · `open 2y+` | New York, Seattle, New York, NY | — | ·📗 | 2y · Aug 15 2024 | 27d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) |
 
@@ -144,7 +143,6 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Intel** | Software Solutions PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | 3d · Sep 25 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
-| **Intel** | System Software Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | 3d · Sep 25 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457) |
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | · | 4d · Sep 24 | 4d · Sep 24 | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
 | **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | 17d · Sep 11 | 17d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
 | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) · _Summer 2027_ · `2 openings` | New York, NY, San Francisco Office +1 | — | ·📗 | 17d · Sep 11 | 17d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
@@ -161,4 +159,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-28 05:30 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-28 14:04 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
