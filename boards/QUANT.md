@@ -2,7 +2,7 @@
 
 Campus and new-grad roles at elite quant and HFT firms. Highest compensation band on this repo.
 
-**37 open roles** · last verified 2026-09-28 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**36 open roles** · last verified 2026-09-28 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -53,7 +53,6 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | 5mo · Apr 15 | 27d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
 | **DRW** | Prediction Markets Trader | Flexible - US Preferred, Chicago +1 | — | · | 8mo · Jan 7 | 27d · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7520816) |
 | **Point72 / Cubist** | Quantitative Portfolio Analyst – 2026 Grad · _2026_ · `open 1y+` | New York, New York | — | ·📗 | 1y · Sep 15 2025 | 27d · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8169967002?gh_jid=8169967002) |
-| **IMC Trading** | Software Engineer, Early Career · `open 1y+` | Chicago, United States | — | · | 1y · Apr 17 2025 | 27d · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4577504101) |
 | **PDT Partners** | Quantitative Researcher · `open 1y+` | New York, NY | — | ·🎓 | 1y · Oct 28 2024 | 27d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer · `open 2y+` | New York, NY | — | · | 2y · Feb 6 2024 | 27d · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
 | **Hudson River Trading** | FPGA Verification and Developer (Internships and Campus Full-time) · `open 4y+` | New York, NY, United States | — | · | 4y · Sep 21 2022 | 27d · Sep 1 | [apply](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/4576493) |
@@ -70,4 +69,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-09-28 14:04 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-28 23:21 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

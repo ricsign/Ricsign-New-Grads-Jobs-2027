@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-28T14:04:19+00:00",
+ "generated_at": "2026-09-28T23:21:25+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 423,
@@ -54,7 +54,7 @@
    "compensation": null,
    "department": "University",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -458,7 +458,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -806,6 +806,60 @@
    "openings": 1
   },
   {
+   "uid": "54df9286118d5949",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Machine Learning Research",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-28",
+   "last_verified": "2026-09-28",
+   "posted_at": "2026-09-28",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a62affcd3443593f",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+   "locations": [
+    "San Francisco, California",
+    "San Francisco (US-SFO-MKT555)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-28",
+   "last_verified": "2026-09-28",
+   "posted_at": "2026-09-28",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "b62b2c86e6e2c563",
    "company_slug": "anduril",
    "company_name": "Anduril Industries",
@@ -921,7 +975,7 @@
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
    "locations": [
     "Mountain View, CA, USA",
@@ -2127,6 +2181,32 @@
    "openings": 1
   },
   {
+   "uid": "24783ba5a5ee3f93",
+   "company_slug": "cloudflare",
+   "company_name": "Cloudflare",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Software Engineer Intern (2027) - Austin, TX",
+   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+   "locations": [
+    "Austin, TX"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "no-sponsorship",
+   "first_seen": "2026-09-28",
+   "last_verified": "2026-09-28",
+   "posted_at": "2026-09-16",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "University",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "eacf9f373aa5583e",
    "company_slug": "drw",
    "company_name": "DRW",
@@ -2337,7 +2417,7 @@
    "compensation": null,
    "department": "Air Dominance & Strike",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -2467,7 +2547,7 @@
    "compensation": null,
    "department": "Hardware Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -5002,32 +5082,6 @@
    "openings": 1
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-28",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -5049,6 +5103,32 @@
    "season": null,
    "compensation": null,
    "department": "Satellite Payload Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "14812f7b8d47b8ff",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-28",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mesh Optical",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5160,16 +5240,15 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5187,15 +5266,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5478,7 +5558,7 @@
    "compensation": null,
    "department": "Campus",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -5504,7 +5584,7 @@
    "compensation": null,
    "department": "Campus",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -6594,7 +6674,7 @@
    "compensation": null,
    "department": "Campus Quantitative Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -7907,32 +7987,6 @@
    "openings": 1
   },
   {
-   "uid": "a3215390d6c10524",
-   "company_slug": "jump-trading",
-   "company_name": "Jump Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Research Engineer, Pre-Training",
-   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7977686",
-   "locations": [
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-28",
-   "posted_at": "2026-06-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Front Office ",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "c5f281037e4656b4",
    "company_slug": "headlands",
    "company_name": "Headlands Technologies",
@@ -8144,32 +8198,6 @@
    "openings": 1
   },
   {
-   "uid": "58046c15b3bb1914",
-   "company_slug": "amazon",
-   "company_name": "Amazon",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "amazon",
-   "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
-   "locations": [
-    "Seattle, Washington, USA"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-28",
-   "posted_at": "2026-05-06",
-   "closed_at": null,
-   "season": "Fall 2026",
-   "compensation": null,
-   "department": "studentprograms",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "053c6f0dfbe359a2",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
@@ -8190,7 +8218,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "AI Technology",
+   "department": "AI Platform Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -9590,32 +9618,6 @@
    "openings": 1
   },
   {
-   "uid": "463bf30a6a584205",
-   "company_slug": "imc",
-   "company_name": "IMC Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Software Engineer, Early Career",
-   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
-   "locations": [
-    "Chicago, United States"
-   ],
-   "track": "quant",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-28",
-   "posted_at": "2025-04-17",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Development (Group)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "968214c2c8acebdb",
    "company_slug": "old-mission",
    "company_name": "Old Mission Capital",
@@ -10482,27 +10484,28 @@
    "openings": 1
   },
   {
-   "uid": "85045a66afbdde01",
-   "company_slug": "intel",
-   "company_name": "Intel",
+   "uid": "193f03b224d7913e",
+   "company_slug": "lyft",
+   "company_name": "Lyft",
    "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Software Solutions PhD Intern New 2027",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314",
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "Applied Scientist Intern (Summer 2027)",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
    "locations": [
-    "US, Oregon, Hillsboro"
+    "San Francisco, CA",
+    "San Francisco Office"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "unspecified",
    "sponsorship": "unknown",
-   "first_seen": "2026-09-25",
+   "first_seen": "2026-09-28",
    "last_verified": "2026-09-28",
-   "posted_at": null,
+   "posted_at": "2026-09-28",
    "closed_at": null,
-   "season": "2027",
+   "season": "Summer 2027",
    "compensation": null,
-   "department": null,
+   "department": "Early Talent",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -10663,7 +10666,7 @@
    "compensation": null,
    "department": "Sales Development",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -10720,16 +10723,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -10747,16 +10750,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",

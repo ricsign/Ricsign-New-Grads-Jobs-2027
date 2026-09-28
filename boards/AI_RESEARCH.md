@@ -31,15 +31,13 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (8)
+## 🆕 Posted in the last 7 days (6)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Perplexity** | [Member of Technical Staff (New Grad)](https://jobs.ashbyhq.com/perplexity/b539e100-4b8c-4701-a5a8-52b9a72f435e/application) | San Francisco | 1d · Sep 27 |
 | **DoorDash** | [Machine Learning Intern (PhD) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) | San Francisco, CA +3 | 3d · Sep 25 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Perception, Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8227411) | Mountain View, CA, USA +1 | 3d · Sep 25 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8233746) | Mountain View, CA, USA +1 | 3d · Sep 25 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML](https://careers.withwaymo.com/jobs?gh_jid=8234161) | Mountain View, CA, USA +1 | 3d · Sep 25 |
 | **IMC Trading** | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | Chicago, United States | 5d · Sep 23 |
 | **Jump Trading** | [Campus Quantitative Researcher \| Trading Team PhD/Postdoc (Full-Time)](https://www.jumptrading.com/hr/job?gh_jid=8209424) | New York City | 6d · Sep 22 |
 | **Figma** | [PhD Intern, Data Science (2027)](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) | San Francisco, CA • New York, NY +1 | 7d · Sep 21 |
@@ -66,10 +64,10 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Schonfeld** | Entry Level Quantitative Researcher | New York, New York, United States | — | ·📗 | today · Sep 28 | today · Sep 28 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) |
+| **Waymo** | 2027 Summer Intern, PhD, Machine Learning Research · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Sep 28 | today · Sep 28 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8237997) |
+| **Waymo** | 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision · _Summer 2027_ | San Francisco, California, San Francisco (US-SFO-MKT555) | — | ·🎓 | today · Sep 28 | today · Sep 28 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8234670) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 3d · Sep 25 | 3d · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Perception, Machine Learning · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 3d · Sep 25 | 2d · Sep 26 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8227411) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 3d · Sep 25 | 3d · Sep 25 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8233746) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 3d · Sep 25 | 2d · Sep 26 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8234161) |
 | **IMC Trading** | Hardware Machine Learning PhD Research Internship | Chicago, United States | — | ·🎓 | 5d · Sep 23 | 5d · Sep 23 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | **Jump Trading** | Campus Quantitative Researcher \| Trading Team PhD/Postdoc (Full-Time) | New York City | — | ·🎓 | 6d · Sep 22 | 6d · Sep 22 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8209424) |
 | **Figma** | PhD Intern, Data Science (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 7d · Sep 21 | 7d · Sep 21 | [apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
@@ -126,8 +124,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Software Solutions PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | 3d · Sep 25 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) |
+| **Lyft** | Applied Scientist Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | · | today · Sep 28 | today · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 
 ---
 
-Generated 2026-09-28 14:04 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-28 23:21 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
