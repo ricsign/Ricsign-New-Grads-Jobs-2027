@@ -4,7 +4,31 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-28T23:21:25+00:00</updated>
+  <updated>2026-09-29T05:49:21+00:00</updated>
+  <entry>
+    <title>Perplexity — Member of Technical Staff (New Grad)</title>
+    <link href="https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511/application"/>
+    <id>tag:ricsign.github.io,2026:9f588c74afa03370</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Francisco · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Data Analyst, Quality</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007"/>
+    <id>tag:ricsign.github.io,2026:2bbd18b77c0e3f6f</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Ashville, Ohio, United States · security-clearance · bachelors</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Software (Starfall)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002"/>
+    <id>tag:ricsign.github.io,2026:26b4aba760a46c2a</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Hawthorne, CA · citizenship-required · bachelors</summary>
+  </entry>
   <entry>
     <title>Cloudflare — Software Engineer Intern (2027) - Austin, TX</title>
     <link href="https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"/>
@@ -22,7 +46,7 @@
     <summary>New York, New York, United States · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning Research</title>
+    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8237997"/>
     <id>tag:ricsign.github.io,2026:54df9286118d5949</id>
     <updated>2026-09-28T00:00:00Z</updated>
@@ -44,14 +68,6 @@
     <updated>2026-09-28T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA, San Francisco Office · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Perplexity — Member of Technical Staff (New Grad)</title>
-    <link href="https://jobs.ashbyhq.com/perplexity/b539e100-4b8c-4701-a5a8-52b9a72f435e/application"/>
-    <id>tag:ricsign.github.io,2026:1f5411bbe72b2864</id>
-    <updated>2026-09-27T00:00:00Z</updated>
-    <category term="ai-research"/>
-    <summary>San Francisco · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, MS/PhD, Perception, Machine Learning</title>
@@ -286,6 +302,14 @@
     <summary>Mountain View, CA, USA, San Francisco, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
   </entry>
   <entry>
+    <title>Nuro — Software Engineer, Performance Tooling and Infrastructure New Grad</title>
+    <link href="https://nuro.ai/careersitem?gh_jid=8227399"/>
+    <id>tag:ricsign.github.io,2026:9ded53f7cc940983</id>
+    <updated>2026-09-23T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Mountain View, California (HQ), California - HQ · unknown · unspecified</summary>
+  </entry>
+  <entry>
     <title>Anduril Industries — 2027 Early Career Firmware Engineer</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"/>
     <id>tag:ricsign.github.io,2026:7eed5860128b3033</id>
@@ -380,29 +404,5 @@
     <updated>2026-09-21T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Entry Level Systems Engineer, C2 Networking, Clearance Eligible</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5241149007?gh_jid=5241149007"/>
-    <id>tag:ricsign.github.io,2026:4735a74af9dd4ece</id>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Costa Mesa, California, United States · security-clearance · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — New Grad Systems Engineer, C2 Integration, Clearance Eligible</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5241134007?gh_jid=5241134007"/>
-    <id>tag:ricsign.github.io,2026:a930ebab26896745</id>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Figma — PhD Intern, Data Science (2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004"/>
-    <id>tag:ricsign.github.io,2026:c20ae591a05aaeef</id>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
   </entry>
 </feed>
