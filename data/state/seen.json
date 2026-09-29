@@ -891,6 +891,13 @@
    "closed_at": null
   },
   {
+   "uid": "36bd436a10afa948",
+   "first_seen": "2026-09-29",
+   "last_verified": "2026-09-29",
+   "posted_at": null,
+   "closed_at": null
+  },
+  {
    "uid": "376c70b28e9e887b",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-29",
@@ -2232,6 +2239,13 @@
    "first_seen": "2026-09-04",
    "last_verified": "2026-09-29",
    "posted_at": "2026-09-04",
+   "closed_at": null
+  },
+  {
+   "uid": "911497dc74f39ffa",
+   "first_seen": "2026-09-29",
+   "last_verified": "2026-09-29",
+   "posted_at": "2026-09-29",
    "closed_at": null
   },
   {

@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**45 open roles** · last verified 2026-09-29 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**44 open roles** · last verified 2026-09-29 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -47,12 +47,12 @@ Full-time entry-level software engineering roles in the US.
 | **Together AI** | Software Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 11d · Sep 18 | 11d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) |
 | **SpaceX** | Test Stand Design & Build Engineer (Structures/Fluid Systems) | McGregor, TX | — | 🇺🇸 | 12d · Sep 17 | 12d · Sep 17 | [apply](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) |
 | **SpaceX** | New Graduate Engineer, Power Generation (Starship) | Starbase, TX | — | 🇺🇸📗 | 18d · Sep 11 | 17d · Sep 12 | [apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) |
-| **Applied Intuition** | Electrical System Integration Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $110k–$148k | ·📗 | 20d · Sep 9 | 20d · Sep 9 | [apply](https://jobs.ashbyhq.com/applied/6b9a508b-359f-43c1-aa83-cabf55c3e03e/application) |
 | **Replit** | Software Engineer - New Grad (2027) · _2027_ | Foster City, CA | $140k–$180k | · | 20d · Sep 9 | 20d · Sep 9 | [apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application) |
 | **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US · _Fall 2026_ | Los Angeles, CA, New York, NY +3 | — | ·📗 | 25d · Sep 4 | 25d · Sep 4 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
 | **Applied Intuition** | Cybersecurity Software Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $130k–$158k | ·📗 | 27d · Sep 2 | 27d · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) |
 | **Applied Intuition** | Forward Deployed Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $130k–$158k | ·📗 | 27d · Sep 2 | 27d · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application) |
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government · `4 openings` | Honolulu, HI, New York, NY +2 | — | 🔒 | 29d · Aug 31 | 28d · Sep 1 | [apply](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) |
+| **Applied Intuition** | Build & Release Engineer - New Grad (December 2026) · _2026_ | Sunnyvale | $90k–$115k | · | 1mo · Aug 25 | 28d · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352/application) |
 | **LangChain** | Deployed Engineer (Early Career- SF) | San Francisco, CA | — | · | 1mo · Aug 17 | 28d · Sep 1 | [apply](https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522/application) |
 | **LangChain** | Deployed Engineer (Early Career-NYC) | New York, NY | — | · | 1mo · Aug 17 | 28d · Sep 1 | [apply](https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134/application) |
 | **Notion** | Software Engineer, New Grad (Dec 2026) · _2026_ | San Francisco, California | — | ·📗 | 1mo · Aug 14 | 28d · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application) |
@@ -73,7 +73,6 @@ Full-time entry-level software engineering roles in the US.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Nuro** | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ), California - HQ | — | · | 6d · Sep 23 | 6d · Sep 23 | [apply](https://nuro.ai/careersitem?gh_jid=8227399) |
 | **Verkada** | Enterprise Development Representative (December 2026 Grads) · _2026_ | Austin, TX United States, Austin office | — | 🛂 | 13d · Sep 16 | 13d · Sep 16 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5226332007) |
-| **Okta** | Developer Support Associate (New Grad) · _Summer 2025_ | Chicago, Illinois | — | · | 15d · Sep 14 | 15d · Sep 14 | [apply](https://www.okta.com/company/careers/opportunity/8191506?gh_jid=8191506) |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 21d · Sep 8 | 20d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
 | **Elastic** | Principal Software Engineer I - Serverless - Platform Control Plane | United States | — | 🔒 | 1mo · Aug 30 | 28d · Sep 1 | [apply](https://jobs.elastic.co/jobs?gh_jid=8130119&gh_jid=8130119) |
 | **Grafana Labs** | Solutions Engineer \| Central US \| Remote | United States (Remote), USA (Remote) | — | · | 2mo · Jul 27 | 28d · Sep 1 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004) |
@@ -84,4 +83,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-09-29 12:59 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-29 22:20 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

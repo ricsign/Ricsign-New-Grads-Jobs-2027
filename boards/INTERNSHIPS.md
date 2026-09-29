@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**110 open roles** · last verified 2026-09-29 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**111 open roles** · last verified 2026-09-29 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,14 +10,13 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (15)
+## 🆕 Posted in the last 7 days (14)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Waymo** | [2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8237997) | Mountain View, CA, USA +1 | 1d · Sep 28 |
 | **Waymo** | [2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision](https://careers.withwaymo.com/jobs?gh_jid=8234670) | San Francisco, California +1 | 1d · Sep 28 |
 | **DoorDash** | [Machine Learning Intern (PhD) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) | San Francisco, CA +3 | 4d · Sep 25 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Perception, Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8227411) | Mountain View, CA, USA +1 | 4d · Sep 25 |
 | **Amazon** | [Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) | Seattle, Washington, USA | 5d · Sep 24 |
 | **Amazon** | [Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) | Redmond, Washington, USA | 5d · Sep 24 |
 | **Notion** | [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application) | San Francisco, California +1 | 5d · Sep 24 |
@@ -51,10 +50,11 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **NVIDIA** | PhD Research Intern, AI Accelerator Design and VLSI - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Sep 29 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1) |
+| **Waymo** | 2027 Summer Intern, PhD, Planner Machine Learning · _Summer 2027_ | San Francisco, California, San Francisco (US-SFO-MKT555) | — | ·🎓 | today · Sep 29 | today · Sep 29 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8234876) |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Sep 28 | 1d · Sep 28 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8237997) |
 | **Waymo** | 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision · _Summer 2027_ | San Francisco, California, San Francisco (US-SFO-MKT555) | — | ·🎓 | 1d · Sep 28 | 1d · Sep 28 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8234670) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 4d · Sep 25 | 4d · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Perception, Machine Learning · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 4d · Sep 25 | 3d · Sep 26 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8227411) |
 | **Amazon** | Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) · _Summer 2027_ | Seattle, Washington, USA | — | · | 5d · Sep 24 | 4d · Sep 25 | [apply](https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) |
 | **Amazon** | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) · _Summer 2027_ | Redmond, Washington, USA | — | · | 5d · Sep 24 | 4d · Sep 25 | [apply](https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
 | **Notion** | Software Engineer Intern, Mobile (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 5d · Sep 24 | 5d · Sep 24 | [apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application) |
@@ -158,4 +158,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-09-29 12:59 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-29 22:20 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

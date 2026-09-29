@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-29T12:59:59+00:00</updated>
+  <updated>2026-09-29T22:20:56+00:00</updated>
   <entry>
     <title>Perplexity — Member of Technical Staff (New Grad)</title>
     <link href="https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511/application"/>
@@ -22,12 +22,28 @@
     <summary>Ashville, Ohio, United States · security-clearance · bachelors</summary>
   </entry>
   <entry>
+    <title>NVIDIA — PhD Research Intern, AI Accelerator Design and VLSI - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1"/>
+    <id>tag:ricsign.github.io,2026:36bd436a10afa948</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>SpaceX — New Graduate Engineer, Software (Starfall)</title>
     <link href="https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002"/>
     <id>tag:ricsign.github.io,2026:26b4aba760a46c2a</id>
     <updated>2026-09-29T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Hawthorne, CA · citizenship-required · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Planner Machine Learning</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8234876"/>
+    <id>tag:ricsign.github.io,2026:911497dc74f39ffa</id>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, California, San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Cloudflare — Software Engineer Intern (2027) - Austin, TX</title>
@@ -388,21 +404,5 @@
     <updated>2026-09-22T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, Illinois · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Belvedere Trading — Early Career Talent Partner - Trading</title>
-    <link href="https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27"/>
-    <id>tag:ricsign.github.io,2026:a29f21ad3e58be31</id>
-    <updated>2026-09-22T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Chicago, Illinois · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Entry Level Systems Engineer, C2 Integration, Clearance Eligible</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007"/>
-    <id>tag:ricsign.github.io,2026:c516d5e41ede41b6</id>
-    <updated>2026-09-21T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
   </entry>
 </feed>
