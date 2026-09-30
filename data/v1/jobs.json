@@ -1,10 +1,37 @@
 {
  "api_version": 1,
- "generated_at": "2026-09-30T12:42:21+00:00",
+ "generated_at": "2026-09-30T22:21:20+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 419,
+ "count": 427,
  "jobs": [
+  {
+   "uid": "85e474283f85486f",
+   "company_slug": "stripe",
+   "company_name": "Stripe",
+   "company_tier": 0,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "High School Internship, Software Engineering (Summer 2027)",
+   "apply_url": "https://stripe.com/jobs/search?gh_jid=8241260",
+   "locations": [
+    "Seattle, San Francisco",
+    "US-SF-HQ"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-09-30",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "5112 General University",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
   {
    "uid": "9f588c74afa03370",
    "company_slug": "perplexity",
@@ -780,6 +807,138 @@
    "openings": 1
   },
   {
+   "uid": "89e8f91a086813ea",
+   "company_slug": "amazon",
+   "company_name": "Amazon",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "amazon",
+   "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+   "locations": [
+    "Seattle, Washington, USA"
+   ],
+   "track": "internship",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-09-30",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "studentprograms",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "27a349c96dc85805",
+   "company_slug": "imc",
+   "company_name": "IMC Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Software Engineer, Early Career",
+   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101",
+   "locations": [
+    "Chicago, United States"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-09-30",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Development (Group)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "48833e6e8f02953e",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "PhD Research Intern, Programming Systems - 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "eb318fb4fa917492",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-09-30",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "bb04e57da5d22420",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-09-30",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "0980ee145f1419d2",
    "company_slug": "robinhood",
    "company_name": "Robinhood",
@@ -1412,14 +1571,14 @@
    "openings": 1
   },
   {
-   "uid": "51da1563ee254686",
+   "uid": "165d61e036b41249",
    "company_slug": "waymo",
    "company_name": "Waymo",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+   "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
    "locations": [
     "Mountain View, California",
     "Mountain View (US-MTV-EMF680)"
@@ -1439,14 +1598,14 @@
    "openings": 1
   },
   {
-   "uid": "165d61e036b41249",
+   "uid": "51da1563ee254686",
    "company_slug": "waymo",
    "company_name": "Waymo",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "2027 Summer Intern, MS/PhD, Software Engineer",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+   "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
    "locations": [
     "Mountain View, California",
     "Mountain View (US-MTV-EMF680)"
@@ -2708,6 +2867,38 @@
    "openings": 1
   },
   {
+   "uid": "5ce54fdd360d37bd",
+   "company_slug": "ramp",
+   "company_name": "Ramp",
+   "company_tier": 1,
+   "company_category": "fintech",
+   "source": "ashby",
+   "title": "Applied Scientist Intern",
+   "apply_url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application",
+   "locations": [
+    "New York, NY (HQ)"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-09-15",
+   "closed_at": null,
+   "season": null,
+   "compensation": {
+    "min": 12500,
+    "max": 12500,
+    "currency": "USD",
+    "interval": "1 MONTH",
+    "source": "ashby"
+   },
+   "department": "Data",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "327b4e3401c71dc9",
    "company_slug": "doordash",
    "company_name": "DoorDash",
@@ -3209,7 +3400,7 @@
    "title": "Analytics Engineer Intern",
    "apply_url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
    "locations": [
-    "Hybrid - San Francisco, CA",
+    "Hybrid - New York, NY",
     "US - Remote Zone 1 (Job Requisitions Only)"
    ],
    "track": "internship",
@@ -3263,7 +3454,7 @@
    "title": "Data Science Intern",
    "apply_url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
    "locations": [
-    "Hybrid - San Francisco, CA",
+    "Hybrid - New York, NY",
     "US - Remote Zone 1 (Job Requisitions Only)"
    ],
    "track": "internship",
@@ -3757,16 +3948,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -3783,16 +3974,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -4643,32 +4834,6 @@
    "openings": 1
   },
   {
-   "uid": "ba35af05bee8a858",
-   "company_slug": "jump-trading",
-   "company_name": "Jump Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Research Scientist/Research Engineer, Reinforcement Learning",
-   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8122860",
-   "locations": [
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-30",
-   "posted_at": "2026-08-18",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Front Office ",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "92e30fd9c3c08f43",
    "company_slug": "langchain",
    "company_name": "LangChain",
@@ -4994,32 +5159,6 @@
    "openings": 1
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-30",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -5041,6 +5180,32 @@
    "season": null,
    "compensation": null,
    "department": "Satellite Payload Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "14812f7b8d47b8ff",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mesh Optical",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5125,15 +5290,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5151,16 +5317,15 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -6221,6 +6386,32 @@
    "season": null,
    "compensation": null,
    "department": "Quant",
+   "active": true,
+   "link_status": "blocked",
+   "openings": 1
+  },
+  {
+   "uid": "efeea8f068c7b358",
+   "company_slug": "akuna",
+   "company_name": "Akuna Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Junior Trader",
+   "apply_url": "https://www.akunacapital.com/careers/job/7773141/?gh_jid=7773141",
+   "locations": [
+    "Chicago"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-08",
+   "last_verified": "2026-09-30",
+   "posted_at": "2026-07-13",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Trading",
    "active": true,
    "link_status": "blocked",
    "openings": 1
@@ -8905,7 +9096,7 @@
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
-   "title": "Research Engineer (FICCO)",
+   "title": "Research Engineer (Options)",
    "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7377915",
    "locations": [
     "Chicago"
@@ -10370,6 +10561,84 @@
    "openings": 1
   },
   {
+   "uid": "b442fb80341fb3a8",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "AI SOC Power Delivery Pathfinding PhD Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "55952eb4b87f4daa",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "GPU Physical Design Engineer Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
+   "locations": [
+    "Costa Rica, San Jose"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "bb58e96bfd8695a8",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Research Scientist Intern - Graphics, ML",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
+   "locations": [
+    "Virtual US"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-30",
+   "last_verified": "2026-09-30",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "193f03b224d7913e",
    "company_slug": "lyft",
    "company_name": "Lyft",
@@ -10444,33 +10713,6 @@
    "season": null,
    "compensation": null,
    "department": "STCE & Maintenance",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "9ded53f7cc940983",
-   "company_slug": "nuro",
-   "company_name": "Nuro",
-   "company_tier": 2,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-   "apply_url": "https://nuro.ai/careersitem?gh_jid=8227399",
-   "locations": [
-    "Mountain View, California (HQ)",
-    "California - HQ"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-23",
-   "last_verified": "2026-09-30",
-   "posted_at": "2026-09-23",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Fleet Infrastructure",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -11129,32 +11371,6 @@
    "season": null,
    "compensation": null,
    "department": "Solutions Engineering (North & South America)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "574893b6acbee41d",
-   "company_slug": "flexport",
-   "company_name": "Flexport",
-   "company_tier": 2,
-   "company_category": "consumer",
-   "source": "greenhouse",
-   "title": "Automation Engineer I",
-   "apply_url": "https://job-boards.greenhouse.io/flexport/jobs/8015840",
-   "locations": [
-    "Atlanta, Georgia, United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-09-30",
-   "posted_at": "2026-07-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Engineering, Customs",
    "active": true,
    "link_status": "ok",
    "openings": 1

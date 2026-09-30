@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**44 open roles** · last verified 2026-09-30 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**42 open roles** · last verified 2026-09-30 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (5)
+## 🆕 Posted in the last 7 days (4)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -18,7 +18,6 @@ Full-time entry-level software engineering roles in the US.
 | **Anduril Industries** | [Data Analyst, Quality](https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007) | Ashville, Ohio, United States | 2d · Sep 28 |
 | **SpaceX** | [New Graduate Engineer, Software (Starfall)](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) | Hawthorne, CA | 2d · Sep 28 |
 | **Anduril Industries** | [Systems Engineer, Space Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007) | Costa Mesa, California, United States | 5d · Sep 25 |
-| **Nuro** | [Software Engineer, Performance Tooling and Infrastructure New Grad](https://nuro.ai/careersitem?gh_jid=8227399) | Mountain View, California (HQ) +1 | 7d · Sep 23 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -70,16 +69,14 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Nuro** | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ), California - HQ | — | · | 7d · Sep 23 | 7d · Sep 23 | [apply](https://nuro.ai/careersitem?gh_jid=8227399) |
 | **Verkada** | Enterprise Development Representative (December 2026 Grads) · _2026_ | Austin, TX United States, Austin office | — | 🛂 | 14d · Sep 16 | 14d · Sep 16 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5226332007) |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 22d · Sep 8 | 21d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
 | **Elastic** | Principal Software Engineer I - Serverless - Platform Control Plane | United States | — | 🔒 | 1mo · Aug 30 | 29d · Sep 1 | [apply](https://jobs.elastic.co/jobs?gh_jid=8130119&gh_jid=8130119) |
 | **Grafana Labs** | Solutions Engineer \| Central US \| Remote | United States (Remote), USA (Remote) | — | · | 2mo · Jul 27 | 29d · Sep 1 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004) |
-| **Flexport** | Automation Engineer I | Atlanta, Georgia, United States | — | · | 3mo · Jul 2 | 29d · Sep 1 | [apply](https://job-boards.greenhouse.io/flexport/jobs/8015840) |
 | **Samsara** | Senior Security Operations Engineer I | San Francisco - SF9 | — | ·📗 | 3mo · Jun 24 | 29d · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8027084?gh_jid=8027084) |
 | **Nuro** | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ), California - HQ | — | ·📗 | 11mo · Oct 22 2025 | 29d · Sep 1 | [apply](https://nuro.ai/careersitem?gh_jid=7351066) |
 | **Verkada** | Technical Support Engineer - University Graduate 2026 · _2026_ · `open 1y+` | San Mateo, CA United States | — | 🌏📗 | 1y · Aug 8 2025 | 29d · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/4715534007) |
 
 ---
 
-Generated 2026-09-30 12:42 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-09-30 22:21 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
