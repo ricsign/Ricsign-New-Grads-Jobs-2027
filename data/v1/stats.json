@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-09-30T05:39:03+00:00",
- "live_requisitions": 420,
- "live_roles": 382,
- "companies_with_open_roles": 64,
+ "generated_at": "2026-09-30T12:42:21+00:00",
+ "live_requisitions": 419,
+ "live_roles": 381,
+ "companies_with_open_roles": 63,
  "posted_age": {
   "median_days": 51,
   "posted_last_24h": 3,
   "posted_last_7d": 31,
   "posted_last_30d": 145,
   "evergreen_over_1y": 38,
-  "with_posted_date_pct": 99.7
+  "with_posted_date_pct": 100.0
  },
  "by_track": {
   "new-grad-swe": 105,
   "ai-research": 13,
   "quant": 63,
-  "internship": 239,
+  "internship": 238,
   "other": 0
  },
  "by_tier": {
   "0": 28,
-  "1": 355,
+  "1": 354,
   "2": 37
  },
  "by_sponsorship": {
@@ -28,18 +28,18 @@
   "no-sponsorship": 10,
   "citizenship-required": 41,
   "security-clearance": 55,
-  "unknown": 291
+  "unknown": 290
  },
  "by_degree": {
   "bachelors": 59,
   "masters-preferred": 151,
-  "phd-required": 53,
+  "phd-required": 52,
   "unspecified": 157
  },
- "sponsorship_resolved_pct": 30.7,
+ "sponsorship_resolved_pct": 30.8,
  "link_verified_pct": 91.9,
  "by_link_status": {
-  "ok": 386,
+  "ok": 385,
   "blocked": 32,
   "error": 2,
   "dead": 0,
@@ -61,7 +61,7 @@
   "boards_empty": 1,
   "boards_failed": 3,
   "success_rate": 0.969,
-  "postings_fetched": 22344,
+  "postings_fetched": 22325,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -95,21 +95,21 @@
    }
   ],
   "rejections": {
-   "not a US location": 6062,
-   "senior/experienced role": 4100,
-   "title is not a technical role": 3968,
-   "non-technical role": 3190,
-   "not an early-career posting": 2914,
+   "not a US location": 6056,
+   "senior/experienced role": 4097,
+   "title is not a technical role": 3961,
+   "non-technical role": 3191,
+   "not an early-career posting": 2913,
    "non-CS engineering discipline": 831,
    "quant role without early-career marker": 260,
    "research role without early-career marker": 135
   },
   "link_check": {
-   "ok": 386,
+   "ok": 385,
    "blocked": 32,
    "error": 2,
-   "checked": 420,
-   "conclusive": 386,
+   "checked": 419,
+   "conclusive": 385,
    "resolving_pct": 100.0
   }
  }

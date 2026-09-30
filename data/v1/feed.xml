@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-09-30T05:39:03+00:00</updated>
+  <updated>2026-09-30T12:42:21+00:00</updated>
   <entry>
     <title>Robinhood — Data Science Intern (Summer 2027)</title>
     <link href="https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&amp;gh_jid=8241738"/>
@@ -28,14 +28,6 @@
     <updated>2026-09-29T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Ashville, Ohio, United States · security-clearance · bachelors</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — PhD Research Intern, AI Accelerator Design and VLSI - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1"/>
-    <id>tag:ricsign.github.io,2026:36bd436a10afa948</id>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>SpaceX — New Graduate Engineer, Software (Starfall)</title>
@@ -404,5 +396,13 @@
     <updated>2026-09-22T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, California, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Belvedere Trading — Early Career Talent Partner - Technology &amp; Platform</title>
+    <link href="https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde"/>
+    <id>tag:ricsign.github.io,2026:46f6166524cfdf70</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, Illinois · unknown · masters-preferred</summary>
   </entry>
 </feed>
