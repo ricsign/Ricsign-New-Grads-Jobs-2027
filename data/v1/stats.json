@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-09-30T22:21:20+00:00",
+ "generated_at": "2026-10-01T06:03:34+00:00",
  "live_requisitions": 427,
  "live_roles": 389,
  "companies_with_open_roles": 64,
  "posted_age": {
-  "median_days": 50,
-  "posted_last_24h": 8,
-  "posted_last_7d": 35,
-  "posted_last_30d": 150,
+  "median_days": 51,
+  "posted_last_24h": 5,
+  "posted_last_7d": 29,
+  "posted_last_30d": 145,
   "evergreen_over_1y": 38,
   "with_posted_date_pct": 99.0
  },
@@ -33,8 +33,8 @@
  "by_degree": {
   "bachelors": 62,
   "masters-preferred": 152,
-  "phd-required": 55,
-  "unspecified": 158
+  "phd-required": 54,
+  "unspecified": 159
  },
  "sponsorship_resolved_pct": 30.2,
  "link_verified_pct": 91.8,
@@ -47,13 +47,13 @@
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 575,
-  "live": 522,
+  "tracked": 576,
+  "live": 523,
   "closed": 53,
-  "median_age_days": 29,
-  "p90_age_days": 29,
-  "max_age_days": 29,
-  "verified_within_24h": 438
+  "median_age_days": 30,
+  "p90_age_days": 30,
+  "max_age_days": 30,
+  "verified_within_24h": 432
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -61,7 +61,7 @@
   "boards_empty": 1,
   "boards_failed": 3,
   "success_rate": 0.969,
-  "postings_fetched": 22322,
+  "postings_fetched": 22355,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -95,12 +95,12 @@
    }
   ],
   "rejections": {
-   "not a US location": 6073,
-   "senior/experienced role": 4110,
-   "title is not a technical role": 3954,
+   "not a US location": 6082,
+   "senior/experienced role": 4118,
+   "title is not a technical role": 3958,
    "non-technical role": 3167,
-   "not an early-career posting": 2900,
-   "non-CS engineering discipline": 833,
+   "not an early-career posting": 2906,
+   "non-CS engineering discipline": 836,
    "quant role without early-career marker": 256,
    "research role without early-career marker": 135
   },
