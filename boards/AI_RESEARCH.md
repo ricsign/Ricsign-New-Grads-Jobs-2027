@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**71 open roles** · last verified 2026-10-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**70 open roles** · last verified 2026-10-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -127,9 +127,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Research Scientist Intern - Graphics, ML | Virtual US | — | · | — | 1d · Sep 30 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
 | **Lyft** | Applied Scientist Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | · | 3d · Sep 28 | 3d · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 
 ---
 
-Generated 2026-10-01 06:03 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-01 13:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

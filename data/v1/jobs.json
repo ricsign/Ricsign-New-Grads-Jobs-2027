@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-01T06:03:34+00:00",
+ "generated_at": "2026-10-01T13:25:28+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 427,
+ "count": 426,
  "jobs": [
   {
    "uid": "85e474283f85486f",
@@ -5237,32 +5237,6 @@
    "openings": 1
   },
   {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-01",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -5285,6 +5259,32 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Mobile Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "2fb1d8fb22585078",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-01",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -8860,8 +8860,7 @@
    "title": "Prediction Markets Trader",
    "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/7520816",
    "locations": [
-    "Flexible - US Preferred",
-    "Chicago",
+    "Chicago, New York",
     "New York City"
    ],
    "track": "quant",
@@ -10597,32 +10596,6 @@
    "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
    "locations": [
     "Costa Rica, San Jose"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-30",
-   "last_verified": "2026-10-01",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "bb58e96bfd8695a8",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Research Scientist Intern - Graphics, ML",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-   "locations": [
-    "Virtual US"
    ],
    "track": "internship",
    "degree": "unspecified",

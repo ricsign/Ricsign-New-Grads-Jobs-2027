@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**115 open roles** · last verified 2026-10-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**114 open roles** · last verified 2026-10-01 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -146,7 +146,6 @@ Software engineering and research internships at the same curated bar.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Intel** | AI Software Engineering Undergraduate Intern | Costa Rica, San Jose | — | · | — | today · Oct 1 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583) |
 | **Intel** | GPU Physical Design Engineer Intern | Costa Rica, San Jose | — | · | — | 1d · Sep 30 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532) |
-| **Intel** | Research Scientist Intern - Graphics, ML | Virtual US | — | · | — | 1d · Sep 30 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
 | **Lyft** | Applied Scientist Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | · | 3d · Sep 28 | 3d · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | · | 7d · Sep 24 | 7d · Sep 24 | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
 | **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | 20d · Sep 11 | 20d · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
@@ -163,4 +162,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-01 06:03 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-01 13:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-01T06:03:34+00:00</updated>
+  <updated>2026-10-01T13:25:28+00:00</updated>
   <entry>
     <title>Intel — AI Software Engineering Undergraduate Intern</title>
     <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583"/>
@@ -84,14 +84,6 @@
     <updated>2026-09-30T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Costa Rica, San Jose · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — Research Scientist Intern - Graphics, ML</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525"/>
-    <id>tag:ricsign.github.io,2026:bb58e96bfd8695a8</id>
-    <updated>2026-09-30T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Virtual US · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Perplexity — Member of Technical Staff (New Grad)</title>
@@ -401,6 +393,14 @@
     <title>Anduril Industries — 2027 Early Career Firmware Engineer</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"/>
     <id>tag:ricsign.github.io,2026:7eed5860128b3033</id>
+    <updated>2026-09-22T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2027 Early Career Flight Test Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007"/>
+    <id>tag:ricsign.github.io,2026:3a8569234712d305</id>
     <updated>2026-09-22T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
