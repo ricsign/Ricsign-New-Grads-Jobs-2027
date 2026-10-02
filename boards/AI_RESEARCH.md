@@ -131,7 +131,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Software Engineering PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Oct 1 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
+| **Intel** | Software Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Oct 1 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Pinterest** | PhD Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
 | **Pinterest** | PhD Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
@@ -139,4 +139,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-10-02 05:46 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-02 12:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

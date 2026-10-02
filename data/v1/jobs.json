@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-02T05:46:23+00:00",
+ "generated_at": "2026-10-02T12:43:42+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 440,
+ "count": 442,
  "jobs": [
   {
    "uid": "bed2921375d9cc10",
@@ -3870,6 +3870,58 @@
    "openings": 1
   },
   {
+   "uid": "1f367c8e2fbc924f",
+   "company_slug": "qube-rt",
+   "company_name": "Qube Research & Technologies",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "2027 Internship – Security Engineer",
+   "apply_url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+   "locations": [
+    "NYC"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-02",
+   "last_verified": "2026-10-02",
+   "posted_at": "2026-09-08",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Internship - Technology",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "ed3d9bf1d6a0fa6e",
+   "company_slug": "qube-rt",
+   "company_name": "Qube Research & Technologies",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "2027 – Internship or Graduate, FPGA Engineering",
+   "apply_url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
+   "locations": [
+    "NYC"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-02",
+   "last_verified": "2026-10-02",
+   "posted_at": "2026-09-08",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Internship - Technology",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "09d16136622cb012",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -4007,16 +4059,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -4033,16 +4085,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -10652,7 +10704,7 @@
    "company_tier": 2,
    "company_category": "big-tech",
    "source": "workday",
-   "title": "Software Engineering PhD Intern New 2027",
+   "title": "Software Engineering - PhD Intern",
    "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
    "locations": [
     "US, Oregon, Hillsboro"
@@ -10664,7 +10716,7 @@
    "last_verified": "2026-10-02",
    "posted_at": null,
    "closed_at": null,
-   "season": "2027",
+   "season": null,
    "compensation": null,
    "department": null,
    "active": true,

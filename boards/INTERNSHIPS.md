@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**119 open roles** · last verified 2026-10-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**121 open roles** · last verified 2026-10-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -89,6 +89,8 @@ Software engineering and research internships at the same curated bar.
 | **Coinbase** | Analytics Engineer Intern · _Summer 2027_ | Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) | — | · | 24d · Sep 8 | 23d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | **Coinbase** | Data Engineer Intern · _Summer 2027_ | Hybrid - San Francisco, CA, US - Remote Zone 1 (Job Requisitions Only) | — | · | 24d · Sep 8 | 23d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
 | **Datadog** | Software Engineering Intern (Summer) | Boston, Massachusetts, USA, New York, New York, USA | — | 🇺🇸 | 24d · Sep 8 | 24d · Sep 8 | [apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
+| **Qube Research & Technologies** | 2027 Internship – Security Engineer · _2027_ | NYC | — | ·📗 | 24d · Sep 8 | today · Oct 2 | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002) |
+| **Qube Research & Technologies** | 2027 – Internship or Graduate, FPGA Engineering · _2027_ | NYC | — | ·📗 | 24d · Sep 8 | today · Oct 2 | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002) |
 | **Vercel** | Software Engineering Intern - Summer '27 | Hybrid - San Francisco, Office - San Francisco | — | · | 24d · Sep 8 | 24d · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
 | **Vercel** | Software Engineering Intern - Winter '27 | Hybrid - San Francisco, Office - San Francisco | — | · | 24d · Sep 8 | 24d · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181755004) |
 | **Schonfeld** | 2027 PhD Quantitative Research Intern · _2027_ · `2 openings` | New York, New York, United States, Miami, Florida, United States | — | ·🎓 | 28d · Sep 4 | 27d · Sep 5 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
@@ -146,7 +148,7 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Intel** | AI Software Technical Intern | US, California, Santa Clara | — | · | — | 1d · Oct 1 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544) |
-| **Intel** | Software Engineering PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Oct 1 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
+| **Intel** | Software Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Oct 1 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
 | **Pinterest** | Master's Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
 | **Pinterest** | Master's Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
 | **Pinterest** | PhD Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
@@ -166,4 +168,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-02 05:46 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-02 12:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

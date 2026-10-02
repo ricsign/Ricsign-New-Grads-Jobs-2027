@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-02T05:46:23+00:00</updated>
+  <updated>2026-10-02T12:43:42+00:00</updated>
+  <entry>
+    <title>Qube Research &amp; Technologies — 2027 – Internship or Graduate, FPGA Engineering</title>
+    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002"/>
+    <id>tag:ricsign.github.io,2026:ed3d9bf1d6a0fa6e</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>NYC · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Qube Research &amp; Technologies — 2027 Internship – Security Engineer</title>
+    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002"/>
+    <id>tag:ricsign.github.io,2026:1f367c8e2fbc924f</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>NYC · unknown · masters-preferred</summary>
+  </entry>
   <entry>
     <title>Elastic — Principal Software Engineer I - Platform Billing Core</title>
     <link href="https://jobs.elastic.co/jobs?gh_jid=8245817&amp;gh_jid=8245817"/>
@@ -62,7 +78,7 @@
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Intel — Software Engineering PhD Intern New 2027</title>
+    <title>Intel — Software Engineering - PhD Intern</title>
     <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"/>
     <id>tag:ricsign.github.io,2026:0c4d8fd98255ac97</id>
     <updated>2026-10-01T00:00:00Z</updated>
@@ -388,21 +404,5 @@
     <updated>2026-09-25T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks &amp; Diagnostics</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8231711"/>
-    <id>tag:ricsign.github.io,2026:6966ab554556be2c</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF690) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Notion — Software Engineer Intern, Mobile (Winter 2027)</title>
-    <link href="https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application"/>
-    <id>tag:ricsign.github.io,2026:e49c3a68c92c3c50</id>
-    <updated>2026-09-24T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, California, New York, New York · unknown · masters-preferred</summary>
   </entry>
 </feed>
