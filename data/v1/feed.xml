@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-01T22:45:09+00:00</updated>
+  <updated>2026-10-02T05:46:23+00:00</updated>
+  <entry>
+    <title>Elastic — Principal Software Engineer I - Platform Billing Core</title>
+    <link href="https://jobs.elastic.co/jobs?gh_jid=8245817&amp;gh_jid=8245817"/>
+    <id>tag:ricsign.github.io,2026:e131ce5abe5bdd74</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States · security-clearance · unspecified</summary>
+  </entry>
   <entry>
     <title>Stripe — Data Analyst, Intern</title>
     <link href="https://stripe.com/jobs/search?gh_jid=8194291"/>
@@ -396,13 +404,5 @@
     <updated>2026-09-24T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, California, New York, New York · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Ramp — Software Engineer Internship, Frontend</title>
-    <link href="https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application"/>
-    <id>tag:ricsign.github.io,2026:80c5ab2ed3d72712</id>
-    <updated>2026-09-24T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY (HQ) · unknown · bachelors</summary>
   </entry>
 </feed>
