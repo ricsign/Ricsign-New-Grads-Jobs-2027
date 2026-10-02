@@ -31,7 +31,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (11)
+## 🆕 Posted in the last 7 days (10)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -39,7 +39,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Perplexity** | [Member of Technical Staff (New Grad)](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511/application) | San Francisco | 3d · Sep 29 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Mountain View, CA, USA +1 | 1d · Oct 1 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) | Mountain View, CA, USA +1 | 2d · Sep 30 |
-| **Waymo** | [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) | San Francisco, California +1 | 3d · Sep 29 |
 | **Schonfeld** | [Entry Level Quantitative Researcher](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) | New York, New York, United States | 4d · Sep 28 |
 | **DoorDash** | [Machine Learning Intern (PhD) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) | San Francisco, CA +3 | 7d · Sep 25 |
 | **Pinterest** | [Master's University Grad Data Scientist (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) | San Francisco, CA, US +3 | 1d · Oct 1 |
@@ -61,7 +60,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Anthropic** | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote-Friendly US (Travel Required), San Francisco, CA | — | 🌏 | 5mo · Apr 23 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) |
 | **Anthropic** | Anthropic Fellows Program, AI Safety & Security | Remote-Friendly US (Travel Required), San Francisco, CA | — | 🌏 | 5mo · Apr 9 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
 | **Anthropic** | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote-Friendly US (Travel Required), San Francisco, CA | — | 🌏 | 5mo · Apr 9 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
-| **Scale AI** | Machine Learning Fellow - Human Frontier Collective (US) | United States | — | 🛂 | 7mo · Feb 12 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
+| **Scale AI** | Machine Learning Fellow - Human Frontier Collective | United States | — | 🛂 | 7mo · Feb 12 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | **Physical Intelligence** | Research Internships · `open 2y+` | San Francisco | — | · | 2y · Aug 24 2024 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076/application) |
 | **Databricks** | PhD GenAI Research Scientist Intern · `open 2y+` | San Francisco, California, Mountain View, California | — | ·🎓 | 2y · Nov 7 2023 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
 
@@ -69,9 +68,9 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Waymo** | 2027 Summer Intern, PhD, Research, World Action Model · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Oct 2 | today · Oct 2 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8243732) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248060) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 2d · Sep 30 | 2d · Sep 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8240198) |
-| **Waymo** | 2027 Summer Intern, PhD, Planner Machine Learning · _Summer 2027_ | San Francisco, California, San Francisco (US-SFO-MKT555) | — | ·🎓 | 3d · Sep 29 | 3d · Sep 29 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8234876) |
 | **Schonfeld** | Entry Level Quantitative Researcher | New York, New York, United States | — | ·📗 | 4d · Sep 28 | 4d · Sep 28 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8236826) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 7d · Sep 25 | 7d · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | **IMC Trading** | Hardware Machine Learning PhD Research Internship | Chicago, United States | — | ·🎓 | 9d · Sep 23 | 9d · Sep 23 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
@@ -139,4 +138,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-10-02 12:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-02 22:18 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

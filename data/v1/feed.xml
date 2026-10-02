@@ -4,7 +4,87 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-02T12:43:42+00:00</updated>
+  <updated>2026-10-02T22:18:40+00:00</updated>
+  <entry>
+    <title>Harvey — Software Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application"/>
+    <id>tag:ricsign.github.io,2026:ea44abee9cc64d4a</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Harvey — Software Engineer, New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application"/>
+    <id>tag:ricsign.github.io,2026:b0535757c3ebccec</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Harvey — Software Engineer, New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application"/>
+    <id>tag:ricsign.github.io,2026:ac6c53987642618f</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>New York · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Harvey — Software Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application"/>
+    <id>tag:ricsign.github.io,2026:237bbd63d2616759</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>xAI — Spring 2027 Software Engineering Internship/Co-op</title>
+    <link href="https://job-boards.greenhouse.io/xai/jobs/5252108007"/>
+    <id>tag:ricsign.github.io,2026:d218e52efe520b46</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Palo Alto, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>xAI — Summer 2027 Software Engineering Internship/Co-op</title>
+    <link href="https://job-boards.greenhouse.io/xai/jobs/5255111007"/>
+    <id>tag:ricsign.github.io,2026:b5d7bea2998d7226</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Palo Alto, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"/>
+    <id>tag:ricsign.github.io,2026:58e7f00e9e464939</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Seattle, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Brex — Brex Rotational Program</title>
+    <link href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"/>
+    <id>tag:ricsign.github.io,2026:b5f5668436a4cb8c</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Brex — Brex Rotational Program</title>
+    <link href="https://www.brex.com/careers/8864176002?gh_jid=8864176002"/>
+    <id>tag:ricsign.github.io,2026:a386241d1f2da194</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Salt Lake City, Utah, United States · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Brex — Brex Rotational Program</title>
+    <link href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"/>
+    <id>tag:ricsign.github.io,2026:d2b28709668c90a3</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States · unknown · bachelors</summary>
+  </entry>
   <entry>
     <title>Qube Research &amp; Technologies — 2027 – Internship or Graduate, FPGA Engineering</title>
     <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002"/>
@@ -20,6 +100,38 @@
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="internship"/>
     <summary>NYC · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, Perception - Evaluation</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8248327"/>
+    <id>tag:ricsign.github.io,2026:4735e41a21cef7be</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Research, World Action Model</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8243732"/>
+    <id>tag:ricsign.github.io,2026:d06aa5c5348b425c</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Affirm — Software Engineer Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011590003"/>
+    <id>tag:ricsign.github.io,2026:af1579aa5e46869d</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, California, United States · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Affirm — Software Engineer (Machine Learning) Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8008645003"/>
+    <id>tag:ricsign.github.io,2026:eafb0a9a8b773e58</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, California, United States · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Elastic — Principal Software Engineer I - Platform Billing Core</title>
@@ -62,14 +174,6 @@
     <summary>New York, NY · unknown · bachelors</summary>
   </entry>
   <entry>
-    <title>Salesforce — Summer 2027 Intern - MBA Business Value &amp; Strategic Selling Consultant (Healthcare &amp; Life Sciences)</title>
-    <link href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1"/>
-    <id>tag:ricsign.github.io,2026:05b676908244e6e5</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York - New York · unknown · unspecified</summary>
-  </entry>
-  <entry>
     <title>Waymo — 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8248060"/>
     <id>tag:ricsign.github.io,2026:2556ce6c8a3b72c2</id>
@@ -84,14 +188,6 @@
     <updated>2026-10-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Intel — AI Software Technical Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544"/>
-    <id>tag:ricsign.github.io,2026:901d5f28634b79cc</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, California, Santa Clara · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Pinterest — Master's Data Science Internship 2027 (USA)</title>
@@ -139,14 +235,6 @@
     <id>tag:ricsign.github.io,2026:19485ef016389652</id>
     <updated>2026-10-01T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>San Francisco, CA, US, Palo Alto, CA, US, Seattle, WA, US, New York, NY, US · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Pinterest — PhD University Grad Data Scientist 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8157351"/>
-    <id>tag:ricsign.github.io,2026:797c0530be42a6c6</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
     <summary>San Francisco, CA, US, Palo Alto, CA, US, Seattle, WA, US, New York, NY, US · unknown · phd-required</summary>
   </entry>
   <entry>
@@ -316,93 +404,5 @@
     <updated>2026-09-28T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA, San Francisco Office · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Perception, Machine Learning</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8227411"/>
-    <id>tag:ricsign.github.io,2026:de841021b5e97fb3</id>
-    <updated>2026-09-26T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8234161"/>
-    <id>tag:ricsign.github.io,2026:98ea3d5e733b3459</id>
-    <updated>2026-09-26T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Amazon — Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</title>
-    <link href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"/>
-    <id>tag:ricsign.github.io,2026:8d2c4589ee15a3dc</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Seattle, Washington, USA · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Amazon — Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)</title>
-    <link href="https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"/>
-    <id>tag:ricsign.github.io,2026:671f7ea376e13177</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Redmond, Washington, USA · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Systems Engineer, Space Emerging Talent</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007"/>
-    <id>tag:ricsign.github.io,2026:b62b2c86e6e2c563</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Costa Mesa, California, United States · security-clearance · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>DoorDash — Machine Learning Intern (Masters) - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8204111"/>
-    <id>tag:ricsign.github.io,2026:adcfa9585bd85ef4</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, Sunnyvale, CA, New York City, NY, Seattle, WA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>DoorDash — Machine Learning Intern (PhD) - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8233953"/>
-    <id>tag:ricsign.github.io,2026:59252be027362107</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, Sunnyvale, CA, New York City, NY, Seattle, WA · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government</title>
-    <link href="https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"/>
-    <id>tag:ricsign.github.io,2026:571421a6bf611291</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Washington, D.C. · security-clearance · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government</title>
-    <link href="https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"/>
-    <id>tag:ricsign.github.io,2026:4496c47ac980297d</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Palo Alto, CA · security-clearance · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Forward Deployed Infrastructure Engineer, Internship - US Government</title>
-    <link href="https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"/>
-    <id>tag:ricsign.github.io,2026:2e0a1c47456c3b63</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · security-clearance · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel &amp; Machine Learning</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8233746"/>
-    <id>tag:ricsign.github.io,2026:f6cd38a8c43c5c20</id>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>

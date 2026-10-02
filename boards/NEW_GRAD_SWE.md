@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**46 open roles** · last verified 2026-10-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**48 open roles** · last verified 2026-10-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -19,13 +19,14 @@ Full-time entry-level software engineering roles in the US.
 | **Anduril Industries** | [Systems Engineer, Space Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007) | Costa Mesa, California, United States | 7d · Sep 25 |
 | **Pinterest** | [Master's University Grad Data Scientist (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) | San Francisco, CA, US +3 | 1d · Oct 1 |
 | **Pinterest** | [Master's University Grad Machine Learning Engineer 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) | San Francisco, CA, US +3 | 1d · Oct 1 |
-| **Pinterest** | [PhD University Grad Data Scientist 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8157351) | San Francisco, CA, US +3 | 1d · Oct 1 |
+| **Pinterest** | [PhD University Grad Machine Learning Engineer (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140363) | San Francisco, CA, US +2 | 1d · Oct 1 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | today · Oct 2 | today · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 9d · Sep 23 | 9d · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 15d · Sep 17 | 14d · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
 | **Anysphere (Cursor)** | Software Engineer, New Grad 2027 · _2027_ | San Francisco, New York | — | · | 24d · Sep 8 | 22d · Sep 10 | [apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application) |
@@ -40,6 +41,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Brex** | Brex Rotational Program · `3 openings` | Salt Lake City, Utah, United States | — | · | today · Oct 2 | today · Oct 2 | [apply](https://www.brex.com/careers/8864176002?gh_jid=8864176002) |
 | **Anduril Industries** | Data Analyst, Quality | Ashville, Ohio, United States | — | 🔒 | 4d · Sep 28 | 3d · Sep 29 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5251234007?gh_jid=5251234007) |
 | **SpaceX** | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | — | 🇺🇸 | 4d · Sep 28 | 3d · Sep 29 | [apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
 | **Anduril Industries** | Systems Engineer, Space Emerging Talent | Costa Mesa, California, United States | — | 🔒📗 | 7d · Sep 25 | 7d · Sep 25 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5236296007?gh_jid=5236296007) |
@@ -74,7 +76,7 @@ Full-time entry-level software engineering roles in the US.
 | **Elastic** | Principal Software Engineer I - Platform Billing Core | United States | — | 🔒 | today · Oct 2 | today · Oct 2 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817) |
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Pinterest** | Master's University Grad Machine Learning Engineer 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) |
-| **Pinterest** | PhD University Grad Data Scientist 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8157351) |
+| **Pinterest** | PhD University Grad Machine Learning Engineer (USA) | San Francisco, CA, US, Palo Alto, CA, US +1 | — | ·🎓 | 1d · Oct 1 | 1d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140363) |
 | **Verkada** | Enterprise Development Representative (December 2026 Grads) · _2026_ | Austin, TX United States, Austin office | — | 🛂 | 16d · Sep 16 | 16d · Sep 16 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5226332007) |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 24d · Sep 8 | 23d · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
 | **Elastic** | Principal Software Engineer I - Serverless - Platform Control Plane | United States | — | 🔒 | 1mo · Aug 30 | 1mo · Sep 1 | [apply](https://jobs.elastic.co/jobs?gh_jid=8130119&gh_jid=8130119) |
@@ -85,4 +87,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-02 12:43 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-02 22:18 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
