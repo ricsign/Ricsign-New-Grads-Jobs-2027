@@ -1,6 +1,6 @@
 # Coverage
 
-Generated 2026-10-02 · [live JSON](data/v1/coverage.json)
+Generated 2026-10-03 · [live JSON](data/v1/coverage.json)
 
 Every company in the registry, with what we actually pulled from its board.
 A zero in **Published** is not automatically a gap — it may mean the company
@@ -9,8 +9,8 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,016 |
-| Postings published | 452 |
+| Postings fetched | 22,019 |
+| Postings published | 451 |
 | Boards that failed to fetch | **3** |
 | Boards live but with nothing early-career | 58 |
 | Boards returning nothing at all | 1 |
@@ -53,14 +53,14 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>Figure AI</b> — 98 postings read, none early-career</summary>
+<details><summary><b>Figure AI</b> — 97 postings read, none early-career</summary>
 
 - `AI Data Operations Manager — not a US location`
 - `AV Operations Specialist — title is not a technical role`
 - `Data Operations Coordinator (Night Shift) — not an early-career posting`
-- `Demand Planner — title is not a technical role`
 - `Deployment Engineer - Commercial Sites — not an early-career posting`
 - `Deployment Engineer (Data Collection) — not an early-career posting`
+- `Electrical Engineer — non-CS engineering discipline`
 
 </details>
 
@@ -75,7 +75,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>OpenAI</b> — 825 postings read, none early-career</summary>
+<details><summary><b>OpenAI</b> — 828 postings read, none early-career</summary>
 
 - `Technical Program Manager, Compute Infrastructure — non-technical role`
 - `Research Engineer — research role without early-career marker`
@@ -228,7 +228,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>MongoDB</b> — 371 postings read, none early-career</summary>
+<details><summary><b>MongoDB</b> — 370 postings read, none early-career</summary>
 
 - `Account Development Representative — not a US location`
 - `Account Development Representative — not a US location`
@@ -239,18 +239,18 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>NVIDIA</b> — 39 postings read, none early-career</summary>
+<details><summary><b>NVIDIA</b> — 37 postings read, none early-career</summary>
 
-- `Senior Radar Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles — not a US location`
+- `Senior Software Engineer, NCCL — senior/experienced role`
+- `Senior AI Infrastructure Engineer - EDA Infrastructure — not a US location`
+- `Senior Software Engineer, Object Storage - DGX Cloud — not a US location`
+- `Product Manager, AI for Quantum — not a US location`
 - `Senior ASIC Verification Engineer — not a US location`
-- `Senior Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles — not a US location`
-- `Governance, Risk, and Compliance Certifications Engineer — not an early-career posting`
-- `Senior Deep Learning Scientist, Multimodal Agentic RL — senior/experienced role`
-- `Senior Field Application Engineer — not a US location`
+- `Senior Product Manager, Switchyard — not a US location`
 
 </details>
 
-<details><summary><b>Plaid</b> — 122 postings read, none early-career</summary>
+<details><summary><b>Plaid</b> — 119 postings read, none early-career</summary>
 
 - `Strategic Initiatives — title is not a technical role`
 - `Technical Support Engineer — not an early-career posting`
@@ -297,16 +297,16 @@ rather than take it on faith.
 
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
-| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 708 | 7 | ✅ ok |
+| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 710 | 7 | ✅ ok |
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 192 | 5 | ✅ ok |
 | [Harvey](https://www.harvey.ai/careers) | 0 | `ashby:harvey` | 322 | 4 | ✅ ok |
-| [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 640 | 3 | ✅ ok |
+| [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 641 | 3 | ✅ ok |
 | [Cohere](https://cohere.com/careers) | 0 | `ashby:cohere` | 136 | 3 | ✅ ok |
 | [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 871 | 3 | ✅ ok |
-| [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 125 | 3 | ✅ ok |
-| [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 302 | 3 | ✅ ok |
+| [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 127 | 3 | ✅ ok |
+| [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 301 | 3 | ✅ ok |
 | [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 111 | 2 | ✅ ok |
-| [Sierra](https://sierra.ai/careers) | 0 | `ashby:sierra` | 193 | 2 | ✅ ok |
+| [Sierra](https://sierra.ai/careers) | 0 | `ashby:sierra` | 194 | 2 | ✅ ok |
 | [Anysphere (Cursor)](https://cursor.com/careers) | 0 | `ashby:cursor` | 132 | 1 | ✅ ok |
 | [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 34 | 1 | ✅ ok |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
@@ -314,10 +314,10 @@ rather than take it on faith.
 | [Cognition](https://cognition.ai/careers) | 0 | `ashby:cognition` | 103 | — | ○ none matched |
 | [D. E. Shaw](https://www.deshaw.com/careers) | 0 | — | — | — | 🔗 link-only |
 | [ElevenLabs](https://elevenlabs.io/careers) | 0 | `ashby:elevenlabs` | 170 | — | ○ none matched |
-| [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 98 | — | ○ none matched |
+| [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 97 | — | ○ none matched |
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=student) | 0 | — | — | — | 🔗 link-only |
 | [Mistral AI](https://mistral.ai/careers) | 0 | `ashby:mistral.ai` | 208 | — | ○ none matched |
-| [OpenAI](https://openai.com/careers) | 0 | `ashby:openai` | 825 | — | ○ none matched |
+| [OpenAI](https://openai.com/careers) | 0 | `ashby:openai` | 828 | — | ○ none matched |
 | [Optiver](https://optiver.com/join-us/jobs/?location=us) | 0 | — | — | — | 🔗 link-only |
 | [Poolside](https://poolside.ai/careers) | 0 | `ashby:poolside` | 5 | — | ○ none matched |
 | [Reflection AI](https://reflection.ai/careers) | 0 | `ashby:reflectionai` | 51 | — | ○ none matched |
@@ -325,8 +325,8 @@ rather than take it on faith.
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles) | 0 | — | — | — | 🔗 link-only |
 | [Palantir](https://www.palantir.com/careers/) | 1 | `lever:palantir` | 319 | 51 | ✅ ok |
 | [Waymo](https://waymo.com/careers/) | 1 | `greenhouse:waymo` | 364 | 32 | ✅ ok |
-| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2620 | 31 | ✅ ok |
-| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2321 | 23 | ✅ ok |
+| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2619 | 31 | ✅ ok |
+| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2329 | 23 | ✅ ok |
 | [Akuna Capital](https://akunacapital.com/careers) | 1 | `greenhouse:akunacapital` | 41 | 19 | ✅ ok |
 | [Jump Trading](https://www.jumptrading.com/careers/) | 1 | `greenhouse:jumptrading` | 111 | 19 | ✅ ok |
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 310 | 17 | ✅ ok |
@@ -336,34 +336,34 @@ rather than take it on faith.
 | [Together AI](https://www.together.ai/careers) | 1 | `greenhouse:togetherai` | 77 | 11 | ✅ ok |
 | [Amazon](https://www.amazon.jobs/en/teams/internships-for-students) | 1 | `amazon:amazon` | 10 | 10 | ✅ ok |
 | [DRW](https://drw.com/work-at-drw/) | 1 | `greenhouse:drweng` | 169 | 10 | ✅ ok |
-| [Coinbase](https://www.coinbase.com/careers) | 1 | `greenhouse:coinbase` | 221 | 9 | ✅ ok |
+| [Coinbase](https://www.coinbase.com/careers) | 1 | `greenhouse:coinbase` | 222 | 9 | ✅ ok |
 | [Five Rings](https://fiverings.com/careers/) | 1 | `greenhouse:fiveringsllc` | 16 | 8 | ✅ ok |
 | [Robinhood](https://careers.robinhood.com/) | 1 | `greenhouse:robinhood` | 162 | 8 | ✅ ok |
 | [AQR Capital](https://www.aqr.com/Careers) | 1 | `greenhouse:aqr` | 52 | 7 | ✅ ok |
-| [Notion](https://www.notion.so/careers) | 1 | `ashby:notion` | 138 | 7 | ✅ ok |
+| [Notion](https://www.notion.so/careers) | 1 | `ashby:notion` | 137 | 7 | ✅ ok |
 | [Schonfeld](https://www.schonfeld.com/careers/) | 1 | `greenhouse:schonfeld` | 72 | 6 | ✅ ok |
 | [DoorDash](https://careers.doordash.com/) | 1 | `greenhouse:doordashusa` | 456 | 5 | ✅ ok |
-| [Figma](https://www.figma.com/careers/) | 1 | `greenhouse:figma` | 163 | 5 | ✅ ok |
-| [Ramp](https://ramp.com/careers) | 1 | `ashby:ramp` | 158 | 5 | ✅ ok |
+| [Figma](https://www.figma.com/careers/) | 1 | `greenhouse:figma` | 162 | 5 | ✅ ok |
+| [Ramp](https://ramp.com/careers) | 1 | `ashby:ramp` | 157 | 5 | ✅ ok |
 | [Chicago Trading Company](https://www.chicagotrading.com/careers/) | 1 | `greenhouse:chicagotradingcampus` | 8 | 4 | ✅ ok |
 | [Etched](https://www.etched.com/careers) | 1 | `ashby:etched` | 108 | 4 | ✅ ok |
 | [Headlands Technologies](https://www.headlandstech.com/careers/) | 1 | `greenhouse:headlandstechnologiesllc` | 8 | 4 | ✅ ok |
 | [PDT Partners](https://www.pdtpartners.com/careers) | 1 | `greenhouse:pdtpartners` | 10 | 4 | ✅ ok |
 | [Tower Research Capital](https://www.tower-research.com/open-positions/) | 1 | `greenhouse:towerresearchcapital` | 90 | 4 | ✅ ok |
-| [Brex](https://www.brex.com/careers) | 1 | `greenhouse:brex` | 280 | 3 | ✅ ok |
+| [Brex](https://www.brex.com/careers) | 1 | `greenhouse:brex` | 282 | 3 | ✅ ok |
 | [Fireworks AI](https://fireworks.ai/careers) | 1 | `ashby:fireworks` | 84 | 3 | ✅ ok |
-| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 468 | 3 | ✅ ok |
-| [Datadog](https://careers.datadoghq.com/) | 1 | `greenhouse:datadog` | 422 | 2 | ✅ ok |
+| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 469 | 3 | ✅ ok |
+| [Datadog](https://careers.datadoghq.com/) | 1 | `greenhouse:datadog` | 425 | 2 | ✅ ok |
 | [Decagon](https://decagon.ai/careers) | 1 | `ashby:decagon` | 147 | 2 | ✅ ok |
-| [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 101 | 2 | ✅ ok |
+| [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 102 | 2 | ✅ ok |
 | [Qube Research & Technologies](https://www.qube-rt.com/careers) | 1 | `greenhouse:quberesearchandtechnologies` | 198 | 2 | ✅ ok |
-| [Roblox](https://careers.roblox.com/) | 1 | `greenhouse:roblox` | 247 | 2 | ✅ ok |
-| [Vercel](https://vercel.com/careers) | 1 | `greenhouse:vercel` | 86 | 2 | ✅ ok |
-| [Baseten](https://www.baseten.co/careers) | 1 | `ashby:baseten` | 103 | 1 | ✅ ok |
-| [Cerebras](https://www.cerebras.ai/careers) | 1 | `ashby:cerebras` | 116 | 1 | ✅ ok |
+| [Roblox](https://careers.roblox.com/) | 1 | `greenhouse:roblox` | 246 | 2 | ✅ ok |
+| [Vercel](https://vercel.com/careers) | 1 | `greenhouse:vercel` | 85 | 2 | ✅ ok |
+| [Baseten](https://www.baseten.co/careers) | 1 | `ashby:baseten` | 104 | 1 | ✅ ok |
+| [Cerebras](https://www.cerebras.ai/careers) | 1 | `ashby:cerebras` | 117 | 1 | ✅ ok |
 | [Cloudflare](https://www.cloudflare.com/careers/) | 1 | `greenhouse:cloudflare` | 391 | 1 | ✅ ok |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | 1 | `greenhouse:hrttalentcommunity` | 3 | 1 | ✅ ok |
-| [Modal](https://modal.com/careers) | 1 | `ashby:modal` | 39 | 1 | ✅ ok |
+| [Modal](https://modal.com/careers) | 1 | `ashby:modal` | 38 | 1 | ✅ ok |
 | [Radix Trading](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixuniversity` | 8 | 1 | ✅ ok |
 | [Replit](https://replit.com/careers) | 1 | `ashby:replit` | 72 | 1 | ✅ ok |
 | [The Voleon Group](https://voleon.com/careers/) | 1 | `ashby:voleon` | 56 | 1 | ✅ ok |
@@ -384,9 +384,9 @@ rather than take it on faith.
 | [Meta](https://www.metacareers.com/jobs?roles[0]=Internship&roles[1]=University%20Grad) | 1 | — | — | — | 🔗 link-only |
 | [Microsoft](https://jobs.careers.microsoft.com/global/en/search?exp=Students%20and%20graduates) | 1 | — | — | — | 🔗 link-only |
 | [Millennium](https://career.mlp.com/careers) | 1 | — | — | — | 🔗 link-only |
-| [MongoDB](https://www.mongodb.com/company/careers) | 1 | `greenhouse:mongodb` | 371 | — | ○ none matched |
-| [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) | 1 | `workday:nvidia` | 39 | — | ○ none matched |
-| [Plaid](https://plaid.com/careers/) | 1 | `ashby:plaid` | 122 | — | ○ none matched |
+| [MongoDB](https://www.mongodb.com/company/careers) | 1 | `greenhouse:mongodb` | 370 | — | ○ none matched |
+| [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) | 1 | `workday:nvidia` | 37 | — | ○ none matched |
+| [Plaid](https://plaid.com/careers/) | 1 | `ashby:plaid` | 119 | — | ○ none matched |
 | [Radix Trading (Experienced)](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixexperienced` | 7 | — | ○ none matched |
 | [Reddit](https://redditinc.com/careers) | 1 | `greenhouse:reddit` | 151 | — | ○ none matched |
 | [Runway](https://runwayml.com/careers) | 1 | `ashby:runway` | 4 | — | ○ none matched |
@@ -397,20 +397,20 @@ rather than take it on faith.
 | [Squarepoint Capital](https://www.squarepoint-capital.com/careers) | 1 | `greenhouse:squarepointcapital` | 90 | — | ○ none matched |
 | [Suno](https://suno.com/careers) | 1 | `ashby:suno` | 66 | — | ○ none matched |
 | [Supabase](https://supabase.com/careers) | 1 | `ashby:supabase` | 48 | — | ○ none matched |
-| [Tenstorrent](https://tenstorrent.com/careers) | 1 | `greenhouse:tenstorrent` | 130 | — | ○ none matched |
+| [Tenstorrent](https://tenstorrent.com/careers) | 1 | `greenhouse:tenstorrent` | 129 | — | ○ none matched |
 | [Vanta](https://www.vanta.com/careers) | 1 | `ashby:vanta` | 83 | — | ○ none matched |
 | [XTX Markets](https://www.xtxmarkets.com/careers/) | 1 | `greenhouse:xtxmarketstechnologies` | 8 | — | ○ none matched |
 | [Verkada](https://www.verkada.com/careers/) | 2 | `greenhouse:verkada` | 306 | 13 | ✅ ok |
-| [Pinterest](https://www.pinterestcareers.com/) | 2 | `greenhouse:pinterest` | 168 | 11 | ✅ ok |
+| [Pinterest](https://www.pinterestcareers.com/) | 2 | `greenhouse:pinterest` | 169 | 11 | ✅ ok |
 | [Belvedere Trading](https://belvederetrading.com/careers/) | 2 | `lever:belvederetrading` | 21 | 7 | ✅ ok |
 | [Lyft](https://www.lyft.com/careers) | 2 | `greenhouse:lyft` | 191 | 5 | ✅ ok |
-| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 226 | 3 | ✅ ok |
-| [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 150 | 2 | ✅ ok |
+| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 225 | 3 | ✅ ok |
+| [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 148 | 2 | ✅ ok |
 | [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 393 | 2 | ✅ ok |
-| [Man Group](https://www.man.com/careers) | 2 | `greenhouse:mangroup` | 58 | 2 | ✅ ok |
-| [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 103 | 2 | ✅ ok |
+| [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 102 | 2 | ✅ ok |
 | [Grafana Labs](https://grafana.com/about/careers/) | 2 | `greenhouse:grafanalabs` | 121 | 1 | ✅ ok |
 | [Intel](https://jobs.intel.com/) | 2 | `workday:intel` | 23 | 1 | ✅ ok |
+| [Man Group](https://www.man.com/careers) | 2 | `greenhouse:mangroup` | 57 | 1 | ✅ ok |
 | [Airtable](https://www.airtable.com/careers) | 2 | `greenhouse:airtable` | 4 | — | ○ none matched |
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | — | — | ⚠️ FETCH FAILED |
 | [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 95 | — | ○ none matched |
@@ -421,14 +421,14 @@ rather than take it on faith.
 | [ExodusPoint](https://www.exoduspoint.com/careers) | 2 | `greenhouse:exoduspoint` | 2 | — | ○ none matched |
 | [Faire](https://www.faire.com/careers) | 2 | `greenhouse:faire` | 79 | — | ○ none matched |
 | [Fastly](https://www.fastly.com/about/careers) | 2 | `greenhouse:fastly` | 43 | — | ○ none matched |
-| [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 195 | — | ○ none matched |
+| [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 194 | — | ○ none matched |
 | [Gong](https://www.gong.io/careers/) | 2 | `greenhouse:gongio` | 96 | — | ○ none matched |
-| [Gusto](https://gusto.com/about/careers) | 2 | `greenhouse:gusto` | 96 | — | ○ none matched |
-| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 129 | — | ○ none matched |
+| [Gusto](https://gusto.com/about/careers) | 2 | `greenhouse:gusto` | 94 | — | ○ none matched |
+| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 131 | — | ○ none matched |
 | [Klaviyo](https://careers.klaviyo.com/) | 2 | `greenhouse:klaviyo` | 129 | — | ○ none matched |
 | [Marshall Wace](https://www.mwam.com/careers/) | 2 | `greenhouse:marshallwace` | — | — | ○ board empty |
-| [Mixpanel](https://mixpanel.com/careers/) | 2 | `greenhouse:mixpanel` | 62 | — | ○ none matched |
-| [Okta](https://www.okta.com/company/careers/) | 2 | `greenhouse:okta` | 340 | — | ○ none matched |
+| [Mixpanel](https://mixpanel.com/careers/) | 2 | `greenhouse:mixpanel` | 63 | — | ○ none matched |
+| [Okta](https://www.okta.com/company/careers/) | 2 | `greenhouse:okta` | 339 | — | ○ none matched |
 | [Postman](https://www.postman.com/company/careers/) | 2 | `greenhouse:postman` | — | — | ⚠️ FETCH FAILED |
 | [Quadrature Capital](https://quadrature.ai/careers/) | 2 | `greenhouse:quadraturecapital` | 3 | — | ○ none matched |
 | [Qualcomm](https://careers.qualcomm.com/) | 2 | — | — | — | 🔗 link-only |
@@ -438,7 +438,7 @@ rather than take it on faith.
 | [Tailscale](https://tailscale.com/careers) | 2 | `greenhouse:tailscale` | 31 | — | ○ none matched |
 | [Temporal](https://temporal.io/careers) | 2 | `ashby:temporal` | 64 | — | ○ none matched |
 | [Tesla](https://www.tesla.com/careers/search/?type=3) | 2 | — | — | — | 🔗 link-only |
-| [Twilio](https://www.twilio.com/en-us/company/jobs) | 2 | `greenhouse:twilio` | 121 | — | ○ none matched |
+| [Twilio](https://www.twilio.com/en-us/company/jobs) | 2 | `greenhouse:twilio` | 118 | — | ○ none matched |
 | [Vatic Labs](https://vaticlabs.com/careers) | 2 | `greenhouse:vaticlabs` | 8 | — | ○ none matched |
 | [Warp](https://www.warp.dev/careers) | 2 | `ashby:warp` | 22 | — | ○ none matched |
 | [Zed](https://zed.dev/jobs) | 2 | `ashby:zed` | 1 | — | ○ none matched |
