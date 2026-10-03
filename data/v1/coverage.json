@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T05:24:17+00:00",
+ "generated_at": "2026-10-03T11:44:58+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 828,
+   "fetched": 829,
    "published": 0,
    "status": "none matched"
   },
@@ -137,7 +137,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "poolside",
-   "fetched": 5,
+   "fetched": 2,
    "published": 0,
    "status": "none matched"
   },
@@ -147,7 +147,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "elevenlabs",
-   "fetched": 170,
+   "fetched": 169,
    "published": 0,
    "status": "none matched"
   },
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 274,
+   "fetched": 272,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 871,
+   "fetched": 870,
    "published": 3,
    "status": "ok"
   },
@@ -967,7 +967,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "twilio",
-   "fetched": 118,
+   "fetched": 117,
    "published": 0,
    "status": "none matched"
   },
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "pinterest",
-   "fetched": 169,
+   "fetched": 168,
    "published": 11,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2619,
+   "fetched": 2618,
    "published": 31,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6107,
-  "senior/experienced role": 4140,
-  "title is not a technical role": 3957,
-  "non-technical role": 3180,
-  "not an early-career posting": 2941,
+  "not a US location": 6102,
+  "senior/experienced role": 4138,
+  "title is not a technical role": 3955,
+  "non-technical role": 3179,
+  "not an early-career posting": 2942,
   "non-CS engineering discipline": 854,
   "quant role without early-career marker": 255,
   "research role without early-career marker": 134
@@ -1628,11 +1628,8 @@
    "Software Engineer, Data Infrastructure — not an early-career posting"
   ],
   "poolside": [
-   "Member of Engineering (Post-training) — not a US location",
    "Member of Engineering (Infrastructure) — not a US location",
-   "Events Lead — title is not a technical role",
-   "Member of Engineering (Inference Infrastructure) — not a US location",
-   "Member of Engineering (Data & Analytics) — not a US location"
+   "Member of Engineering (Inference Infrastructure) — not a US location"
   ],
   "reflection-ai": [
    "Member of Technical Staff - Pre-Training — senior/experienced role",
@@ -1810,14 +1807,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Performance Engineer - Software Engineering SMTS — not a US location",
+   "Platform and Security Growth Business Account Executive — not a US location",
+   "Sr. Director, Public Sector Strategy & Business Development — not a US location",
+   "Software Engineering MTS — not a US location",
    "Technology Auditor, Internal Audit — not a US location",
    "Senior/Lead Software Engineer, Site Reliability (Agentforce Operations) — not a US location",
    "Business Development Associate (Early Career) — non-technical role",
-   "Site Reliability Engineer (MTS) GovCloud 24x7 — not a US location",
-   "Associate Product Manager (starting summer 2027) — title is not a technical role",
-   "Customer Success Manager, MuleSoft — not a US location",
-   "Solutions Builder - Private Equity — not a US location",
-   "Customer Success Manager — not a US location"
+   "Site Reliability Engineer (MTS) GovCloud 24x7 — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
