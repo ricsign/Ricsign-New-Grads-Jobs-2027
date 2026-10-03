@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T16:27:01+00:00",
+ "generated_at": "2026-10-03T21:22:31+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 640,
+   "fetched": 639,
    "published": 3,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 465,
+   "fetched": 471,
    "published": 3,
    "status": "ok"
   },
@@ -947,7 +947,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "grafanalabs",
-   "fetched": 121,
+   "fetched": 120,
    "published": 1,
    "status": "ok"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2330,
+   "fetched": 2326,
    "published": 23,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2618,
+   "fetched": 2616,
    "published": 31,
    "status": "ok"
   },
@@ -1447,18 +1447,18 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 228,
+   "fetched": 229,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6104,
+  "not a US location": 6105,
   "senior/experienced role": 4137,
-  "title is not a technical role": 3954,
+  "title is not a technical role": 3953,
   "non-technical role": 3178,
   "not an early-career posting": 2943,
-  "non-CS engineering discipline": 854,
+  "non-CS engineering discipline": 853,
   "quant role without early-career marker": 255,
   "research role without early-career marker": 134
  },
