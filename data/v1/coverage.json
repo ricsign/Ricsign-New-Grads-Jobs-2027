@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T11:44:58+00:00",
+ "generated_at": "2026-10-03T16:27:01+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 641,
+   "fetched": 640,
    "published": 3,
    "status": "ok"
   },
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 829,
+   "fetched": 827,
    "published": 0,
    "status": "none matched"
   },
@@ -47,7 +47,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cohere",
-   "fetched": 136,
+   "fetched": 137,
    "published": 3,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 469,
+   "fetched": 465,
    "published": 3,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 870,
+   "fetched": 871,
    "published": 3,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 710,
+   "fetched": 711,
    "published": 7,
    "status": "ok"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2329,
+   "fetched": 2330,
    "published": 23,
    "status": "ok"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 225,
+   "fetched": 228,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6102,
-  "senior/experienced role": 4138,
-  "title is not a technical role": 3955,
-  "non-technical role": 3179,
-  "not an early-career posting": 2942,
+  "not a US location": 6104,
+  "senior/experienced role": 4137,
+  "title is not a technical role": 3954,
+  "non-technical role": 3178,
+  "not an early-career posting": 2943,
   "non-CS engineering discipline": 854,
   "quant role without early-career marker": 255,
   "research role without early-career marker": 134
