@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,006 |
+| Postings fetched | 22,009 |
 | Postings published | 451 |
 | Boards that failed to fetch | **3** |
 | Boards live but with nothing early-career | 58 |
@@ -31,7 +31,7 @@ These companies are hiring — just not for roles that clear the bar today.
 A sample of what we saw and why we dropped it, so you can check our work
 rather than take it on faith.
 
-<details><summary><b>Cognition</b> — 103 postings read, none early-career</summary>
+<details><summary><b>Cognition</b> — 101 postings read, none early-career</summary>
 
 - `General Application - Cognition — title is not a technical role`
 - `Research Engineer, Post-Training — research role without early-career marker`
@@ -42,7 +42,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>ElevenLabs</b> — 168 postings read, none early-career</summary>
+<details><summary><b>ElevenLabs</b> — 171 postings read, none early-career</summary>
 
 - `Account Manager - India — not a US location`
 - `Enterprise Solutions Engineer - North America — not an early-career posting`
@@ -236,14 +236,14 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>NVIDIA</b> — 37 postings read, none early-career</summary>
+<details><summary><b>NVIDIA</b> — 38 postings read, none early-career</summary>
 
+- `Chip Design Engineer — not a US location`
+- `Principal Engineer, Security Architecture - DGX Cloud — senior/experienced role`
+- `Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location`
+- `Senior Software Engineer - Manufacturing and Factory — not a US location`
+- `Software Engineer, NVLink — not a US location`
 - `Senior Systems Architect - Datacenter — senior/experienced role`
-- `Senior System Software Engineer - GPU Performance — not a US location`
-- `Senior Software Engineer, NCCL — senior/experienced role`
-- `Senior AI Infrastructure Engineer - EDA Infrastructure — not a US location`
-- `Senior Software Engineer, Object Storage - DGX Cloud — not a US location`
-- `Product Manager, AI for Quantum — not a US location`
 
 </details>
 
@@ -299,7 +299,7 @@ rather than take it on faith.
 | [Harvey](https://www.harvey.ai/careers) | 0 | `ashby:harvey` | 322 | 4 | ✅ ok |
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 639 | 3 | ✅ ok |
 | [Cohere](https://cohere.com/careers) | 0 | `ashby:cohere` | 137 | 3 | ✅ ok |
-| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 871 | 3 | ✅ ok |
+| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 872 | 3 | ✅ ok |
 | [Perplexity](https://www.perplexity.ai/careers) | 0 | `ashby:perplexity` | 127 | 3 | ✅ ok |
 | [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 301 | 3 | ✅ ok |
 | [Mercor](https://mercor.com/careers) | 0 | `ashby:mercor` | 111 | 2 | ✅ ok |
@@ -308,9 +308,9 @@ rather than take it on faith.
 | [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 34 | 1 | ✅ ok |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
-| [Cognition](https://cognition.ai/careers) | 0 | `ashby:cognition` | 103 | — | ○ none matched |
+| [Cognition](https://cognition.ai/careers) | 0 | `ashby:cognition` | 101 | — | ○ none matched |
 | [D. E. Shaw](https://www.deshaw.com/careers) | 0 | — | — | — | 🔗 link-only |
-| [ElevenLabs](https://elevenlabs.io/careers) | 0 | `ashby:elevenlabs` | 168 | — | ○ none matched |
+| [ElevenLabs](https://elevenlabs.io/careers) | 0 | `ashby:elevenlabs` | 171 | — | ○ none matched |
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 97 | — | ○ none matched |
 | [Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=student) | 0 | — | — | — | 🔗 link-only |
 | [Mistral AI](https://mistral.ai/careers) | 0 | `ashby:mistral.ai` | 208 | — | ○ none matched |
@@ -354,7 +354,7 @@ rather than take it on faith.
 | [Decagon](https://decagon.ai/careers) | 1 | `ashby:decagon` | 147 | 2 | ✅ ok |
 | [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 102 | 2 | ✅ ok |
 | [Qube Research & Technologies](https://www.qube-rt.com/careers) | 1 | `greenhouse:quberesearchandtechnologies` | 198 | 2 | ✅ ok |
-| [Roblox](https://careers.roblox.com/) | 1 | `greenhouse:roblox` | 246 | 2 | ✅ ok |
+| [Roblox](https://careers.roblox.com/) | 1 | `greenhouse:roblox` | 245 | 2 | ✅ ok |
 | [Vercel](https://vercel.com/careers) | 1 | `greenhouse:vercel` | 85 | 2 | ✅ ok |
 | [Baseten](https://www.baseten.co/careers) | 1 | `ashby:baseten` | 104 | 1 | ✅ ok |
 | [Cerebras](https://www.cerebras.ai/careers) | 1 | `ashby:cerebras` | 117 | 1 | ✅ ok |
@@ -382,7 +382,7 @@ rather than take it on faith.
 | [Microsoft](https://jobs.careers.microsoft.com/global/en/search?exp=Students%20and%20graduates) | 1 | — | — | — | 🔗 link-only |
 | [Millennium](https://career.mlp.com/careers) | 1 | — | — | — | 🔗 link-only |
 | [MongoDB](https://www.mongodb.com/company/careers) | 1 | `greenhouse:mongodb` | 370 | — | ○ none matched |
-| [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) | 1 | `workday:nvidia` | 37 | — | ○ none matched |
+| [NVIDIA](https://www.nvidia.com/en-us/about-nvidia/careers/) | 1 | `workday:nvidia` | 38 | — | ○ none matched |
 | [Plaid](https://plaid.com/careers/) | 1 | `ashby:plaid` | 119 | — | ○ none matched |
 | [Radix Trading (Experienced)](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixexperienced` | 7 | — | ○ none matched |
 | [Reddit](https://redditinc.com/careers) | 1 | `greenhouse:reddit` | 151 | — | ○ none matched |
@@ -401,7 +401,7 @@ rather than take it on faith.
 | [Pinterest](https://www.pinterestcareers.com/) | 2 | `greenhouse:pinterest` | 168 | 11 | ✅ ok |
 | [Belvedere Trading](https://belvederetrading.com/careers/) | 2 | `lever:belvederetrading` | 21 | 7 | ✅ ok |
 | [Lyft](https://www.lyft.com/careers) | 2 | `greenhouse:lyft` | 191 | 5 | ✅ ok |
-| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 229 | 3 | ✅ ok |
+| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 230 | 3 | ✅ ok |
 | [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 148 | 2 | ✅ ok |
 | [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 391 | 2 | ✅ ok |
 | [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 102 | 2 | ✅ ok |

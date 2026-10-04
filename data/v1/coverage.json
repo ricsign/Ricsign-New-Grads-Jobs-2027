@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T06:00:04+00:00",
+ "generated_at": "2026-10-04T12:29:03+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -77,7 +77,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cognition",
-   "fetched": 103,
+   "fetched": 101,
    "published": 0,
    "status": "none matched"
   },
@@ -147,7 +147,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "elevenlabs",
-   "fetched": 168,
+   "fetched": 171,
    "published": 0,
    "status": "none matched"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 37,
+   "fetched": 38,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 871,
+   "fetched": 872,
    "published": 3,
    "status": "ok"
   },
@@ -1297,7 +1297,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "roblox",
-   "fetched": 246,
+   "fetched": 245,
    "published": 2,
    "status": "ok"
   },
@@ -1447,15 +1447,15 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 229,
+   "fetched": 230,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6104,
-  "senior/experienced role": 4139,
-  "title is not a technical role": 3951,
+  "not a US location": 6108,
+  "senior/experienced role": 4140,
+  "title is not a technical role": 3949,
   "non-technical role": 3176,
   "not an early-career posting": 2943,
   "non-CS engineering discipline": 853,
@@ -1762,14 +1762,14 @@
    "Account Development Representative, German Speaking — not a US location"
   ],
   "nvidia": [
+   "Chip Design Engineer — not a US location",
+   "Principal Engineer, Security Architecture - DGX Cloud — senior/experienced role",
+   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location",
+   "Senior Software Engineer - Manufacturing and Factory — not a US location",
+   "Software Engineer, NVLink — not a US location",
    "Senior Systems Architect - Datacenter — senior/experienced role",
    "Senior System Software Engineer - GPU Performance — not a US location",
-   "Senior Software Engineer, NCCL — senior/experienced role",
-   "Senior AI Infrastructure Engineer - EDA Infrastructure — not a US location",
-   "Senior Software Engineer, Object Storage - DGX Cloud — not a US location",
-   "Product Manager, AI for Quantum — not a US location",
-   "Senior ASIC Verification Engineer — not a US location",
-   "Senior Product Manager, Switchyard — not a US location"
+   "Senior Software Engineer, NCCL — senior/experienced role"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1807,14 +1807,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Associate Solution Engineer - French speaking — not a US location",
    "Account Executive - Enterprise - Utilities and Semi Conductor — not a US location",
    "Enterprise Account Executive - Tableau - Belgium — not a US location",
    "Enterprise Analytics Account Executive - Tableau - Amsterdam — not a US location",
    "Named Account Executive, K-12 — not a US location",
    "Performance Engineer - Software Engineering SMTS — not a US location",
    "Platform and Security Growth Business Account Executive — not a US location",
-   "Sr. Director, Public Sector Strategy & Business Development — not a US location",
-   "Software Engineering MTS — not a US location"
+   "Sr. Director, Public Sector Strategy & Business Development — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
