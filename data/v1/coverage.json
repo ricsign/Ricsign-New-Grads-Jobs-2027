@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T12:29:03+00:00",
+ "generated_at": "2026-10-04T21:33:53+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -147,7 +147,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "elevenlabs",
-   "fetched": 171,
+   "fetched": 169,
    "published": 0,
    "status": "none matched"
   },
@@ -207,7 +207,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "lumaai",
-   "fetched": 30,
+   "fetched": 29,
    "published": 0,
    "status": "none matched"
   },
@@ -277,7 +277,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "modal",
-   "fetched": 38,
+   "fetched": 37,
    "published": 1,
    "status": "ok"
   },
@@ -317,7 +317,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "tenstorrent",
-   "fetched": 129,
+   "fetched": 130,
    "published": 0,
    "status": "none matched"
   },
@@ -927,7 +927,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "mongodb",
-   "fetched": 370,
+   "fetched": 369,
    "published": 0,
    "status": "none matched"
   },
@@ -957,7 +957,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "elastic",
-   "fetched": 391,
+   "fetched": 395,
    "published": 2,
    "status": "ok"
   },
@@ -1117,7 +1117,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gongio",
-   "fetched": 96,
+   "fetched": 97,
    "published": 0,
    "status": "none matched"
   },
@@ -1137,7 +1137,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "vanta",
-   "fetched": 83,
+   "fetched": 82,
    "published": 0,
    "status": "none matched"
   },
@@ -1167,7 +1167,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "ramp",
-   "fetched": 157,
+   "fetched": 158,
    "published": 5,
    "status": "ok"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2326,
+   "fetched": 2327,
    "published": 23,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6108,
-  "senior/experienced role": 4140,
-  "title is not a technical role": 3949,
-  "non-technical role": 3176,
-  "not an early-career posting": 2943,
+  "not a US location": 6113,
+  "senior/experienced role": 4138,
+  "title is not a technical role": 3952,
+  "non-technical role": 3175,
+  "not an early-career posting": 2940,
   "non-CS engineering discipline": 853,
   "quant role without early-career marker": 255,
   "research role without early-career marker": 134
@@ -1589,11 +1589,11 @@
   ],
   "elevenlabs": [
    "Account Manager - India — not a US location",
-   "Enterprise Solutions Engineer - North America — not an early-career posting",
+   "Enterprise Solutions Engineer - USA — not an early-career posting",
    "Sales Development - United States — non-technical role",
    "Full-Stack Engineer (Back-End Leaning) — not an early-career posting",
    "Full-Stack Engineer (Front-End Leaning) — not an early-career posting",
-   "Forward Deployed Engineer - Software Engineer - North America — not an early-career posting",
+   "Forward Deployed Engineer - Software Engineer - USA — not an early-career posting",
    "Full-Stack Engineer — not an early-career posting",
    "Account Executive, Mid Market - India — not a US location"
   ],
@@ -1753,8 +1753,8 @@
   ],
   "mongodb": [
    "Account Development Representative — not a US location",
-   "Account Development Representative — not a US location",
    "Account Development Representative — non-technical role",
+   "Account Development Representative — not a US location",
    "Account Development Representative — non-technical role",
    "Account Development Representative - Benelux/Nordics — not a US location",
    "Account Development Representative - English Speaking — not a US location",
@@ -1762,14 +1762,14 @@
    "Account Development Representative, German Speaking — not a US location"
   ],
   "nvidia": [
+   "Senior Compute Platform Engineer, LSF - EDA Infrastructure — not a US location",
+   "Senior Developer Relations Manager - Healthcare — not a US location",
+   "Senior Software Engineer, System Validation - EDA Infrastructure — not a US location",
+   "HPC Operations Engineer — not a US location",
+   "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location",
    "Chip Design Engineer — not a US location",
    "Principal Engineer, Security Architecture - DGX Cloud — senior/experienced role",
-   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location",
-   "Senior Software Engineer - Manufacturing and Factory — not a US location",
-   "Software Engineer, NVLink — not a US location",
-   "Senior Systems Architect - Datacenter — senior/experienced role",
-   "Senior System Software Engineer - GPU Performance — not a US location",
-   "Senior Software Engineer, NCCL — senior/experienced role"
+   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1807,14 +1807,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
-   "Associate Solution Engineer - French speaking — not a US location",
+   "Customer Success Manager, Switzerland — not a US location",
    "Account Executive - Enterprise - Utilities and Semi Conductor — not a US location",
+   "Renewals Manager - Informatica — not a US location",
+   "Associate Solution Engineer - French speaking — not a US location",
    "Enterprise Account Executive - Tableau - Belgium — not a US location",
    "Enterprise Analytics Account Executive - Tableau - Amsterdam — not a US location",
    "Named Account Executive, K-12 — not a US location",
-   "Performance Engineer - Software Engineering SMTS — not a US location",
-   "Platform and Security Growth Business Account Executive — not a US location",
-   "Sr. Director, Public Sector Strategy & Business Development — not a US location"
+   "Platform and Security Growth Business Account Executive — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -2021,9 +2021,9 @@
    "Commercial Counsel, APAC — not a US location",
    "Customer Engineer — not an early-career posting",
    "Customer Engineer — not an early-career posting",
-   "Customer Value Architect — title is not a technical role",
-   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect — not a US location",
+   "Customer Value Architect — title is not a technical role",
+   "Customer Value Architect — title is not a technical role",
    "Customer Value Architect, EMEA — not a US location"
   ],
   "okta": [
