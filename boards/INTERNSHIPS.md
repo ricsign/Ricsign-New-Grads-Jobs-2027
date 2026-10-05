@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**122 open roles** · last verified 2026-10-05 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**121 open roles** · last verified 2026-10-05 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -151,7 +151,6 @@ Software engineering and research internships at the same curated bar.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Affirm** | Software Engineer (Machine Learning) Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 3d · Oct 2 | 3d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
 | **Affirm** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 3d · Oct 2 | 3d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
-| **Intel** | Software Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | 4d · Oct 1 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) |
 | **Pinterest** | Master's Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 4d · Oct 1 | 4d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
 | **Pinterest** | Master's Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 4d · Oct 1 | 4d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
 | **Pinterest** | PhD Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 4d · Oct 1 | 4d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
@@ -170,4 +169,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-05 05:48 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-05 14:49 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

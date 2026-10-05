@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-05T05:48:43+00:00",
+ "generated_at": "2026-10-05T14:49:36+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 450,
+ "count": 448,
  "jobs": [
   {
    "uid": "b0535757c3ebccec",
@@ -10515,32 +10515,6 @@
    "openings": 1
   },
   {
-   "uid": "f6ff800c120a6569",
-   "company_slug": "jump-trading",
-   "company_name": "Jump Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "AI Research Scientist | Research & Development",
-   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=4982814",
-   "locations": [
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-05",
-   "posted_at": "2024-03-04",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Research and Development",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "7962328a783e5d61",
    "company_slug": "pdt-partners",
    "company_name": "PDT Partners",
@@ -11004,32 +10978,6 @@
    "season": null,
    "compensation": null,
    "department": "Platform - Management Experience",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "0c4d8fd98255ac97",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Software Engineering - PhD Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-01",
-   "last_verified": "2026-10-05",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1

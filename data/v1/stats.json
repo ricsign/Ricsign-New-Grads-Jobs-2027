@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-05T05:48:43+00:00",
- "live_requisitions": 450,
- "live_roles": 408,
- "companies_with_open_roles": 67,
+ "generated_at": "2026-10-05T14:49:36+00:00",
+ "live_requisitions": 448,
+ "live_roles": 406,
+ "companies_with_open_roles": 66,
  "posted_age": {
   "median_days": 52,
   "posted_last_24h": 0,
   "posted_last_7d": 40,
   "posted_last_30d": 156,
-  "evergreen_over_1y": 38,
-  "with_posted_date_pct": 99.8
+  "evergreen_over_1y": 37,
+  "with_posted_date_pct": 100.0
  },
  "by_track": {
   "new-grad-swe": 113,
   "ai-research": 13,
-  "quant": 63,
-  "internship": 261,
+  "quant": 62,
+  "internship": 260,
   "other": 0
  },
  "by_tier": {
   "0": 37,
-  "1": 365,
-  "2": 48
+  "1": 364,
+  "2": 47
  },
  "by_sponsorship": {
   "sponsors": 23,
   "no-sponsorship": 10,
   "citizenship-required": 41,
   "security-clearance": 56,
-  "unknown": 320
+  "unknown": 318
  },
  "by_degree": {
   "bachelors": 68,
-  "masters-preferred": 166,
-  "phd-required": 59,
+  "masters-preferred": 165,
+  "phd-required": 58,
   "unspecified": 157
  },
- "sponsorship_resolved_pct": 28.9,
+ "sponsorship_resolved_pct": 29.0,
  "link_verified_pct": 90.0,
  "by_link_status": {
-  "ok": 405,
+  "ok": 403,
   "blocked": 43,
   "error": 2,
   "dead": 0,
@@ -61,7 +61,7 @@
   "boards_empty": 1,
   "boards_failed": 3,
   "success_rate": 0.969,
-  "postings_fetched": 22498,
+  "postings_fetched": 22468,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -95,21 +95,21 @@
    }
   ],
   "rejections": {
-   "not a US location": 6115,
-   "senior/experienced role": 4136,
-   "title is not a technical role": 3953,
-   "non-technical role": 3177,
-   "not an early-career posting": 2943,
-   "non-CS engineering discipline": 852,
+   "not a US location": 6109,
+   "senior/experienced role": 4128,
+   "title is not a technical role": 3945,
+   "non-technical role": 3170,
+   "not an early-career posting": 2942,
+   "non-CS engineering discipline": 854,
    "quant role without early-career marker": 255,
    "research role without early-career marker": 134
   },
   "link_check": {
-   "ok": 405,
+   "ok": 403,
    "blocked": 43,
    "error": 2,
-   "checked": 450,
-   "conclusive": 405,
+   "checked": 448,
+   "conclusive": 403,
    "resolving_pct": 100.0
   }
  }
