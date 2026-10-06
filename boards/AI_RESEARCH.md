@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**75 open roles** · last verified 2026-10-06 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**74 open roles** · last verified 2026-10-06 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -106,7 +106,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | Chicago, New York City | — | 🌏 | 3mo · Jul 8 | 1mo · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | Chicago, New York City | — | 🌏 | 3mo · Jul 8 | 1mo · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
 | **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
-| **IMC Trading** | Graduate Machine Learning Researcher - London | Chicago | — | 🛂 | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) |
+| **IMC Trading** | Deep Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | Chicago | — | 🛂📗 | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 3mo · Jul 5 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
 | **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 3mo · Jul 5 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | **Point72 / Cubist** | Research Engineer, Knowledge Graph Intelligence | New York, NY | — | ·🎓 | 3mo · Jun 10 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002) |
@@ -130,13 +130,12 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Module Engineering (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 6 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683) |
+| **Intel** | (Epi) - Module Development Engineer - (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 6 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820) |
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 5d · Oct 1 | 5d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Pinterest** | PhD Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 5d · Oct 1 | 5d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
 | **Pinterest** | PhD Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 5d · Oct 1 | 5d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
 | **Lyft** | Applied Scientist Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | · | 8d · Sep 28 | 8d · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
-| **Intel** | Technology Research 2D Transistor Engineer Intern | US, Oregon, Hillsboro | — | · | — | 12d · Sep 24 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001) |
 
 ---
 
-Generated 2026-10-06 06:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-06 18:27 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

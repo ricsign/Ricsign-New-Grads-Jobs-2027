@@ -905,6 +905,13 @@
    "closed_at": "2026-09-01"
   },
   {
+   "uid": "336689f8edc4d098",
+   "first_seen": "2026-10-06",
+   "last_verified": "2026-10-06",
+   "posted_at": null,
+   "closed_at": null
+  },
+  {
    "uid": "341b9196cbfc0246",
    "first_seen": "2026-10-06",
    "last_verified": "2026-10-06",
@@ -3119,7 +3126,7 @@
   {
    "uid": "b58ac8103d3e29d8",
    "first_seen": "2026-09-01",
-   "last_verified": "2026-09-08",
+   "last_verified": "2026-10-06",
    "posted_at": "2026-08-17",
    "closed_at": null
   },

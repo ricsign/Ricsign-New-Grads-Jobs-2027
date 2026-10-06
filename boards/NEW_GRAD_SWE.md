@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**49 open roles** · last verified 2026-10-06 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**50 open roles** · last verified 2026-10-06 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -16,7 +16,7 @@ Full-time entry-level software engineering roles in the US.
 |:--|:--|:--|--:|
 | **Harvey** | [Software Engineer, New Grad (2027)](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) | New York +1 | 4d · Oct 2 |
 | **Brex** | [Brex Rotational Program](https://www.brex.com/careers/8864176002?gh_jid=8864176002) | Salt Lake City, Utah, United States | 4d · Oct 2 |
-| **Nuro** | [New Grad Software Engineer, Routing](https://nuro.ai/careersitem?gh_jid=8248317) | Mountain View, California (HQ) +1 | 1d · Oct 5 |
+| **Nuro** | [New Grad Software Engineer, Product Engineering](https://nuro.ai/careersitem?gh_jid=8248317) | Mountain View, California (HQ) +1 | 1d · Oct 5 |
 | **Elastic** | [Principal Software Engineer I - Platform Billing Core](https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817) | United States | 4d · Oct 2 |
 | **Pinterest** | [Master's University Grad Data Scientist (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) | San Francisco, CA, US +3 | 5d · Oct 1 |
 | **Pinterest** | [Master's University Grad Machine Learning Engineer 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) | San Francisco, CA, US +3 | 5d · Oct 1 |
@@ -58,6 +58,7 @@ Full-time entry-level software engineering roles in the US.
 | **Applied Intuition** | Build & Release Engineer - New Grad (2027) · _2027_ | Sunnyvale | $90k–$115k | · | 1mo · Aug 25 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352/application) |
 | **LangChain** | Deployed Engineer (Early Career- SF) | San Francisco, CA | — | · | 1mo · Aug 17 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522/application) |
 | **LangChain** | Deployed Engineer (Early Career-NYC) | New York, NY | — | · | 1mo · Aug 17 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134/application) |
+| **Roblox** | Software Engineer, Foundation AI | San Mateo, CA, United States | — | · | 1mo · Aug 17 | 1mo · Sep 1 | [apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) |
 | **Notion** | Software Engineer, New Grad (Dec 2026) · _2026_ | San Francisco, California | — | ·📗 | 1mo · Aug 14 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application) |
 | **Roblox** | [2027] Software Engineer, Early Career · _2027_ | San Mateo, CA, United States | — | ·📗 | 2mo · Aug 5 | 1mo · Sep 1 | [apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) |
 | **Cerebras** | Kernel Engineer - New Grad | Sunnyvale, CA | — | ·📗 | 2mo · Jul 23 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application) |
@@ -74,7 +75,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Nuro** | New Grad Software Engineer, Routing | Mountain View, California (HQ), California - HQ | — | · | 1d · Oct 5 | today · Oct 6 | [apply](https://nuro.ai/careersitem?gh_jid=8248317) |
+| **Nuro** | New Grad Software Engineer, Product Engineering | Mountain View, California (HQ), California - HQ | — | · | 1d · Oct 5 | today · Oct 6 | [apply](https://nuro.ai/careersitem?gh_jid=8248317) |
 | **Elastic** | Principal Software Engineer I - Platform Billing Core | United States | — | 🔒 | 4d · Oct 2 | 4d · Oct 2 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817) |
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 5d · Oct 1 | 5d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Pinterest** | Master's University Grad Machine Learning Engineer 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 5d · Oct 1 | 5d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) |
@@ -89,4 +90,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-06 06:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-06 18:27 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

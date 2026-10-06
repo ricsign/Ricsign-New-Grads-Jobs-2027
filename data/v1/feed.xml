@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-06T06:28:02+00:00</updated>
+  <updated>2026-10-06T18:27:19+00:00</updated>
   <entry>
     <title>Mercor — Research Intern</title>
     <link href="https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application"/>
@@ -86,39 +86,15 @@
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Intel — AI Solution Architect - Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"/>
-    <id>tag:ricsign.github.io,2026:d2428cb704498f85</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, California, Santa Clara · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — AI Solution Architect Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"/>
-    <id>tag:ricsign.github.io,2026:f08bde455213d723</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, California, Santa Clara · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — AI Solution Architect - Undergraduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531"/>
-    <id>tag:ricsign.github.io,2026:adafb09dcb63a56f</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Engineering (PhD Intern)</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683"/>
-    <id>tag:ricsign.github.io,2026:d3a0ce38a9401ae5</id>
+    <title>Intel — (Epi) - Module Development Engineer - (PhD Intern)</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820"/>
+    <id>tag:ricsign.github.io,2026:336689f8edc4d098</id>
     <updated>2026-10-06T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Nuro — New Grad Software Engineer, Routing</title>
+    <title>Nuro — New Grad Software Engineer, Product Engineering</title>
     <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
     <id>tag:ricsign.github.io,2026:d44678adf075b1ce</id>
     <updated>2026-10-06T00:00:00Z</updated>
@@ -183,11 +159,11 @@
   </entry>
   <entry>
     <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"/>
-    <id>tag:ricsign.github.io,2026:d2b28709668c90a3</id>
+    <link href="https://www.brex.com/careers/8864176002?gh_jid=8864176002"/>
+    <id>tag:ricsign.github.io,2026:a386241d1f2da194</id>
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>United States · unknown · bachelors</summary>
+    <summary>Salt Lake City, Utah, United States · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Brex — Brex Rotational Program</title>
@@ -199,11 +175,11 @@
   </entry>
   <entry>
     <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864176002?gh_jid=8864176002"/>
-    <id>tag:ricsign.github.io,2026:a386241d1f2da194</id>
+    <link href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"/>
+    <id>tag:ricsign.github.io,2026:d2b28709668c90a3</id>
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>Salt Lake City, Utah, United States · unknown · bachelors</summary>
+    <summary>United States · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Qube Research &amp; Technologies — 2027 – Internship or Graduate, FPGA Engineering</title>
@@ -374,14 +350,6 @@
     <summary>San Francisco, CA, US, Remote, US · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Pinterest — UX Engineering Intern (San Francisco)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140210"/>
-    <id>tag:ricsign.github.io,2026:369559958abf7d16</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, US · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
     <title>Pinterest — UX Quantitative Research Intern (USA)</title>
     <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8140217"/>
     <id>tag:ricsign.github.io,2026:607bd7d16f48a01d</id>
@@ -404,5 +372,37 @@
     <updated>2026-09-30T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Seattle, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>IMC Trading — Software Engineer, Early Career</title>
+    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"/>
+    <id>tag:ricsign.github.io,2026:27a349c96dc85805</id>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, United States · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Ramp — Applied Scientist Intern</title>
+    <link href="https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956/application"/>
+    <id>tag:ricsign.github.io,2026:5ce54fdd360d37bd</id>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY (HQ) · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Robinhood — Data Science Intern (Summer 2027)</title>
+    <link href="https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&amp;gh_jid=8241738"/>
+    <id>tag:ricsign.github.io,2026:0980ee145f1419d2</id>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Menlo Park, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, BS, Software Engineering, Labeling</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8238525"/>
+    <id>tag:ricsign.github.io,2026:eb318fb4fa917492</id>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · bachelors</summary>
   </entry>
 </feed>

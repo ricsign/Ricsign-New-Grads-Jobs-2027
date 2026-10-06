@@ -40,7 +40,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **DRW** | Leadership Rotation Network Analyst | Chicago, IL | — | ·📗 | 2mo · Jul 13 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7993341) |
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | Chicago, New York City | — | 🌏 | 3mo · Jul 8 | 1mo · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) |
 | **Jump Trading** | Campus AI Research Engineer – Deep Learning (Full-Time) | Chicago, New York City | — | 🌏 | 3mo · Jul 8 | 1mo · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052343) |
-| **IMC Trading** | Graduate Machine Learning Researcher - London | Chicago | — | 🛂 | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) |
+| **IMC Trading** | Graduate Deep Learning Researcher - London | Chicago | — | 🛂📗 | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 3mo · Jul 5 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
 | **Point72 / Cubist** | Research Engineer, Knowledge Graph Intelligence | New York, NY | — | ·🎓 | 3mo · Jun 10 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002) |
 | **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 4mo · Jun 2 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
@@ -64,4 +64,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-10-06 06:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-06 18:27 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

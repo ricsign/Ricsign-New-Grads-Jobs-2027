@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-06T06:28:02+00:00",
+ "generated_at": "2026-10-06T18:27:19+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 464,
+ "count": 460,
  "jobs": [
   {
    "uid": "bfd004dc33e821cc",
@@ -1349,16 +1349,16 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
-    "United States"
+    "Salt Lake City, Utah, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -1401,16 +1401,16 @@
    "openings": 1
   },
   {
-   "uid": "a386241d1f2da194",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
-    "Salt Lake City, Utah, United States"
+    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -3901,17 +3901,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -3928,17 +3928,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -5508,6 +5508,32 @@
    "openings": 1
   },
   {
+   "uid": "b58ac8103d3e29d8",
+   "company_slug": "roblox",
+   "company_name": "Roblox",
+   "company_tier": 1,
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "Software Engineer, Foundation AI",
+   "apply_url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
+   "locations": [
+    "San Mateo, CA, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-06",
+   "posted_at": "2026-08-17",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Early Career FT - Engineering",
+   "active": true,
+   "link_status": "error",
+   "openings": 1
+  },
+  {
    "uid": "63a8a0014527697e",
    "company_slug": "applied-intuition",
    "company_name": "Applied Intuition",
@@ -5781,32 +5807,6 @@
    "openings": 1
   },
   {
-   "uid": "838e125facd50072",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-06",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Satellite Payload Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "14812f7b8d47b8ff",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -5828,6 +5828,32 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "838e125facd50072",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-06",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Satellite Payload Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5912,15 +5938,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5938,16 +5965,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -7963,25 +7989,25 @@
    "openings": 1
   },
   {
-   "uid": "097f20a79c4e009b",
+   "uid": "b8496a699e8f85d3",
    "company_slug": "imc",
    "company_name": "IMC Trading",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
-   "title": "Graduate Machine Learning Researcher - London",
-   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
+   "title": "Deep Learning Research Intern - Summer 2027 - Amsterdam",
+   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
    "locations": [
     "Chicago"
    ],
-   "track": "quant",
-   "degree": "unspecified",
+   "track": "internship",
+   "degree": "masters-preferred",
    "sponsorship": "no-sponsorship",
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-06",
    "posted_at": "2026-07-06",
    "closed_at": null,
-   "season": null,
+   "season": "Summer 2027",
    "compensation": null,
    "department": "Machine Learning Engineering",
    "active": true,
@@ -7989,25 +8015,25 @@
    "openings": 1
   },
   {
-   "uid": "b8496a699e8f85d3",
+   "uid": "097f20a79c4e009b",
    "company_slug": "imc",
    "company_name": "IMC Trading",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
-   "title": "Machine Learning Research Intern - Summer 2027 - Amsterdam",
-   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4912874101",
+   "title": "Graduate Deep Learning Researcher - London",
+   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
    "locations": [
     "Chicago"
    ],
-   "track": "internship",
-   "degree": "unspecified",
+   "track": "quant",
+   "degree": "masters-preferred",
    "sponsorship": "no-sponsorship",
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-06",
    "posted_at": "2026-07-06",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": null,
    "compensation": null,
    "department": "Machine Learning Engineering",
    "active": true,
@@ -11157,92 +11183,14 @@
    "openings": 1
   },
   {
-   "uid": "d2428cb704498f85",
+   "uid": "336689f8edc4d098",
    "company_slug": "intel",
    "company_name": "Intel",
    "company_tier": 2,
    "company_category": "big-tech",
    "source": "workday",
-   "title": "AI Solution Architect - Graduate Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
-   "locations": [
-    "US, California, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-06",
-   "last_verified": "2026-10-06",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "adafb09dcb63a56f",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "AI Solution Architect - Undergraduate Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-06",
-   "last_verified": "2026-10-06",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "f08bde455213d723",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "AI Solution Architect Graduate Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
-   "locations": [
-    "US, California, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-06",
-   "last_verified": "2026-10-06",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "d3a0ce38a9401ae5",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Module Engineering (PhD Intern)",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683",
+   "title": "(Epi) - Module Development Engineer - (PhD Intern)",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820",
    "locations": [
     "US, Oregon, Hillsboro"
    ],
@@ -11267,7 +11215,7 @@
    "company_tier": 2,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Grad Software Engineer, Routing",
+   "title": "New Grad Software Engineer, Product Engineering",
    "apply_url": "https://nuro.ai/careersitem?gh_jid=8248317",
    "locations": [
     "Mountain View, California (HQ)",
@@ -11595,32 +11543,6 @@
    "openings": 1
   },
   {
-   "uid": "369559958abf7d16",
-   "company_slug": "pinterest",
-   "company_name": "Pinterest",
-   "company_tier": 2,
-   "company_category": "consumer",
-   "source": "greenhouse",
-   "title": "UX Engineering Intern (San Francisco)",
-   "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
-   "locations": [
-    "San Francisco, CA, US"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-01",
-   "last_verified": "2026-10-06",
-   "posted_at": "2026-10-01",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "University Engineering",
-   "active": true,
-   "link_status": "blocked",
-   "openings": 1
-  },
-  {
    "uid": "607bd7d16f48a01d",
    "company_slug": "pinterest",
    "company_name": "Pinterest",
@@ -11723,32 +11645,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Early Talent",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "d051716ef945ce3e",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Technology Research 2D Transistor Engineer Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-24",
-   "last_verified": "2026-10-06",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
