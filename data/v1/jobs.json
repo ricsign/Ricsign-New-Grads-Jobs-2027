@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-06T00:07:14+00:00",
+ "generated_at": "2026-10-06T06:28:02+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 462,
+ "count": 464,
  "jobs": [
   {
    "uid": "bfd004dc33e821cc",
@@ -1133,6 +1133,36 @@
    "openings": 1
   },
   {
+   "uid": "f84bd9768a5dd436",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Systems Engineer Intern",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007",
+   "locations": [
+    "Boston, Massachusetts, United States",
+    "Costa Mesa, California, United States",
+    "Fort Collins, Colorado, United States",
+    "Reston, Virginia, United States",
+    "Seattle, Washington, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-10-06",
+   "last_verified": "2026-10-06",
+   "posted_at": "2026-10-05",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Templates : Intern",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "a576b70f0ec7a00d",
    "company_slug": "anduril",
    "company_name": "Anduril Industries",
@@ -1144,6 +1174,32 @@
    "locations": [
     "Ashville, Ohio, United States",
     "Santa Ana, California, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-10-06",
+   "last_verified": "2026-10-06",
+   "posted_at": "2026-10-05",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Templates : Intern",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "eef5444a63f81031",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 Reliability Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007",
+   "locations": [
+    "Costa Mesa, California, United States"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -5856,16 +5912,15 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -5910,15 +5965,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",

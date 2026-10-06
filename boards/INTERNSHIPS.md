@@ -23,7 +23,7 @@ Software engineering and research internships at the same curated bar.
 | **Stripe** | [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) | Seattle, San Francisco +1 | 6d · Sep 30 |
 | **Anduril Industries** | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville, Ohio, United States +4 | 1d · Oct 5 |
 | **Anduril Industries** | [2027 Reliability Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) | Costa Mesa, California, United States | 1d · Oct 5 |
-| **Anduril Industries** | [Winter 2027 Quality & Test Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) | Ashville, Ohio, United States +1 | 1d · Oct 5 |
+| **Anduril Industries** | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston, Massachusetts, United States +4 | 1d · Oct 5 |
 | **Cloudflare** | [People Analytics Data Engineering Intern (Winter/Spring 2027)](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | Austin, TX | 1d · Oct 5 |
 | **Figma** | [PhD Intern, AI Applied Scientist (2027)](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) | San Francisco, CA • New York, NY +1 | 1d · Oct 5 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery](https://careers.withwaymo.com/jobs?gh_jid=8257159) | Mountain View, CA, USA +1 | 1d · Oct 5 |
@@ -59,7 +59,7 @@ Software engineering and research internships at the same curated bar.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Anduril Industries** | 2027 Quality & Test Engineer Intern · _2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States +3 | — | 🇺🇸📗 | 1d · Oct 5 | today · Oct 6 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
 | **Anduril Industries** | 2027 Reliability Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 1d · Oct 5 | today · Oct 6 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) |
-| **Anduril Industries** | Winter 2027 Quality & Test Engineer Co-op · _Winter 2027_ | Ashville, Ohio, United States, Santa Ana, California, United States | — | 🇺🇸📗 | 1d · Oct 5 | today · Oct 6 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007) |
+| **Anduril Industries** | 2027 Systems Engineer Intern · _2027_ | Boston, Massachusetts, United States, Costa Mesa, California, United States +3 | — | 🇺🇸📗 | 1d · Oct 5 | today · Oct 6 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
 | **Cloudflare** | People Analytics Data Engineering Intern (Winter/Spring 2027) · _Spring 2027_ | Austin, TX | — | 🛂 | 1d · Oct 5 | today · Oct 6 | [apply](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) |
 | **Figma** | PhD Intern, AI Applied Scientist (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 1d · Oct 5 | today · Oct 6 | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 5 | today · Oct 6 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257159) |
@@ -174,4 +174,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-06 00:07 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-06 06:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
