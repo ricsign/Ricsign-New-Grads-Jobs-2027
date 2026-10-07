@@ -154,7 +154,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | (Epi) - Module Development Engineer - (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Oct 6 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820) |
+| **Intel** | Module Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 7 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 1d · Oct 6 | today · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | **Affirm** | Software Engineer (Machine Learning) Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 5d · Oct 2 | 5d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
 | **Affirm** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 5d · Oct 2 | 5d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
@@ -175,4 +175,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-07 06:07 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-07 13:31 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

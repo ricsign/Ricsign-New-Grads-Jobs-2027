@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-07T06:07:04+00:00",
+ "generated_at": "2026-10-07T13:31:48+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 470,
+ "count": 469,
  "jobs": [
   {
    "uid": "274e21f7ffd30a75",
@@ -1025,32 +1025,6 @@
    "openings": 1
   },
   {
-   "uid": "2cebfad3222626d0",
-   "company_slug": "stripe",
-   "company_name": "Stripe",
-   "company_tier": 0,
-   "company_category": "fintech",
-   "source": "greenhouse",
-   "title": "Backend Engineer, Payments and Risk",
-   "apply_url": "https://stripe.com/jobs/search?gh_jid=7232592",
-   "locations": [
-    "US"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-07",
-   "posted_at": "2026-02-03",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "8582 Optimized Checkout - Eng",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "acec3adc25723f00",
    "company_slug": "figure-ai",
    "company_name": "Figure AI",
@@ -1562,14 +1536,14 @@
    "openings": 1
   },
   {
-   "uid": "b5f5668436a4cb8c",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
     "United States"
    ],
@@ -1588,14 +1562,14 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "b5f5668436a4cb8c",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
    "locations": [
     "United States"
    ],
@@ -4061,17 +4035,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4088,17 +4062,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4783,16 +4757,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -4809,16 +4783,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -5967,32 +5941,6 @@
    "openings": 1
   },
   {
-   "uid": "838e125facd50072",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-07",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Satellite Payload Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "14812f7b8d47b8ff",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6014,6 +5962,32 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "838e125facd50072",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-07",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Satellite Payload Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6125,15 +6099,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -6151,16 +6126,15 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -11369,6 +11343,32 @@
    "openings": 1
   },
   {
+   "uid": "39bd27bef560b7db",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering - PhD Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-07",
+   "last_verified": "2026-10-07",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "b10ec21a7746202e",
    "company_slug": "affirm",
    "company_name": "Affirm",
@@ -11417,32 +11417,6 @@
    "season": null,
    "compensation": null,
    "department": "Checkout",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "336689f8edc4d098",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "(Epi) - Module Development Engineer - (PhD Intern)",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-06",
-   "last_verified": "2026-10-07",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1

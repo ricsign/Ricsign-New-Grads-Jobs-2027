@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-07T06:07:04+00:00</updated>
+  <updated>2026-10-07T13:31:48+00:00</updated>
   <entry>
     <title>Figure AI — Firmware Engineering Intern [Winter 2027]</title>
     <link href="https://job-boards.greenhouse.io/figureai/jobs/4601309006"/>
@@ -102,6 +102,14 @@
     <summary>San Francisco, California, United States · unknown · bachelors</summary>
   </entry>
   <entry>
+    <title>Intel — Module Engineering - PhD Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020"/>
+    <id>tag:ricsign.github.io,2026:39bd27bef560b7db</id>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>Lyft — PhD Machine Learning Software Engineer Intern (Summer 2027)</title>
     <link href="https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002"/>
     <id>tag:ricsign.github.io,2026:54f633ac9f18eabc</id>
@@ -182,14 +190,6 @@
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Intel — (Epi) - Module Development Engineer - (PhD Intern)</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820"/>
-    <id>tag:ricsign.github.io,2026:336689f8edc4d098</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
-  </entry>
-  <entry>
     <title>Nuro — New Grad Software Engineer, Product Engineering</title>
     <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
     <id>tag:ricsign.github.io,2026:d44678adf075b1ce</id>
@@ -255,16 +255,16 @@
   </entry>
   <entry>
     <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"/>
-    <id>tag:ricsign.github.io,2026:b5f5668436a4cb8c</id>
+    <link href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"/>
+    <id>tag:ricsign.github.io,2026:d2b28709668c90a3</id>
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>United States · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"/>
-    <id>tag:ricsign.github.io,2026:d2b28709668c90a3</id>
+    <link href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"/>
+    <id>tag:ricsign.github.io,2026:b5f5668436a4cb8c</id>
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>United States · unknown · bachelors</summary>

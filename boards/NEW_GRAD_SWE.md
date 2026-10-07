@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**53 open roles** · last verified 2026-10-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**52 open roles** · last verified 2026-10-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -38,7 +38,6 @@ Full-time entry-level software engineering roles in the US.
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Aug 31 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
 | **xAI** | Software Engineer - Evals | Palo Alto, CA | — | · | 2mo · Jul 22 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
 | **Databricks** | AI Engineer – Forward Deployed Engineering (AI FDE) | United States, Remote - California | — | ·📗 | 4mo · May 13 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
-| **Stripe** | Backend Engineer, Payments and Risk | US | — | · | 8mo · Feb 3 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=7232592) |
 
 ## Tier 1 — Established elite
 
@@ -95,4 +94,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-07 06:07 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-07 13:31 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
