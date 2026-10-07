@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**52 open roles** · last verified 2026-10-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**53 open roles** · last verified 2026-10-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -76,6 +76,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Fastly** | Customer Support Engineer | Austin, TX, Chicago, IL +3 | — | · | today · Oct 7 | today · Oct 7 | [apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
 | **Affirm** | Software Engineer, Early Career (NYC) | New York, New York, United States, New York City | — | · | 1d · Oct 6 | today · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
 | **Affirm** | Software Engineer, Early Career (SF) | San Francisco, California, United States | — | · | 1d · Oct 6 | today · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
 | **Nuro** | New Grad Software Engineer, Product Engineering | Mountain View, California (HQ), California - HQ | — | · | 2d · Oct 5 | 1d · Oct 6 | [apply](https://nuro.ai/careersitem?gh_jid=8248317) |
@@ -94,4 +95,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-07 13:31 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-07 23:09 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

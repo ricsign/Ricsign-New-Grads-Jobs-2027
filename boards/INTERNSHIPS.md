@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**127 open roles** · last verified 2026-10-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**131 open roles** · last verified 2026-10-07 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (23)
+## 🆕 Posted in the last 7 days (22)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -24,11 +24,11 @@ Software engineering and research internships at the same curated bar.
 | **Stripe** | [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) | Seattle, San Francisco +1 | 7d · Sep 30 |
 | **Amazon** | [Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) | Seattle, Washington, USA | 1d · Oct 6 |
 | **Waymo** | [2027 Summer Intern, BS, Software Engineer, Model Eval](https://careers.withwaymo.com/jobs?gh_jid=8257660) | Mountain View, CA, USA +1 | 1d · Oct 6 |
-| **Waymo** | [2027 Summer Intern, BS, Waymo ML Ops & Automation](https://careers.withwaymo.com/jobs?gh_jid=8257237) | Mountain View, CA, USA +1 | 1d · Oct 6 |
 | **Anduril Industries** | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville, Ohio, United States +4 | 2d · Oct 5 |
 | **Anduril Industries** | [2027 Reliability Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) | Costa Mesa, California, United States | 2d · Oct 5 |
 | **Anduril Industries** | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston, Massachusetts, United States +4 | 2d · Oct 5 |
 | **Figma** | [PhD Intern, AI Applied Scientist (2027)](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) | San Francisco, CA • New York, NY +1 | 2d · Oct 5 |
+| **Amazon** | [Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) | Seattle, Washington, USA | 5d · Oct 2 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -61,10 +61,12 @@ Software engineering and research internships at the same curated bar.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Amazon** | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) · _Summer 2027_ | Redmond, Washington, USA | — | · | today · Oct 7 | today · Oct 7 | [apply](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
+| **NVIDIA** | PhD Research Intern, AI-Aided Engineering – 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Oct 7 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) |
+| **PDT Partners** | Summer 2027 Quantitative Research Intern · _Summer 2027_ | New York, NY | — | · | today · Oct 7 | today · Oct 7 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
+| **Waymo** | 2027 Summer Intern, MS/PhD, Perception, Robotics · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Oct 7 | today · Oct 7 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Research, Perception Foundation Models · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Oct 7 | today · Oct 7 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257801) |
 | **Amazon** | Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA) · _Summer 2027_ | Seattle, Washington, USA | — | · | 1d · Oct 6 | today · Oct 7 | [apply](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) |
 | **Waymo** | 2027 Summer Intern, BS, Software Engineer, Model Eval · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | · | 1d · Oct 6 | today · Oct 7 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) |
-| **Waymo** | 2027 Summer Intern, BS, Waymo ML Ops & Automation · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | · | 1d · Oct 6 | today · Oct 7 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257237) |
 | **Anduril Industries** | 2027 Quality & Test Engineer Intern · _2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States +3 | — | 🇺🇸📗 | 2d · Oct 5 | 1d · Oct 6 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
 | **Anduril Industries** | 2027 Reliability Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 2d · Oct 5 | 1d · Oct 6 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) |
 | **Anduril Industries** | 2027 Systems Engineer Intern · _2027_ | Boston, Massachusetts, United States, Costa Mesa, California, United States +3 | — | 🇺🇸📗 | 2d · Oct 5 | 1d · Oct 6 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
@@ -120,8 +122,8 @@ Software engineering and research internships at the same curated bar.
 | **SpaceX** | Spring 2027 Silicon Engineering Internship/Co-op · _Spring 2027_ | Bastrop, TX, Cape Canaveral, FL +8 | — | 🇺🇸📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | **DRW** | Platform Engineer Intern | Chicago | — | ·📗 | 2mo · Jul 30 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7997729) |
 | **Modal** | ML Research Intern | New York, San Francisco | $15k | ·🎓 | 2mo · Jul 28 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application) |
-| **PDT Partners** | Summer 2027 Software Engineering Intern · _Summer 2027_ | New York, NY | — | 🛂📗 | 2mo · Jul 24 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
-| **PDT Partners** | Summer 2027 Systems Engineering Intern · _Summer 2027_ | New York, NY | — | 🛂📗 | 2mo · Jul 24 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
+| **PDT Partners** | Summer 2027 Software Engineering Intern · _Summer 2027_ | New York, NY | — | ·📗 | 2mo · Jul 24 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
+| **PDT Partners** | Summer 2027 Systems Engineering Intern · _Summer 2027_ | New York, NY | — | ·📗 | 2mo · Jul 24 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) |
 | **Old Mission Capital** | Software Engineer – 2027 Internship Program (June Start) · _2027_ | Chicago, IL, United States | — | ·📗 | 2mo · Jul 15 | 1mo · Sep 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7796180003) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Researcher (PhD) · _Summer 2027_ | New York City | — | ·🎓 | 2mo · Jul 14 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Trader · _Summer 2027_ | New York City | — | · | 2mo · Jul 14 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008) |
@@ -154,6 +156,8 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | AI Solution Architect - Undergraduate Intern | US, Oregon, Hillsboro | — | · | — | today · Oct 7 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931) |
+| **Intel** | Data Science and Analytics - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 7 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859) |
 | **Intel** | Module Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 7 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 1d · Oct 6 | today · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | **Affirm** | Software Engineer (Machine Learning) Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 5d · Oct 2 | 5d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
@@ -175,4 +179,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-07 13:31 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-07 23:09 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
