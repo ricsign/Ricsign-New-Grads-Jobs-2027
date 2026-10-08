@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-07T23:09:22+00:00</updated>
+  <updated>2026-10-08T06:12:36+00:00</updated>
   <entry>
     <title>Figure AI — Firmware Engineering Intern [Winter 2027]</title>
     <link href="https://job-boards.greenhouse.io/figureai/jobs/4601309006"/>
@@ -132,30 +132,6 @@
     <updated>2026-10-07T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Austin, TX, Chicago, IL, Denver, CO, Houston, TX, New York City, NY · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Intel — Data Science and Analytics - PhD Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859"/>
-    <id>tag:ricsign.github.io,2026:811605db4f30d839</id>
-    <updated>2026-10-07T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Intel — AI Solution Architect - Undergraduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931"/>
-    <id>tag:ricsign.github.io,2026:9e4f954425f614cf</id>
-    <updated>2026-10-07T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Engineering - PhD Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020"/>
-    <id>tag:ricsign.github.io,2026:39bd27bef560b7db</id>
-    <updated>2026-10-07T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Lyft — PhD Machine Learning Software Engineer Intern (Summer 2027)</title>
@@ -404,5 +380,29 @@
     <updated>2026-10-01T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Chicago, IL, United States · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Point72 / Cubist — Micro-Intern: Research Technology Developer (IAP)</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002"/>
+    <id>tag:ricsign.github.io,2026:e21ee71ecfcc6b27</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8248060"/>
+    <id>tag:ricsign.github.io,2026:2556ce6c8a3b72c2</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Pinterest — Master's Data Science Internship 2027 (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138097"/>
+    <id>tag:ricsign.github.io,2026:25d17838577ca364</id>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, US, Palo Alto, CA, US, Seattle, WA, US, New York, NY, US · unknown · masters-preferred</summary>
   </entry>
 </feed>
