@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**128 open roles** · last verified 2026-10-08 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**127 open roles** · last verified 2026-10-08 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -60,8 +60,8 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA | — | ·📗 | today · Oct 8 | today · Oct 8 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | **Amazon** | Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA) · _Summer 2027_ | Redmond, Washington, USA | — | · | 1d · Oct 7 | 1d · Oct 7 | [apply](https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) |
-| **NVIDIA** | PhD Research Intern, AI-Aided Engineering – 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | 1d · Oct 7 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) |
 | **PDT Partners** | Summer 2027 Quantitative Research Intern · _Summer 2027_ | New York, NY | — | · | 1d · Oct 7 | 1d · Oct 7 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Perception, Robotics · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 7 | 1d · Oct 7 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8227633) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Research, Perception Foundation Models · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 7 | 1d · Oct 7 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8257801) |
@@ -92,7 +92,6 @@ Software engineering and research internships at the same curated bar.
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 23d · Sep 15 | 23d · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 | **Etched** | Core Engineering Intern | San Jose | — | · | 23d · Sep 15 | 23d · Sep 15 | [apply](https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application) |
 | **Five Rings** | Summer 2027 - Trading Operations Engineer Intern · _Summer 2027_ | New York City | — | · | 23d · Sep 15 | 23d · Sep 15 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
-| **DoorDash** | Software Engineer, Intern (Summer 2027) - US · _Summer 2027_ | New York, NY, San Francisco, CA +3 | — | ·📗 | 24d · Sep 14 | 23d · Sep 15 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171041) |
 | **Robinhood** | PeopleX Insights & Analytics Intern (Summer 2027) · _Summer 2027_ | Menlo Park, CA | — | ·📗 | 24d · Sep 14 | 24d · Sep 14 | [apply](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) |
 | **Schonfeld** | 2027 Platform Engineering Intern · _2027_ | New York, New York, United States | — | · | 28d · Sep 10 | 28d · Sep 10 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | **Coinbase** | Analytics Engineer Intern · _Summer 2027_ | Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) | — | · | 1mo · Sep 8 | 29d · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
@@ -176,4 +175,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-08 06:12 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-08 13:37 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
