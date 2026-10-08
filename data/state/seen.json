@@ -1689,6 +1689,13 @@
    "closed_at": null
   },
   {
+   "uid": "6100b7501e982bb8",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
+   "closed_at": null
+  },
+  {
    "uid": "62cd00de68ea2bd8",
    "first_seen": "2026-09-08",
    "last_verified": "2026-10-08",
@@ -1924,6 +1931,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-08",
    "posted_at": "2026-08-25",
+   "closed_at": null
+  },
+  {
+   "uid": "6fc460ac032436b3",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
    "closed_at": null
   },
   {
@@ -2375,6 +2389,13 @@
    "closed_at": null
   },
   {
+   "uid": "86116109588fc187",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
+   "closed_at": null
+  },
+  {
    "uid": "871514c509d56294",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-29",
@@ -2475,7 +2496,7 @@
   {
    "uid": "8d94d80309d61bfb",
    "first_seen": "2026-09-09",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-10-08",
    "posted_at": null,
    "closed_at": null
   },
@@ -3117,6 +3138,13 @@
    "closed_at": null
   },
   {
+   "uid": "acc96f31fb81f958",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
+   "closed_at": null
+  },
+  {
    "uid": "acec3adc25723f00",
    "first_seen": "2026-10-07",
    "last_verified": "2026-10-08",
@@ -3217,7 +3245,7 @@
   {
    "uid": "b29cfa275705b519",
    "first_seen": "2026-09-04",
-   "last_verified": "2026-10-01",
+   "last_verified": "2026-10-08",
    "posted_at": "2026-09-04",
    "closed_at": null
   },
@@ -3362,6 +3390,13 @@
    "closed_at": null
   },
   {
+   "uid": "ba2c546b1c97778b",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
+   "closed_at": null
+  },
+  {
    "uid": "ba35af05bee8a858",
    "first_seen": "2026-09-01",
    "last_verified": "2026-09-30",
@@ -3485,6 +3520,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-08",
    "posted_at": "2022-06-30",
+   "closed_at": null
+  },
+  {
+   "uid": "c29b15e460aa67da",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
    "closed_at": null
   },
   {
@@ -3758,6 +3800,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-08",
    "posted_at": "2025-06-19",
+   "closed_at": null
+  },
+  {
+   "uid": "d225c0a64aa62066",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
    "closed_at": null
   },
   {
@@ -4155,7 +4204,7 @@
   {
    "uid": "eaa54c5b9bebf977",
    "first_seen": "2026-09-09",
-   "last_verified": "2026-09-10",
+   "last_verified": "2026-10-08",
    "posted_at": null,
    "closed_at": null
   },
@@ -4395,6 +4444,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-08",
    "posted_at": "2026-05-13",
+   "closed_at": null
+  },
+  {
+   "uid": "f5dc891901f89e1f",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-08",
+   "posted_at": "2026-10-08",
    "closed_at": null
   },
   {

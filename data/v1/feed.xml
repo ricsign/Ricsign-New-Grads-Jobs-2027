@@ -4,14 +4,70 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-08T13:37:53+00:00</updated>
+  <updated>2026-10-08T23:25:33+00:00</updated>
   <entry>
-    <title>DoorDash — Software Engineer, Intern - Labs (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774"/>
-    <id>tag:ricsign.github.io,2026:1e75a55af88b77c1</id>
+    <title>IMC Trading — Machine Learning Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"/>
+    <id>tag:ricsign.github.io,2026:c29b15e460aa67da</id>
     <updated>2026-10-08T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>San Francisco, CA, Sunnyvale, CA · unknown · masters-preferred</summary>
+    <summary>New York, United States · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Replit — Software Engineering Intern – Winter 2027 (U.S. Based)</title>
+    <link href="https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application"/>
+    <id>tag:ricsign.github.io,2026:6fc460ac032436b3</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Foster City, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Roblox — [2027] Applied Scientist - PhD Intern</title>
+    <link href="https://careers.roblox.com/jobs/8242621?gh_jid=8242621"/>
+    <id>tag:ricsign.github.io,2026:acc96f31fb81f958</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Roblox — [2027] Data Scientist - PhD Intern</title>
+    <link href="https://careers.roblox.com/jobs/8242619?gh_jid=8242619"/>
+    <id>tag:ricsign.github.io,2026:6100b7501e982bb8</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Roblox — [2027] Senior Machine Learning Engineer - PhD Early Career</title>
+    <link href="https://careers.roblox.com/jobs/8242623?gh_jid=8242623"/>
+    <id>tag:ricsign.github.io,2026:d225c0a64aa62066</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2026 Summer Intern, PhD, Research, World Modeling Evaluation</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8265173"/>
+    <id>tag:ricsign.github.io,2026:ba2c546b1c97778b</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8262154"/>
+    <id>tag:ricsign.github.io,2026:86116109588fc187</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Pinterest — Solutions Engineer Intern 2027 (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788"/>
+    <id>tag:ricsign.github.io,2026:f5dc891901f89e1f</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, US, Remote, US · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Figure AI — Firmware Engineering Intern [Winter 2027]</title>
@@ -62,12 +118,12 @@
     <summary>Austin, TX · no-sponsorship · unspecified</summary>
   </entry>
   <entry>
-    <title>PDT Partners — Summer 2027 Quantitative Research Intern</title>
+    <title>PDT Partners — Summer 2027 Quantitative Research Intern - PhD/Postdoctoral</title>
     <link href="https://job-boards.greenhouse.io/pdtpartners/jobs/8263031"/>
     <id>tag:ricsign.github.io,2026:d7eaa4d479f09106</id>
     <updated>2026-10-07T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>New York, NY · unknown · unspecified</summary>
+    <summary>New York, NY · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, BS, Software Engineer, Model Eval</title>
@@ -348,61 +404,5 @@
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, California, United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Elastic — Principal Software Engineer I - Platform Billing Core</title>
-    <link href="https://jobs.elastic.co/jobs?gh_jid=8245817&amp;gh_jid=8245817"/>
-    <id>tag:ricsign.github.io,2026:e131ce5abe5bdd74</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States · security-clearance · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Stripe — Data Analyst, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8194291"/>
-    <id>tag:ricsign.github.io,2026:bed2921375d9cc10</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, Seattle, South San Francisco HQ, US-NYC, US-Seattle, US-SF-HQ · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Stripe — PhD Data Scientist, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8194283"/>
-    <id>tag:ricsign.github.io,2026:40706e90291d2330</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, Seattle, South San Francisco HQ, US-NYC, US-Seattle, US-SF-HQ · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Old Mission Capital — Quantitative Trader - 2027 Micro-Internship Program (January Start)</title>
-    <link href="https://www.oldmissioncapital.com/careers/?gh_jid=8002345003"/>
-    <id>tag:ricsign.github.io,2026:bfd00018e6c727c0</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Chicago, IL, United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Point72 / Cubist — Micro-Intern: Research Technology Developer (IAP)</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002"/>
-    <id>tag:ricsign.github.io,2026:e21ee71ecfcc6b27</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8248060"/>
-    <id>tag:ricsign.github.io,2026:2556ce6c8a3b72c2</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Pinterest — Master's Data Science Internship 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138097"/>
-    <id>tag:ricsign.github.io,2026:25d17838577ca364</id>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, US, Palo Alto, CA, US, Seattle, WA, US, New York, NY, US · unknown · masters-preferred</summary>
   </entry>
 </feed>

@@ -1,69 +1,69 @@
 {
- "generated_at": "2026-10-08T13:37:53+00:00",
- "live_requisitions": 469,
- "live_roles": 427,
- "companies_with_open_roles": 68,
+ "generated_at": "2026-10-08T23:25:33+00:00",
+ "live_requisitions": 477,
+ "live_roles": 436,
+ "companies_with_open_roles": 69,
  "posted_age": {
-  "median_days": 50,
-  "posted_last_24h": 6,
-  "posted_last_7d": 49,
-  "posted_last_30d": 176,
+  "median_days": 49,
+  "posted_last_24h": 13,
+  "posted_last_7d": 56,
+  "posted_last_30d": 182,
   "evergreen_over_1y": 40,
-  "with_posted_date_pct": 100.0
+  "with_posted_date_pct": 99.5
  },
  "by_track": {
   "new-grad-swe": 115,
   "ai-research": 13,
   "quant": 61,
-  "internship": 280,
+  "internship": 288,
   "other": 0
  },
  "by_tier": {
   "0": 40,
-  "1": 377,
-  "2": 52
+  "1": 382,
+  "2": 55
  },
  "by_sponsorship": {
-  "sponsors": 23,
+  "sponsors": 25,
   "no-sponsorship": 9,
   "citizenship-required": 46,
-  "security-clearance": 53,
-  "unknown": 338
+  "security-clearance": 52,
+  "unknown": 345
  },
  "by_degree": {
   "bachelors": 77,
-  "masters-preferred": 171,
-  "phd-required": 67,
+  "masters-preferred": 172,
+  "phd-required": 74,
   "unspecified": 154
  },
- "sponsorship_resolved_pct": 27.9,
- "link_verified_pct": 90.6,
+ "sponsorship_resolved_pct": 27.7,
+ "link_verified_pct": 89.9,
  "by_link_status": {
-  "ok": 425,
-  "blocked": 41,
-  "error": 3,
+  "ok": 429,
+  "blocked": 42,
+  "error": 6,
   "dead": 0,
   "closed": 0,
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 650,
-  "live": 597,
+  "tracked": 658,
+  "live": 605,
   "closed": 53,
   "median_age_days": 37,
   "p90_age_days": 37,
   "max_age_days": 37,
-  "verified_within_24h": 478
+  "verified_within_24h": 489
  },
  "pipeline_health": {
   "boards_attempted": 129,
-  "boards_ok": 125,
-  "boards_empty": 1,
+  "boards_ok": 126,
+  "boards_empty": 0,
   "boards_failed": 3,
-  "success_rate": 0.969,
-  "postings_fetched": 22647,
+  "success_rate": 0.9767,
+  "postings_fetched": 22666,
   "by_source": {
-   "greenhouse": 75,
+   "greenhouse": 76,
    "ashby": 41,
    "workday": 5,
    "amazon": 1,
@@ -87,29 +87,23 @@
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/postman/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
    }
   ],
-  "empty_boards": [
-   {
-    "company": "Marshall Wace",
-    "ats": "greenhouse",
-    "token": "marshallwace"
-   }
-  ],
+  "empty_boards": [],
   "rejections": {
-   "not a US location": 6149,
-   "senior/experienced role": 4195,
-   "title is not a technical role": 3997,
-   "non-technical role": 3169,
-   "not an early-career posting": 2928,
-   "non-CS engineering discipline": 864,
+   "not a US location": 6140,
+   "senior/experienced role": 4177,
+   "title is not a technical role": 3999,
+   "non-technical role": 3184,
+   "not an early-career posting": 2933,
+   "non-CS engineering discipline": 869,
    "quant role without early-career marker": 256,
-   "research role without early-career marker": 131
+   "research role without early-career marker": 132
   },
   "link_check": {
-   "ok": 425,
-   "blocked": 41,
-   "error": 3,
-   "checked": 469,
-   "conclusive": 425,
+   "ok": 429,
+   "blocked": 42,
+   "error": 6,
+   "checked": 477,
+   "conclusive": 429,
    "resolving_pct": 100.0
   }
  }
