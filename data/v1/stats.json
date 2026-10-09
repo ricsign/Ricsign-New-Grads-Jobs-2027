@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-08T23:25:33+00:00",
+ "generated_at": "2026-10-09T06:15:59+00:00",
  "live_requisitions": 477,
  "live_roles": 436,
- "companies_with_open_roles": 69,
+ "companies_with_open_roles": 70,
  "posted_age": {
-  "median_days": 49,
-  "posted_last_24h": 13,
-  "posted_last_7d": 56,
-  "posted_last_30d": 182,
+  "median_days": 50,
+  "posted_last_24h": 8,
+  "posted_last_7d": 42,
+  "posted_last_30d": 160,
   "evergreen_over_1y": 40,
   "with_posted_date_pct": 99.5
  },
@@ -20,8 +20,8 @@
  },
  "by_tier": {
   "0": 40,
-  "1": 382,
-  "2": 55
+  "1": 383,
+  "2": 54
  },
  "by_sponsorship": {
   "sponsors": 25,
@@ -33,8 +33,8 @@
  "by_degree": {
   "bachelors": 77,
   "masters-preferred": 172,
-  "phd-required": 74,
-  "unspecified": 154
+  "phd-required": 73,
+  "unspecified": 155
  },
  "sponsorship_resolved_pct": 27.7,
  "link_verified_pct": 89.9,
@@ -47,13 +47,13 @@
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 658,
-  "live": 605,
+  "tracked": 659,
+  "live": 606,
   "closed": 53,
-  "median_age_days": 37,
-  "p90_age_days": 37,
-  "max_age_days": 37,
-  "verified_within_24h": 489
+  "median_age_days": 38,
+  "p90_age_days": 38,
+  "max_age_days": 38,
+  "verified_within_24h": 482
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -61,7 +61,7 @@
   "boards_empty": 0,
   "boards_failed": 3,
   "success_rate": 0.9767,
-  "postings_fetched": 22666,
+  "postings_fetched": 22717,
   "by_source": {
    "greenhouse": 76,
    "ashby": 41,
@@ -89,14 +89,14 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6140,
-   "senior/experienced role": 4177,
-   "title is not a technical role": 3999,
-   "non-technical role": 3184,
-   "not an early-career posting": 2933,
-   "non-CS engineering discipline": 869,
+   "not a US location": 6151,
+   "senior/experienced role": 4186,
+   "title is not a technical role": 4006,
+   "non-technical role": 3194,
+   "not an early-career posting": 2936,
+   "non-CS engineering discipline": 875,
    "quant role without early-career marker": 256,
-   "research role without early-career marker": 132
+   "research role without early-career marker": 130
   },
   "link_check": {
    "ok": 429,
