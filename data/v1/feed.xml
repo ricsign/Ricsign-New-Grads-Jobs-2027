@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-09T06:15:59+00:00</updated>
+  <updated>2026-10-09T13:28:07+00:00</updated>
+  <entry>
+    <title>NVIDIA — CPU Compiler Intern - 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"/>
+    <id>tag:ricsign.github.io,2026:35104d66bada9f45</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>UK, Cambridge · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>NVIDIA — Research Intern, Spatial Intelligence - Summer 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305"/>
@@ -12,6 +20,14 @@
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Man Group — Junior Quant - PM Analytics</title>
+    <link href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101"/>
+    <id>tag:ricsign.github.io,2026:c34f78027999c4c4</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Boston · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>IMC Trading — Machine Learning Engineer Intern - Summer 2027</title>
@@ -343,6 +359,14 @@
   </entry>
   <entry>
     <title>Brex — Brex Rotational Program</title>
+    <link href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"/>
+    <id>tag:ricsign.github.io,2026:b5f5668436a4cb8c</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Brex — Brex Rotational Program</title>
     <link href="https://www.brex.com/careers/8864176002?gh_jid=8864176002"/>
     <id>tag:ricsign.github.io,2026:a386241d1f2da194</id>
     <updated>2026-10-02T00:00:00Z</updated>
@@ -353,14 +377,6 @@
     <title>Brex — Brex Rotational Program</title>
     <link href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"/>
     <id>tag:ricsign.github.io,2026:d2b28709668c90a3</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"/>
-    <id>tag:ricsign.github.io,2026:b5f5668436a4cb8c</id>
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>United States · unknown · bachelors</summary>
@@ -388,21 +404,5 @@
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Research, World Action Model</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8243732"/>
-    <id>tag:ricsign.github.io,2026:d06aa5c5348b425c</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Affirm — Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011590003"/>
-    <id>tag:ricsign.github.io,2026:af1579aa5e46869d</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, California, United States · unknown · bachelors</summary>
   </entry>
 </feed>
