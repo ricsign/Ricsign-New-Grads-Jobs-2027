@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-09T13:28:06+00:00",
+ "generated_at": "2026-10-09T22:42:58+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 478,
+ "count": 489,
  "jobs": [
   {
    "uid": "274e21f7ffd30a75",
@@ -1077,6 +1077,32 @@
    "openings": 1
   },
   {
+   "uid": "e8276ba623f3802d",
+   "company_slug": "stripe",
+   "company_name": "Stripe",
+   "company_tier": 0,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Backend/API Engineer, Money as a Service",
+   "apply_url": "https://stripe.com/jobs/search?gh_jid=6176758",
+   "locations": [
+    "US"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-09",
+   "posted_at": "2024-08-25",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "8546 Treasury for Platforms - Eng",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "853c618b52153c06",
    "company_slug": "physical-intelligence",
    "company_name": "Physical Intelligence",
@@ -1130,6 +1156,66 @@
    "openings": 1
   },
   {
+   "uid": "c9cd0700986ef182",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Early Career Systems Engineer",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007",
+   "locations": [
+    "Boston, Massachusetts, United States",
+    "Boulder, Colorado, United States",
+    "Costa Mesa, California, United States",
+    "Foothill Ranch, California, United States",
+    "Huntsville, Alabama, United States",
+    "Reston, Virginia, United States",
+    "Seattle, Washington, United States",
+    "Washington, District of Columbia, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-09",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Templates : Early Career/New Grad",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "bda02e3ba469ac17",
+   "company_slug": "coinbase",
+   "company_name": "Coinbase",
+   "company_tier": 1,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Forward Deployed Engineer Intern (HR Technology)",
+   "apply_url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+   "locations": [
+    "Hybrid - New York, NY",
+    "US - Remote Zone 1 (Job Requisitions Only)"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-09",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Internships & Emerging Talent Positions",
+   "active": true,
+   "link_status": "blocked",
+   "openings": 1
+  },
+  {
    "uid": "35104d66bada9f45",
    "company_slug": "nvidia",
    "company_name": "NVIDIA",
@@ -1177,6 +1263,137 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "8d403ad988eda34a",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "d3993b5d5c010242",
+   "company_slug": "schonfeld",
+   "company_name": "Schonfeld",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "2027 Quantitative Developer Intern",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+   "locations": [
+    "Austin, Texas, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-09",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Internship",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "815d6dbd1990fbcc",
+   "company_slug": "schonfeld",
+   "company_name": "Schonfeld",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "2027 Quantitative Research Intern",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+   "locations": [
+    "Austin, Texas, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-09",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Internship",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f9099bddb934503d",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Automation - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-09",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Materials Engineering - Starlink Mfg - BA",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "1e75a55af88b77c1",
+   "company_slug": "doordash",
+   "company_name": "DoorDash",
+   "company_tier": 1,
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "Software Engineer, Intern - Labs (Summer 2027)",
+   "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+   "locations": [
+    "San Francisco, CA",
+    "Sunnyvale, CA"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-08",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-08",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "311 Autonomy",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1825,6 +2042,32 @@
    "openings": 1
   },
   {
+   "uid": "d2b28709668c90a3",
+   "company_slug": "brex",
+   "company_name": "Brex",
+   "company_tier": 1,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Brex Rotational Program",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "locations": [
+    "United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-02",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Risk & Credit",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "b5f5668436a4cb8c",
    "company_slug": "brex",
    "company_name": "Brex",
@@ -1861,32 +2104,6 @@
    "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
     "Salt Lake City, Utah, United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-02",
-   "last_verified": "2026-10-09",
-   "posted_at": "2026-10-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Risk & Credit",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "d2b28709668c90a3",
-   "company_slug": "brex",
-   "company_name": "Brex",
-   "company_tier": 1,
-   "company_category": "fintech",
-   "source": "greenhouse",
-   "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
-   "locations": [
-    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -2653,7 +2870,8 @@
    "title": "Hardware Machine Learning PhD Research Internship",
    "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
    "locations": [
-    "Chicago, United States"
+    "New York, United States",
+    "Chicago"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -4213,7 +4431,7 @@
    "closed_at": null,
    "season": "Summer 2027",
    "compensation": null,
-   "department": "Pipeline (N/A)",
+   "department": "CSI (7LV)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4272,17 +4490,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4299,17 +4517,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -6177,32 +6395,6 @@
    "openings": 1
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-09",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6224,6 +6416,32 @@
    "season": null,
    "compensation": null,
    "department": "Satellite Payload Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "14812f7b8d47b8ff",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mesh Optical",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6308,32 +6526,6 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-09",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6371,6 +6563,32 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
     "Palo Alto, CA",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "e21bfaf4cdc7c9ad",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "locations": [
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -11526,6 +11744,58 @@
    "openings": 1
   },
   {
+   "uid": "83e061dc893924ac",
+   "company_slug": "affirm",
+   "company_name": "Affirm",
+   "company_tier": 2,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "IT Engineer Intern (Early Careers Summer 2027)",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003",
+   "locations": [
+    "San Francisco, California, United States"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-09",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Information Security",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "e63a532f2f7d9d4a",
+   "company_slug": "elastic",
+   "company_name": "Elastic",
+   "company_tier": 2,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Principal Software Engineer I - CI/CD - Platform Engineering Productivity",
+   "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8240105&gh_jid=8240105",
+   "locations": [
+    "United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "security-clearance",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-09",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Engineering Productivity",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "f5dc891901f89e1f",
    "company_slug": "pinterest",
    "company_name": "Pinterest",
@@ -11631,6 +11901,32 @@
    "season": null,
    "compensation": null,
    "department": "Checkout",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "95bf8a53d46a92e8",
+   "company_slug": "faire",
+   "company_name": "Faire",
+   "company_tier": 2,
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "Applied AI/ML Scientist, Intern",
+   "apply_url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-09",
+   "last_verified": "2026-10-09",
+   "posted_at": "2026-10-06",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Algorithms & Data",
    "active": true,
    "link_status": "ok",
    "openings": 1

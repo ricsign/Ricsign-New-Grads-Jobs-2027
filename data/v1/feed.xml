@@ -4,7 +4,31 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-09T13:28:07+00:00</updated>
+  <updated>2026-10-09T22:42:58+00:00</updated>
+  <entry>
+    <title>Anduril Industries — 2027 Early Career Systems Engineer</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"/>
+    <id>tag:ricsign.github.io,2026:c9cd0700986ef182</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Boston, Massachusetts, United States, Boulder, Colorado, United States, Costa Mesa, California, United States, Foothill Ranch, California, United States, Huntsville, Alabama, United States, Reston, Virginia, United States, Seattle, Washington, United States, Washington, District of Columbia, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Coinbase — Forward Deployed Engineer Intern (HR Technology)</title>
+    <link href="https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"/>
+    <id>tag:ricsign.github.io,2026:bda02e3ba469ac17</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"/>
+    <id>tag:ricsign.github.io,2026:8d403ad988eda34a</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>NVIDIA — CPU Compiler Intern - 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"/>
@@ -22,12 +46,68 @@
     <summary>US, CA, Santa Clara · unknown · unspecified</summary>
   </entry>
   <entry>
+    <title>Schonfeld — 2027 Quantitative Developer Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267092"/>
+    <id>tag:ricsign.github.io,2026:d3993b5d5c010242</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Austin, Texas, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 Quantitative Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267120"/>
+    <id>tag:ricsign.github.io,2026:815d6dbd1990fbcc</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Austin, Texas, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Automation - '26/'27 (Starlink)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002"/>
+    <id>tag:ricsign.github.io,2026:f9099bddb934503d</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Bastrop, TX · citizenship-required · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Affirm — IT Engineer Intern (Early Careers Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011375003"/>
+    <id>tag:ricsign.github.io,2026:83e061dc893924ac</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, California, United States · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Elastic — Principal Software Engineer I - CI/CD - Platform Engineering Productivity</title>
+    <link href="https://jobs.elastic.co/jobs?gh_jid=8240105&amp;gh_jid=8240105"/>
+    <id>tag:ricsign.github.io,2026:e63a532f2f7d9d4a</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States · security-clearance · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Faire — Applied AI/ML Scientist, Intern</title>
+    <link href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"/>
+    <id>tag:ricsign.github.io,2026:95bf8a53d46a92e8</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
     <title>Man Group — Junior Quant - PM Analytics</title>
     <link href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101"/>
     <id>tag:ricsign.github.io,2026:c34f78027999c4c4</id>
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Boston · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>DoorDash — Software Engineer, Intern - Labs (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774"/>
+    <id>tag:ricsign.github.io,2026:1e75a55af88b77c1</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, Sunnyvale, CA · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>IMC Trading — Machine Learning Engineer Intern - Summer 2027</title>
@@ -324,85 +404,5 @@
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>New York · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Harvey — Software Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application"/>
-    <id>tag:ricsign.github.io,2026:237bbd63d2616759</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>xAI — Spring 2027 Software Engineering Internship/Co-op</title>
-    <link href="https://job-boards.greenhouse.io/xai/jobs/5252108007"/>
-    <id>tag:ricsign.github.io,2026:d218e52efe520b46</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Palo Alto, CA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>xAI — Summer 2027 Software Engineering Internship/Co-op</title>
-    <link href="https://job-boards.greenhouse.io/xai/jobs/5255111007"/>
-    <id>tag:ricsign.github.io,2026:b5d7bea2998d7226</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Palo Alto, CA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Amazon — Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)</title>
-    <link href="https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"/>
-    <id>tag:ricsign.github.io,2026:58e7f00e9e464939</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Seattle, Washington, USA · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864170002?gh_jid=8864170002"/>
-    <id>tag:ricsign.github.io,2026:b5f5668436a4cb8c</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864176002?gh_jid=8864176002"/>
-    <id>tag:ricsign.github.io,2026:a386241d1f2da194</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Salt Lake City, Utah, United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Brex — Brex Rotational Program</title>
-    <link href="https://www.brex.com/careers/8864174002?gh_jid=8864174002"/>
-    <id>tag:ricsign.github.io,2026:d2b28709668c90a3</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Qube Research &amp; Technologies — 2027 – Internship or Graduate, FPGA Engineering</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002"/>
-    <id>tag:ricsign.github.io,2026:ed3d9bf1d6a0fa6e</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>NYC · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Qube Research &amp; Technologies — 2027 Internship – Security Engineer</title>
-    <link href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002"/>
-    <id>tag:ricsign.github.io,2026:1f367c8e2fbc924f</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>NYC · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Perception, Evaluation</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8248327"/>
-    <id>tag:ricsign.github.io,2026:4735e41a21cef7be</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>

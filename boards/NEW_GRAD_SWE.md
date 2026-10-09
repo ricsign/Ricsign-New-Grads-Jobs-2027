@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**54 open roles** · last verified 2026-10-09 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**56 open roles** · last verified 2026-10-09 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -37,20 +37,21 @@ Full-time entry-level software engineering roles in the US.
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Aug 31 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
 | **xAI** | Software Engineer - Evals | Palo Alto, CA | — | · | 2mo · Jul 22 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
 | **Databricks** | AI Engineer – Forward Deployed Engineering (AI FDE) | United States, Remote - California | — | ·📗 | 4mo · May 13 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
+| **Stripe** | Backend/API Engineer, Money as a Service · `open 2y+` | US | — | · | 2y · Aug 25 2024 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=6176758) |
 
 ## Tier 1 — Established elite
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Anduril Industries** | 2027 Early Career Systems Engineer · _2027_ | Boston, Massachusetts, United States, Boulder, Colorado, United States +6 | — | 🇺🇸📗 | today · Oct 9 | today · Oct 9 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
+| **SpaceX** | New Graduate Engineer, Automation - '26/'27 (Starlink) | Bastrop, TX | — | 🇺🇸 | today · Oct 9 | today · Oct 9 | [apply](https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002) |
 | **Roblox** | [2027] Senior Machine Learning Engineer - PhD Early Career · _2027_ | San Mateo, CA, United States | — | ·🎓 | 1d · Oct 8 | 1d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) |
 | **Brex** | Brex Rotational Program · `3 openings` | Salt Lake City, Utah, United States | — | · | 7d · Oct 2 | 7d · Oct 2 | [apply](https://www.brex.com/careers/8864176002?gh_jid=8864176002) |
 | **SpaceX** | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | — | 🇺🇸 | 11d · Sep 28 | 10d · Sep 29 | [apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
 | **Anduril Industries** | 2027 Early Career Firmware Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 17d · Sep 22 | 17d · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
 | **Anduril Industries** | 2027 Early Career Flight Test Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 17d · Sep 22 | 17d · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
-| **Anduril Industries** | Entry Level Systems Engineer, C2 Integration, Clearance Eligible | Costa Mesa, California, United States | — | 🔒📗 | 18d · Sep 21 | 18d · Sep 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007) |
 | **Together AI** | Software Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 21d · Sep 18 | 21d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) |
 | **SpaceX** | Test Stand Design & Build Engineer (Structures/Fluid Systems) | McGregor, TX | — | 🇺🇸 | 22d · Sep 17 | 22d · Sep 17 | [apply](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) |
-| **SpaceX** | New Graduate Engineer, Power Generation (Starship) | Starbase, TX | — | 🇺🇸📗 | 28d · Sep 11 | 27d · Sep 12 | [apply](https://boards.greenhouse.io/spacex/jobs/8803009002?gh_jid=8803009002) |
 | **Replit** | Software Engineer - New Grad (2027) · _2027_ | Foster City, CA | $140k–$180k | · | 1mo · Sep 9 | 1mo · Sep 9 | [apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application) |
 | **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US · _Fall 2026_ | Los Angeles, CA, New York, NY +3 | — | ·📗 | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
 | **Applied Intuition** | Cybersecurity Software Engineer - New Grad (2027) · _2027_ | Sunnyvale | $130k–$158k | ·📗 | 1mo · Sep 2 | 1mo · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) |
@@ -76,6 +77,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Elastic** | Principal Software Engineer I - CI/CD - Platform Engineering Productivity | United States | — | 🔒 | today · Oct 9 | today · Oct 9 | [apply](https://jobs.elastic.co/jobs?gh_jid=8240105&gh_jid=8240105) |
 | **Fastly** | Customer Support Engineer | Austin, TX, Chicago, IL +3 | — | · | 2d · Oct 7 | 2d · Oct 7 | [apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
 | **Affirm** | Software Engineer, Early Career (NYC) | New York, New York, United States, New York City | — | · | 3d · Oct 6 | 2d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
 | **Affirm** | Software Engineer, Early Career (SF) | San Francisco, California, United States | — | · | 3d · Oct 6 | 2d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
@@ -95,4 +97,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-09 13:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-09 22:42 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
