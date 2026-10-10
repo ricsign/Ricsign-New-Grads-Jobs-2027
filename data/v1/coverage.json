@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T05:59:07+00:00",
+ "generated_at": "2026-10-10T12:39:07+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 722,
+   "fetched": 721,
    "published": 7,
    "status": "ok"
   },
@@ -977,7 +977,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "fastly",
-   "fetched": 51,
+   "fetched": 50,
    "published": 1,
    "status": "ok"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 158,
+   "fetched": 157,
    "published": 0,
    "status": "none matched"
   },
@@ -1327,7 +1327,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "lyft",
-   "fetched": 187,
+   "fetched": 186,
    "published": 6,
    "status": "ok"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 218,
+   "fetched": 219,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6156,
+  "not a US location": 6152,
   "senior/experienced role": 4194,
   "title is not a technical role": 4010,
   "non-technical role": 3206,
-  "not an early-career posting": 2953,
+  "not an early-career posting": 2954,
   "non-CS engineering discipline": 880,
   "quant role without early-career marker": 259,
   "research role without early-career marker": 132

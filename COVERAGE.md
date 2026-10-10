@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,280 |
+| Postings fetched | 22,277 |
 | Postings published | 490 |
 | Boards that failed to fetch | **3** |
 | Boards live but with nothing early-career | 55 |
@@ -115,7 +115,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>Airbnb</b> — 158 postings read, none early-career</summary>
+<details><summary><b>Airbnb</b> — 157 postings read, none early-career</summary>
 
 - `Account Manager — not a US location`
 - `Associate Legal Counsel, Japan — not a US location`
@@ -293,7 +293,7 @@ rather than take it on faith.
 
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
-| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 722 | 7 | ✅ ok |
+| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 721 | 7 | ✅ ok |
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 183 | 5 | ✅ ok |
 | [Harvey](https://www.harvey.ai/careers) | 0 | `ashby:harvey` | 347 | 4 | ✅ ok |
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 644 | 3 | ✅ ok |
@@ -366,7 +366,7 @@ rather than take it on faith.
 | [The Voleon Group](https://voleon.com/careers/) | 1 | `ashby:voleon` | 58 | 1 | ✅ ok |
 | [AMD](https://careers.amd.com/) | 1 | — | — | — | 🔗 link-only |
 | [Adobe](https://careers.adobe.com/) | 1 | `workday:adobe` | 39 | — | ○ none matched |
-| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 158 | — | ○ none matched |
+| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 157 | — | ○ none matched |
 | [Apple](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN) | 1 | — | — | — | 🔗 link-only |
 | [Bridgewater Associates](https://www.bridgewater.com/working-at-bridgewater) | 1 | `greenhouse:bridgewater89` | 18 | — | ○ none matched |
 | [Character.AI](https://character.ai/careers) | 1 | `ashby:character` | 13 | — | ○ none matched |
@@ -399,14 +399,14 @@ rather than take it on faith.
 | [Verkada](https://www.verkada.com/careers/) | 2 | `greenhouse:verkada` | 305 | 13 | ✅ ok |
 | [Pinterest](https://www.pinterestcareers.com/) | 2 | `greenhouse:pinterest` | 179 | 11 | ✅ ok |
 | [Belvedere Trading](https://belvederetrading.com/careers/) | 2 | `lever:belvederetrading` | 20 | 7 | ✅ ok |
-| [Lyft](https://www.lyft.com/careers) | 2 | `greenhouse:lyft` | 187 | 6 | ✅ ok |
+| [Lyft](https://www.lyft.com/careers) | 2 | `greenhouse:lyft` | 186 | 6 | ✅ ok |
 | [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 161 | 5 | ✅ ok |
 | [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 105 | 4 | ✅ ok |
 | [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 408 | 3 | ✅ ok |
-| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 218 | 3 | ✅ ok |
+| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 219 | 3 | ✅ ok |
 | [Man Group](https://www.man.com/careers) | 2 | `greenhouse:mangroup` | 56 | 2 | ✅ ok |
 | [Faire](https://www.faire.com/careers) | 2 | `greenhouse:faire` | 79 | 1 | ✅ ok |
-| [Fastly](https://www.fastly.com/about/careers) | 2 | `greenhouse:fastly` | 51 | 1 | ✅ ok |
+| [Fastly](https://www.fastly.com/about/careers) | 2 | `greenhouse:fastly` | 50 | 1 | ✅ ok |
 | [Grafana Labs](https://grafana.com/about/careers/) | 2 | `greenhouse:grafanalabs` | 105 | 1 | ✅ ok |
 | [Intel](https://jobs.intel.com/) | 2 | `workday:intel` | 19 | 1 | ✅ ok |
 | [Airtable](https://www.airtable.com/careers) | 2 | `greenhouse:airtable` | 4 | — | ○ none matched |
