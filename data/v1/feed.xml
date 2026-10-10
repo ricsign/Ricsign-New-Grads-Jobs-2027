@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-09T22:42:58+00:00</updated>
+  <updated>2026-10-10T05:59:07+00:00</updated>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Research, AV Planning</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8258070"/>
+    <id>tag:ricsign.github.io,2026:223eba3715ba0563</id>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Research, Post Training</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8257006"/>
+    <id>tag:ricsign.github.io,2026:a192196e3d8342b4</id>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA: San Francisco, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Anduril Industries — 2027 Early Career Systems Engineer</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"/>
@@ -25,22 +41,6 @@
     <title>NVIDIA — Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"/>
     <id>tag:ricsign.github.io,2026:8d403ad988eda34a</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — CPU Compiler Intern - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"/>
-    <id>tag:ricsign.github.io,2026:35104d66bada9f45</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>UK, Cambridge · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — Research Intern, Spatial Intelligence - Summer 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305"/>
-    <id>tag:ricsign.github.io,2026:674e51a9f4bcf357</id>
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, CA, Santa Clara · unknown · unspecified</summary>
@@ -150,17 +150,17 @@
     <summary>San Mateo, CA, United States · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Waymo — 2026 Summer Intern, PhD, Research, World Modeling Evaluation</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8265173"/>
-    <id>tag:ricsign.github.io,2026:ba2c546b1c97778b</id>
+    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8262154"/>
+    <id>tag:ricsign.github.io,2026:86116109588fc187</id>
     <updated>2026-10-08T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8262154"/>
-    <id>tag:ricsign.github.io,2026:86116109588fc187</id>
+    <title>Waymo — 2027 Summer Intern, PhD, Research, World Modeling Evaluation</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8265173"/>
+    <id>tag:ricsign.github.io,2026:ba2c546b1c97778b</id>
     <updated>2026-10-08T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>

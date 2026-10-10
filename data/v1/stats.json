@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-09T22:42:58+00:00",
- "live_requisitions": 489,
- "live_roles": 448,
- "companies_with_open_roles": 70,
+ "generated_at": "2026-10-10T05:59:07+00:00",
+ "live_requisitions": 490,
+ "live_roles": 449,
+ "companies_with_open_roles": 71,
  "posted_age": {
-  "median_days": 45,
-  "posted_last_24h": 16,
-  "posted_last_7d": 51,
-  "posted_last_30d": 169,
+  "median_days": 46,
+  "posted_last_24h": 9,
+  "posted_last_7d": 42,
+  "posted_last_30d": 170,
   "evergreen_over_1y": 41,
-  "with_posted_date_pct": 99.3
+  "with_posted_date_pct": 99.6
  },
  "by_track": {
   "new-grad-swe": 119,
   "ai-research": 13,
   "quant": 62,
-  "internship": 295,
+  "internship": 296,
   "other": 0
  },
  "by_tier": {
   "0": 41,
   "1": 391,
-  "2": 57
+  "2": 58
  },
  "by_sponsorship": {
   "sponsors": 25,
   "no-sponsorship": 9,
   "citizenship-required": 48,
   "security-clearance": 53,
-  "unknown": 354
+  "unknown": 355
  },
  "by_degree": {
   "bachelors": 78,
   "masters-preferred": 177,
-  "phd-required": 72,
-  "unspecified": 162
+  "phd-required": 74,
+  "unspecified": 161
  },
  "sponsorship_resolved_pct": 27.6,
  "link_verified_pct": 90.0,
  "by_link_status": {
-  "ok": 440,
+  "ok": 441,
   "blocked": 43,
   "error": 6,
   "dead": 0,
@@ -47,13 +47,13 @@
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 670,
-  "live": 617,
+  "tracked": 672,
+  "live": 619,
   "closed": 53,
-  "median_age_days": 37,
-  "p90_age_days": 38,
-  "max_age_days": 38,
-  "verified_within_24h": 494
+  "median_age_days": 38,
+  "p90_age_days": 39,
+  "max_age_days": 39,
+  "verified_within_24h": 493
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -89,21 +89,21 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6162,
-   "senior/experienced role": 4188,
-   "title is not a technical role": 4009,
-   "non-technical role": 3213,
-   "not an early-career posting": 2951,
-   "non-CS engineering discipline": 878,
-   "quant role without early-career marker": 257,
-   "research role without early-career marker": 131
+   "not a US location": 6156,
+   "senior/experienced role": 4194,
+   "title is not a technical role": 4010,
+   "non-technical role": 3206,
+   "not an early-career posting": 2953,
+   "non-CS engineering discipline": 880,
+   "quant role without early-career marker": 259,
+   "research role without early-career marker": 132
   },
   "link_check": {
-   "ok": 440,
+   "ok": 441,
    "blocked": 43,
    "error": 6,
-   "checked": 489,
-   "conclusive": 440,
+   "checked": 490,
+   "conclusive": 441,
    "resolving_pct": 100.0
   }
  }
