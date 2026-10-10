@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T12:39:07+00:00",
+ "generated_at": "2026-10-10T21:49:12+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -107,7 +107,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "scaleai",
-   "fetched": 183,
+   "fetched": 182,
    "published": 5,
    "status": "ok"
   },
@@ -237,7 +237,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "langchain",
-   "fetched": 103,
+   "fetched": 102,
    "published": 2,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 456,
+   "fetched": 455,
    "published": 2,
    "status": "ok"
   },
@@ -1117,7 +1117,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gongio",
-   "fetched": 97,
+   "fetched": 96,
    "published": 0,
    "status": "none matched"
   },
@@ -1147,7 +1147,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "tailscale",
-   "fetched": 36,
+   "fetched": 37,
    "published": 0,
    "status": "none matched"
   },
@@ -1237,7 +1237,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "chime",
-   "fetched": 66,
+   "fetched": 65,
    "published": 0,
    "status": "none matched"
   },
@@ -1307,7 +1307,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "doordashusa",
-   "fetched": 462,
+   "fetched": 461,
    "published": 6,
    "status": "ok"
   },
@@ -1347,7 +1347,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "flexport",
-   "fetched": 197,
+   "fetched": 198,
    "published": 0,
    "status": "none matched"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 219,
+   "fetched": 221,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6152,
-  "senior/experienced role": 4194,
+  "not a US location": 6153,
+  "senior/experienced role": 4193,
   "title is not a technical role": 4010,
   "non-technical role": 3206,
-  "not an early-career posting": 2954,
+  "not an early-career posting": 2952,
   "non-CS engineering discipline": 880,
   "quant role without early-career marker": 259,
   "research role without early-career marker": 132
@@ -1786,14 +1786,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Executive Operations & Leadership Engagement DirectorDirector — not a US location",
    "Software Engineering MTS — research role without early-career marker",
    "Small, Medium and Growth Business - Account Executive - San Francisco — non-technical role",
    "Senior Forward Deployed Engineer, Italian Speaking — not a US location",
    "Internal Audit Senior Analyst, Data Analytics — not a US location",
    "Account Executive, Employee Service - Commercial/Enterprise — not a US location",
    "Informatica Cloud Account Executive, Data Integration — not a US location",
-   "Lead, Specialist SE — not a US location",
-   "Senior Director, Product Marketing (Service Strategy, Core, and AI) — not a US location"
+   "Lead, Specialist SE — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -2037,8 +2037,8 @@
    "Backend Engineer, Control Plane — not a US location",
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
-   "Customer Account Executive — not a US location",
    "Customer Account Executive — non-technical role",
+   "Customer Account Executive — not a US location",
    "Customer Account Executive — not a US location",
    "Customer Reliability Engineer — not an early-career posting"
   ],
