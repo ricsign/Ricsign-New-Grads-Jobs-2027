@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-11T12:58:16+00:00</updated>
+  <updated>2026-10-11T22:02:59+00:00</updated>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Research, AV Planning</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8258070"/>
@@ -36,14 +36,6 @@
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1"/>
-    <id>tag:ricsign.github.io,2026:8d403ad988eda34a</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Schonfeld — 2027 Quantitative Developer Intern</title>
@@ -404,5 +396,13 @@
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>New York · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Harvey — Software Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application"/>
+    <id>tag:ricsign.github.io,2026:237bbd63d2616759</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · masters-preferred</summary>
   </entry>
 </feed>
