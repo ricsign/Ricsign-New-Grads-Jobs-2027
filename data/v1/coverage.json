@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T05:54:27+00:00",
+ "generated_at": "2026-10-11T12:58:16+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 284,
+   "fetched": 283,
    "published": 0,
    "status": "none matched"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 722,
+   "fetched": 721,
    "published": 7,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6156,
-  "senior/experienced role": 4194,
+  "not a US location": 6157,
+  "senior/experienced role": 4195,
   "title is not a technical role": 4008,
-  "non-technical role": 3208,
-  "not an early-career posting": 2953,
+  "non-technical role": 3207,
+  "not an early-career posting": 2950,
   "non-CS engineering discipline": 879,
   "quant role without early-career marker": 259,
   "research role without early-career marker": 132
@@ -1801,8 +1801,8 @@
    "Cloud Platform Architect — senior/experienced role",
    "Compiler Architect — senior/experienced role",
    "Contract Manufacturing Program Manager — non-technical role",
-   "Customer Success Manager — non-technical role",
    "Customer Success Manager — not a US location",
+   "Customer Success Manager — non-technical role",
    "Data Center Operations Technician — non-technical role"
   ],
   "squarepoint": [
@@ -1957,8 +1957,8 @@
   "instacart": [
    "Account Manager — non-technical role",
    "Activation Sales Development Representative I — non-technical role",
-   "AI Solutions Lead, Marketing — not a US location",
    "AI Solutions Lead, Marketing — non-technical role",
+   "AI Solutions Lead, Marketing — not a US location",
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist — title is not a technical role",
    "Bilingual CX Specialist (French) — title is not a technical role",
@@ -2037,9 +2037,9 @@
    "Backend Engineer, Control Plane — not a US location",
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
+   "Customer Account Executive — not a US location",
+   "Customer Account Executive — not a US location",
    "Customer Account Executive — non-technical role",
-   "Customer Account Executive — not a US location",
-   "Customer Account Executive — not a US location",
    "Customer Reliability Engineer — not an early-career posting"
   ],
   "temporal": [

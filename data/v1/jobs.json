@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-11T05:54:27+00:00",
+ "generated_at": "2026-10-11T12:58:15+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 490,
@@ -2071,16 +2071,16 @@
    "openings": 1
   },
   {
-   "uid": "b5f5668436a4cb8c",
+   "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
+   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
-    "United States"
+    "Salt Lake City, Utah, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -2097,16 +2097,16 @@
    "openings": 1
   },
   {
-   "uid": "a386241d1f2da194",
+   "uid": "b5f5668436a4cb8c",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
    "locations": [
-    "Salt Lake City, Utah, United States"
+    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -6529,15 +6529,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -6582,16 +6583,15 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",

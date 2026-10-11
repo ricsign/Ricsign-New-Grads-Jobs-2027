@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,279 |
+| Postings fetched | 22,277 |
 | Postings published | 490 |
 | Boards that failed to fetch | **3** |
 | Boards live but with nothing early-career | 55 |
@@ -284,7 +284,7 @@ rather than take it on faith.
 - `Cloud Platform Architect — senior/experienced role`
 - `Compiler Architect — senior/experienced role`
 - `Contract Manufacturing Program Manager — non-technical role`
-- `Customer Success Manager — non-technical role`
+- `Customer Success Manager — not a US location`
 
 </details>
 
@@ -293,7 +293,7 @@ rather than take it on faith.
 
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
-| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 722 | 7 | ✅ ok |
+| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 721 | 7 | ✅ ok |
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 182 | 5 | ✅ ok |
 | [Harvey](https://www.harvey.ai/careers) | 0 | `ashby:harvey` | 347 | 4 | ✅ ok |
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 644 | 3 | ✅ ok |
@@ -413,7 +413,7 @@ rather than take it on faith.
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | — | — | ⚠️ FETCH FAILED |
 | [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 101 | — | ○ none matched |
 | [Attentive](https://www.attentive.com/careers) | 2 | `greenhouse:attentive` | 26 | — | ○ none matched |
-| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 284 | — | ○ none matched |
+| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 283 | — | ○ none matched |
 | [Chime](https://www.chime.com/careers/) | 2 | `greenhouse:chime` | 65 | — | ○ none matched |
 | [Dropbox](https://jobs.dropbox.com/) | 2 | `greenhouse:dropbox` | 32 | — | ○ none matched |
 | [ExodusPoint](https://www.exoduspoint.com/careers) | 2 | `greenhouse:exoduspoint` | 2 | — | ○ none matched |
