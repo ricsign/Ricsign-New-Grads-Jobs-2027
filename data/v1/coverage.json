@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T22:02:59+00:00",
+ "generated_at": "2026-10-12T06:05:41+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 811,
+   "fetched": 810,
    "published": 0,
    "status": "none matched"
   },
@@ -37,7 +37,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "mistral.ai",
-   "fetched": 213,
+   "fetched": 214,
    "published": 0,
    "status": "none matched"
   },
@@ -87,7 +87,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cursor",
-   "fetched": 137,
+   "fetched": 136,
    "published": 1,
    "status": "ok"
   },
@@ -127,7 +127,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "harvey",
-   "fetched": 347,
+   "fetched": 348,
    "published": 4,
    "status": "ok"
   },
@@ -157,7 +157,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "mercor",
-   "fetched": 115,
+   "fetched": 111,
    "published": 3,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 457,
+   "fetched": 455,
    "published": 2,
    "status": "ok"
   },
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 283,
+   "fetched": 284,
    "published": 0,
    "status": "none matched"
   },
@@ -497,7 +497,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "towerresearchcapital",
-   "fetched": 92,
+   "fetched": 91,
    "published": 4,
    "status": "ok"
   },
@@ -527,7 +527,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "imc",
-   "fetched": 174,
+   "fetched": 175,
    "published": 13,
    "status": "ok"
   },
@@ -557,7 +557,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "akunacapital",
-   "fetched": 41,
+   "fetched": 42,
    "published": 18,
    "status": "ok"
   },
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 410,
+   "fetched": 409,
    "published": 2,
    "status": "ok"
   },
@@ -957,7 +957,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "elastic",
-   "fetched": 408,
+   "fetched": 407,
    "published": 3,
    "status": "ok"
   },
@@ -1087,7 +1087,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "asana",
-   "fetched": 101,
+   "fetched": 100,
    "published": 0,
    "status": "none matched"
   },
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 351,
+   "fetched": 348,
    "published": 0,
    "status": "none matched"
   },
@@ -1137,7 +1137,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "vanta",
-   "fetched": 82,
+   "fetched": 81,
    "published": 0,
    "status": "none matched"
   },
@@ -1157,7 +1157,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "verkada",
-   "fetched": 305,
+   "fetched": 306,
    "published": 13,
    "status": "ok"
   },
@@ -1217,8 +1217,8 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "robinhood",
-   "fetched": 181,
-   "published": 7,
+   "fetched": 180,
+   "published": 6,
    "status": "ok"
   },
   {
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 158,
+   "fetched": 155,
    "published": 0,
    "status": "none matched"
   },
@@ -1447,20 +1447,21 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 220,
+   "fetched": 219,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6159,
+  "not a US location": 6148,
   "senior/experienced role": 4191,
   "title is not a technical role": 4004,
   "non-technical role": 3206,
-  "not an early-career posting": 2949,
+  "not an early-career posting": 2944,
   "non-CS engineering discipline": 880,
   "quant role without early-career marker": 259,
-  "research role without early-career marker": 133
+  "research role without early-career marker": 133,
+  "missing title or apply url": 2
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1574,6 +1575,10 @@
    "AQR Capital — Quantitative Research – Prediction Markets Analyst",
    "AQR Capital — Research & Portfolio Management Engineering - Associate",
    "AQR Capital — Research & Portfolio Management Engineer - Specialized Investments Group"
+  ],
+  "missing title or apply url": [
+   "Adobe — ",
+   "Broadcom — "
   ]
  },
  "zero_published_samples": {
@@ -1752,14 +1757,14 @@
    "Account Development Representative, Hebrew Speaking — not a US location"
   ],
   "nvidia": [
-   "Senior HPC and LSF Operations Engineer — not a US location",
-   "Lead Systems Software Test Engineer – CSP Engagements — senior/experienced role",
-   "Distinguished Engineer – Data Center System Software Architect — senior/experienced role",
-   "Senior Software Engineer - IT Infrastructure — not a US location",
-   "Technical Product Manager - Enterprise Products — not a US location",
-   "Senior Systems Software Engineer, CUDA Driver — not a US location",
-   "Senior Systems Software Engineer- EDA Infrastructure — not a US location",
-   "Senior Technical Program Manager, Data Center - Engineering Operations — not a US location"
+   "Senior Formal Verification Engineer — not a US location",
+   "Senior Software Engineer, JAX — not a US location",
+   "Electrical Engineering Student – Time Sync — not a US location",
+   "Senior Credit Analyst — not a US location",
+   "Distinguished Engineer, Security Architecture - DGX Cloud — senior/experienced role",
+   "Head of Global Customer Engineering - Internal EDA Infrastructure — not a US location",
+   "HPC Operations Engineer - EDA Infrastructure — not a US location",
+   "Director, Silicon Operations Production Planning — senior/experienced role"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1796,14 +1801,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Software Engineering, MTS (Backend) — not a US location",
+   "Accountant — not a US location",
+   "RVP Services Sales — not a US location",
+   "Business Development Representative - Government & Public Sector — not a US location",
+   "Sr. Strategic Account Manager - Data Foundation (MuleSoft & Informatica) — not a US location",
+   "Technical Architect — not a US location",
    "Account Executive - Platform & Security Specialist, Public Sector — not a US location",
-   "Life Sciences Product Liaison Director (Veeva Expert) — not a US location",
-   "Mid- Level Backend Engineer — not a US location",
-   "Executive Operations & Leadership Engagement DirectorDirector — not a US location",
-   "Software Engineering MTS — research role without early-career marker",
-   "Small, Medium and Growth Business - Account Executive - San Francisco — non-technical role",
-   "Senior Forward Deployed Engineer, Italian Speaking — not a US location",
-   "Internal Audit Senior Analyst, Data Analytics — not a US location"
+   "Life Sciences Product Liaison Director (Veeva Expert) — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -1901,14 +1906,14 @@
    "Principal Software Engineer, Machine Learning — senior/experienced role"
   ],
   "broadcom": [
+   "IC Verification Engineer — not a US location",
+   "Subsystem/SoC Level Verification Engineer — not a US location",
+   "Logistics Support — not a US location",
    "Senior-level Technical Writer — title is not a technical role",
    "Principal Member of Technical Staff – AI Platform & ValueOps Financial Intelligence Solution — senior/experienced role",
    "Senior Software Engineer — senior/experienced role",
    "Manufacturing Operator 1 — title is not a technical role",
-   "Solution Engineer - ValueOps — not a US location",
-   "Solution Engineer - ValueOps — not a US location",
-   "Physical Design Engineer — not a US location",
-   "Product Marketing Manager — non-technical role"
+   "Solution Engineer - ValueOps — not a US location"
   ],
   "chime": [
    "AEO Content Strategist — non-technical role",
