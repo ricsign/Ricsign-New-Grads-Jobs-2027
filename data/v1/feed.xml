@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-12T06:05:41+00:00</updated>
+  <updated>2026-10-12T15:35:53+00:00</updated>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Research, AV Planning</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8258070"/>
@@ -84,14 +84,6 @@
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Man Group — Junior Quant - PM Analytics</title>
-    <link href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101"/>
-    <id>tag:ricsign.github.io,2026:c34f78027999c4c4</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>Boston · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>DoorDash — Software Engineer, Intern - Labs (Summer 2027)</title>
@@ -404,5 +396,13 @@
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>xAI — Spring 2027 Software Engineering Internship/Co-op</title>
+    <link href="https://job-boards.greenhouse.io/xai/jobs/5252108007"/>
+    <id>tag:ricsign.github.io,2026:d218e52efe520b46</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Palo Alto, CA · unknown · masters-preferred</summary>
   </entry>
 </feed>

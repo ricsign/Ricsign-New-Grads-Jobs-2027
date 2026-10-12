@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-12T06:05:41+00:00",
+ "generated_at": "2026-10-12T15:35:52+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 488,
+ "count": 485,
  "jobs": [
   {
    "uid": "274e21f7ffd30a75",
@@ -6424,32 +6424,6 @@
    "openings": 1
   },
   {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-12",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6472,6 +6446,32 @@
    "season": null,
    "compensation": null,
    "department": "Starlink Mobile Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "2fb1d8fb22585078",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-12",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6503,16 +6503,16 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
-    "Bastrop, TX",
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -6530,16 +6530,16 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
-    "Palo Alto, CA",
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -9142,32 +9142,6 @@
    "season": null,
    "compensation": null,
    "department": "Monetization",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "a3215390d6c10524",
-   "company_slug": "jump-trading",
-   "company_name": "Jump Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Research Engineer, Pre-Training",
-   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=7977686",
-   "locations": [
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-12",
-   "posted_at": "2026-06-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Front Office ",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -12298,32 +12272,6 @@
    "openings": 1
   },
   {
-   "uid": "55952eb4b87f4daa",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "GPU Physical Design Engineer Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
-   "locations": [
-    "Costa Rica, San Jose"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-30",
-   "last_verified": "2026-10-12",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "193f03b224d7913e",
    "company_slug": "lyft",
    "company_name": "Lyft",
@@ -12692,32 +12640,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Technical Support Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "c34f78027999c4c4",
-   "company_slug": "man-group",
-   "company_name": "Man Group",
-   "company_tier": 2,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Junior Quant - PM Analytics",
-   "apply_url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101",
-   "locations": [
-    "Boston"
-   ],
-   "track": "quant",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-09",
-   "last_verified": "2026-10-12",
-   "posted_at": "2026-09-03",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Central (Non-Research)",
    "active": true,
    "link_status": "ok",
    "openings": 1

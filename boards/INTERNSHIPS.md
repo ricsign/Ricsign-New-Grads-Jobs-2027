@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**133 open roles** · last verified 2026-10-12 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**132 open roles** · last verified 2026-10-12 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -166,7 +166,6 @@ Software engineering and research internships at the same curated bar.
 | **Affirm** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 10d · Oct 2 | 10d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
 | **Pinterest** | Master's Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 11d · Oct 1 | 11d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
 | **Pinterest** | Master's Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 11d · Oct 1 | 11d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
-| **Intel** | GPU Physical Design Engineer Intern | Costa Rica, San Jose | — | · | — | 12d · Sep 30 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532) |
 | **Lyft** | Applied Scientist Intern, PhD (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 14d · Sep 28 | 14d · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | · | 18d · Sep 24 | 18d · Sep 24 | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
 | **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | 1mo · Sep 11 | 1mo · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
@@ -181,4 +180,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-12 06:05 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-12 15:35 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
