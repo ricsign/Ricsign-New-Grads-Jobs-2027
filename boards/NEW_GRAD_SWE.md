@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**56 open roles** · last verified 2026-10-13 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**55 open roles** · last verified 2026-10-13 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -49,7 +49,6 @@ Full-time entry-level software engineering roles in the US.
 | **SpaceX** | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | — | 🇺🇸 | 15d · Sep 28 | 14d · Sep 29 | [apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
 | **Anduril Industries** | 2027 Early Career Firmware Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 21d · Sep 22 | 21d · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
 | **Anduril Industries** | 2027 Early Career Flight Test Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 21d · Sep 22 | 21d · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
-| **Together AI** | Software Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 25d · Sep 18 | 25d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5211582007) |
 | **SpaceX** | Test Stand Design & Build Engineer (Structures/Fluid Systems) | McGregor, TX | — | 🇺🇸 | 26d · Sep 17 | 26d · Sep 17 | [apply](https://boards.greenhouse.io/spacex/jobs/8817336002?gh_jid=8817336002) |
 | **Replit** | Software Engineer - New Grad (2027) · _2027_ | Foster City, CA | $140k–$180k | · | 1mo · Sep 9 | 1mo · Sep 9 | [apply](https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application) |
 | **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US · _Fall 2026_ | Los Angeles, CA, New York, NY +3 | — | ·📗 | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
@@ -96,4 +95,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-13 00:47 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-13 14:18 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

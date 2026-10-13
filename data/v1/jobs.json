@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-13T00:47:02+00:00",
+ "generated_at": "2026-10-13T14:18:46+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 492,
+ "count": 478,
  "jobs": [
   {
    "uid": "a6e118486aef07c3",
@@ -1184,32 +1184,6 @@
    "openings": 1
   },
   {
-   "uid": "1c93c4513f90b09b",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Differentiable Simulation Research Intern - Summer 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-13",
-   "last_verified": "2026-10-13",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "84aa0dc7cedf187b",
    "company_slug": "point72",
    "company_name": "Point72 / Cubist",
@@ -1320,58 +1294,6 @@
    "department": "Internships & Emerging Talent Positions",
    "active": true,
    "link_status": "blocked",
-   "openings": 1
-  },
-  {
-   "uid": "d3993b5d5c010242",
-   "company_slug": "schonfeld",
-   "company_name": "Schonfeld",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "2027 Quantitative Developer Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
-   "locations": [
-    "Austin, Texas, United States"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-09",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-10-09",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Internship",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "815d6dbd1990fbcc",
-   "company_slug": "schonfeld",
-   "company_name": "Schonfeld",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "2027 Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
-   "locations": [
-    "Austin, Texas, United States"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-09",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-10-09",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Internship",
-   "active": true,
-   "link_status": "ok",
    "openings": 1
   },
   {
@@ -1688,32 +1610,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "studentprograms",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "4925b3939687dea0",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "PhD Research Intern, AI-Aided Engineering – 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-07",
-   "last_verified": "2026-10-13",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2126,16 +2022,16 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
-    "United States"
+    "Salt Lake City, Utah, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -2178,16 +2074,16 @@
    "openings": 1
   },
   {
-   "uid": "a386241d1f2da194",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
-    "Salt Lake City, Utah, United States"
+    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -2412,32 +2308,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "36bd436a10afa948",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-29",
-   "last_verified": "2026-10-13",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2971,32 +2841,6 @@
    "openings": 1
   },
   {
-   "uid": "b822214a7400db95",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "PhD Research Intern, Electronic Design Automation - 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-23",
-   "last_verified": "2026-10-13",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "165d61e036b41249",
    "company_slug": "waymo",
    "company_name": "Waymo",
@@ -3498,110 +3342,6 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Research",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "2f1a7ae6cbad832f",
-   "company_slug": "together-ai",
-   "company_name": "Together AI",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Software Development In Test Intern (Summer 2027)",
-   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238472007",
-   "locations": [
-    "San Francisco"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-18",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-09-18",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "9cd02f8df3e54b33",
-   "company_slug": "together-ai",
-   "company_name": "Together AI",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Software Engineer Intern (Summer 2027)",
-   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5232036007",
-   "locations": [
-    "San Francisco"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-18",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-09-18",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "7ceb1f92a3818a66",
-   "company_slug": "together-ai",
-   "company_name": "Together AI",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Software Engineer Intern (Winter 2027)",
-   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238031007",
-   "locations": [
-    "San Francisco"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-18",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-09-18",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "fea71936c4976b97",
-   "company_slug": "together-ai",
-   "company_name": "Together AI",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Software Engineer, New Grad (2027)",
-   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
-   "locations": [
-    "San Francisco"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-18",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-09-18",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5320,16 +5060,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -5346,16 +5086,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -6451,32 +6191,6 @@
    "openings": 1
   },
   {
-   "uid": "838e125facd50072",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Satellite Payload Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "14812f7b8d47b8ff",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6503,6 +6217,32 @@
    "openings": 1
   },
   {
+   "uid": "838e125facd50072",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-13",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Satellite Payload Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "30b5d28e80379ff7",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6524,32 +6264,6 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6582,6 +6296,32 @@
    "openings": 1
   },
   {
+   "uid": "2fb1d8fb22585078",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-13",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Starlink Satellite Flight Software",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6609,16 +6349,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -6636,15 +6375,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -9676,32 +9416,6 @@
    "openings": 1
   },
   {
-   "uid": "774de94dd9b5ee2b",
-   "company_slug": "cloudflare",
-   "company_name": "Cloudflare",
-   "company_tier": 1,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
-   "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
-   "locations": [
-    "Austin, TX"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "no-sponsorship",
-   "first_seen": "2026-10-07",
-   "last_verified": "2026-10-13",
-   "posted_at": "2026-04-02",
-   "closed_at": null,
-   "season": "Spring 2027",
-   "compensation": null,
-   "department": "People & Places",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "0131c20eef026a82",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -11768,84 +11482,6 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "2207f76b163815da",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Module Engineering - PhD Intern (Advanced Wet Etch and Cleans)",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern_JR0287975",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-13",
-   "last_verified": "2026-10-13",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "8eb2b6fa9a2fbd20",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Process Integration Development Engineer PhD Intern New 2027",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-13",
-   "last_verified": "2026-10-13",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "39c637113463ccd0",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Student Intern, Collaboration Services System Programmer",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833",
-   "locations": [
-    "Costa Rica, San Jose"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-13",
-   "last_verified": "2026-10-13",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
