@@ -4,7 +4,63 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-14T12:00:17+00:00</updated>
+  <updated>2026-10-14T17:17:25+00:00</updated>
+  <entry>
+    <title>Databricks — Solutions Engineer</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002"/>
+    <id>tag:ricsign.github.io,2026:677097d9fe6e579f</id>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>New York City, New York · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Amazon Robotics - Software Development Engineer Intern/Co-op - 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027"/>
+    <id>tag:ricsign.github.io,2026:9adafa678eb0cd78</id>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Westborough, Massachusetts, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Point72 / Cubist — 2027 Summer Internship - Fundamental Researcher, Canvas</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002"/>
+    <id>tag:ricsign.github.io,2026:75a95e607dde5f74</id>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Point72 / Cubist — 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002"/>
+    <id>tag:ricsign.github.io,2026:fb832cf043de2d89</id>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Point72 / Cubist — 2027 Summer Internship - Sector Analyst, Proprietary Research</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002"/>
+    <id>tag:ricsign.github.io,2026:f4514dcebc65bf84</id>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Point72 / Cubist — 2027 Summer Internship – Software Engineer</title>
+    <link href="https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"/>
+    <id>tag:ricsign.github.io,2026:66a372f61db21fb7</id>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, NY · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Waymo — Field Safety Engineer</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8248373"/>
+    <id>tag:ricsign.github.io,2026:a845957bb9e1c318</id>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Databricks — Software Engineering Intern (2027)</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"/>
@@ -348,61 +404,5 @@
     <updated>2026-10-06T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Ashville, Ohio, United States, Santa Ana, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Winter 2027 Reliability Engineer Co-op</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007"/>
-    <id>tag:ricsign.github.io,2026:eef5444a63f81031</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Figma — PhD Intern, AI Applied Scientist (2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004"/>
-    <id>tag:ricsign.github.io,2026:9bf2b2476a170496</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, ML Systems &amp; Behavior Discovery</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8257159"/>
-    <id>tag:ricsign.github.io,2026:9fb441a9995eb3fa</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8257205"/>
-    <id>tag:ricsign.github.io,2026:29b5cf34bcce7c18</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Nuro — New Grad Software Engineer, Product Engineering</title>
-    <link href="https://nuro.ai/careersitem?gh_jid=8248317"/>
-    <id>tag:ricsign.github.io,2026:d44678adf075b1ce</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Mountain View, California (HQ), California - HQ · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Harvey — Software Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application"/>
-    <id>tag:ricsign.github.io,2026:ea44abee9cc64d4a</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Harvey — Software Engineer, New Grad (2027)</title>
-    <link href="https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application"/>
-    <id>tag:ricsign.github.io,2026:b0535757c3ebccec</id>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
   </entry>
 </feed>

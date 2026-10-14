@@ -61,6 +61,10 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Amazon** | Amazon Robotics - Software Development Engineer Intern/Co-op - 2027 · _2027_ | Westborough, Massachusetts, USA | — | · | today · Oct 14 | today · Oct 14 | [apply](https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027) |
+| **Point72 / Cubist** | 2027 Summer Internship - Fundamental Researcher, Canvas · _Summer 2027_ | New York, NY | — | · | today · Oct 14 | today · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) |
+| **Point72 / Cubist** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research · _Summer 2027_ | New York, NY | — | ·🎓 | today · Oct 14 | today · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) |
+| **Point72 / Cubist** | 2027 Summer Internship - Sector Analyst, Proprietary Research · _Summer 2027_ | New York, NY | — | · | today · Oct 14 | today · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) |
 | **Anduril Industries** | 2027 Firmware Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 1d · Oct 13 | 1d · Oct 13 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
 | **Figma** | PhD Intern, Software Engineer - Graphics (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 1d · Oct 13 | 1d · Oct 13 | [apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 13 | 1d · Oct 13 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8279620) |
@@ -79,7 +83,6 @@ Software engineering and research internships at the same curated bar.
 | **Figma** | PhD Intern, AI Applied Scientist (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 9d · Oct 5 | 8d · Oct 6 | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
 | **Amazon** | Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA) · _Summer 2027_ | Seattle, Washington, USA | — | · | 12d · Oct 2 | 12d · Oct 2 | [apply](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) |
 | **Old Mission Capital** | Quantitative Trader - 2027 Micro-Internship Program (January Start) · _2027_ | Chicago, IL, United States | — | · | 13d · Oct 1 | 13d · Oct 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003) |
-| **Amazon** | Software Development Engineer Intern, AWS Database - 2027 (US) · _2027_ | Seattle, Washington, USA | — | · | 14d · Sep 30 | 14d · Sep 30 | [apply](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 19d · Sep 25 | 19d · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | **Notion** | Software Engineer Intern, Mobile (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 20d · Sep 24 | 20d · Sep 24 | [apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application) |
 | **Ramp** | Software Engineer Internship, Frontend | New York, NY (HQ) | $12k | · | 20d · Sep 24 | 20d · Sep 24 | [apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application) |
@@ -148,9 +151,6 @@ Software engineering and research internships at the same curated bar.
 | **Applied Intuition** | Research Intern - Reinforcement Learning, Robotics | Sunnyvale | $65/hr | · | 8mo · Feb 13 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application) |
 | **Applied Intuition** | Research Intern - Robotic Hardware, Simulation and Data | Sunnyvale | $65/hr | · | 8mo · Feb 13 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application) |
 | **Etched** | Electrical Platform Intern | San Jose | — | ·📗 | 8mo · Feb 7 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application) |
-| **Point72 / Cubist** | Micro-Intern: Research Technology Developer (IAP) | New York, NY | — | · | 11mo · Oct 31 2025 | 13d · Oct 1 | [apply](https://boards.greenhouse.io/point72/jobs/8236734002?gh_jid=8236734002) |
-| **Point72 / Cubist** | Quantitative Research Intern (NLP) · `open 1y+` | New York, NY | — | ·📗 | 1y · May 31 2025 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) |
-| **Point72 / Cubist** | Machine Learning Researcher - Intern · `open 2y+` | New York, NY | — | · | 2y · Aug 15 2024 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
 
 ## Tier 2 — Strong specialists
 
@@ -178,4 +178,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-14 12:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-14 17:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

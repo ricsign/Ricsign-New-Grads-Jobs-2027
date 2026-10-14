@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**55 open roles** · last verified 2026-10-14 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**57 open roles** · last verified 2026-10-14 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -25,6 +25,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Databricks** | Solutions Engineer | New York City, New York | — | · | today · Oct 14 | today · Oct 14 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
 | **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 12d · Oct 2 | 12d · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 21d · Sep 23 | 21d · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 27d · Sep 17 | 26d · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
@@ -40,6 +41,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Waymo** | Field Safety Engineer | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | today · Oct 14 | today · Oct 14 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248373) |
 | **Anduril Industries** | 2027 Early Career Systems Engineer · _2027_ | Boston, Massachusetts, United States, Boulder, Colorado, United States +6 | — | 🇺🇸📗 | 5d · Oct 9 | 5d · Oct 9 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
 | **SpaceX** | New Graduate Engineer, Automation - '26/'27 (Starlink) | Bastrop, TX | — | 🇺🇸 | 5d · Oct 9 | 5d · Oct 9 | [apply](https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002) |
 | **Roblox** | [2027] Senior Machine Learning Engineer - PhD Early Career · _2027_ | San Mateo, CA, United States | — | ·🎓 | 6d · Oct 8 | 6d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) |
@@ -93,4 +95,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-14 12:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-14 17:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
