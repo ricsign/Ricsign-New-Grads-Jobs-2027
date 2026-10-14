@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-14T17:17:25+00:00",
+ "generated_at": "2026-10-14T21:45:59+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 481,
+ "count": 479,
  "jobs": [
   {
    "uid": "677097d9fe6e579f",
@@ -27,6 +27,32 @@
    "season": null,
    "compensation": null,
    "department": "Field Engineering - FE Direct Regulated",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "297c6e8da269cae8",
+   "company_slug": "figure-ai",
+   "company_name": "Figure AI",
+   "company_tier": 0,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Embedded Software Engineering Intern, Platform",
+   "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-14",
+   "last_verified": "2026-10-14",
+   "posted_at": "2026-10-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Internships",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1210,27 +1236,27 @@
    "openings": 1
   },
   {
-   "uid": "9adafa678eb0cd78",
-   "company_slug": "amazon",
-   "company_name": "Amazon",
+   "uid": "aa52a2bfe911e60e",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
    "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "amazon",
-   "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Flight Test Engineer Intern",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007",
    "locations": [
-    "Westborough, Massachusetts, USA"
+    "Costa Mesa, California, United States"
    ],
    "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
    "first_seen": "2026-10-14",
    "last_verified": "2026-10-14",
    "posted_at": "2026-10-14",
    "closed_at": null,
    "season": "2027",
    "compensation": null,
-   "department": "subsidiaries",
+   "department": "Templates : Intern",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2312,14 +2338,14 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "b5f5668436a4cb8c",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
    "locations": [
     "United States"
    ],
@@ -2338,14 +2364,14 @@
    "openings": 1
   },
   {
-   "uid": "b5f5668436a4cb8c",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
     "United States"
    ],
@@ -3206,32 +3232,6 @@
    "season": "2027",
    "compensation": null,
    "department": "AFS",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "c899f6bbb5de2c28",
-   "company_slug": "jump-trading",
-   "company_name": "Jump Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
-   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8209424",
-   "locations": [
-    "New York City"
-   ],
-   "track": "quant",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-22",
-   "last_verified": "2026-10-14",
-   "posted_at": "2026-09-22",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Front Office ",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4496,38 +4496,6 @@
    "openings": 1
   },
   {
-   "uid": "fdc76d9b64d5d524",
-   "company_slug": "replit",
-   "company_name": "Replit",
-   "company_tier": 1,
-   "company_category": "dev-tools",
-   "source": "ashby",
-   "title": "Software Engineer - New Grad (2027)",
-   "apply_url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
-   "locations": [
-    "Foster City, CA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-09",
-   "last_verified": "2026-10-14",
-   "posted_at": "2026-09-09",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": {
-    "min": 140000,
-    "max": 180000,
-    "currency": "USD",
-    "interval": "1 YEAR",
-    "source": "ashby"
-   },
-   "department": "Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "7298151d218fb67c",
    "company_slug": "coinbase",
    "company_name": "Coinbase",
@@ -5111,16 +5079,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -5137,16 +5105,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -5405,32 +5373,6 @@
    "season": "2027",
    "compensation": null,
    "department": "annapurna",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "ab04757be9769922",
-   "company_slug": "amazon",
-   "company_name": "Amazon",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "amazon",
-   "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-   "apply_url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
-   "locations": [
-    "Westborough, Massachusetts, USA"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-14",
-   "posted_at": "2026-08-27",
-   "closed_at": null,
-   "season": "Fall 2026",
-   "compensation": null,
-   "department": "subsidiaries",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6373,33 +6315,6 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
-   "locations": [
-    "Bastrop, TX",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-14",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6436,6 +6351,33 @@
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-14",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f1665dc41aff8a36",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -7156,32 +7098,6 @@
    "season": null,
    "compensation": null,
    "department": "University Departments",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "539c4c044c6c5874",
-   "company_slug": "aqr",
-   "company_name": "AQR Capital",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "2027 Trading Summer Analyst",
-   "apply_url": "https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110",
-   "locations": [
-    "Greenwich, CT"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-14",
-   "posted_at": "2026-07-21",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "University - Open Positions",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -11538,6 +11454,32 @@
    "openings": 1
   },
   {
+   "uid": "a6a4a87a818f44e8",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Process Integration & Yield Engineering PhD Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-14",
+   "last_verified": "2026-10-14",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "83e061dc893924ac",
    "company_slug": "affirm",
    "company_name": "Affirm",
@@ -12381,16 +12323,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -12408,16 +12350,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
