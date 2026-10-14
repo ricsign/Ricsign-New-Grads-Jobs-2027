@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**134 open roles** · last verified 2026-10-14 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**130 open roles** · last verified 2026-10-14 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -93,12 +93,9 @@ Software engineering and research internships at the same curated bar.
 | **Together AI** | Research Intern, Frontier Agents (Winter 2027) · _Winter 2027_ | San Francisco | — | ·🎓 | 26d · Sep 18 | 26d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) |
 | **Together AI** | Research Intern, Inference (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 26d · Sep 18 | 26d · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) |
 | **Cloudflare** | Software Engineer Intern (2027) - Austin, TX · _2027_ | Austin, TX | — | 🛂 | 28d · Sep 16 | 16d · Sep 28 | [apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
-| **Robinhood** | Security Risk Management Intern (Summer 2027) · _Summer 2027_ | Menlo Park, CA | — | ·📗 | 28d · Sep 16 | 28d · Sep 16 | [apply](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970) |
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 29d · Sep 15 | 29d · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 | **Etched** | Core Engineering Intern | San Jose | — | · | 29d · Sep 15 | 29d · Sep 15 | [apply](https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8/application) |
 | **Five Rings** | Summer 2027 - Trading Operations Engineer Intern · _Summer 2027_ | New York City | — | · | 29d · Sep 15 | 29d · Sep 15 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
-| **Robinhood** | PeopleX Insights & Analytics Intern (Summer 2027) · _Summer 2027_ | Menlo Park, CA | — | ·📗 | 1mo · Sep 14 | 1mo · Sep 14 | [apply](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) |
-| **Robinhood** | Software Engineering Intern, Android (Summer 2027) · _Summer 2027_ | Menlo Park, CA, New York, NY | — | · | 1mo · Sep 14 | 1mo · Sep 14 | [apply](https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961) |
 | **Schonfeld** | 2027 Platform Engineering Intern · _2027_ | New York, New York, United States | — | · | 1mo · Sep 10 | 1mo · Sep 10 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | **Coinbase** | Analytics Engineer Intern · _Summer 2027_ | Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) | — | · | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | **Datadog** | Software Engineering Intern (Summer) | Boston, Massachusetts, USA, New York, New York, USA | — | 🇺🇸 | 1mo · Sep 8 | 1mo · Sep 8 | [apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
@@ -159,7 +156,6 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | Module Development Engineer PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | 1d · Oct 13 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950) |
 | **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 5d · Oct 9 | 5d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
 | **Pinterest** | Solutions Engineer Intern 2027 (USA) · _2027_ | San Francisco, CA, US, Remote, US | — | · | 6d · Oct 8 | 6d · Oct 8 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
 | **Faire** | Applied AI/ML Scientist, Intern · _Winter 2027_ | San Francisco, CA | — | ·📗 | 8d · Oct 6 | 5d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
@@ -182,4 +178,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-14 05:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-14 12:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

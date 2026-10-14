@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-14T05:00:06+00:00</updated>
+  <updated>2026-10-14T12:00:17+00:00</updated>
   <entry>
     <title>Databricks — Software Engineering Intern (2027)</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"/>
@@ -68,14 +68,6 @@
     <updated>2026-10-13T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, Illinois · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Development Engineer PhD Intern New 2027</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950"/>
-    <id>tag:ricsign.github.io,2026:cc3f2d16a38fdc87</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, PhD, Research, AV Planning</title>
@@ -404,5 +396,13 @@
     <updated>2026-10-02T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Harvey — Software Engineer, New Grad (2027)</title>
+    <link href="https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application"/>
+    <id>tag:ricsign.github.io,2026:b0535757c3ebccec</id>
+    <updated>2026-10-02T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco · unknown · masters-preferred</summary>
   </entry>
 </feed>
