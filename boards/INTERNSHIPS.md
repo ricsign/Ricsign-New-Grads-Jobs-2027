@@ -61,9 +61,9 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Salesforce** | Summer 2027 Intern - Solution Engineer · _Summer 2027_ | New York - New York | — | · | — | today · Oct 15 | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1) |
+| **Airbnb** | Strategic Finance & Analytics Intern · _Summer 2027_ | United States | — | · | today · Oct 15 | today · Oct 15 | [apply](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) |
 | **Anduril Industries** | 2027 Flight Test Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 1d · Oct 14 | 1d · Oct 14 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
-| **Anduril Industries** | Winter 2027 Research Engineer Co-op · _Winter 2027_ | Santa Ana, California, United States | — | · | 1d · Oct 14 | today · Oct 15 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
+| **Anduril Industries** | Winter 2027 Research Engineer Co-op · _Winter 2027_ | Santa Ana, California, United States | — | 🇺🇸📗 | 1d · Oct 14 | today · Oct 15 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
 | **Point72 / Cubist** | 2027 Summer Internship - Fundamental Researcher, Canvas · _Summer 2027_ | New York, NY | — | · | 1d · Oct 14 | 1d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) |
 | **Point72 / Cubist** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research · _Summer 2027_ | New York, NY | — | ·🎓 | 1d · Oct 14 | 1d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) |
 | **Point72 / Cubist** | 2027 Summer Internship - Sector Analyst, Proprietary Research · _Summer 2027_ | New York, NY | — | · | 1d · Oct 14 | 1d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) |
@@ -179,4 +179,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-15 11:37 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-15 17:06 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

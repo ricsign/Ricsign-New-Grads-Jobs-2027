@@ -10,11 +10,10 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (7)
+## 🆕 Posted in the last 7 days (6)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
-| **Databricks** | [Solutions Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) | New York City, New York | 1d · Oct 14 |
 | **Waymo** | [Field Safety Engineer](https://careers.withwaymo.com/jobs?gh_jid=8248373) | Mountain View, CA, USA +2 | 1d · Oct 14 |
 | **Anduril Industries** | [2027 Early Career Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) | Boston, Massachusetts, United States +7 | 6d · Oct 9 |
 | **SpaceX** | [New Graduate Engineer, Automation - '26/'27 (Starlink)](https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002) | Bastrop, TX | 6d · Oct 9 |
@@ -27,7 +26,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Databricks** | Solutions Engineer | New York City, New York | — | · | 1d · Oct 14 | 1d · Oct 14 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002) |
+| **Databricks** | Solutions Engineer · `2 openings` | Chicago, Illinois, Remote - California +1 | — | · | today · Oct 15 | today · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 13d · Oct 2 | 13d · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 22d · Sep 23 | 22d · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 28d · Sep 17 | 27d · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
@@ -96,4 +95,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-15 11:37 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-15 17:06 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
