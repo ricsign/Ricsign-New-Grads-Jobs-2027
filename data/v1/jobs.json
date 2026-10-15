@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-15T17:06:35+00:00",
+ "generated_at": "2026-10-15T21:28:22+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 481,
+ "count": 482,
  "jobs": [
   {
    "uid": "61aed1d8e420f853",
@@ -15,8 +15,7 @@
    "title": "Solutions Engineer",
    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002",
    "locations": [
-    "Chicago, Illinois",
-    "Remote - California"
+    "Chicago, Illinois"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -1099,6 +1098,32 @@
    "season": null,
    "compensation": null,
    "department": "Human Frontier Collective",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "abe53bc084cecb27",
+   "company_slug": "figure-ai",
+   "company_name": "Figure AI",
+   "company_tier": 0,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Hardware Reliability Intern [Winter 2027]",
+   "apply_url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-15",
+   "posted_at": "2025-10-24",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Internships",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -3005,14 +3030,14 @@
    "openings": 1
   },
   {
-   "uid": "80c5ab2ed3d72712",
+   "uid": "d81e1d8a73726614",
    "company_slug": "ramp",
    "company_name": "Ramp",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "ashby",
-   "title": "Software Engineer Internship, Frontend",
-   "apply_url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application",
+   "title": "Software Engineering Intern, Android",
+   "apply_url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application",
    "locations": [
     "New York, NY (HQ)"
    ],
@@ -3037,14 +3062,14 @@
    "openings": 1
   },
   {
-   "uid": "d81e1d8a73726614",
+   "uid": "80c5ab2ed3d72712",
    "company_slug": "ramp",
    "company_name": "Ramp",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "ashby",
-   "title": "Software Engineering Intern, Android",
-   "apply_url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application",
+   "title": "Software Engineering Intern, Frontend",
+   "apply_url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application",
    "locations": [
     "New York, NY (HQ)"
    ],
@@ -4443,17 +4468,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -4470,17 +4495,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -8551,32 +8576,6 @@
    "openings": 1
   },
   {
-   "uid": "c59aaffd1341f699",
-   "company_slug": "imc",
-   "company_name": "IMC Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Hardware Engineer Intern - Summer 2027",
-   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
-   "locations": [
-    "Chicago, United States"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-15",
-   "posted_at": "2026-07-01",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Development (Group)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "04b08bb4c1c96bf3",
    "company_slug": "imc",
    "company_name": "IMC Trading",
@@ -11502,6 +11501,32 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f1b95a43344bbb4f",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering PhD Intern New 2027",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-15",
+   "last_verified": "2026-10-15",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1

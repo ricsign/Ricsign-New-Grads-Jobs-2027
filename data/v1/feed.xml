@@ -4,14 +4,14 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-15T17:06:35+00:00</updated>
+  <updated>2026-10-15T21:28:22+00:00</updated>
   <entry>
     <title>Databricks — Solutions Engineer</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002"/>
     <id>tag:ricsign.github.io,2026:61aed1d8e420f853</id>
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>Chicago, Illinois, Remote - California · unknown · bachelors</summary>
+    <summary>Chicago, Illinois · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Airbnb — Strategic Finance &amp; Analytics Intern</title>
@@ -44,6 +44,14 @@
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>United States · security-clearance · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Intel — Module Engineering PhD Intern New 2027</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076"/>
+    <id>tag:ricsign.github.io,2026:f1b95a43344bbb4f</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Databricks — Solutions Engineer</title>
@@ -396,13 +404,5 @@
     <updated>2026-10-07T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>San Francisco, California, United States · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Fastly — Customer Support Engineer</title>
-    <link href="https://www.fastly.com/about/jobs/apply?gh_jid=8260017"/>
-    <id>tag:ricsign.github.io,2026:781b879c652c0469</id>
-    <updated>2026-10-07T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Austin, TX, Chicago, IL, Denver, CO, Houston, TX, New York City, NY · unknown · bachelors</summary>
   </entry>
 </feed>

@@ -3315,7 +3315,7 @@
   {
    "uid": "abe53bc084cecb27",
    "first_seen": "2026-09-01",
-   "last_verified": "2026-09-22",
+   "last_verified": "2026-10-15",
    "posted_at": "2025-10-24",
    "closed_at": null
   },
@@ -4633,6 +4633,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-15",
    "posted_at": "2026-07-06",
+   "closed_at": null
+  },
+  {
+   "uid": "f1b95a43344bbb4f",
+   "first_seen": "2026-10-15",
+   "last_verified": "2026-10-15",
+   "posted_at": null,
    "closed_at": null
   },
   {
