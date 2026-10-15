@@ -4,7 +4,39 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-14T21:45:59+00:00</updated>
+  <updated>2026-10-15T04:48:10+00:00</updated>
+  <entry>
+    <title>Anduril Industries — Winter 2027 Research Engineer Co-op</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007"/>
+    <id>tag:ricsign.github.io,2026:b1f32e3d99dee687</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Santa Ana, California, United States · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Salesforce — Summer 2027 Intern - Solution Engineer</title>
+    <link href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1"/>
+    <id>tag:ricsign.github.io,2026:e68260257a9cb689</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York - New York · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Elastic — Principal Software Engineer I - Platform Billing Experience</title>
+    <link href="https://jobs.elastic.co/jobs?gh_jid=8245815&amp;gh_jid=8245815"/>
+    <id>tag:ricsign.github.io,2026:6e586fd10b3ba83d</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States · security-clearance · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Intel — Module Engineer PhD Intern New 2027</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineer-PhD-Intern-New-2027_JR0287951"/>
+    <id>tag:ricsign.github.io,2026:ec67f7df36dd3854</id>
+    <updated>2026-10-15T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Databricks — Solutions Engineer</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002"/>
@@ -68,14 +100,6 @@
     <updated>2026-10-14T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Intel — Process Integration &amp; Yield Engineering PhD Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086"/>
-    <id>tag:ricsign.github.io,2026:a6a4a87a818f44e8</id>
-    <updated>2026-10-14T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Databricks — Software Engineering Intern (2027)</title>
@@ -380,29 +404,5 @@
     <updated>2026-10-07T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA, San Francisco Office · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Mercor — Research Intern</title>
-    <link href="https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application"/>
-    <id>tag:ricsign.github.io,2026:bfd004dc33e821cc</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Quality &amp; Test Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007"/>
-    <id>tag:ricsign.github.io,2026:341b9196cbfc0246</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Ashville, Ohio, United States, Costa Mesa, California, United States, Irvine, California, United States, Quonset, Rhode Island, United States, Santa Ana, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Reliability Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007"/>
-    <id>tag:ricsign.github.io,2026:34af412c6e753365</id>
-    <updated>2026-10-06T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
   </entry>
 </feed>
