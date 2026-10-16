@@ -14,7 +14,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
-| **Figure AI** | [Embedded Software Engineering Intern, Platform](https://job-boards.greenhouse.io/figureai/jobs/4722086006) | San Jose, CA | 2d · Oct 14 |
+| **Figure AI** | [Embedded Software Engineering Intern [Winter 2027]](https://job-boards.greenhouse.io/figureai/jobs/4722086006) | San Jose, CA | 2d · Oct 14 |
 | **Figure AI** | [Deployment Engineering Intern](https://job-boards.greenhouse.io/figureai/jobs/4721113006) | San Jose, CA | 4d · Oct 12 |
 | **Airbnb** | [Strategic Finance & Analytics Intern (MBA)](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) | United States | 1d · Oct 15 |
 | **Anduril Industries** | [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) | Costa Mesa, California, United States | 2d · Oct 14 |
@@ -35,7 +35,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Figure AI** | Embedded Software Engineering Intern, Platform | San Jose, CA | — | · | 2d · Oct 14 | 2d · Oct 14 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4722086006) |
+| **Figure AI** | Embedded Software Engineering Intern [Winter 2027] · _Winter 2027_ | San Jose, CA | — | · | 2d · Oct 14 | 2d · Oct 14 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4722086006) |
 | **Figure AI** | Deployment Engineering Intern · _Winter 2027_ | San Jose, CA | — | · | 4d · Oct 12 | 3d · Oct 13 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4721113006) |
 | **Mercor** | Research Intern | San Francisco | $80/hr | ·📗 | 11d · Oct 5 | 10d · Oct 6 | [apply](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application) |
 | **Harvey** | Software Engineering Intern (Summer 2027) · _Summer 2027_ · `2 openings` | San Francisco, New York | $62–$72/hr | ·📗 | 14d · Oct 2 | 14d · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application) |
@@ -179,4 +179,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-16 16:44 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-16 21:16 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
