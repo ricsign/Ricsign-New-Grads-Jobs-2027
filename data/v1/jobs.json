@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-16T04:38:23+00:00",
+ "generated_at": "2026-10-16T11:31:15+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 485,
+ "count": 483,
  "jobs": [
   {
    "uid": "61aed1d8e420f853",
@@ -1346,7 +1346,7 @@
    "company_tier": 1,
    "company_category": "consumer",
    "source": "greenhouse",
-   "title": "Strategic Finance & Analytics Intern",
+   "title": "Strategic Finance & Analytics Intern (MBA)",
    "apply_url": "https://careers.airbnb.com/positions/8285171?gh_jid=8285171",
    "locations": [
     "United States"
@@ -7987,32 +7987,6 @@
    "openings": 1
   },
   {
-   "uid": "2e0a1c47456c3b63",
-   "company_slug": "palantir",
-   "company_name": "Palantir",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "lever",
-   "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-   "apply_url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
-   "locations": [
-    "New York, NY"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "security-clearance",
-   "first_seen": "2026-09-25",
-   "last_verified": "2026-10-16",
-   "posted_at": "2026-07-10",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Delta",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "cd80fd81d3345090",
    "company_slug": "jump-trading",
    "company_name": "Jump Trading",
@@ -11584,32 +11558,6 @@
    "openings": 1
   },
   {
-   "uid": "f1b95a43344bbb4f",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Module Engineering PhD Intern New 2027",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-15",
-   "last_verified": "2026-10-16",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "6e586fd10b3ba83d",
    "company_slug": "elastic",
    "company_name": "Elastic",
@@ -12341,7 +12289,7 @@
    "compensation": null,
    "department": "Fleet Infrastructure",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {

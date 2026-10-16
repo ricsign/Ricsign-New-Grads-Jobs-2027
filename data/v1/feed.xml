@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-16T04:38:23+00:00</updated>
+  <updated>2026-10-16T11:31:15+00:00</updated>
   <entry>
     <title>SpaceX — New Graduate Engineer, Infrastructure</title>
     <link href="https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002"/>
@@ -38,7 +38,7 @@
     <summary>Chicago, Illinois · unknown · bachelors</summary>
   </entry>
   <entry>
-    <title>Airbnb — Strategic Finance &amp; Analytics Intern</title>
+    <title>Airbnb — Strategic Finance &amp; Analytics Intern (MBA)</title>
     <link href="https://careers.airbnb.com/positions/8285171?gh_jid=8285171"/>
     <id>tag:ricsign.github.io,2026:0b972b9da61bd994</id>
     <updated>2026-10-15T00:00:00Z</updated>
@@ -68,14 +68,6 @@
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>United States · security-clearance · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Intel — Module Engineering PhD Intern New 2027</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0288076"/>
-    <id>tag:ricsign.github.io,2026:f1b95a43344bbb4f</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Databricks — Solutions Engineer</title>
@@ -404,5 +396,13 @@
     <updated>2026-10-07T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS, PhD, Software Engineer</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8250220"/>
+    <id>tag:ricsign.github.io,2026:e0d17352a577596c</id>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, California, United States, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>
