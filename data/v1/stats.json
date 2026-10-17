@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-16T21:16:44+00:00",
- "live_requisitions": 483,
- "live_roles": 442,
+ "generated_at": "2026-10-17T04:35:14+00:00",
+ "live_requisitions": 485,
+ "live_roles": 444,
  "companies_with_open_roles": 69,
  "posted_age": {
-  "median_days": 52,
-  "posted_last_24h": 5,
-  "posted_last_7d": 27,
-  "posted_last_30d": 149,
+  "median_days": 53,
+  "posted_last_24h": 4,
+  "posted_last_7d": 22,
+  "posted_last_30d": 143,
   "evergreen_over_1y": 42,
   "with_posted_date_pct": 100.0
  },
@@ -15,12 +15,12 @@
   "new-grad-swe": 121,
   "ai-research": 13,
   "quant": 60,
-  "internship": 289,
+  "internship": 291,
   "other": 0
  },
  "by_tier": {
   "0": 46,
-  "1": 379,
+  "1": 381,
   "2": 58
  },
  "by_sponsorship": {
@@ -28,18 +28,18 @@
   "no-sponsorship": 8,
   "citizenship-required": 52,
   "security-clearance": 51,
-  "unknown": 347
+  "unknown": 349
  },
  "by_degree": {
   "bachelors": 84,
-  "masters-preferred": 171,
+  "masters-preferred": 173,
   "phd-required": 78,
   "unspecified": 150
  },
- "sponsorship_resolved_pct": 28.2,
- "link_verified_pct": 89.4,
+ "sponsorship_resolved_pct": 28.0,
+ "link_verified_pct": 89.5,
  "by_link_status": {
-  "ok": 432,
+  "ok": 434,
   "blocked": 45,
   "error": 6,
   "dead": 0,
@@ -47,25 +47,25 @@
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 706,
-  "live": 653,
+  "tracked": 708,
+  "live": 655,
   "closed": 53,
   "median_age_days": 42,
-  "p90_age_days": 45,
-  "max_age_days": 45,
-  "verified_within_24h": 490
+  "p90_age_days": 46,
+  "max_age_days": 46,
+  "verified_within_24h": 487
  },
  "pipeline_health": {
   "boards_attempted": 129,
-  "boards_ok": 126,
+  "boards_ok": 125,
   "boards_empty": 0,
-  "boards_failed": 3,
-  "success_rate": 0.9767,
+  "boards_failed": 4,
+  "success_rate": 0.969,
   "postings_fetched": 22767,
   "by_source": {
    "greenhouse": 76,
    "ashby": 41,
-   "workday": 5,
+   "workday": 4,
    "amazon": 1,
    "eightfold": 1,
    "lever": 2
@@ -75,6 +75,11 @@
     "company": "ClickHouse",
     "ats": "greenhouse",
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+   },
+   {
+    "company": "Salesforce",
+    "ats": "workday",
+    "error": "RuntimeError: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs failed after 3 attempts: Expecting value: line 1 column 1 (char 0)"
    },
    {
     "company": "Amplitude",
@@ -89,21 +94,21 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6139,
-   "senior/experienced role": 4166,
-   "title is not a technical role": 4022,
-   "non-technical role": 3237,
-   "not an early-career posting": 2929,
+   "not a US location": 6097,
+   "senior/experienced role": 4179,
+   "title is not a technical role": 4033,
+   "non-technical role": 3248,
+   "not an early-career posting": 2931,
    "non-CS engineering discipline": 898,
    "quant role without early-career marker": 268,
    "research role without early-career marker": 129
   },
   "link_check": {
-   "ok": 432,
+   "ok": 434,
    "blocked": 45,
    "error": 6,
-   "checked": 483,
-   "conclusive": 432,
+   "checked": 485,
+   "conclusive": 434,
    "resolving_pct": 100.0
   }
  }
