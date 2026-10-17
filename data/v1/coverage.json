@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T04:35:14+00:00",
+ "generated_at": "2026-10-17T10:51:16+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -357,9 +357,9 @@
    "tier": 1,
    "ats": "workday",
    "token": "salesforce",
-   "fetched": 0,
+   "fetched": 39,
    "published": 0,
-   "status": "FETCH FAILED"
+   "status": "none matched"
   },
   {
    "slug": "adobe",
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 276,
+   "fetched": 272,
    "published": 0,
    "status": "none matched"
   },
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "pinterest",
-   "fetched": 156,
+   "fetched": 155,
    "published": 11,
    "status": "ok"
   },
@@ -1307,7 +1307,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "doordashusa",
-   "fetched": 452,
+   "fetched": 454,
    "published": 6,
    "status": "ok"
   },
@@ -1453,14 +1453,15 @@
   }
  ],
  "rejections": {
-  "not a US location": 6097,
-  "senior/experienced role": 4179,
-  "title is not a technical role": 4033,
-  "non-technical role": 3248,
+  "not a US location": 6127,
+  "senior/experienced role": 4182,
+  "title is not a technical role": 4034,
+  "non-technical role": 3249,
   "not an early-career posting": 2931,
   "non-CS engineering discipline": 898,
   "quant role without early-career marker": 268,
-  "research role without early-career marker": 129
+  "research role without early-career marker": 129,
+  "missing title or apply url": 1
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1574,6 +1575,9 @@
    "AQR Capital — Global Stock Selection Research – Technical Signals",
    "AQR Capital — Managed Futures & Commodities Research Analyst",
    "AQR Capital — Quantitative Research – Prediction Markets Analyst"
+  ],
+  "missing title or apply url": [
+   "Salesforce — "
   ]
  },
  "zero_published_samples": {
@@ -1794,6 +1798,16 @@
    "⚙️ Senior/Staff Platform Engineer — not a US location",
    "⚙️ Senior/Staff Product Engineer — not a US location",
    "⚙️ Engineering Manager — not a US location"
+  ],
+  "salesforce": [
+   "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm) — not a US location",
+   "Director, AI Labs Scouts — senior/experienced role",
+   "Principal Architect, AI Labs — senior/experienced role",
+   "Innovator Software Engineer - Keynote Demo — not a US location",
+   "Field Marketing Senior Analyst, (TMT Commercial Business) — not a US location",
+   "AI Labs Rotational Fellowship, Emerging Talent — not a US location",
+   "Solution Architect — not a US location",
+   "Applied AI Architect (Principal/Lead) — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",

@@ -9,10 +9,10 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,268 |
+| Postings fetched | 22,304 |
 | Postings published | 485 |
-| Boards that failed to fetch | **4** |
-| Boards live but with nothing early-career | 56 |
+| Boards that failed to fetch | **3** |
+| Boards live but with nothing early-career | 57 |
 | Boards returning nothing at all | 0 |
 
 ## ⚠ Adapters that failed
@@ -21,7 +21,6 @@ These are our bugs, not empty boards. Each one is lost coverage.
 
 | Company | ATS | Token |
 |:--|:--|:--|
-| Salesforce | workday | `salesforce` |
 | ClickHouse | greenhouse | `clickhouse` |
 | Postman | greenhouse | `postman` |
 | Amplitude | greenhouse | `amplitude` |
@@ -278,14 +277,14 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>SambaNova</b> — 61 postings read, none early-career</summary>
+<details><summary><b>Salesforce</b> — 39 postings read, none early-career</summary>
 
-- `AI Hardware System Architect — senior/experienced role`
-- `ASIC Network Architect — senior/experienced role`
-- `Cloud Platform Architect — senior/experienced role`
-- `Compiler Architect — senior/experienced role`
-- `Contract Manufacturing Program Manager — non-technical role`
-- `Customer Success Manager — non-technical role`
+- `Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm) — not a US location`
+- `Director, AI Labs Scouts — senior/experienced role`
+- `Principal Architect, AI Labs — senior/experienced role`
+- `Innovator Software Engineer - Keynote Demo — not a US location`
+- `Field Marketing Senior Analyst, (TMT Commercial Business) — not a US location`
+- `AI Labs Rotational Fellowship, Emerging Talent — not a US location`
 
 </details>
 
@@ -336,7 +335,7 @@ rather than take it on faith.
 | [DRW](https://drw.com/work-at-drw/) | 1 | `greenhouse:drweng` | 167 | 8 | ✅ ok |
 | [Five Rings](https://fiverings.com/careers/) | 1 | `greenhouse:fiveringsllc` | 17 | 8 | ✅ ok |
 | [AQR Capital](https://www.aqr.com/Careers) | 1 | `greenhouse:aqr` | 56 | 6 | ✅ ok |
-| [DoorDash](https://careers.doordash.com/) | 1 | `greenhouse:doordashusa` | 452 | 6 | ✅ ok |
+| [DoorDash](https://careers.doordash.com/) | 1 | `greenhouse:doordashusa` | 454 | 6 | ✅ ok |
 | [Figma](https://www.figma.com/careers/) | 1 | `greenhouse:figma` | 139 | 6 | ✅ ok |
 | [Notion](https://www.notion.so/careers) | 1 | `ashby:notion` | 128 | 6 | ✅ ok |
 | [Roblox](https://careers.roblox.com/) | 1 | `greenhouse:roblox` | 257 | 6 | ✅ ok |
@@ -388,7 +387,7 @@ rather than take it on faith.
 | [Robinhood](https://careers.robinhood.com/) | 1 | `greenhouse:robinhood` | 153 | — | ○ none matched |
 | [Runway](https://runwayml.com/careers) | 1 | `ashby:runway` | 3 | — | ○ none matched |
 | [SIG (Susquehanna)](https://careers.sig.com/us-campus/jobs) | 1 | — | — | — | 🔗 link-only |
-| [Salesforce](https://careers.salesforce.com/) | 1 | `workday:salesforce` | — | — | ⚠️ FETCH FAILED |
+| [Salesforce](https://careers.salesforce.com/) | 1 | `workday:salesforce` | 39 | — | ○ none matched |
 | [SambaNova](https://sambanova.ai/careers) | 1 | `greenhouse:sambanovasystems` | 61 | — | ○ none matched |
 | [Snowflake](https://careers.snowflake.com/us/en/search-results) | 1 | — | — | — | 🔗 link-only |
 | [Squarepoint Capital](https://www.squarepoint-capital.com/careers) | 1 | `greenhouse:squarepointcapital` | 92 | — | ○ none matched |
@@ -398,7 +397,7 @@ rather than take it on faith.
 | [Vanta](https://www.vanta.com/careers) | 1 | `ashby:vanta` | 84 | — | ○ none matched |
 | [XTX Markets](https://www.xtxmarkets.com/careers/) | 1 | `greenhouse:xtxmarketstechnologies` | 7 | — | ○ none matched |
 | [Verkada](https://www.verkada.com/careers/) | 2 | `greenhouse:verkada` | 318 | 13 | ✅ ok |
-| [Pinterest](https://www.pinterestcareers.com/) | 2 | `greenhouse:pinterest` | 156 | 11 | ✅ ok |
+| [Pinterest](https://www.pinterestcareers.com/) | 2 | `greenhouse:pinterest` | 155 | 11 | ✅ ok |
 | [Belvedere Trading](https://belvederetrading.com/careers/) | 2 | `lever:belvederetrading` | 20 | 8 | ✅ ok |
 | [Lyft](https://www.lyft.com/careers) | 2 | `greenhouse:lyft` | 182 | 6 | ✅ ok |
 | [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 166 | 5 | ✅ ok |
@@ -413,7 +412,7 @@ rather than take it on faith.
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | — | — | ⚠️ FETCH FAILED |
 | [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 102 | — | ○ none matched |
 | [Attentive](https://www.attentive.com/careers) | 2 | `greenhouse:attentive` | 27 | — | ○ none matched |
-| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 276 | — | ○ none matched |
+| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 272 | — | ○ none matched |
 | [Chime](https://www.chime.com/careers/) | 2 | `greenhouse:chime` | 70 | — | ○ none matched |
 | [Dropbox](https://jobs.dropbox.com/) | 2 | `greenhouse:dropbox` | 20 | — | ○ none matched |
 | [ExodusPoint](https://www.exoduspoint.com/careers) | 2 | `greenhouse:exoduspoint` | 2 | — | ○ none matched |

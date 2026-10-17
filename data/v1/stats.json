@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T04:35:14+00:00",
+ "generated_at": "2026-10-17T10:51:15+00:00",
  "live_requisitions": 485,
  "live_roles": 444,
  "companies_with_open_roles": 69,
@@ -57,15 +57,15 @@
  },
  "pipeline_health": {
   "boards_attempted": 129,
-  "boards_ok": 125,
+  "boards_ok": 126,
   "boards_empty": 0,
-  "boards_failed": 4,
-  "success_rate": 0.969,
-  "postings_fetched": 22767,
+  "boards_failed": 3,
+  "success_rate": 0.9767,
+  "postings_fetched": 22803,
   "by_source": {
    "greenhouse": 76,
    "ashby": 41,
-   "workday": 4,
+   "workday": 5,
    "amazon": 1,
    "eightfold": 1,
    "lever": 2
@@ -75,11 +75,6 @@
     "company": "ClickHouse",
     "ats": "greenhouse",
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
-   },
-   {
-    "company": "Salesforce",
-    "ats": "workday",
-    "error": "RuntimeError: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs failed after 3 attempts: Expecting value: line 1 column 1 (char 0)"
    },
    {
     "company": "Amplitude",
@@ -94,14 +89,15 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6097,
-   "senior/experienced role": 4179,
-   "title is not a technical role": 4033,
-   "non-technical role": 3248,
+   "not a US location": 6127,
+   "senior/experienced role": 4182,
+   "title is not a technical role": 4034,
+   "non-technical role": 3249,
    "not an early-career posting": 2931,
    "non-CS engineering discipline": 898,
    "quant role without early-career marker": 268,
-   "research role without early-career marker": 129
+   "research role without early-career marker": 129,
+   "missing title or apply url": 1
   },
   "link_check": {
    "ok": 434,
