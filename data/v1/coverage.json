@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T15:40:25+00:00",
+ "generated_at": "2026-10-17T20:40:48+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -27,7 +27,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "xai",
-   "fetched": 305,
+   "fetched": 304,
    "published": 3,
    "status": "ok"
   },
@@ -37,7 +37,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "mistral.ai",
-   "fetched": 219,
+   "fetched": 217,
    "published": 0,
    "status": "none matched"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 403,
+   "fetched": 405,
    "published": 2,
    "status": "ok"
   },
@@ -1217,7 +1217,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "robinhood",
-   "fetched": 153,
+   "fetched": 152,
    "published": 0,
    "status": "none matched"
   },
@@ -1337,7 +1337,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "dropbox",
-   "fetched": 20,
+   "fetched": 18,
    "published": 0,
    "status": "none matched"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2729,
+   "fetched": 2724,
    "published": 33,
    "status": "ok"
   },
@@ -1447,18 +1447,18 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 233,
+   "fetched": 235,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6128,
-  "senior/experienced role": 4182,
-  "title is not a technical role": 4032,
-  "non-technical role": 3248,
-  "not an early-career posting": 2930,
-  "non-CS engineering discipline": 898,
+  "not a US location": 6127,
+  "senior/experienced role": 4181,
+  "title is not a technical role": 4033,
+  "non-technical role": 3245,
+  "not an early-career posting": 2928,
+  "non-CS engineering discipline": 897,
   "quant role without early-career marker": 268,
   "research role without early-career marker": 129
  },
@@ -1733,8 +1733,8 @@
   ],
   "mongodb": [
    "2027 - Software Engineer Intern, Dublin - 6 Month Internship — not a US location",
-   "Account Development Representative — not a US location",
    "Account Development Representative — non-technical role",
+   "Account Development Representative — not a US location",
    "Account Development Representative — not a US location",
    "Account Development Representative - Arabic Speaking — not a US location",
    "Account Development Representative - Benelux/Nordics — not a US location",
@@ -1796,14 +1796,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Retail POS Enterprise Account Executive — not a US location",
+   "Technical Support Engineer (French speaking) — not a US location",
    "Manager, Revenue Recognition Strategy — not a US location",
    "Field Service Specialist — not a US location",
    "Director, AI Labs Scouts — senior/experienced role",
    "Principal Architect, AI Labs — senior/experienced role",
    "Innovator Software Engineer - Keynote Demo — not a US location",
-   "Field Marketing Senior Analyst, (TMT Commercial Business) — not a US location",
-   "AI Labs Rotational Fellowship, Emerging Talent — not a US location",
-   "Solution Architect — not a US location"
+   "Field Marketing Senior Analyst, (TMT Commercial Business) — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -2059,7 +2059,7 @@
    "Customer Account Executive — non-technical role",
    "Customer Account Executive — not a US location",
    "Customer Reliability Engineer — not an early-career posting",
-   "Customer Support Engineer (Tier 1) — not an early-career posting"
+   "Customer Support Engineer (Tier 1) — not a US location"
   ],
   "temporal": [
    "Technical Executive Communications, Senior Manager — title is not a technical role",
