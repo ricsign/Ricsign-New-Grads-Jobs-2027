@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T20:40:48+00:00",
+ "generated_at": "2026-10-18T04:40:48+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 814,
+   "fetched": 813,
    "published": 0,
    "status": "none matched"
   },
@@ -947,7 +947,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "grafanalabs",
-   "fetched": 105,
+   "fetched": 111,
    "published": 1,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2724,
+   "fetched": 2721,
    "published": 33,
    "status": "ok"
   },
@@ -1447,16 +1447,16 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 235,
+   "fetched": 234,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6127,
+  "not a US location": 6129,
   "senior/experienced role": 4181,
-  "title is not a technical role": 4033,
-  "non-technical role": 3245,
+  "title is not a technical role": 4030,
+  "non-technical role": 3247,
   "not an early-career posting": 2928,
   "non-CS engineering discipline": 897,
   "quant role without early-career marker": 268,
@@ -1733,8 +1733,8 @@
   ],
   "mongodb": [
    "2027 - Software Engineer Intern, Dublin - 6 Month Internship — not a US location",
-   "Account Development Representative — non-technical role",
    "Account Development Representative — not a US location",
+   "Account Development Representative — non-technical role",
    "Account Development Representative — not a US location",
    "Account Development Representative - Arabic Speaking — not a US location",
    "Account Development Representative - Benelux/Nordics — not a US location",
@@ -1742,14 +1742,14 @@
    "Account Development Representative, German Speaking — not a US location"
   ],
   "nvidia": [
-   "Principal Block and File Storage Software Engineer, Linux - DGX Cloud — senior/experienced role",
-   "Senior Distributed Software Engineer, Golang - DGX Cloud — not a US location",
-   "Engineering Manager, Reliability Engineering Flywheel - EDA Infrastructure — not a US location",
-   "Senior Storage Software Engineer - DGX Cloud — not a US location",
-   "Senior Manager, Software Engineering - Rack Scale Systems Infrastructure — not a US location",
-   "Distinguished Engineer, Security Architecture - DGX Cloud — senior/experienced role",
-   "Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role",
-   "Senior HPC and LSF Operations Engineer - EDA Infrastructure — not a US location"
+   "Senior Software Engineer, Network Visibility Platform - DGX Cloud — not a US location",
+   "Head of Infrastructure Security Engineering - EDA Clusters — not a US location",
+   "Principal Software Engineer, GPU Firmware and GPU System Software — CSP Engagements — not a US location",
+   "Senior System Software Engineer - Scientific Computing PaaS — not a US location",
+   "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location",
+   "Senior Systems Software Engineer - GPU Performance at Scale — not a US location",
+   "Senior Software Program Manager – CSP Engagements — non-technical role",
+   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1796,14 +1796,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Service Cloud Specialist Account Executive - Norway — not a US location",
+   "Customer Success Manager - Netherlands — not a US location",
    "Retail POS Enterprise Account Executive — not a US location",
    "Technical Support Engineer (French speaking) — not a US location",
    "Manager, Revenue Recognition Strategy — not a US location",
    "Field Service Specialist — not a US location",
    "Director, AI Labs Scouts — senior/experienced role",
-   "Principal Architect, AI Labs — senior/experienced role",
-   "Innovator Software Engineer - Keynote Demo — not a US location",
-   "Field Marketing Senior Analyst, (TMT Commercial Business) — not a US location"
+   "Principal Architect, AI Labs — senior/experienced role"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -2059,7 +2059,7 @@
    "Customer Account Executive — non-technical role",
    "Customer Account Executive — not a US location",
    "Customer Reliability Engineer — not an early-career posting",
-   "Customer Support Engineer (Tier 1) — not a US location"
+   "Customer Support Engineer (Tier 1) — not an early-career posting"
   ],
   "temporal": [
    "Technical Executive Communications, Senior Manager — title is not a technical role",
