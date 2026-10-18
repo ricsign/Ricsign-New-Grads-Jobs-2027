@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T15:55:56+00:00",
+ "generated_at": "2026-10-18T20:50:36+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 656,
+   "fetched": 655,
    "published": 3,
    "status": "ok"
   },
@@ -37,7 +37,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "mistral.ai",
-   "fetched": 217,
+   "fetched": 218,
    "published": 0,
    "status": "none matched"
   },
@@ -297,7 +297,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "sambanovasystems",
-   "fetched": 61,
+   "fetched": 60,
    "published": 0,
    "status": "none matched"
   },
@@ -717,9 +717,9 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "exoduspoint",
-   "fetched": 2,
-   "published": 0,
-   "status": "none matched"
+   "fetched": 3,
+   "published": 1,
+   "status": "ok"
   },
   {
    "slug": "belvedere",
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 420,
+   "fetched": 419,
    "published": 1,
    "status": "ok"
   },
@@ -987,7 +987,7 @@
    "tier": 2,
    "ats": "ashby",
    "token": "temporal",
-   "fetched": 71,
+   "fetched": 70,
    "published": 0,
    "status": "none matched"
   },
@@ -1177,7 +1177,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "plaid",
-   "fetched": 128,
+   "fetched": 127,
    "published": 0,
    "status": "none matched"
   },
@@ -1217,7 +1217,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "robinhood",
-   "fetched": 152,
+   "fetched": 153,
    "published": 0,
    "status": "none matched"
   },
@@ -1227,7 +1227,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "affirm",
-   "fetched": 166,
+   "fetched": 165,
    "published": 5,
    "status": "ok"
   },
@@ -1267,7 +1267,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "reddit",
-   "fetched": 144,
+   "fetched": 143,
    "published": 0,
    "status": "none matched"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 171,
+   "fetched": 170,
    "published": 1,
    "status": "ok"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2435,
+   "fetched": 2431,
    "published": 26,
    "status": "ok"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 235,
+   "fetched": 236,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6139,
-  "senior/experienced role": 4178,
-  "title is not a technical role": 4029,
+  "not a US location": 6138,
+  "senior/experienced role": 4175,
+  "title is not a technical role": 4028,
   "non-technical role": 3246,
-  "not an early-career posting": 2928,
+  "not an early-career posting": 2924,
   "non-CS engineering discipline": 897,
   "quant role without early-career marker": 268,
   "research role without early-career marker": 129
@@ -1743,13 +1743,13 @@
   ],
   "nvidia": [
    "NVIDIA 2027 Ignite Internships: Hardware Engineering — not an early-career posting",
+   "NVIDIA 2027 Ignite Internships: Software Engineering — not an early-career posting",
    "Software Engineer, NVLink — not a US location",
    "Senior Software Engineer — not a US location",
    "Senior Software Engineer, System Validation - EDA Infrastructure — not a US location",
    "Senior Systems Software Engineer, Compute Stack Acceleration — not a US location",
    "CAD Engineer — not a US location",
-   "ASIC Design Engineer - Performance Monitoring — not a US location",
-   "Senior ASIC Design Engineer - XBAR IP — not a US location"
+   "ASIC Design Engineer - Performance Monitoring — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1796,7 +1796,7 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
-   "Software Engineering SMTS (Backend - Distributed Systems) — not a US location",
+   "Sales Performance Management – Enterprise Account Executive, Public Sector (Federal, State & Local, Higher Education) — not a US location",
    "Senior Experience Designer (UI/UX) — not a US location",
    "Success Architect - Agentforce/Data Cloud - English / Italian / Spanish / German / French Speaker — not a US location",
    "Success Architect - Agentforce - Italian / Spanish / German / French Speaker — not a US location",
@@ -1929,10 +1929,6 @@
    "Customer Success Manager — Japanese & Korean Speaking (Remote) — not a US location",
    "Head of Field and Partner Marketing — non-technical role",
    "Infrastructure Software Engineer — not a US location"
-  ],
-  "exoduspoint": [
-   "Investment - ExodusPoint Jobs Page — title is not a technical role",
-   "Non-Investment - Referral — not a US location"
   ],
   "flexport": [
    "Account Executive — not a US location",

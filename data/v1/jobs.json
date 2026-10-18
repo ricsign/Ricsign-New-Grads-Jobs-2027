@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-18T15:55:56+00:00",
+ "generated_at": "2026-10-18T20:50:35+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 485,
+ "count": 486,
  "jobs": [
   {
    "uid": "61aed1d8e420f853",
@@ -12341,7 +12341,7 @@
    "compensation": null,
    "department": "Fleet Infrastructure",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -12447,6 +12447,33 @@
    "season": "2026",
    "compensation": null,
    "department": "Sales Development",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "9f215790fcac2781",
+   "company_slug": "exoduspoint",
+   "company_name": "ExodusPoint",
+   "company_tier": 2,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Quant Credit Intern - PA (Hybrid) - December 2026",
+   "apply_url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002",
+   "locations": [
+    "Wynnewood, PA",
+    "Pennsylvania"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-18",
+   "last_verified": "2026-10-18",
+   "posted_at": "2026-09-14",
+   "closed_at": null,
+   "season": "2026",
+   "compensation": null,
+   "department": "Fixed Income PM Teams",
    "active": true,
    "link_status": "ok",
    "openings": 1

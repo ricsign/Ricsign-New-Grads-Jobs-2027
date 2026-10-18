@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T15:55:56+00:00",
- "live_requisitions": 485,
- "live_roles": 444,
- "companies_with_open_roles": 69,
+ "generated_at": "2026-10-18T20:50:36+00:00",
+ "live_requisitions": 486,
+ "live_roles": 445,
+ "companies_with_open_roles": 70,
  "posted_age": {
   "median_days": 54,
   "posted_last_24h": 0,
@@ -15,45 +15,45 @@
   "new-grad-swe": 121,
   "ai-research": 13,
   "quant": 60,
-  "internship": 291,
+  "internship": 292,
   "other": 0
  },
  "by_tier": {
   "0": 46,
   "1": 381,
-  "2": 58
+  "2": 59
  },
  "by_sponsorship": {
   "sponsors": 25,
   "no-sponsorship": 8,
   "citizenship-required": 52,
   "security-clearance": 51,
-  "unknown": 349
+  "unknown": 350
  },
  "by_degree": {
   "bachelors": 84,
   "masters-preferred": 173,
   "phd-required": 78,
-  "unspecified": 150
+  "unspecified": 151
  },
  "sponsorship_resolved_pct": 28.0,
- "link_verified_pct": 89.5,
+ "link_verified_pct": 89.3,
  "by_link_status": {
   "ok": 434,
   "blocked": 45,
-  "error": 6,
+  "error": 7,
   "dead": 0,
   "closed": 0,
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 708,
-  "live": 655,
+  "tracked": 709,
+  "live": 656,
   "closed": 53,
   "median_age_days": 43,
   "p90_age_days": 47,
   "max_age_days": 47,
-  "verified_within_24h": 485
+  "verified_within_24h": 486
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -61,7 +61,7 @@
   "boards_empty": 0,
   "boards_failed": 3,
   "success_rate": 0.9767,
-  "postings_fetched": 22797,
+  "postings_fetched": 22788,
   "by_source": {
    "greenhouse": 76,
    "ashby": 41,
@@ -89,11 +89,11 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6139,
-   "senior/experienced role": 4178,
-   "title is not a technical role": 4029,
+   "not a US location": 6138,
+   "senior/experienced role": 4175,
+   "title is not a technical role": 4028,
    "non-technical role": 3246,
-   "not an early-career posting": 2928,
+   "not an early-career posting": 2924,
    "non-CS engineering discipline": 897,
    "quant role without early-career marker": 268,
    "research role without early-career marker": 129
@@ -101,8 +101,8 @@
   "link_check": {
    "ok": 434,
    "blocked": 45,
-   "error": 6,
-   "checked": 485,
+   "error": 7,
+   "checked": 486,
    "conclusive": 434,
    "resolving_pct": 100.0
   }

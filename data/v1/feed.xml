@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-18T15:55:56+00:00</updated>
+  <updated>2026-10-18T20:50:36+00:00</updated>
+  <entry>
+    <title>ExodusPoint — Quant Credit Intern - PA (Hybrid) - December 2026</title>
+    <link href="https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002"/>
+    <id>tag:ricsign.github.io,2026:9f215790fcac2781</id>
+    <updated>2026-10-18T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Wynnewood, PA, Pennsylvania · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Together AI — Research Intern, Frontier Speculative Decoding (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/togetherai/jobs/5267198007"/>
@@ -396,13 +404,5 @@
     <updated>2026-10-07T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Perception, Robotics</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8227633"/>
-    <id>tag:ricsign.github.io,2026:a1ac7274adf34643</id>
-    <updated>2026-10-07T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>
