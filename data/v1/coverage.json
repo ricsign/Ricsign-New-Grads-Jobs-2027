@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T11:15:26+00:00",
+ "generated_at": "2026-10-18T15:55:56+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 655,
+   "fetched": 656,
    "published": 3,
    "status": "ok"
   },
@@ -347,7 +347,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "nvidia",
-   "fetched": 39,
+   "fetched": 40,
    "published": 0,
    "status": "none matched"
   },
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 421,
+   "fetched": 420,
    "published": 1,
    "status": "ok"
   },
@@ -947,7 +947,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "grafanalabs",
-   "fetched": 111,
+   "fetched": 113,
    "published": 1,
    "status": "ok"
   },
@@ -1447,14 +1447,14 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 233,
+   "fetched": 235,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6133,
-  "senior/experienced role": 4179,
+  "not a US location": 6139,
+  "senior/experienced role": 4178,
   "title is not a technical role": 4029,
   "non-technical role": 3246,
   "not an early-career posting": 2928,
@@ -1742,14 +1742,14 @@
    "Account Development Representative, German Speaking — not a US location"
   ],
   "nvidia": [
-   "Senior Software Engineer - Backend Platform — not a US location",
-   "Senior Software Technical Program Manager — not a US location",
-   "Release Manager — not a US location",
-   "Senior Software Engineer, Network Visibility Platform - DGX Cloud — not a US location",
-   "Head of Infrastructure Security Engineering - EDA Clusters — not a US location",
-   "Principal Software Engineer, GPU Firmware and GPU System Software — CSP Engagements — not a US location",
-   "Senior System Software Engineer - Scientific Computing PaaS — not a US location",
-   "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location"
+   "NVIDIA 2027 Ignite Internships: Hardware Engineering — not an early-career posting",
+   "Software Engineer, NVLink — not a US location",
+   "Senior Software Engineer — not a US location",
+   "Senior Software Engineer, System Validation - EDA Infrastructure — not a US location",
+   "Senior Systems Software Engineer, Compute Stack Acceleration — not a US location",
+   "CAD Engineer — not a US location",
+   "ASIC Design Engineer - Performance Monitoring — not a US location",
+   "Senior ASIC Design Engineer - XBAR IP — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1796,14 +1796,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Software Engineering SMTS (Backend - Distributed Systems) — not a US location",
+   "Senior Experience Designer (UI/UX) — not a US location",
+   "Success Architect - Agentforce/Data Cloud - English / Italian / Spanish / German / French Speaker — not a US location",
+   "Success Architect - Agentforce - Italian / Spanish / German / French Speaker — not a US location",
    "Principal Offensive Security Researcher — not a US location",
    "Senior Offensive AI Security Researcher — not a US location",
    "Offensive Security Researcher — not a US location",
-   "Marketing Solutions Engineer - French Speaker — not a US location",
-   "Product Owner, Community — not a US location",
-   "Service Cloud Specialist Account Executive - Norway — not a US location",
-   "Customer Success Manager - Netherlands — not a US location",
-   "Retail POS Enterprise Account Executive — not a US location"
+   "Marketing Solutions Engineer - French Speaker — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",
@@ -1976,13 +1976,13 @@
   ],
   "intel": [
    "Yield Product Development Engineer — not a US location",
+   "Ecosystem Technical Enabling Engineer — not a US location",
    "Senior AI Software Development Engineer — not a US location",
    "Cloud Software Development Engineer with uArch Expertise- Temporary position — not a US location",
    "SoC Logic Design Engineer — not an early-career posting",
    "GPU Validation Engineer — not a US location",
    "GPU Software Development Engineer — not an early-career posting",
-   "Intel Foundry Module Development Engineer – Advanced Wet Etch and Cleans — not an early-career posting",
-   "Business Analyst- Data Center Systems — not a US location"
+   "Intel Foundry Module Development Engineer – Advanced Wet Etch and Cleans — not an early-career posting"
   ],
   "klaviyo": [
    "Account Executive Commercial, Italian Speaker — not a US location",
