@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T04:40:48+00:00",
+ "generated_at": "2026-10-18T11:15:26+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 724,
+   "fetched": 723,
    "published": 7,
    "status": "ok"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 170,
+   "fetched": 171,
    "published": 1,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2721,
+   "fetched": 2722,
    "published": 33,
    "status": "ok"
   },
@@ -1447,16 +1447,16 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 234,
+   "fetched": 233,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6129,
-  "senior/experienced role": 4181,
-  "title is not a technical role": 4030,
-  "non-technical role": 3247,
+  "not a US location": 6133,
+  "senior/experienced role": 4179,
+  "title is not a technical role": 4029,
+  "non-technical role": 3246,
   "not an early-career posting": 2928,
   "non-CS engineering discipline": 897,
   "quant role without early-career marker": 268,
@@ -1742,14 +1742,14 @@
    "Account Development Representative, German Speaking — not a US location"
   ],
   "nvidia": [
+   "Senior Software Engineer - Backend Platform — not a US location",
+   "Senior Software Technical Program Manager — not a US location",
+   "Release Manager — not a US location",
    "Senior Software Engineer, Network Visibility Platform - DGX Cloud — not a US location",
    "Head of Infrastructure Security Engineering - EDA Clusters — not a US location",
    "Principal Software Engineer, GPU Firmware and GPU System Software — CSP Engagements — not a US location",
    "Senior System Software Engineer - Scientific Computing PaaS — not a US location",
-   "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location",
-   "Senior Systems Software Engineer - GPU Performance at Scale — not a US location",
-   "Senior Software Program Manager – CSP Engagements — non-technical role",
-   "Principal Software Engineer - Rack Scale Systems Infrastructure — not a US location"
+   "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1796,14 +1796,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Principal Offensive Security Researcher — not a US location",
+   "Senior Offensive AI Security Researcher — not a US location",
+   "Offensive Security Researcher — not a US location",
+   "Marketing Solutions Engineer - French Speaker — not a US location",
+   "Product Owner, Community — not a US location",
    "Service Cloud Specialist Account Executive - Norway — not a US location",
    "Customer Success Manager - Netherlands — not a US location",
-   "Retail POS Enterprise Account Executive — not a US location",
-   "Technical Support Engineer (French speaking) — not a US location",
-   "Manager, Revenue Recognition Strategy — not a US location",
-   "Field Service Specialist — not a US location",
-   "Director, AI Labs Scouts — senior/experienced role",
-   "Principal Architect, AI Labs — senior/experienced role"
+   "Retail POS Enterprise Account Executive — not a US location"
   ],
   "sambanova": [
    "AI Hardware System Architect — senior/experienced role",

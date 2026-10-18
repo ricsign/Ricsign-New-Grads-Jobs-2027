@@ -216,12 +216,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 39 postings read, none early-career</summary>
 
+- `Senior Software Engineer - Backend Platform — not a US location`
+- `Senior Software Technical Program Manager — not a US location`
+- `Release Manager — not a US location`
 - `Senior Software Engineer, Network Visibility Platform - DGX Cloud — not a US location`
 - `Head of Infrastructure Security Engineering - EDA Clusters — not a US location`
 - `Principal Software Engineer, GPU Firmware and GPU System Software — CSP Engagements — not a US location`
-- `Senior System Software Engineer - Scientific Computing PaaS — not a US location`
-- `Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location`
-- `Senior Systems Software Engineer - GPU Performance at Scale — not a US location`
 
 </details>
 
@@ -279,12 +279,12 @@ rather than take it on faith.
 
 <details><summary><b>Salesforce</b> — 40 postings read, none early-career</summary>
 
+- `Principal Offensive Security Researcher — not a US location`
+- `Senior Offensive AI Security Researcher — not a US location`
+- `Offensive Security Researcher — not a US location`
+- `Marketing Solutions Engineer - French Speaker — not a US location`
+- `Product Owner, Community — not a US location`
 - `Service Cloud Specialist Account Executive - Norway — not a US location`
-- `Customer Success Manager - Netherlands — not a US location`
-- `Retail POS Enterprise Account Executive — not a US location`
-- `Technical Support Engineer (French speaking) — not a US location`
-- `Manager, Revenue Recognition Strategy — not a US location`
-- `Field Service Specialist — not a US location`
 
 </details>
 
@@ -293,7 +293,7 @@ rather than take it on faith.
 
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
-| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 724 | 7 | ✅ ok |
+| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 723 | 7 | ✅ ok |
 | [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 884 | 6 | ✅ ok |
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 100 | 5 | ✅ ok |
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 182 | 5 | ✅ ok |
@@ -321,7 +321,7 @@ rather than take it on faith.
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles) | 0 | — | — | — | 🔗 link-only |
 | [Palantir](https://www.palantir.com/careers/) | 1 | `lever:palantir` | 310 | 51 | ✅ ok |
 | [Waymo](https://waymo.com/careers/) | 1 | `greenhouse:waymo` | 361 | 44 | ✅ ok |
-| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2721 | 33 | ✅ ok |
+| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2722 | 33 | ✅ ok |
 | [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2435 | 26 | ✅ ok |
 | [Akuna Capital](https://akunacapital.com/careers) | 1 | `greenhouse:akunacapital` | 40 | 19 | ✅ ok |
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 324 | 17 | ✅ ok |
@@ -354,7 +354,7 @@ rather than take it on faith.
 | [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 405 | 2 | ✅ ok |
 | [Qube Research & Technologies](https://www.qube-rt.com/careers) | 1 | `greenhouse:quberesearchandtechnologies` | 197 | 2 | ✅ ok |
 | [Vercel](https://vercel.com/careers) | 1 | `greenhouse:vercel` | 93 | 2 | ✅ ok |
-| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 170 | 1 | ✅ ok |
+| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 171 | 1 | ✅ ok |
 | [Baseten](https://www.baseten.co/careers) | 1 | `ashby:baseten` | 103 | 1 | ✅ ok |
 | [Cerebras](https://www.cerebras.ai/careers) | 1 | `ashby:cerebras` | 122 | 1 | ✅ ok |
 | [Cloudflare](https://www.cloudflare.com/careers/) | 1 | `greenhouse:cloudflare` | 421 | 1 | ✅ ok |
@@ -403,7 +403,7 @@ rather than take it on faith.
 | [Affirm](https://www.affirm.com/careers) | 2 | `greenhouse:affirm` | 166 | 5 | ✅ ok |
 | [Elastic](https://www.elastic.co/careers) | 2 | `greenhouse:elastic` | 379 | 4 | ✅ ok |
 | [Nuro](https://www.nuro.ai/careers) | 2 | `greenhouse:nuro` | 108 | 4 | ✅ ok |
-| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 234 | 3 | ✅ ok |
+| [Samsara](https://www.samsara.com/company/careers/) | 2 | `greenhouse:samsara` | 233 | 3 | ✅ ok |
 | [Faire](https://www.faire.com/careers) | 2 | `greenhouse:faire` | 77 | 1 | ✅ ok |
 | [Fastly](https://www.fastly.com/about/careers) | 2 | `greenhouse:fastly` | 52 | 1 | ✅ ok |
 | [Grafana Labs](https://grafana.com/about/careers/) | 2 | `greenhouse:grafanalabs` | 111 | 1 | ✅ ok |
