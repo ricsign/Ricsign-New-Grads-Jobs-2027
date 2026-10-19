@@ -31,7 +31,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (10)
+## 🆕 Posted in the last 7 days (7)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -41,16 +41,14 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Point72 / Cubist** | [2027 Summer Internship - Fundamental Researcher, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | New York, NY | 5d · Oct 14 |
 | **Point72 / Cubist** | [2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) | New York, NY | 5d · Oct 14 |
 | **Point72 / Cubist** | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | New York, NY | 5d · Oct 14 |
-| **Waymo** | [Field Safety Engineer](https://careers.withwaymo.com/jobs?gh_jid=8248373) | Mountain View, CA, USA +2 | 5d · Oct 14 |
 | **Figma** | [PhD Intern, Software Engineer - Graphics (2027)](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) | San Francisco, CA • New York, NY +1 | 6d · Oct 13 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8279620) | Mountain View, CA, USA +1 | 6d · Oct 13 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Perception, Model Lifecycle](https://careers.withwaymo.com/jobs?gh_jid=8248411) | Mountain View, CA, USA +1 | 7d · Oct 12 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Scale AI** | Machine Learning Research Intern (Summer 2027) · _Summer 2027_ | New York, NY, San Francisco, CA | — | ·📗 | today · Oct 19 | today · Oct 19 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
 | **Mercor** | Research Intern | San Francisco | $80/hr | ·📗 | 14d · Oct 5 | 13d · Oct 6 | [apply](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application) |
 | **Stripe** | PhD Data Scientist, Intern | New York, Seattle, South San Francisco HQ, US-NYC +2 | — | ·🎓 | 18d · Oct 1 | 18d · Oct 1 | [apply](https://stripe.com/jobs/search?gh_jid=8194283) |
 | **Perplexity** | Member of Technical Staff (New Grad) | San Francisco | — | · | 20d · Sep 29 | 20d · Sep 29 | [apply](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511/application) |
@@ -69,16 +67,16 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training · _Summer 2027_ | Mountain View, California, United States, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Oct 19 | today · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
+| **Waymo** | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Oct 19 | today · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) |
+| **Waymo** | 2027 Summer Intern, PhD, Research, Behavior Post-training · _Summer 2027_ | Mountain View, CA, USA, San Francisco, CA, USA +2 | — | ·🎓 | today · Oct 19 | today · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8289816) |
 | **Together AI** | Research Intern, Frontier Speculative Decoding (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 3d · Oct 16 | 2d · Oct 17 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) |
 | **Together AI** | Research Intern, Frontier Speculative Decoding (Winter 2027) · _Winter 2027_ | San Francisco | — | ·📗 | 3d · Oct 16 | 2d · Oct 17 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) |
 | **Anduril Industries** | Winter 2027 Research Engineer Co-op · _Winter 2027_ | Santa Ana, California, United States | — | 🇺🇸📗 | 5d · Oct 14 | 4d · Oct 15 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007) |
 | **Point72 / Cubist** | 2027 Summer Internship - Fundamental Researcher, Canvas · _Summer 2027_ | New York, NY | — | · | 5d · Oct 14 | 5d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) |
 | **Point72 / Cubist** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research · _Summer 2027_ | New York, NY | — | ·🎓 | 5d · Oct 14 | 5d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) |
 | **Point72 / Cubist** | 2027 Summer Internship - Sector Analyst, Proprietary Research · _Summer 2027_ | New York, NY | — | · | 5d · Oct 14 | 5d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) |
-| **Waymo** | Field Safety Engineer | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | 5d · Oct 14 | 5d · Oct 14 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248373) |
 | **Figma** | PhD Intern, Software Engineer - Graphics (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 6d · Oct 13 | 6d · Oct 13 | [apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 6d · Oct 13 | 6d · Oct 13 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8279620) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Perception, Model Lifecycle · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 7d · Oct 12 | 6d · Oct 13 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248411) |
 | **Roblox** | [2027] Applied Scientist - PhD Intern · _2027_ | San Mateo, CA, United States | — | ·🎓 | 11d · Oct 8 | 11d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242621?gh_jid=8242621) |
 | **Roblox** | [2027] Data Scientist - PhD Intern · _2027_ | San Mateo, CA, United States | — | ·🎓 | 11d · Oct 8 | 11d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) |
 | **Roblox** | [2027] Senior Machine Learning Engineer - PhD Early Career · _2027_ | San Mateo, CA, United States | — | ·🎓 | 11d · Oct 8 | 11d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) |
@@ -96,7 +94,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Fireworks AI** | Member of Technical Staff, Research (2026 PhD New Grad) · _2026_ | San Mateo, New York | $200k–$300k | ·🎓 | 1mo · Sep 8 | 1mo · Sep 8 | [apply](https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application) |
 | **Fireworks AI** | Member of Technical Staff, Systems Infrastructure (2026 PhD New Grad) · _2026_ | San Mateo, New York | $200k–$230k | ·🎓 | 1mo · Sep 8 | 1mo · Sep 8 | [apply](https://jobs.ashbyhq.com/fireworks/ad58a098-ef75-4a4b-8475-55c2653213ef/application) |
 | **Schonfeld** | 2027 PhD Quantitative Research Intern · _2027_ · `2 openings` | New York, New York, United States, Miami, Florida, United States | — | ·🎓 | 1mo · Sep 4 | 1mo · Sep 5 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8172074) |
-| **Old Mission Capital** | Fundamental Research Analyst - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·📗 | 1mo · Sep 2 | 1mo · Sep 2 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
 | **AQR Capital** | AQR Arbitrage - 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 1mo · Aug 25 | 1mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) |
 | **IMC Trading** | Deep Learning Research Intern - 2027 - Sydney · _2027_ | New York | — | ·🎓 | 1mo · Aug 24 | 1mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) |
 | **Netflix** | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America | — | ·🎓 | 2mo · Aug 19 | 1mo · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317917022) |
@@ -105,7 +102,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 2mo · Aug 11 | 1mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | **AQR Capital** | 2027 Research Product Specialist Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 2mo · Aug 11 | 1mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | 2mo · Aug 10 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
-| **Old Mission Capital** | Quantitative Researcher (Ph.D.) - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·🎓 | 2mo · Jul 30 | 1mo · Sep 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7814534003) |
 | **Modal** | ML Research Intern | New York, San Francisco | $15k | ·🎓 | 2mo · Jul 28 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application) |
 | **Five Rings** | Summer Intern 2027 - Quantitative Researcher (PhD) · _Summer 2027_ | New York City | — | ·🎓 | 3mo · Jul 14 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) |
 | **Akuna Capital** | Junior Quantitative Researcher | Chicago, IL | — | ·📗 | 3mo · Jul 13 | 1mo · Sep 1 | [apply](https://www.akunacapital.com/careers/job/8036541/?gh_jid=8036541) |
@@ -129,7 +125,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation… · _2026_ · `open 1y+` | North Reading, Massachusetts, USA | — | · | 1y · Oct 8 2025 | 1mo · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) |
 | **DRW** | Research Engineer · `open 1y+` | New York City | — | · | 1y · Jun 16 2025 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) |
 | **Palantir** | Meritocracy Fellowship · `open 1y+` | New York, NY | — | · | 1y · Apr 9 2025 | 4d · Oct 15 | [apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3) |
-| **Old Mission Capital** | Junior Quantitative Researcher (Ph.D.) · _Summer 2027_ · `open 1y+` | Chicago, IL, United States | — | ·🎓 | 1y · Dec 24 2024 | 1mo · Sep 1 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=6309652003) |
 | **PDT Partners** | Quantitative Researcher · `open 1y+` | New York, NY | — | ·🎓 | 1y · Oct 28 2024 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer · `open 2y+` | New York, NY | — | · | 2y · Feb 6 2024 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
 
@@ -137,6 +132,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | Cloud Analytics - Application PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 19 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170) |
+| **Intel** | Module Engineering - PhD Intern (Wet Etch) | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 19 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering---PhD-Intern--Wet-Etch-_JR0288073) |
 | **Faire** | Applied AI/ML Scientist, Intern · _Winter 2027_ | San Francisco, CA | — | ·📗 | 13d · Oct 6 | 10d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 13d · Oct 6 | 12d · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 14d · Oct 5 | 6d · Oct 13 | [apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
@@ -147,4 +144,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-10-19 13:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-19 22:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

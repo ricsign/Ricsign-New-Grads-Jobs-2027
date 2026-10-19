@@ -2,7 +2,7 @@
 
 Campus and new-grad roles at elite quant and HFT firms. Highest compensation band on this repo.
 
-**35 open roles** · last verified 2026-10-19 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**32 open roles** · last verified 2026-10-19 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -25,10 +25,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **IMC Trading** | Software Engineer, Early Career | Chicago, United States | — | · | 19d · Sep 30 | 19d · Sep 30 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) |
 | **DRW** | Floor Trader | Chicago | — | · | 1mo · Sep 16 | 1mo · Sep 17 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8207750) |
 | **Headlands Technologies** | C++ Software Developer - New Grad | Chicago, New York City | — | · | 1mo · Sep 16 | 1mo · Sep 16 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) |
-| **Old Mission Capital** | Floor Trader - 2027 Graduate Program (August Start) · _2027_ | Chicago, IL, United States | — | · | 1mo · Sep 15 | 1mo · Sep 16 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7993756003) |
 | **Five Rings** | Recent Graduate - Trading Assistant (NYC) | New York City | — | · | 1mo · Sep 14 | 1mo · Sep 14 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) |
-| **Old Mission Capital** | Junior Trading Operations/DevOps Engineer | Chicago, IL, United States | — | · | 1mo · Sep 8 | 1mo · Sep 8 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7989374003) |
-| **Old Mission Capital** | Fundamental Research Analyst - 2027 Graduate Program - (August Start) · _2027_ | Chicago, IL, United States | — | ·📗 | 1mo · Sep 2 | 1mo · Sep 2 | [apply](https://www.oldmissioncapital.com/careers/?gh_jid=7982061003) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | 2mo · Aug 10 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Chicago Trading Company** | Associate Engineer - 2027 Start · _2027_ | Chicago, IL, New York, NY | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) |
 | **Chicago Trading Company** | Quant Trading Associate - 2027 Start · _2027_ | Chicago, IL | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) |
@@ -64,4 +61,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-10-19 13:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-19 22:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -41,6 +41,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Anduril Industries** | 2027 Early Career Warhead Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | today · Oct 19 | today · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) |
 | **Together AI** | Hardware Security Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 3d · Oct 16 | 3d · Oct 16 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
 | **SpaceX** | New Graduate Engineer, Infrastructure | Starbase, TX | — | 🇺🇸📗 | 4d · Oct 15 | 3d · Oct 16 | [apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002) |
 | **Waymo** | Field Safety Engineer | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | 5d · Oct 14 | 5d · Oct 14 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248373) |
@@ -50,7 +51,6 @@ Full-time entry-level software engineering roles in the US.
 | **Brex** | Brex Rotational Program · `3 openings` | Salt Lake City, Utah, United States | — | · | 17d · Oct 2 | 17d · Oct 2 | [apply](https://www.brex.com/careers/8864176002?gh_jid=8864176002) |
 | **SpaceX** | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | — | 🇺🇸 | 21d · Sep 28 | 20d · Sep 29 | [apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
 | **Anduril Industries** | 2027 Early Career Firmware Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 27d · Sep 22 | 27d · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
-| **Anduril Industries** | 2027 Early Career Flight Test Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 27d · Sep 22 | 27d · Sep 22 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5246225007?gh_jid=5246225007) |
 | **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US · _Fall 2026_ | Los Angeles, CA, New York, NY +3 | — | ·📗 | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
 | **Applied Intuition** | Cybersecurity Software Engineer - New Grad (2027) · _2027_ | Sunnyvale | $130k–$158k | ·📗 | 1mo · Sep 2 | 1mo · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e/application) |
 | **Applied Intuition** | Forward Deployed Engineer - New Grad (2027) · _2027_ | Sunnyvale | $130k–$158k | ·📗 | 1mo · Sep 2 | 1mo · Sep 2 | [apply](https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application) |
@@ -95,4 +95,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-19 13:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-19 22:25 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
