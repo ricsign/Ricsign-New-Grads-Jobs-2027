@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-18T20:50:36+00:00",
+ "generated_at": "2026-10-19T04:48:48+00:00",
  "live_requisitions": 486,
  "live_roles": 445,
  "companies_with_open_roles": 70,
  "posted_age": {
-  "median_days": 54,
+  "median_days": 55,
   "posted_last_24h": 0,
   "posted_last_7d": 22,
-  "posted_last_30d": 140,
+  "posted_last_30d": 130,
   "evergreen_over_1y": 42,
   "with_posted_date_pct": 100.0
  },
@@ -37,11 +37,11 @@
   "unspecified": 151
  },
  "sponsorship_resolved_pct": 28.0,
- "link_verified_pct": 89.3,
+ "link_verified_pct": 89.5,
  "by_link_status": {
-  "ok": 434,
+  "ok": 435,
   "blocked": 45,
-  "error": 7,
+  "error": 6,
   "dead": 0,
   "closed": 0,
   "unchecked": 0
@@ -50,22 +50,22 @@
   "tracked": 709,
   "live": 656,
   "closed": 53,
-  "median_age_days": 43,
-  "p90_age_days": 47,
-  "max_age_days": 47,
+  "median_age_days": 44,
+  "p90_age_days": 48,
+  "max_age_days": 48,
   "verified_within_24h": 486
  },
  "pipeline_health": {
   "boards_attempted": 129,
-  "boards_ok": 126,
+  "boards_ok": 125,
   "boards_empty": 0,
-  "boards_failed": 3,
-  "success_rate": 0.9767,
-  "postings_fetched": 22788,
+  "boards_failed": 4,
+  "success_rate": 0.969,
+  "postings_fetched": 22739,
   "by_source": {
    "greenhouse": 76,
    "ashby": 41,
-   "workday": 5,
+   "workday": 4,
    "amazon": 1,
    "eightfold": 1,
    "lever": 2
@@ -75,6 +75,11 @@
     "company": "ClickHouse",
     "ats": "greenhouse",
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+   },
+   {
+    "company": "Salesforce",
+    "ats": "workday",
+    "error": "RuntimeError: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs failed after 3 attempts: Client error '429 Too Many Requests' for url 'https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs'\nFor more information check: https"
    },
    {
     "company": "Amplitude",
@@ -89,21 +94,21 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6138,
-   "senior/experienced role": 4175,
+   "not a US location": 6090,
+   "senior/experienced role": 4174,
    "title is not a technical role": 4028,
-   "non-technical role": 3246,
-   "not an early-career posting": 2924,
+   "non-technical role": 3240,
+   "not an early-career posting": 2926,
    "non-CS engineering discipline": 897,
    "quant role without early-career marker": 268,
    "research role without early-career marker": 129
   },
   "link_check": {
-   "ok": 434,
+   "ok": 435,
    "blocked": 45,
-   "error": 7,
+   "error": 6,
    "checked": 486,
-   "conclusive": 434,
+   "conclusive": 435,
    "resolving_pct": 100.0
   }
  }
