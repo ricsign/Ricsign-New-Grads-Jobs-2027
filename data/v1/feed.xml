@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-20T11:46:04+00:00</updated>
+  <updated>2026-10-20T17:15:23+00:00</updated>
   <entry>
     <title>Palantir — Software Engineer, Internship - Query Engines</title>
     <link href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"/>
@@ -28,6 +28,22 @@
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Hawthorne, CA · security-clearance · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Intel — Signal Integrity Student Worker Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Signal-Integrity-Student-Worker-Engineer_JR0288318"/>
+    <id>tag:ricsign.github.io,2026:5542e7505996c610</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Costa Rica, San Jose · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Intel — Thin Films Module Engineering - PhD Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074"/>
+    <id>tag:ricsign.github.io,2026:5112407dfb45a3fb</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Scale AI — Machine Learning Research Intern (Summer 2027)</title>
@@ -388,21 +404,5 @@
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>United States · security-clearance · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Faire — Applied AI/ML Scientist, Intern</title>
-    <link href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002"/>
-    <id>tag:ricsign.github.io,2026:95bf8a53d46a92e8</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>DoorDash — Software Engineer, Intern - Labs (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774"/>
-    <id>tag:ricsign.github.io,2026:1e75a55af88b77c1</id>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA, Sunnyvale, CA · unknown · masters-preferred</summary>
   </entry>
 </feed>
