@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**83 open roles** · last verified 2026-10-20 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**85 open roles** · last verified 2026-10-20 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -71,6 +71,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Salesforce** | Summer 2027 Intern - AI Research · _Summer 2027_ | California - Palo Alto | — | · | — | today · Oct 20 | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) |
+| **SambaNova** | AI Performance Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | today · Oct 20 | today · Oct 20 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training · _Summer 2027_ | Mountain View, California, United States, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 19 | 1d · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 19 | 1d · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) |
 | **Waymo** | 2027 Summer Intern, PhD, Research, Behavior Post-training · _Summer 2027_ | Mountain View, CA, USA, San Francisco, CA, USA +2 | — | ·🎓 | 1d · Oct 19 | 1d · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8289816) |
@@ -136,6 +138,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | AI Data Science / Software Engineering PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 20 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) |
 | **Intel** | Thin Films Module Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 20 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074) |
 | **Faire** | Applied AI/ML Scientist, Intern · _Winter 2027_ | San Francisco, CA | — | ·📗 | 14d · Oct 6 | 11d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 14d · Oct 6 | 13d · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
@@ -144,8 +147,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Pinterest** | PhD Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 19d · Oct 1 | 19d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
 | **Pinterest** | PhD Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 19d · Oct 1 | 19d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
 | **Lyft** | Applied Scientist Intern, PhD (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 22d · Sep 28 | 22d · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
-| **Intel** | Module Engineering PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | 1mo · Sep 10 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1) |
 
 ---
 
-Generated 2026-10-20 17:15 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-20 21:41 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

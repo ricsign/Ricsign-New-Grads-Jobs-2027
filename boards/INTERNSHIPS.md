@@ -47,7 +47,6 @@ Software engineering and research internships at the same curated bar.
 | **Stripe** | High School Internship, Software Engineering (Summer 2027) · _Summer 2027_ | Seattle, San Francisco, US-SF-HQ | — | · | 20d · Sep 30 | 20d · Sep 30 | [apply](https://stripe.com/jobs/search?gh_jid=8241260) |
 | **Scale AI** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA | — | · | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | **Sierra** | Software Engineer Intern, Agent (Summer 2027) · _Summer 2027_ | San Francisco, CA, New York, NY | — | ·📗 | 1mo · Aug 31 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application) |
-| **Databricks** | Software Engineering Intern (2027 Start) - Winter · _Winter 2027_ | Bellevue, Washington, Mountain View, California +1 | — | · | 2mo · Aug 20 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) |
 | **Mercor** | Data Science Intern | San Francisco | $70/hr | · | 2mo · Aug 19 | 1mo · Sep 16 | [apply](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a/application) |
 | **Mercor** | Software Engineer Intern | San Francisco | $70/hr | · | 2mo · Aug 4 | 1mo · Sep 16 | [apply](https://jobs.ashbyhq.com/mercor/de3025e5-10ca-4d55-b688-eff0e647ac8d/application) |
 | **Cohere** | Machine Learning Intern/Co-op (Winter 2027) · _Winter 2027_ | United States | — | · | 5mo · May 13 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
@@ -62,6 +61,8 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Adobe** | 2027 Intern - Security Engineer · _2027_ | San Jose | — | · | — | today · Oct 20 | [apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) |
+| **Salesforce** | Summer 2027 Intern - AI Research · _Summer 2027_ | California - Palo Alto | — | · | — | today · Oct 20 | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) |
 | **Anduril Industries** | 2027 Field Test Engineer Intern · _2027_ | Costa Mesa, California, United States, Quincy, Massachusetts, United States | — | 🇺🇸📗 | 1d · Oct 19 | 1d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
 | **Anduril Industries** | 2027 Low Observables Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 1d · Oct 19 | 1d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
 | **Palantir** | Software Engineer, Internship - Query Engines | New York, NY | — | ·📗 | 1d · Oct 19 | today · Oct 20 | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
@@ -88,7 +89,6 @@ Software engineering and research internships at the same curated bar.
 | **PDT Partners** | Summer 2027 Quantitative Research Intern - PhD/Postdoctoral · _Summer 2027_ | New York, NY | — | ·🎓 | 13d · Oct 7 | 13d · Oct 7 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
 | **Figma** | PhD Intern, AI Applied Scientist (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 15d · Oct 5 | 14d · Oct 6 | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
 | **Amazon** | Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA) · _Summer 2027_ | Seattle, Washington, USA | — | · | 18d · Oct 2 | 18d · Oct 2 | [apply](https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa) |
-| **Salesforce** | Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare &… · _Summer 2027_ | New York - New York | — | · | — | 19d · Oct 1 | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) |
 | **Amazon** | Software Development Engineer Intern, AWS Database - 2027 (US) · _2027_ | Seattle, Washington, USA | — | · | 20d · Sep 30 | 20d · Sep 30 | [apply](https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 25d · Sep 25 | 25d · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | **Notion** | Software Engineer Intern, Mobile (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 26d · Sep 24 | 26d · Sep 24 | [apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application) |
@@ -158,6 +158,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Intel** | AI Data Science / Software Engineering PhD Intern New 2027 · _2027_ | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 20 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) |
 | **Intel** | Signal Integrity Student Worker Engineer | Costa Rica, San Jose | — | · | — | today · Oct 20 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Signal-Integrity-Student-Worker-Engineer_JR0288318) |
 | **Intel** | Thin Films Module Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 20 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074) |
 | **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 11d · Oct 9 | 11d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
@@ -172,7 +173,6 @@ Software engineering and research internships at the same curated bar.
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | · | 26d · Sep 24 | 26d · Sep 24 | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
 | **ExodusPoint** | Quant Credit Intern - PA (Hybrid) - December 2026 · _2026_ | Wynnewood, PA, Pennsylvania | — | · | 1mo · Sep 14 | 2d · Oct 18 | [apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) |
 | **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | 1mo · Sep 11 | 1mo · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
-| **Intel** | Module Engineering PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | 1mo · Sep 10 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 · _Summer 2027_ | San Mateo, CA United States | — | 🌏 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 1mo · Aug 25 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
@@ -184,4 +184,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-20 17:15 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-20 21:41 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

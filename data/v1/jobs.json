@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-20T17:15:22+00:00",
+ "generated_at": "2026-10-20T21:41:45+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 486,
+ "count": 485,
  "jobs": [
   {
    "uid": "df1bbd48162a7c29",
@@ -773,34 +773,6 @@
    "openings": 1
   },
   {
-   "uid": "9621dd992804227e",
-   "company_slug": "databricks",
-   "company_name": "Databricks",
-   "company_tier": 0,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Software Engineering Intern (2027 Start) - Winter",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002",
-   "locations": [
-    "Bellevue, Washington",
-    "Mountain View, California",
-    "San Francisco, California"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-20",
-   "posted_at": "2026-08-20",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "University Recruiting - Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "4d2dfae68f01e375",
    "company_slug": "mercor",
    "company_name": "Mercor",
@@ -1310,6 +1282,85 @@
    "season": "2027",
    "compensation": null,
    "department": "University Recruiting - Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "999ae9a4952432a4",
+   "company_slug": "adobe",
+   "company_name": "Adobe",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "2027 Intern - Security Engineer",
+   "apply_url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+   "locations": [
+    "San Jose"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-20",
+   "last_verified": "2026-10-20",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "42798f0a13f8a3bf",
+   "company_slug": "salesforce",
+   "company_name": "Salesforce",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Summer 2027 Intern - AI Research",
+   "apply_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
+   "locations": [
+    "California - Palo Alto"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-20",
+   "last_verified": "2026-10-20",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "969994beceda9bbf",
+   "company_slug": "sambanova",
+   "company_name": "SambaNova",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "AI Performance Engineer - New Grad",
+   "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004",
+   "locations": [
+    "Austin, Texas, United States",
+    "San Jose, California, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-20",
+   "last_verified": "2026-10-20",
+   "posted_at": "2026-10-20",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2593,33 +2644,6 @@
    "openings": 1
   },
   {
-   "uid": "6c35033373ba2b3e",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
-   "locations": [
-    "Mountain View, CA, USA",
-    "Mountain View (US-MTV-EMF680)"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-07",
-   "last_verified": "2026-10-20",
-   "posted_at": "2026-10-06",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "e0d17352a577596c",
    "company_slug": "waymo",
    "company_name": "Waymo",
@@ -2919,16 +2943,16 @@
    "openings": 1
   },
   {
-   "uid": "b5f5668436a4cb8c",
+   "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
+   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
-    "United States"
+    "Salt Lake City, Utah, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -2945,16 +2969,16 @@
    "openings": 1
   },
   {
-   "uid": "a386241d1f2da194",
+   "uid": "b5f5668436a4cb8c",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
    "locations": [
-    "Salt Lake City, Utah, United States"
+    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -3020,32 +3044,6 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "05b676908244e6e5",
-   "company_slug": "salesforce",
-   "company_name": "Salesforce",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)",
-   "apply_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
-   "locations": [
-    "New York - New York"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-01",
-   "last_verified": "2026-10-20",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5582,16 +5580,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -5608,16 +5606,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -6760,6 +6758,33 @@
    "openings": 1
   },
   {
+   "uid": "f1665dc41aff8a36",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "locations": [
+    "Bastrop, TX",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-20",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6796,33 +6821,6 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
     "Palo Alto, CA",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-20",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "f1665dc41aff8a36",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
-   "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -11535,6 +11533,32 @@
    "openings": 1
   },
   {
+   "uid": "c3e05e7fb48e24e9",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "AI Data Science / Software Engineering PhD Intern New 2027",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-20",
+   "last_verified": "2026-10-20",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "5542e7505996c610",
    "company_slug": "intel",
    "company_name": "Intel",
@@ -12564,32 +12588,6 @@
    "openings": 1
   },
   {
-   "uid": "3940f06938383f3a",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Module Engineering PhD Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern_JR0287022-1",
-   "locations": [
-    "US, Oregon, Hillsboro"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-10",
-   "last_verified": "2026-10-20",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "48f830dd976f5a10",
    "company_slug": "verkada",
    "company_name": "Verkada",
@@ -12612,7 +12610,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12638,7 +12636,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12664,7 +12662,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12820,7 +12818,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12897,32 +12895,6 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Campus - Quantitative Trading",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "ea19fa435c5e77ac",
-   "company_slug": "belvedere",
-   "company_name": "Belvedere Trading",
-   "company_tier": 2,
-   "company_category": "quant",
-   "source": "lever",
-   "title": "Software Engineer - Entry Level 2027",
-   "apply_url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f",
-   "locations": [
-    "Chicago, Illinois"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-20",
-   "posted_at": "2026-08-04",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Campus",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -13109,7 +13081,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {

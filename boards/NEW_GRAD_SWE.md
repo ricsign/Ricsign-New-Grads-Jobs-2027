@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**57 open roles** · last verified 2026-10-20 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**58 open roles** · last verified 2026-10-20 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -44,6 +44,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **SambaNova** | AI Performance Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | today · Oct 20 | today · Oct 20 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
 | **Anduril Industries** | 2027 Early Career Warhead Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 1d · Oct 19 | 1d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) |
 | **Palantir** | Software Engineer, New Grad - Query Engines | New York, NY | — | ·📗 | 1d · Oct 19 | today · Oct 20 | [apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | **SpaceX** | New Graduate Engineer, Electrical (Starshield) | Hawthorne, CA | — | 🔒📗 | 1d · Oct 19 | today · Oct 20 | [apply](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) |
@@ -98,4 +99,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-20 17:15 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-20 21:41 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

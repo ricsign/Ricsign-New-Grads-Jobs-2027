@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-20T17:15:23+00:00</updated>
+  <updated>2026-10-20T21:41:45+00:00</updated>
+  <entry>
+    <title>Adobe — 2027 Intern - Security Engineer</title>
+    <link href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001"/>
+    <id>tag:ricsign.github.io,2026:999ae9a4952432a4</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Palantir — Software Engineer, Internship - Query Engines</title>
     <link href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"/>
@@ -22,6 +30,22 @@
     <summary>New York, NY · unknown · masters-preferred</summary>
   </entry>
   <entry>
+    <title>Salesforce — Summer 2027 Intern - AI Research</title>
+    <link href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1"/>
+    <id>tag:ricsign.github.io,2026:42798f0a13f8a3bf</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>California - Palo Alto · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — AI Performance Engineer - New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004"/>
+    <id>tag:ricsign.github.io,2026:969994beceda9bbf</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
     <title>SpaceX — New Graduate Engineer, Electrical (Starshield)</title>
     <link href="https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002"/>
     <id>tag:ricsign.github.io,2026:a50b4e5af77a8dd9</id>
@@ -30,12 +54,12 @@
     <summary>Hawthorne, CA · security-clearance · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Intel — Signal Integrity Student Worker Engineer</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Signal-Integrity-Student-Worker-Engineer_JR0288318"/>
-    <id>tag:ricsign.github.io,2026:5542e7505996c610</id>
+    <title>Intel — AI Data Science / Software Engineering PhD Intern New 2027</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136"/>
+    <id>tag:ricsign.github.io,2026:c3e05e7fb48e24e9</id>
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>Costa Rica, San Jose · unknown · unspecified</summary>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Intel — Thin Films Module Engineering - PhD Intern</title>
@@ -44,6 +68,14 @@
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Intel — Signal Integrity Student Worker Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Signal-Integrity-Student-Worker-Engineer_JR0288318"/>
+    <id>tag:ricsign.github.io,2026:5542e7505996c610</id>
+    <updated>2026-10-20T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Costa Rica, San Jose · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Scale AI — Machine Learning Research Intern (Summer 2027)</title>
@@ -372,37 +404,5 @@
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Boston, Massachusetts, United States, Boulder, Colorado, United States, Costa Mesa, California, United States, Foothill Ranch, California, United States, Huntsville, Alabama, United States, Reston, Virginia, United States, Seattle, Washington, United States, Washington, District of Columbia, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Coinbase — Forward Deployed Engineer Intern (HR Technology)</title>
-    <link href="https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"/>
-    <id>tag:ricsign.github.io,2026:bda02e3ba469ac17</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>SpaceX — New Graduate Engineer, Automation - '26/'27 (Starlink)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002"/>
-    <id>tag:ricsign.github.io,2026:f9099bddb934503d</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Bastrop, TX · citizenship-required · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Affirm — IT Engineer Intern (Early Careers Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/affirm/jobs/8011375003"/>
-    <id>tag:ricsign.github.io,2026:83e061dc893924ac</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, California, United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Elastic — Principal Software Engineer I - CI/CD - Platform Engineering Productivity</title>
-    <link href="https://jobs.elastic.co/jobs?gh_jid=8240105&amp;gh_jid=8240105"/>
-    <id>tag:ricsign.github.io,2026:e63a532f2f7d9d4a</id>
-    <updated>2026-10-09T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States · security-clearance · unspecified</summary>
   </entry>
 </feed>
