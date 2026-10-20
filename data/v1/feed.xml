@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-20T04:57:36+00:00</updated>
+  <updated>2026-10-20T11:46:04+00:00</updated>
   <entry>
     <title>Palantir — Software Engineer, Internship - Query Engines</title>
     <link href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"/>
@@ -116,14 +116,6 @@
     <updated>2026-10-19T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Intel — Cloud Analytics - Application PhD Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170"/>
-    <id>tag:ricsign.github.io,2026:d74d90b88ff8088b</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>ExodusPoint — Quant Credit Intern - PA (Hybrid) - December 2026</title>
@@ -404,5 +396,13 @@
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>DoorDash — Software Engineer, Intern - Labs (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774"/>
+    <id>tag:ricsign.github.io,2026:1e75a55af88b77c1</id>
+    <updated>2026-10-08T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, Sunnyvale, CA · unknown · masters-preferred</summary>
   </entry>
 </feed>
