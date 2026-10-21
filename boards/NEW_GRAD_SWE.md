@@ -80,6 +80,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Affirm** | Analyst, Early Career (Full Stack) | New York, New York, United States, San Francisco, California, United States | — | · | today · Oct 21 | today · Oct 21 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
 | **Elastic** | Principal Software Engineer I - Platform Billing Experience | United States | — | 🔒 | 7d · Oct 14 | 6d · Oct 15 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815) |
 | **Elastic** | Principal Software Engineer I - CI/CD - Platform Engineering Productivity | United States | — | 🔒 | 12d · Oct 9 | 12d · Oct 9 | [apply](https://jobs.elastic.co/jobs?gh_jid=8240105&gh_jid=8240105) |
 | **Fastly** | Customer Support Engineer | Austin, TX, Chicago, IL +3 | — | · | 14d · Oct 7 | 14d · Oct 7 | [apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
@@ -90,7 +91,6 @@ Full-time entry-level software engineering roles in the US.
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 20d · Oct 1 | 20d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Pinterest** | Master's University Grad Machine Learning Engineer 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 20d · Oct 1 | 20d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) |
 | **Pinterest** | PhD University Grad Machine Learning Engineer (USA) | San Francisco, CA, US, Palo Alto, CA, US +1 | — | ·🎓 | 20d · Oct 1 | 20d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140363) |
-| **Nuro** | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ), California - HQ | — | · | 28d · Sep 23 | 28d · Sep 23 | [apply](https://nuro.ai/careersitem?gh_jid=8227399) |
 | **Verkada** | Enterprise Development Representative (December 2026 Grads) · _2026_ | Austin, TX United States, Austin office | — | 🛂 | 1mo · Sep 16 | 1mo · Sep 16 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5226332007) |
 | **Verkada** | Technical Support Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5121488007) |
 | **Grafana Labs** | Solutions Engineer \| Central US \| Remote | United States (Remote), USA (Remote) | — | · | 2mo · Jul 27 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004) |
@@ -100,4 +100,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-21 17:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-21 21:47 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

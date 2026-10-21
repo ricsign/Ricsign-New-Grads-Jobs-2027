@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**133 open roles** · last verified 2026-10-21 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**131 open roles** · last verified 2026-10-21 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,15 +10,12 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (16)
+## 🆕 Posted in the last 7 days (13)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Scale AI** | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY +1 | 2d · Oct 19 |
 | **Figure AI** | [Embedded Software Engineering Intern [Winter 2027]](https://job-boards.greenhouse.io/figureai/jobs/4722086006) | San Jose, CA | 7d · Oct 14 |
-| **Anduril Industries** | [2027 Finance Data Analyst Intern](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) | Costa Mesa, California, United States | 1d · Oct 20 |
-| **Anduril Industries** | [2027 Field Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | Costa Mesa, California, United States +1 | 2d · Oct 19 |
-| **Anduril Industries** | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Costa Mesa, California, United States | 2d · Oct 19 |
 | **Palantir** | [Software Engineer, Internship - Query Engines](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) | New York, NY | 2d · Oct 19 |
 | **Waymo** | [2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training](https://careers.withwaymo.com/jobs?gh_jid=8283558) | Mountain View, California, United States +1 | 2d · Oct 19 |
 | **Waymo** | [2027 Summer Intern, PhD, Research Scientist, Visual Reasoning](https://careers.withwaymo.com/jobs?gh_jid=8292367) | Mountain View, CA, USA +1 | 2d · Oct 19 |
@@ -29,6 +26,7 @@ Software engineering and research internships at the same curated bar.
 | **Airbnb** | [Strategic Finance & Analytics Intern (MBA)](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) | United States | 6d · Oct 15 |
 | **Point72 / Cubist** | [2027 Summer Internship - Fundamental Researcher, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | New York, NY | 7d · Oct 14 |
 | **Point72 / Cubist** | [2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) | New York, NY | 7d · Oct 14 |
+| **Point72 / Cubist** | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | New York, NY | 7d · Oct 14 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -61,11 +59,9 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **NVIDIA** | Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial… · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Oct 21 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027) |
-| **NVIDIA** | Systems Software Intern, Aerial PHY- Summer 2027 · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Oct 21 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) |
-| **Anduril Industries** | 2027 Finance Data Analyst Intern · _2027_ | Costa Mesa, California, United States | — | ·📗 | 1d · Oct 20 | today · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) |
-| **Anduril Industries** | 2027 Field Test Engineer Intern · _2027_ | Costa Mesa, California, United States, Quincy, Massachusetts, United States | — | 🇺🇸📗 | 2d · Oct 19 | 2d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
-| **Anduril Industries** | 2027 Low Observables Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 2d · Oct 19 | 2d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
+| **Anduril Industries** | 2027 Business Operations Engineer Intern · _2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States | — | 🇺🇸📗 | today · Oct 21 | today · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
+| **Anduril Industries** | 2027 Product Sourcing Engineer Intern · _2027_ | Costa Mesa, California, United States, Irvine, California, United States +1 | — | 🇺🇸📗 | today · Oct 21 | today · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
+| **Anduril Industries** | Winter 2027 Business Operations Engineer Co-op · _Winter 2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States | — | 🇺🇸📗 | today · Oct 21 | today · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) |
 | **Palantir** | Software Engineer, Internship - Query Engines | New York, NY | — | ·📗 | 2d · Oct 19 | 1d · Oct 20 | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training · _Summer 2027_ | Mountain View, California, United States, Mountain View (US-MTV-EMF680) | — | ·🎓 | 2d · Oct 19 | 2d · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 2d · Oct 19 | 2d · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) |
@@ -169,7 +165,7 @@ Software engineering and research internships at the same curated bar.
 | **Lyft** | Applied Scientist Intern, PhD (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 23d · Sep 28 | 23d · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | · | 27d · Sep 24 | 27d · Sep 24 | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
 | **ExodusPoint** | Quant Credit Intern - PA (Hybrid) - December 2026 · _2026_ | Wynnewood, PA, Pennsylvania | — | · | 1mo · Sep 14 | 3d · Oct 18 | [apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) |
-| **Lyft** | Data Analyst Intern (Summer 2027) · _Summer 2027_ | New York, NY, New York Office | — | ·📗 | 1mo · Sep 11 | 1mo · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) |
+| **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) · _Summer 2027_ · `2 openings` | New York, NY, San Francisco Office +1 | — | ·📗 | 1mo · Sep 11 | 1mo · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 · _Summer 2027_ | San Mateo, CA United States | — | 🌏 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 1mo · Aug 25 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
@@ -181,4 +177,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-21 17:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-21 21:47 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-21T17:17:45+00:00",
+ "generated_at": "2026-10-21T21:47:05+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 480,
+ "count": 479,
  "jobs": [
   {
    "uid": "df1bbd48162a7c29",
@@ -1287,53 +1287,83 @@
    "openings": 1
   },
   {
-   "uid": "c9e97a70e652f7fd",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
+   "uid": "5a2b194dd7ad0e04",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
    "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027",
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Business Operations Engineer Intern",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007",
    "locations": [
-    "US, CA, Santa Clara"
+    "Ashville, Ohio, United States",
+    "Costa Mesa, California, United States"
    ],
    "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
    "first_seen": "2026-10-21",
    "last_verified": "2026-10-21",
-   "posted_at": null,
+   "posted_at": "2026-10-21",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
-   "department": null,
+   "department": "Templates : Intern",
    "active": true,
    "link_status": "ok",
    "openings": 1
   },
   {
-   "uid": "1e697358cb76ecf1",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
+   "uid": "bf6fd8cc0171895e",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
    "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Systems Software Intern, Aerial PHY- Summer 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Product Sourcing Engineer Intern",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007",
    "locations": [
-    "US, CA, Santa Clara"
+    "Costa Mesa, California, United States",
+    "Irvine, California, United States",
+    "Santa Ana, California, United States"
    ],
    "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
    "first_seen": "2026-10-21",
    "last_verified": "2026-10-21",
-   "posted_at": null,
+   "posted_at": "2026-10-21",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "2027",
    "compensation": null,
-   "department": null,
+   "department": "Templates : Intern",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "96d11c6d58b47811",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Winter 2027 Business Operations Engineer Co-op",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007",
+   "locations": [
+    "Ashville, Ohio, United States",
+    "Costa Mesa, California, United States"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-10-21",
+   "last_verified": "2026-10-21",
+   "posted_at": "2026-10-21",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "Templates : Intern",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2643,33 +2673,6 @@
    "openings": 1
   },
   {
-   "uid": "50dd4f00afffcff4",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-   "locations": [
-    "Mountain View, CA, USA",
-    "Mountain View (US-MTV-EMF680)"
-   ],
-   "track": "internship",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-07",
-   "last_verified": "2026-10-21",
-   "posted_at": "2026-10-06",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "e0d17352a577596c",
    "company_slug": "waymo",
    "company_name": "Waymo",
@@ -2943,16 +2946,16 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
-    "United States"
+    "Salt Lake City, Utah, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -2969,16 +2972,16 @@
    "openings": 1
   },
   {
-   "uid": "a386241d1f2da194",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
-    "Salt Lake City, Utah, United States"
+    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -3952,33 +3955,6 @@
    "openings": 1
   },
   {
-   "uid": "31551d1d0511c5d7",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-   "locations": [
-    "Mountain View, CA, USA",
-    "Mountain View (US-MTV-EMF680)"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-22",
-   "last_verified": "2026-10-21",
-   "posted_at": "2026-09-21",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "d942d2e2f3a5534d",
    "company_slug": "waymo",
    "company_name": "Waymo",
@@ -4396,6 +4372,33 @@
    "season": null,
    "compensation": null,
    "department": "Platform",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "d65875a38dccbd37",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+   "locations": [
+    "San Francisco, California",
+    "San Francisco (US-SFO-MKT555)"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-17",
+   "last_verified": "2026-10-21",
+   "posted_at": "2026-09-16",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6626,32 +6629,6 @@
    "openings": 1
   },
   {
-   "uid": "838e125facd50072",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-21",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Satellite Payload Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "14812f7b8d47b8ff",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6673,6 +6650,32 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "838e125facd50072",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-21",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Satellite Payload Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6757,15 +6760,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -6810,16 +6814,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -11480,6 +11483,33 @@
    "openings": 1
   },
   {
+   "uid": "d52818944f2167d4",
+   "company_slug": "affirm",
+   "company_name": "Affirm",
+   "company_tier": 2,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Analyst, Early Career (Full Stack)",
+   "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
+   "locations": [
+    "New York, New York, United States",
+    "San Francisco, California, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-21",
+   "last_verified": "2026-10-21",
+   "posted_at": "2026-10-21",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Consumer Analytics",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "6e586fd10b3ba83d",
    "company_slug": "elastic",
    "company_name": "Elastic",
@@ -12188,33 +12218,6 @@
    "openings": 1
   },
   {
-   "uid": "9ded53f7cc940983",
-   "company_slug": "nuro",
-   "company_name": "Nuro",
-   "company_tier": 2,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-   "apply_url": "https://nuro.ai/careersitem?gh_jid=8227399",
-   "locations": [
-    "Mountain View, California (HQ)",
-    "California - HQ"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-23",
-   "last_verified": "2026-10-21",
-   "posted_at": "2026-09-23",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Fleet Infrastructure",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "46f6166524cfdf70",
    "company_slug": "belvedere",
    "company_name": "Belvedere Trading",
@@ -12349,17 +12352,17 @@
    "openings": 1
   },
   {
-   "uid": "8f27590ba2a420c0",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
-   "title": "Data Analyst Intern (Summer 2027)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
+   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
-    "New York Office"
+    "San Francisco, CA",
+    "San Francisco Office"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -12386,33 +12389,6 @@
    "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
     "New York, NY",
-    "San Francisco Office"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-11",
-   "last_verified": "2026-10-21",
-   "posted_at": "2026-09-11",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Early Talent",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "76f4d3fe53e0ea8d",
-   "company_slug": "lyft",
-   "company_name": "Lyft",
-   "company_tier": 2,
-   "company_category": "consumer",
-   "source": "greenhouse",
-   "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
-   "locations": [
-    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
