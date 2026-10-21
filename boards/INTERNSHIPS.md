@@ -61,8 +61,9 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **NVIDIA** | Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial… · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Oct 21 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027) |
+| **NVIDIA** | Systems Software Intern, Aerial PHY- Summer 2027 · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Oct 21 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530) |
 | **Anduril Industries** | 2027 Finance Data Analyst Intern · _2027_ | Costa Mesa, California, United States | — | ·📗 | 1d · Oct 20 | today · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) |
-| **Salesforce** | Summer 2027 Intern - AI Research · _Summer 2027_ | California - Palo Alto | — | · | — | 1d · Oct 20 | [apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) |
 | **Anduril Industries** | 2027 Field Test Engineer Intern · _2027_ | Costa Mesa, California, United States, Quincy, Massachusetts, United States | — | 🇺🇸📗 | 2d · Oct 19 | 2d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
 | **Anduril Industries** | 2027 Low Observables Engineer Intern · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 2d · Oct 19 | 2d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
 | **Palantir** | Software Engineer, Internship - Query Engines | New York, NY | — | ·📗 | 2d · Oct 19 | 1d · Oct 20 | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
@@ -157,7 +158,6 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Intel** | AI Data Science / Software Engineering PhD Intern New 2027 · _2027_ · `2 openings` | US, California, Santa Clara, US, Oregon, Hillsboro | — | ·🎓 | — | today · Oct 21 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) |
 | **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 12d · Oct 9 | 12d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
 | **Pinterest** | Solutions Engineer Intern 2027 (USA) · _2027_ | San Francisco, CA, US, Remote, US | — | · | 13d · Oct 8 | 13d · Oct 8 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
 | **Faire** | Applied AI/ML Scientist, Intern · _Winter 2027_ | San Francisco, CA | — | ·📗 | 15d · Oct 6 | 12d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
@@ -181,4 +181,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-21 04:56 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-21 11:57 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

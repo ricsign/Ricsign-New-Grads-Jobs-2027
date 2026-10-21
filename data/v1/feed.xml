@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-21T04:56:45+00:00</updated>
+  <updated>2026-10-21T11:57:44+00:00</updated>
   <entry>
     <title>Anduril Industries — 2027 Finance Data Analyst Intern</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
@@ -14,12 +14,20 @@
     <summary>Costa Mesa, California, United States · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Intel — AI Data Science / Software Engineering PhD Intern New 2027</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138"/>
-    <id>tag:ricsign.github.io,2026:4b173b12f93bfa03</id>
+    <title>NVIDIA — Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027"/>
+    <id>tag:ricsign.github.io,2026:c9e97a70e652f7fd</id>
     <updated>2026-10-21T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>US, California, Santa Clara · unknown · phd-required</summary>
+    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — Systems Software Intern, Aerial PHY- Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"/>
+    <id>tag:ricsign.github.io,2026:1e697358cb76ecf1</id>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Palantir — Software Engineer, Internship - Query Engines</title>
@@ -38,14 +46,6 @@
     <summary>New York, NY · unknown · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Salesforce — Summer 2027 Intern - AI Research</title>
-    <link href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1"/>
-    <id>tag:ricsign.github.io,2026:42798f0a13f8a3bf</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>California - Palo Alto · unknown · unspecified</summary>
-  </entry>
-  <entry>
     <title>SambaNova — AI Performance Engineer - New Grad</title>
     <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004"/>
     <id>tag:ricsign.github.io,2026:969994beceda9bbf</id>
@@ -60,14 +60,6 @@
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Hawthorne, CA · security-clearance · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Intel — AI Data Science / Software Engineering PhD Intern New 2027</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136"/>
-    <id>tag:ricsign.github.io,2026:c3e05e7fb48e24e9</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Scale AI — Machine Learning Research Intern (Summer 2027)</title>
@@ -404,5 +396,13 @@
     <updated>2026-10-09T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>SpaceX — New Graduate Engineer, Automation - '26/'27 (Starlink)</title>
+    <link href="https://boards.greenhouse.io/spacex/jobs/8877862002?gh_jid=8877862002"/>
+    <id>tag:ricsign.github.io,2026:f9099bddb934503d</id>
+    <updated>2026-10-09T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Bastrop, TX · citizenship-required · bachelors</summary>
   </entry>
 </feed>
