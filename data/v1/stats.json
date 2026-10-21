@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-21T11:57:44+00:00",
- "live_requisitions": 481,
- "live_roles": 442,
+ "generated_at": "2026-10-21T17:17:45+00:00",
+ "live_requisitions": 480,
+ "live_roles": 441,
  "companies_with_open_roles": 71,
  "posted_age": {
   "median_days": 51,
@@ -15,12 +15,12 @@
   "new-grad-swe": 123,
   "ai-research": 13,
   "quant": 50,
-  "internship": 295,
+  "internship": 294,
   "other": 0
  },
  "by_tier": {
   "0": 46,
-  "1": 377,
+  "1": 376,
   "2": 58
  },
  "by_sponsorship": {
@@ -28,18 +28,18 @@
   "no-sponsorship": 8,
   "citizenship-required": 55,
   "security-clearance": 50,
-  "unknown": 343
+  "unknown": 342
  },
  "by_degree": {
   "bachelors": 79,
   "masters-preferred": 172,
   "phd-required": 82,
-  "unspecified": 148
+  "unspecified": 147
  },
- "sponsorship_resolved_pct": 28.7,
+ "sponsorship_resolved_pct": 28.8,
  "link_verified_pct": 89.6,
  "by_link_status": {
-  "ok": 431,
+  "ok": 430,
   "blocked": 44,
   "error": 6,
   "dead": 0,
@@ -58,10 +58,10 @@
  "pipeline_health": {
   "boards_attempted": 129,
   "boards_ok": 125,
-  "boards_empty": 1,
-  "boards_failed": 3,
+  "boards_empty": 0,
+  "boards_failed": 4,
   "success_rate": 0.969,
-  "postings_fetched": 22799,
+  "postings_fetched": 22795,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -77,6 +77,11 @@
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
    },
    {
+    "company": "Old Mission Capital",
+    "ats": "greenhouse",
+    "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/oldmissioncapital/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+   },
+   {
     "company": "Amplitude",
     "ats": "greenhouse",
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/amplitude/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
@@ -87,30 +92,23 @@
     "error": "RuntimeError: GET https://boards-api.greenhouse.io/v1/boards/postman/jobs failed after 3 attempts: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/postman/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
    }
   ],
-  "empty_boards": [
-   {
-    "company": "Old Mission Capital",
-    "ats": "greenhouse",
-    "token": "oldmissioncapital"
-   }
-  ],
+  "empty_boards": [],
   "rejections": {
-   "not a US location": 6136,
-   "senior/experienced role": 4162,
-   "title is not a technical role": 4030,
-   "non-technical role": 3286,
-   "not an early-career posting": 2902,
-   "non-CS engineering discipline": 908,
-   "quant role without early-career marker": 252,
-   "research role without early-career marker": 133,
-   "missing title or apply url": 1
+   "not a US location": 6149,
+   "senior/experienced role": 4173,
+   "title is not a technical role": 4014,
+   "non-technical role": 3275,
+   "not an early-career posting": 2904,
+   "non-CS engineering discipline": 906,
+   "quant role without early-career marker": 253,
+   "research role without early-career marker": 133
   },
   "link_check": {
-   "ok": 431,
+   "ok": 430,
    "blocked": 44,
    "error": 6,
-   "checked": 481,
-   "conclusive": 431,
+   "checked": 480,
+   "conclusive": 430,
    "resolving_pct": 100.0
   }
  }

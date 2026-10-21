@@ -119,7 +119,6 @@ Software engineering and research internships at the same curated bar.
 | **Notion** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 2mo · Aug 14 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application) |
 | **The Voleon Group** | Software Engineer Intern - (Summer 2027) · _Summer 2027_ | Berkeley, CA, New York City, NY | $15k | · | 2mo · Aug 14 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application) |
 | **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 2mo · Aug 11 | 1mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
-| **AQR Capital** | 2027 Research Product Specialist Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 2mo · Aug 11 | 1mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) |
 | **Roblox** | [Summer 2027] Software Engineer Intern · _Summer 2027_ | San Mateo, CA, United States | — | ·📗 | 2mo · Aug 5 | 1mo · Sep 1 | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
 | **Chicago Trading Company** | Quant Trading Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) |
 | **Chicago Trading Company** | Software Engineering Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
@@ -145,6 +144,7 @@ Software engineering and research internships at the same curated bar.
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | New York | — | ·🎓 | 3mo · Jul 5 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) |
 | **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 3mo · Jul 5 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Commercial · _Spring 2028_ · `2 openings` | Chicago, IL, New York, NY | — | · | 3mo · Jun 30 | 1mo · Sep 1 | [apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
+| **AQR Capital** | 2027 Research and Portfolio Management Engineering Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 4mo · May 26 | 1mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) |
 | **Etched** | Chip Simulation Software Intern | San Jose | — | ·📗 | 5mo · May 19 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application) |
 | **Netflix** | Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026 · _Fall 2026_ | Los Gatos,California,United States of America | — | · | 6mo · Apr 24 | 1mo · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790315673635) |
 | **Radix Trading** | Quantitative Technologist (C++ Intern) | Radix Trading Chicago | — | · | 6mo · Apr 9 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
@@ -181,4 +181,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-21 11:57 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-21 17:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
