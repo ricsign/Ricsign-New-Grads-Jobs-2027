@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**58 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**60 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -28,6 +28,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Databricks** | Associate Forward Deployed Engineer | New York City, New York | — | · | today · Oct 22 | today · Oct 22 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
 | **Databricks** | Solutions Engineer · `2 openings` | Chicago, Illinois, New York City, New York | — | · | 7d · Oct 15 | 7d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 20d · Oct 2 | 20d · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 29d · Sep 23 | 29d · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
@@ -37,6 +38,7 @@ Full-time entry-level software engineering roles in the US.
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 1mo · Aug 31 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Aug 31 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
 | **xAI** | Software Engineer - Evals | Palo Alto, CA | — | · | 3mo · Jul 22 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
+| **Anthropic** | Research Associate, Biology | San Francisco, CA | — | 🌏📗 | 3mo · Jul 8 | today · Oct 22 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5285248008) |
 | **Databricks** | AI Engineer – Forward Deployed Engineering (AI FDE) | United States, Remote - California | — | ·📗 | 5mo · May 13 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | **Stripe** | Backend/API Engineer, Money as a Service · `open 2y+` | US | — | · | 2y · Aug 25 2024 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=6176758) |
 
@@ -99,4 +101,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-22 12:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-22 17:16 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

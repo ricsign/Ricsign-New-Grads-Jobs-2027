@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-22T12:00:05+00:00</updated>
+  <updated>2026-10-22T17:16:04+00:00</updated>
+  <entry>
+    <title>Anthropic — Research Associate, Biology</title>
+    <link href="https://job-boards.greenhouse.io/anthropic/jobs/5285248008"/>
+    <id>tag:ricsign.github.io,2026:82c2caade9b83da1</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco, CA · sponsors · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — Associate Forward Deployed Engineer</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"/>
+    <id>tag:ricsign.github.io,2026:c352395d5724eb72</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>New York City, New York · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Anduril Industries — Winter 2027 Robotics Engineer Co-op</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007"/>
@@ -36,6 +52,14 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 PhD Centralized Research Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8174538"/>
+    <id>tag:ricsign.github.io,2026:eecb43b36a929cf5</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, New York, United States · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Anduril Industries — 2027 Business Operations Engineer Intern</title>
@@ -380,29 +404,5 @@
     <updated>2026-10-13T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Point72 / Cubist — Data Research Fellowship</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002"/>
-    <id>tag:ricsign.github.io,2026:84aa0dc7cedf187b</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="quant"/>
-    <summary>New York, NY · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8279620"/>
-    <id>tag:ricsign.github.io,2026:7d423e35461b52a6</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, MS/PhD, Perception, Model Lifecycle</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8248411"/>
-    <id>tag:ricsign.github.io,2026:eac015896e3ee931</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>

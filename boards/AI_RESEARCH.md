@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**83 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**84 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -54,11 +54,11 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Perplexity** | Member of Technical Staff (New Grad) | San Francisco | — | · | 23d · Sep 29 | 23d · Sep 29 | [apply](https://jobs.ashbyhq.com/perplexity/5a4cec8b-5688-497c-a5ec-884f75d09511/application) |
 | **Perplexity** | Member of Technical Staff, AI Products (Early Career - Industry) | San Francisco | $180k–$270k | · | 1mo · Sep 18 | 1mo · Sep 19 | [apply](https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409/application) |
 | **Perplexity** | Perplexity Research Fellowship | San Francisco, Palo Alto +1 | $180k–$220k | · | 1mo · Sep 18 | 1mo · Sep 18 | [apply](https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8/application) |
+| **Anthropic** | Research Associate, Biology | San Francisco, CA | — | 🌏📗 | 3mo · Jul 8 | today · Oct 22 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5285248008) |
 | **Cohere** | Research Internship (Winter 2027) · _Winter 2027_ | San Francisco, United States | — | ·🎓 | 5mo · May 1 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Scale AI** | SWE Fellow - Human Frontier Collective (US) | United States | — | 🛂 | 5mo · Apr 29 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4689947005) |
 | **Anthropic** | Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) | Remote-Friendly US (Travel Required), San Francisco, CA | — | 🌏 | 6mo · Apr 23 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) |
 | **Anthropic** | Anthropic Fellows Program, AI Safety & Security | Remote-Friendly US (Travel Required), San Francisco, CA | — | 🌏 | 6mo · Apr 9 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) |
-| **Anthropic** | Anthropic Fellows Program, ML Systems & Reinforcement Learning | Remote-Friendly US (Travel Required), San Francisco, CA | — | 🌏 | 6mo · Apr 9 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) |
 | **Scale AI** | Machine Learning Fellow - Human Frontier Collective | United States | — | 🛂 | 8mo · Feb 12 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4660340005) |
 | **Physical Intelligence** | Research Internships · `open 2y+` | San Francisco | — | · | 2y · Aug 24 2024 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076/application) |
 | **Databricks** | PhD GenAI Research Scientist Intern · `open 2y+` | San Francisco, California, Mountain View, California | — | ·🎓 | 2y · Nov 7 2023 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
@@ -68,6 +68,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **NVIDIA** | PhD Research Intern, AI for Climate and Weather Simulation - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Oct 22 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) |
+| **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | today · Oct 22 | today · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | **SambaNova** | AI Performance Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 2d · Oct 20 | 2d · Oct 20 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
 | **Waymo** | 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training · _Summer 2027_ | Mountain View, California, United States, Mountain View (US-MTV-EMF680) | — | ·🎓 | 3d · Oct 19 | 3d · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8283558) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 3d · Oct 19 | 3d · Oct 19 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) |
@@ -144,4 +145,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-10-22 12:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-22 17:16 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

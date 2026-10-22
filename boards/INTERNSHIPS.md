@@ -61,6 +61,7 @@ Software engineering and research internships at the same curated bar.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **NVIDIA** | PhD Research Intern, AI for Climate and Weather Simulation - 2027 · _2027_ | US, CA, Santa Clara | — | ·🎓 | — | today · Oct 22 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949) |
 | **NVIDIA** | Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027 · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Oct 22 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) |
+| **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | today · Oct 22 | today · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | **Anduril Industries** | 2027 Business Operations Engineer Intern · _2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States | — | 🇺🇸📗 | 1d · Oct 21 | 1d · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
 | **Anduril Industries** | 2027 Product Sourcing Engineer Intern · _2027_ | Costa Mesa, California, United States, Irvine, California, United States +1 | — | 🇺🇸📗 | 1d · Oct 21 | 1d · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
 | **Anduril Industries** | Winter 2027 Business Operations Engineer Co-op · _Winter 2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States | — | 🇺🇸📗 | 1d · Oct 21 | 1d · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007) |
@@ -101,7 +102,6 @@ Software engineering and research internships at the same curated bar.
 | **Cloudflare** | Software Engineer Intern (2027) - Austin, TX · _2027_ | Austin, TX | — | 🛂 | 1mo · Sep 16 | 24d · Sep 28 | [apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) |
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 1mo · Sep 15 | 1mo · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
 | **Five Rings** | Summer 2027 - Trading Operations Engineer Intern · _Summer 2027_ | New York City | — | · | 1mo · Sep 15 | 1mo · Sep 15 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008) |
-| **Schonfeld** | 2027 Platform Engineering Intern · _2027_ | New York, New York, United States | — | · | 1mo · Sep 10 | 1mo · Sep 10 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171699) |
 | **Datadog** | Software Engineering Intern (Summer) | Boston, Massachusetts, USA, New York, New York, USA | — | 🇺🇸 | 1mo · Sep 8 | 1mo · Sep 8 | [apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
 | **Qube Research & Technologies** | 2027 Internship – Security Engineer · _2027_ | NYC | — | ·📗 | 1mo · Sep 8 | 20d · Oct 2 | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002) |
 | **Qube Research & Technologies** | 2027 – Internship or Graduate, FPGA Engineering · _2027_ | NYC | — | ·📗 | 1mo · Sep 8 | 20d · Oct 2 | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002) |
@@ -179,4 +179,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-22 12:00 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-22 17:16 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

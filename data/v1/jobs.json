@@ -1,10 +1,36 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-22T12:00:05+00:00",
+ "generated_at": "2026-10-22T17:16:04+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 483,
+ "count": 484,
  "jobs": [
+  {
+   "uid": "c352395d5724eb72",
+   "company_slug": "databricks",
+   "company_name": "Databricks",
+   "company_tier": 0,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Associate Forward Deployed Engineer",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+   "locations": [
+    "New York City, New York"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Professional Services Operations",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
   {
    "uid": "df1bbd48162a7c29",
    "company_slug": "scale-ai",
@@ -863,6 +889,32 @@
    "openings": 1
   },
   {
+   "uid": "82c2caade9b83da1",
+   "company_slug": "anthropic",
+   "company_name": "Anthropic",
+   "company_tier": 0,
+   "company_category": "ai-lab",
+   "source": "greenhouse",
+   "title": "Research Associate, Biology",
+   "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5285248008",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "sponsors",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-07-08",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "AI Research & Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "0a05645c70a3a172",
    "company_slug": "cohere",
    "company_name": "Cohere",
@@ -1334,6 +1386,32 @@
    "season": "Summer 2027",
    "compensation": null,
    "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "eecb43b36a929cf5",
+   "company_slug": "schonfeld",
+   "company_name": "Schonfeld",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "2027 PhD Centralized Research Intern",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8174538",
+   "locations": [
+    "New York, New York, United States"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Internship",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4508,6 +4586,34 @@
    "openings": 1
   },
   {
+   "uid": "d6d67a47bb5ba91c",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+   "locations": [
+    "Mountain View, California, United States | San Francisco, California, United States",
+    "Mountain View (US-MTV-EMF680)",
+    "San Francisco (US-SFO-MKT555)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-16",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-09-16",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "f3b4fe278f97981a",
    "company_slug": "waymo",
    "company_name": "Waymo",
@@ -4546,34 +4652,6 @@
    "locations": [
     "Mountain View, California, United States",
     "Mountain View (US-MTV-EMF680)"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-16",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-09-16",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "d6d67a47bb5ba91c",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-   "locations": [
-    "Mountain View, California, United States | San Francisco, California, United States",
-    "Mountain View (US-MTV-EMF680)",
-    "San Francisco (US-SFO-MKT555)"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -5098,32 +5176,6 @@
    "season": null,
    "compensation": null,
    "department": "Hardware Platform : Hardware Test Operations : Hardware Test Operations",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "8fc43b48b5dfc952",
-   "company_slug": "schonfeld",
-   "company_name": "Schonfeld",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "2027 Platform Engineering Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
-   "locations": [
-    "New York, New York, United States"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-10",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-09-10",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Internship",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5686,16 +5738,16 @@
    "openings": 1
   },
   {
-   "uid": "c866eca515542bcd",
+   "uid": "480320bf117569b8",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
    "locations": [
-    "Miami, Florida, United States"
+    "New York, New York, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -5712,16 +5764,16 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "c866eca515542bcd",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
    "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
    "locations": [
-    "New York, New York, United States"
+    "Miami, Florida, United States"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -6864,33 +6916,6 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
-   "locations": [
-    "Bastrop, TX",
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6927,6 +6952,33 @@
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "f1665dc41aff8a36",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -9532,7 +9584,7 @@
    "compensation": null,
    "department": "Delta",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -9694,7 +9746,7 @@
    "compensation": null,
    "department": "Delta",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -11505,7 +11557,7 @@
    "compensation": null,
    "department": "Dev",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -12215,33 +12267,6 @@
    "openings": 1
   },
   {
-   "uid": "607bd7d16f48a01d",
-   "company_slug": "pinterest",
-   "company_name": "Pinterest",
-   "company_tier": 2,
-   "company_category": "consumer",
-   "source": "greenhouse",
-   "title": "UX Quantitative Research Intern (USA)",
-   "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
-   "locations": [
-    "Remote, US",
-    "San Francisco"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "sponsors",
-   "first_seen": "2026-10-01",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-10-01",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "University Engineering",
-   "active": true,
-   "link_status": "blocked",
-   "openings": 1
-  },
-  {
    "uid": "6a3d191fcf425221",
    "company_slug": "pinterest",
    "company_name": "Pinterest",
@@ -12425,7 +12450,7 @@
    "compensation": null,
    "department": "Sales Development",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12456,16 +12481,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -12483,16 +12508,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -12559,7 +12584,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12585,7 +12610,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12611,7 +12636,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12663,7 +12688,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12689,7 +12714,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12715,7 +12740,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12741,7 +12766,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -12767,7 +12792,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13030,7 +13055,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13056,7 +13081,7 @@
    "compensation": null,
    "department": "Hardware Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13082,7 +13107,7 @@
    "compensation": null,
    "department": "Solutions Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13109,7 +13134,7 @@
    "compensation": null,
    "department": "Sales Development",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   }
  ]
