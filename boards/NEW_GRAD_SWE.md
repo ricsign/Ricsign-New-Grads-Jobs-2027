@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**60 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**58 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -28,7 +28,6 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Databricks** | Associate Forward Deployed Engineer | New York City, New York | — | · | today · Oct 22 | today · Oct 22 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002) |
 | **Databricks** | Solutions Engineer · `2 openings` | Chicago, Illinois, New York City, New York | — | · | 7d · Oct 15 | 7d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 20d · Oct 2 | 20d · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 29d · Sep 23 | 29d · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
@@ -46,6 +45,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Palantir** | Forward Deployed Software Engineer, New Grad - Warp Speed · _Spring 2027_ | New York, NY | — | · | today · Oct 22 | today · Oct 22 | [apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) |
 | **SambaNova** | AI Performance Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 2d · Oct 20 | 2d · Oct 20 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
 | **Anduril Industries** | 2027 Early Career Warhead Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 3d · Oct 19 | 3d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) |
 | **Palantir** | Software Engineer, New Grad - Query Engines | New York, NY | — | ·📗 | 3d · Oct 19 | 2d · Oct 20 | [apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
@@ -73,7 +73,6 @@ Full-time entry-level software engineering roles in the US.
 | **Baseten** | Base Labs Fellowship | San Francisco | $5k | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
 | **Notion** | Software Engineer, Early Career | San Francisco, California | — | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application) |
 | **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | — | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
-| **Palantir** | Forward Deployed Software Engineer, New Grad - Commercial · _Spring 2027_ · `2 openings` | Chicago, IL, New York, NY | — | · | 3mo · Jun 29 | 1mo · Sep 1 | [apply](https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40) |
 | **DoorDash** | AI Research Fellowship, (Summer and Fall 2026) · _Fall 2026_ | San Francisco, CA | — | · | 5mo · Apr 29 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
 | **Waymo** | Machine Learning Engineer Perception LLM/VLM (PhD, New Grad) | Mountain View, CA USA, San Francisco, CA USA +2 | — | ·🎓 | 10mo · Dec 22 2025 | 1mo · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) |
 
@@ -87,7 +86,6 @@ Full-time entry-level software engineering roles in the US.
 | **Fastly** | Customer Support Engineer | Austin, TX, Chicago, IL +3 | — | · | 15d · Oct 7 | 15d · Oct 7 | [apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
 | **Affirm** | Software Engineer, Early Career (NYC) | New York, New York, United States, New York City | — | · | 16d · Oct 6 | 15d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
 | **Affirm** | Software Engineer, Early Career (SF) | San Francisco, California, United States | — | · | 16d · Oct 6 | 15d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
-| **Nuro** | New Grad Software Engineer, Product Engineering | Mountain View, California (HQ), California - HQ | — | · | 17d · Oct 5 | 16d · Oct 6 | [apply](https://nuro.ai/careersitem?gh_jid=8248317) |
 | **Elastic** | Principal Software Engineer I - Platform Billing Core | United States | — | 🔒 | 20d · Oct 2 | 20d · Oct 2 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817) |
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 21d · Oct 1 | 21d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Pinterest** | Master's University Grad Machine Learning Engineer 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 21d · Oct 1 | 21d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) |
@@ -101,4 +99,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-22 17:16 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-22 21:41 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -4,7 +4,7 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-22T17:16:04+00:00</updated>
+  <updated>2026-10-22T21:41:51+00:00</updated>
   <entry>
     <title>Anthropic — Research Associate, Biology</title>
     <link href="https://job-boards.greenhouse.io/anthropic/jobs/5285248008"/>
@@ -14,12 +14,20 @@
     <summary>San Francisco, CA · sponsors · masters-preferred</summary>
   </entry>
   <entry>
-    <title>Databricks — Associate Forward Deployed Engineer</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"/>
-    <id>tag:ricsign.github.io,2026:c352395d5724eb72</id>
+    <title>Databricks — Data Science Intern (2027 Start)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002"/>
+    <id>tag:ricsign.github.io,2026:668867cc8b8bb95a</id>
     <updated>2026-10-22T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>New York City, New York · unknown · unspecified</summary>
+    <category term="internship"/>
+    <summary>Mountain View, California, San Francisco, California · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>AQR Capital — Junior Trading Analyst</title>
+    <link href="https://careers.aqr.com/jobs?gh_jid=8156709&amp;gh_jid=8156709"/>
+    <id>tag:ricsign.github.io,2026:62d6fbd27475738c</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Greenwich, CT · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Anduril Industries — Winter 2027 Robotics Engineer Co-op</title>
@@ -38,20 +46,20 @@
     <summary>US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
   </entry>
   <entry>
-    <title>NVIDIA — PhD Research Intern, AI for Climate and Weather Simulation - 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949"/>
-    <id>tag:ricsign.github.io,2026:7699b778f9b0f2c0</id>
+    <title>Palantir — Forward Deployed Software Engineer, Internship - Warp Speed</title>
+    <link href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"/>
+    <id>tag:ricsign.github.io,2026:54479f4a126b90d5</id>
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · phd-required</summary>
+    <summary>New York, NY · unknown · unspecified</summary>
   </entry>
   <entry>
-    <title>NVIDIA — Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962"/>
-    <id>tag:ricsign.github.io,2026:ffec6ec137916b08</id>
+    <title>Palantir — Forward Deployed Software Engineer, New Grad - Warp Speed</title>
+    <link href="https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"/>
+    <id>tag:ricsign.github.io,2026:326cd51d9b03d2e0</id>
     <updated>2026-10-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+    <category term="new-grad-swe"/>
+    <summary>New York, NY · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Schonfeld — 2027 PhD Centralized Research Intern</title>
@@ -60,6 +68,38 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, New York, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, AI Foundations - Recipes</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8306841"/>
+    <id>tag:ricsign.github.io,2026:3e57268bf1eed07a</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Research, Multimodal Foundation Models</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8306867"/>
+    <id>tag:ricsign.github.io,2026:de0f5e0eb42c476f</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8306779"/>
+    <id>tag:ricsign.github.io,2026:46e87b145e60e9fe</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Man Group — Systematic Quant Intern</title>
+    <link href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101"/>
+    <id>tag:ricsign.github.io,2026:90ce17bd7b14cc4c</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Boston, Massachusetts · unknown · bachelors</summary>
   </entry>
   <entry>
     <title>Anduril Industries — 2027 Business Operations Engineer Intern</title>
@@ -364,45 +404,5 @@
     <updated>2026-10-14T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Waymo — Field Safety Engineer</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8248373"/>
-    <id>tag:ricsign.github.io,2026:a845957bb9e1c318</id>
-    <updated>2026-10-14T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Databricks — Software Engineering Intern (2027)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"/>
-    <id>tag:ricsign.github.io,2026:c558601fbd432b1e</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Bellevue, Washington, Mountain View, California, San Francisco, California · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Figure AI — Deployment Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/figureai/jobs/4721113006"/>
-    <id>tag:ricsign.github.io,2026:a6e118486aef07c3</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Jose, CA · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Firmware Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"/>
-    <id>tag:ricsign.github.io,2026:012fb5a510c63d3f</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Figma — PhD Intern, Software Engineer - Graphics (2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"/>
-    <id>tag:ricsign.github.io,2026:7b5f1b52d31821fc</id>
-    <updated>2026-10-13T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
   </entry>
 </feed>

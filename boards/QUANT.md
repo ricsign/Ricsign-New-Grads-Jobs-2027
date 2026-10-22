@@ -2,7 +2,7 @@
 
 Campus and new-grad roles at elite quant and HFT firms. Highest compensation band on this repo.
 
-**32 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**33 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -19,6 +19,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **DRW** | Floor Trader | Chicago | — | · | 1mo · Sep 16 | 1mo · Sep 17 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8207750) |
 | **Headlands Technologies** | C++ Software Developer - New Grad | Chicago, New York City | — | · | 1mo · Sep 16 | 1mo · Sep 16 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) |
 | **Five Rings** | Recent Graduate - Trading Assistant (NYC) | New York City | — | · | 1mo · Sep 14 | 1mo · Sep 14 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) |
+| **AQR Capital** | Junior Trading Analyst · _Spring 2027_ | Greenwich, CT | — | ·📗 | 1mo · Aug 25 | today · Oct 22 | [apply](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | 2mo · Aug 10 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Chicago Trading Company** | Associate Engineer - 2027 Start · _2027_ | Chicago, IL, New York, NY | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) |
 | **Chicago Trading Company** | Quant Trading Associate - 2027 Start · _2027_ | Chicago, IL | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) |
@@ -54,4 +55,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-10-22 17:16 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-22 21:41 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

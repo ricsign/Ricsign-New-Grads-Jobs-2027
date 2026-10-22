@@ -1,36 +1,10 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-22T17:16:04+00:00",
+ "generated_at": "2026-10-22T21:41:51+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 484,
+ "count": 487,
  "jobs": [
-  {
-   "uid": "c352395d5724eb72",
-   "company_slug": "databricks",
-   "company_name": "Databricks",
-   "company_tier": 0,
-   "company_category": "infra",
-   "source": "greenhouse",
-   "title": "Associate Forward Deployed Engineer",
-   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
-   "locations": [
-    "New York City, New York"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-22",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-10-22",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Professional Services Operations",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
   {
    "uid": "df1bbd48162a7c29",
    "company_slug": "scale-ai",
@@ -1311,6 +1285,33 @@
    "openings": 1
   },
   {
+   "uid": "668867cc8b8bb95a",
+   "company_slug": "databricks",
+   "company_name": "Databricks",
+   "company_tier": 0,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Data Science Intern (2027 Start)",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+   "locations": [
+    "Mountain View, California",
+    "San Francisco, California"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2023-08-17",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "University Recruiting - Engineering",
+   "active": true,
+   "link_status": "error",
+   "openings": 1
+  },
+  {
    "uid": "c558601fbd432b1e",
    "company_slug": "databricks",
    "company_name": "Databricks",
@@ -1339,53 +1340,53 @@
    "openings": 1
   },
   {
-   "uid": "7699b778f9b0f2c0",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
+   "uid": "54479f4a126b90d5",
+   "company_slug": "palantir",
+   "company_name": "Palantir",
    "company_tier": 1,
    "company_category": "big-tech",
-   "source": "workday",
-   "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+   "source": "lever",
+   "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+   "apply_url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
    "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-22",
-   "last_verified": "2026-10-22",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "ffec6ec137916b08",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
-   "locations": [
-    "US, CA, Santa Clara"
+    "New York, NY"
    ],
    "track": "internship",
    "degree": "unspecified",
    "sponsorship": "unknown",
    "first_seen": "2026-10-22",
    "last_verified": "2026-10-22",
-   "posted_at": null,
+   "posted_at": "2026-10-22",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": "Spring 2028",
    "compensation": null,
-   "department": null,
+   "department": "Delta",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "326cd51d9b03d2e0",
+   "company_slug": "palantir",
+   "company_name": "Palantir",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "lever",
+   "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+   "apply_url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+   "locations": [
+    "New York, NY"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": "Spring 2027",
+   "compensation": null,
+   "department": "Delta",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1412,6 +1413,87 @@
    "season": "2027",
    "compensation": null,
    "department": "Internship",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "3e57268bf1eed07a",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, AI Foundations - Recipes",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8306841",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "de0f5e0eb42c476f",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Research, Multimodal Foundation Models",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8306867",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "46e87b145e60e9fe",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Research, RSI for Autonomous Driving",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8306779",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -3128,16 +3210,16 @@
    "openings": 1
   },
   {
-   "uid": "a386241d1f2da194",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
-    "Salt Lake City, Utah, United States"
+    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -3154,16 +3236,16 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
-    "United States"
+    "Salt Lake City, Utah, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -4598,33 +4680,6 @@
     "Mountain View, California, United States | San Francisco, California, United States",
     "Mountain View (US-MTV-EMF680)",
     "San Francisco (US-SFO-MKT555)"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-16",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-09-16",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "f3b4fe278f97981a",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8202801",
-   "locations": [
-    "Mountain View, California, USA",
-    "Mountain View (US-MTV-EMF680)"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -6089,6 +6144,32 @@
    "openings": 1
   },
   {
+   "uid": "62d6fbd27475738c",
+   "company_slug": "aqr",
+   "company_name": "AQR Capital",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Junior Trading Analyst",
+   "apply_url": "https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709",
+   "locations": [
+    "Greenwich, CT"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-08-25",
+   "closed_at": null,
+   "season": "Spring 2027",
+   "compensation": null,
+   "department": "Global Trading",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "0f38e9875a26b464",
    "company_slug": "applied-intuition",
    "company_name": "Applied Intuition",
@@ -6863,32 +6944,6 @@
    "openings": 1
   },
   {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "44494ecd7d4aa8c1",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -6916,20 +6971,19 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "2fb1d8fb22585078",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
-   "degree": "masters-preferred",
+   "degree": "bachelors",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-22",
@@ -6937,7 +6991,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Product Security - Starlink",
+   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6979,6 +7033,33 @@
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
     "Bastrop, TX",
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a169755945b07175",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -9584,7 +9665,7 @@
    "compensation": null,
    "department": "Delta",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9746,7 +9827,7 @@
    "compensation": null,
    "department": "Delta",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -11557,7 +11638,7 @@
    "compensation": null,
    "department": "Dev",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -11634,6 +11715,33 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "90ce17bd7b14cc4c",
+   "company_slug": "man-group",
+   "company_name": "Man Group",
+   "company_tier": 2,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Systematic Quant Intern",
+   "apply_url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+   "locations": [
+    "Boston",
+    "Massachusetts"
+   ],
+   "track": "internship",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-22",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Systematic",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -11928,33 +12036,6 @@
    "season": "2027",
    "compensation": null,
    "department": "Quant",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "d44678adf075b1ce",
-   "company_slug": "nuro",
-   "company_name": "Nuro",
-   "company_tier": 2,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Grad Software Engineer, Product Engineering",
-   "apply_url": "https://nuro.ai/careersitem?gh_jid=8248317",
-   "locations": [
-    "Mountain View, California (HQ)",
-    "California - HQ"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-06",
-   "last_verified": "2026-10-22",
-   "posted_at": "2026-10-05",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Fleet Infrastructure",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -12450,7 +12531,7 @@
    "compensation": null,
    "department": "Sales Development",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12584,7 +12665,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12610,7 +12691,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12636,7 +12717,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12688,7 +12769,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12714,7 +12795,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12740,7 +12821,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12766,7 +12847,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12792,7 +12873,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -13055,7 +13136,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -13081,7 +13162,7 @@
    "compensation": null,
    "department": "Hardware Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -13107,7 +13188,7 @@
    "compensation": null,
    "department": "Solutions Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -13134,7 +13215,7 @@
    "compensation": null,
    "department": "Sales Development",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   }
  ]
