@@ -2,7 +2,7 @@
 
 Campus and new-grad roles at elite quant and HFT firms. Highest compensation band on this repo.
 
-**32 open roles** · last verified 2026-10-21 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**32 open roles** · last verified 2026-10-22 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -14,8 +14,8 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Point72 / Cubist** | Data Research Fellowship | New York, NY | — | · | 9d · Oct 12 | 8d · Oct 13 | [apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002) |
-| **IMC Trading** | Software Engineer, Early Career | Chicago, United States | — | · | 21d · Sep 30 | 21d · Sep 30 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) |
+| **Point72 / Cubist** | Data Research Fellowship | New York, NY | — | · | 10d · Oct 12 | 9d · Oct 13 | [apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002) |
+| **IMC Trading** | Software Engineer, Early Career | Chicago, United States | — | · | 22d · Sep 30 | 22d · Sep 30 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) |
 | **DRW** | Floor Trader | Chicago | — | · | 1mo · Sep 16 | 1mo · Sep 17 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8207750) |
 | **Headlands Technologies** | C++ Software Developer - New Grad | Chicago, New York City | — | · | 1mo · Sep 16 | 1mo · Sep 16 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) |
 | **Five Rings** | Recent Graduate - Trading Assistant (NYC) | New York City | — | · | 1mo · Sep 14 | 1mo · Sep 14 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) |
@@ -47,11 +47,11 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 16d · Oct 5 | 8d · Oct 13 | [apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
-| **Belvedere Trading** | Early Career Talent Partner - Technology & Platform | Chicago, Illinois | — | ·📗 | 29d · Sep 22 | 29d · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
-| **Belvedere Trading** | Early Career Talent Partner - Trading | Chicago, Illinois | — | ·📗 | 29d · Sep 22 | 29d · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
-| **Man Group** | Junior Quant - MBS | Boston, New York +1 | — | · | 1mo · Sep 21 | 27d · Sep 24 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101) |
+| **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 17d · Oct 5 | 9d · Oct 13 | [apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
+| **Belvedere Trading** | Early Career Talent Partner - Technology & Platform | Chicago, Illinois | — | ·📗 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
+| **Belvedere Trading** | Early Career Talent Partner - Trading | Chicago, Illinois | — | ·📗 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
+| **Man Group** | Junior Quant - MBS | Boston, New York +1 | — | · | 1mo · Sep 21 | 28d · Sep 24 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101) |
 
 ---
 
-Generated 2026-10-21 21:47 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-22 04:56 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
