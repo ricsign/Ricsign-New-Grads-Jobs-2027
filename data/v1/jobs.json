@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-22T04:56:51+00:00",
+ "generated_at": "2026-10-22T12:00:05+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 484,
+ "count": 483,
  "jobs": [
   {
    "uid": "df1bbd48162a7c29",
@@ -11582,32 +11582,6 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "aeaa31b43b76be38",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Information Security Engineer Undergraduate Intern",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
-   "locations": [
-    "US, California, Folsom"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-22",
-   "last_verified": "2026-10-22",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1

@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-22T04:56:51+00:00",
- "live_requisitions": 484,
- "live_roles": 444,
- "companies_with_open_roles": 72,
+ "generated_at": "2026-10-22T12:00:05+00:00",
+ "live_requisitions": 483,
+ "live_roles": 443,
+ "companies_with_open_roles": 71,
  "posted_age": {
   "median_days": 50,
   "posted_last_24h": 6,
   "posted_last_7d": 27,
   "posted_last_30d": 140,
   "evergreen_over_1y": 43,
-  "with_posted_date_pct": 99.3
+  "with_posted_date_pct": 99.5
  },
  "by_track": {
   "new-grad-swe": 123,
   "ai-research": 13,
   "quant": 50,
-  "internship": 298,
+  "internship": 297,
   "other": 0
  },
  "by_tier": {
   "0": 46,
   "1": 380,
-  "2": 58
+  "2": 57
  },
  "by_sponsorship": {
   "sponsors": 25,
   "no-sponsorship": 8,
   "citizenship-required": 59,
   "security-clearance": 50,
-  "unknown": 342
+  "unknown": 341
  },
  "by_degree": {
   "bachelors": 79,
   "masters-preferred": 175,
   "phd-required": 83,
-  "unspecified": 147
+  "unspecified": 146
  },
- "sponsorship_resolved_pct": 29.3,
- "link_verified_pct": 89.5,
+ "sponsorship_resolved_pct": 29.4,
+ "link_verified_pct": 89.4,
  "by_link_status": {
-  "ok": 433,
+  "ok": 432,
   "blocked": 45,
   "error": 6,
   "dead": 0,
@@ -61,7 +61,7 @@
   "boards_empty": 0,
   "boards_failed": 4,
   "success_rate": 0.969,
-  "postings_fetched": 22781,
+  "postings_fetched": 22762,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -94,21 +94,21 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6143,
-   "senior/experienced role": 4157,
-   "title is not a technical role": 4019,
-   "non-technical role": 3278,
-   "not an early-career posting": 2899,
+   "not a US location": 6147,
+   "senior/experienced role": 4155,
+   "title is not a technical role": 4014,
+   "non-technical role": 3273,
+   "not an early-career posting": 2893,
    "non-CS engineering discipline": 903,
-   "quant role without early-career marker": 252,
+   "quant role without early-career marker": 247,
    "research role without early-career marker": 136
   },
   "link_check": {
-   "ok": 433,
+   "ok": 432,
    "blocked": 45,
    "error": 6,
-   "checked": 484,
-   "conclusive": 433,
+   "checked": 483,
+   "conclusive": 432,
    "resolving_pct": 100.0
   }
  }
