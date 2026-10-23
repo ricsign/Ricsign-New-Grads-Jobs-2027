@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**84 open roles** · last verified 2026-10-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**83 open roles** · last verified 2026-10-23 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -31,7 +31,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (9)
+## 🆕 Posted in the last 7 days (8)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -39,7 +39,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Schonfeld** | [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | New York, New York, United States | 1d · Oct 22 |
 | **Waymo** | [2027 Summer Intern, PhD, AI Foundations - Recipes](https://careers.withwaymo.com/jobs?gh_jid=8306841) | Mountain View, CA, USA +1 | 1d · Oct 22 |
 | **Waymo** | [2027 Summer Intern, PhD, Research, Multimodal Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8306867) | Mountain View, CA, USA +1 | 1d · Oct 22 |
-| **Waymo** | [2027 Summer Intern, PhD, Research, RSI for Autonomous Driving](https://careers.withwaymo.com/jobs?gh_jid=8306779) | Mountain View, CA, USA +1 | 1d · Oct 22 |
 | **SambaNova** | [AI Performance Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) | Austin, Texas, United States +1 | 3d · Oct 20 |
 | **DoorDash** | [Operations Research Intern (PhD), Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) | Sunnyvale, CA | 4d · Oct 19 |
 | **Together AI** | [Research Intern, Frontier Speculative Decoding (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | San Francisco | 7d · Oct 16 |
@@ -69,10 +68,10 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Oct 23 | today · Oct 23 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) |
 | **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | 1d · Oct 22 | 1d · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | **Waymo** | 2027 Summer Intern, PhD, AI Foundations - Recipes · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 22 | 1d · Oct 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8306841) |
 | **Waymo** | 2027 Summer Intern, PhD, Research, Multimodal Foundation Models · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 22 | 1d · Oct 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8306867) |
-| **Waymo** | 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 22 | 1d · Oct 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8306779) |
 | **SambaNova** | AI Performance Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 3d · Oct 20 | 3d · Oct 20 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
 | **DoorDash** | Operations Research Intern (PhD), Summer 2027 · _Summer 2027_ | Sunnyvale, CA | — | ·🎓 | 4d · Oct 19 | today · Oct 23 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
 | **Together AI** | Research Intern, Frontier Speculative Decoding (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 7d · Oct 16 | 6d · Oct 17 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) |
@@ -88,7 +87,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **PDT Partners** | Summer 2027 Quantitative Research Intern - PhD/Postdoctoral · _Summer 2027_ | New York, NY | — | ·🎓 | 16d · Oct 7 | 16d · Oct 7 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
 | **Figma** | PhD Intern, AI Applied Scientist (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 18d · Oct 5 | 17d · Oct 6 | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 28d · Sep 25 | 28d · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
-| **IMC Trading** | Hardware Machine Learning PhD Research Internship | New York, United States | — | ·🎓 | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
+| **IMC Trading** | Hardware Machine Learning PhD Research Internship | Chicago, United States | — | ·🎓 | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | **Figma** | PhD Intern, Data Science (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 1mo · Sep 21 | 1mo · Sep 21 | [apply](https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004) |
 | **Together AI** | Research Intern, Frontier Agents (Summer 2027) · _Summer 2027_ | San Francisco | — | ·🎓 | 1mo · Sep 18 | 1mo · Sep 18 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) |
 | **Datadog** | Research Science Intern (PhD) | New York, New York, USA, Pittsburgh, Pennsylvania, USA | — | 🇺🇸🎓 | 1mo · Sep 15 | 1mo · Sep 15 | [apply](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) |
@@ -127,7 +126,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Akuna Capital** | Quantitative Researcher | Chicago, IL | — | ·📗 | 9mo · Jan 2 | 1mo · Sep 1 | [apply](https://www.akunacapital.com/careers/job/7496416/?gh_jid=7496416) |
 | **Palantir** | Neurodivergent Fellowship · `2 openings` | Washington, D.C., New York, NY | — | · | 10mo · Dec 7 2025 | 1mo · Sep 1 | [apply](https://jobs.lever.co/palantir/fd952b52-7b9c-4056-a3dd-0bc41fcfe603) |
 | **DRW** | Research Engineer (Options) | Chicago | — | · | 11mo · Nov 5 2025 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) |
-| **Amazon** | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation… · _2026_ · `open 1y+` | North Reading, Massachusetts, USA | — | · | 1y · Oct 8 2025 | 1mo · Sep 1 | [apply](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) |
 | **DRW** | Research Engineer · `open 1y+` | New York City | — | · | 1y · Jun 16 2025 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) |
 | **Palantir** | Meritocracy Fellowship · `open 1y+` | New York, NY | — | · | 1y · Apr 9 2025 | 8d · Oct 15 | [apply](https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3) |
 | **PDT Partners** | Quantitative Researcher · `open 1y+` | New York, NY | — | ·🎓 | 1y · Oct 28 2024 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
@@ -147,4 +145,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-10-23 17:14 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-23 21:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
