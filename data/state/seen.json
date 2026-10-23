@@ -58,6 +58,13 @@
    "closed_at": "2026-09-22"
   },
   {
+   "uid": "03cc9964f0b40217",
+   "first_seen": "2026-10-23",
+   "last_verified": "2026-10-23",
+   "posted_at": "2026-10-23",
+   "closed_at": null
+  },
+  {
    "uid": "03feab1335267d3b",
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-23",
@@ -4549,6 +4556,13 @@
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-23",
    "posted_at": "2026-07-05",
+   "closed_at": null
+  },
+  {
+   "uid": "d91ff247b9cb0cfe",
+   "first_seen": "2026-10-23",
+   "last_verified": "2026-10-23",
+   "posted_at": "2026-10-23",
    "closed_at": null
   },
   {

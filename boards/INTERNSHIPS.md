@@ -62,6 +62,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **MongoDB** | 2027 - Software Engineering Intern, AMER · _2027_ | Austin, New York City +3 | — | ·📗 | today · Oct 23 | today · Oct 23 | [apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
 | **Palantir** | Forward Deployed Software Engineer, Internship - Warp Speed · _Spring 2028_ | New York, NY | — | · | 1d · Oct 22 | 1d · Oct 22 | [apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) |
 | **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | 1d · Oct 22 | 1d · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | **Waymo** | 2027 Summer Intern, PhD, AI Foundations - Recipes · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 1d · Oct 22 | 1d · Oct 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8306841) |
@@ -160,7 +161,7 @@ Software engineering and research internships at the same curated bar.
 | **Man Group** | Systematic Quant Intern | Boston, Massachusetts | — | · | 1d · Oct 22 | 1d · Oct 22 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101) |
 | **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 14d · Oct 9 | 14d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
 | **Pinterest** | Solutions Engineer Intern 2027 (USA) · _2027_ | San Francisco, CA, US, Remote, US | — | · | 15d · Oct 8 | 15d · Oct 8 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
-| **Faire** | Applied AI/ML Scientist, Intern · _Winter 2027_ | San Francisco, CA | — | ·📗 | 17d · Oct 6 | 14d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
+| **Faire** | Applied AI/ML Scientist, Intern - Winter 2027 · _Winter 2027_ | San Francisco, CA | — | ·📗 | 17d · Oct 6 | 14d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 17d · Oct 6 | 16d · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | **Affirm** | Software Engineer (Machine Learning) Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 21d · Oct 2 | 21d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
 | **Affirm** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 21d · Oct 2 | 21d · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
@@ -175,10 +176,9 @@ Software engineering and research internships at the same curated bar.
 | **Verkada** | Backend Software Engineering Intern 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 1mo · Aug 25 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) |
 | **Belvedere Trading** | Quantitative Trading Intern - Summer 2027 · _Summer 2027_ | Chicago, Illinois | — | ·📗 | 2mo · Aug 4 | 1mo · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) |
 | **Belvedere Trading** | Quantitative Trading Intern - Winter Quarter 2027 · _Winter 2027_ | Chicago, Illinois | — | ·📗 | 2mo · Aug 4 | 1mo · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) |
-| **Belvedere Trading** | Software Engineer Intern - Summer 2027 · _Summer 2027_ | Chicago, Illinois | — | ·📗 | 2mo · Aug 4 | 1mo · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
 | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | — | · | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) |
 | **Nuro** | Software Engineer, AI Platform - Intern · `open 1y+` | Mountain View, California (HQ), California - HQ | — | ·📗 | 1y · Oct 22 2025 | 1mo · Sep 1 | [apply](https://nuro.ai/careersitem?gh_jid=7351061) |
 
 ---
 
-Generated 2026-10-23 11:46 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-23 17:14 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

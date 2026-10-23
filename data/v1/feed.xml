@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-23T11:46:04+00:00</updated>
+  <updated>2026-10-23T17:14:04+00:00</updated>
+  <entry>
+    <title>Databricks — Associate Forward Deployed Engineer</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002"/>
+    <id>tag:ricsign.github.io,2026:d91ff247b9cb0cfe</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Mountain View, California, Remote - California · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>DoorDash — Operations Research Intern (PhD), Summer 2027</title>
     <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965"/>
@@ -12,6 +20,14 @@
     <updated>2026-10-23T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Sunnyvale, CA · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>MongoDB — 2027 - Software Engineering Intern, AMER</title>
+    <link href="https://www.mongodb.com/careers/job/?gh_jid=8209134"/>
+    <id>tag:ricsign.github.io,2026:03cc9964f0b40217</id>
+    <updated>2026-10-23T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Austin, New York City, Palo Alto, San Francisco, Seattle · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Anthropic — Research Associate, Biology</title>
@@ -385,22 +401,6 @@
     <title>Point72 / Cubist — 2027 Summer Internship - Fundamental Researcher, Canvas</title>
     <link href="https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002"/>
     <id>tag:ricsign.github.io,2026:75a95e607dde5f74</id>
-    <updated>2026-10-14T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Point72 / Cubist — 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002"/>
-    <id>tag:ricsign.github.io,2026:fb832cf043de2d89</id>
-    <updated>2026-10-14T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Point72 / Cubist — 2027 Summer Internship - Sector Analyst, Proprietary Research</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002"/>
-    <id>tag:ricsign.github.io,2026:f4514dcebc65bf84</id>
     <updated>2026-10-14T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY · unknown · bachelors</summary>
