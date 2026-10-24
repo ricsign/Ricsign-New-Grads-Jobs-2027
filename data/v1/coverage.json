@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T16:01:34+00:00",
+ "generated_at": "2026-10-24T20:54:58+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 711,
+   "fetched": 710,
    "published": 7,
    "status": "ok"
   },
@@ -897,7 +897,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "supabase",
-   "fetched": 59,
+   "fetched": 61,
    "published": 0,
    "status": "none matched"
   },
@@ -1087,7 +1087,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "asana",
-   "fetched": 107,
+   "fetched": 108,
    "published": 0,
    "status": "none matched"
   },
@@ -1267,7 +1267,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "reddit",
-   "fetched": 157,
+   "fetched": 158,
    "published": 0,
    "status": "none matched"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2775,
+   "fetched": 2776,
    "published": 33,
    "status": "ok"
   },
@@ -1453,11 +1453,11 @@
   }
  ],
  "rejections": {
-  "not a US location": 6159,
-  "senior/experienced role": 4173,
-  "title is not a technical role": 4049,
-  "non-technical role": 3276,
-  "not an early-career posting": 2921,
+  "not a US location": 6160,
+  "senior/experienced role": 4174,
+  "title is not a technical role": 4051,
+  "non-technical role": 3274,
+  "not an early-career posting": 2923,
   "non-CS engineering discipline": 902,
   "quant role without early-career marker": 246,
   "research role without early-career marker": 136
@@ -1732,14 +1732,14 @@
    "Engineering Manager - Bank Accounts — senior/experienced role"
   ],
   "nvidia": [
+   "Senior Software Architect - Deep Learning and HPC Communications — not a US location",
+   "Distinguished Engineer – Data Center System Software Architect — senior/experienced role",
+   "Senior Compute Platform Engineer, LSF - EDA Infrastructure — not a US location",
+   "Senior Distributed Software Engineer, Golang - DGX Cloud — not a US location",
+   "RTL Design Engineer, DFT — not a US location",
    "Senior Software Development Tech Lead – NVLink FW and NVOS — senior/experienced role",
    "Principal Architect, System Software - Orbital Data Center — not a US location",
-   "Senior Manager, Engineering - Data Center Firmware — not a US location",
-   "Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role",
-   "Senior Software Program Manager – CSP Engagements — non-technical role",
-   "Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location",
-   "Senior Network Engineer - DGX Cloud — not a US location",
-   "Senior Software Engineer, System Validation - EDA Infrastructure — not a US location"
+   "Senior Manager, Engineering - Data Center Firmware — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1947,8 +1947,8 @@
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist (Spanish) — title is not a technical role",
    "Bilingual CX Specialist (French) — title is not a technical role",
-   "Billing Operations Lead — title is not a technical role",
-   "Billing Operations Lead — not a US location"
+   "Billing Operations Lead — not a US location",
+   "Billing Operations Lead — title is not a technical role"
   ],
   "intel": [
    "Senior Software Development Engineer (Contract Position) — senior/experienced role",
@@ -2032,8 +2032,8 @@
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
    "Customer Account Executive — not a US location",
-   "Customer Account Executive — non-technical role",
    "Customer Account Executive — not a US location",
+   "Customer Account Executive — non-technical role",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location"
   ],

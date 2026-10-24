@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,355 |
+| Postings fetched | 22,359 |
 | Postings published | 493 |
 | Boards that failed to fetch | **4** |
 | Boards live but with nothing early-career | 54 |
@@ -206,12 +206,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 40 postings read, none early-career</summary>
 
+- `Senior Software Architect - Deep Learning and HPC Communications — not a US location`
+- `Distinguished Engineer – Data Center System Software Architect — senior/experienced role`
+- `Senior Compute Platform Engineer, LSF - EDA Infrastructure — not a US location`
+- `Senior Distributed Software Engineer, Golang - DGX Cloud — not a US location`
+- `RTL Design Engineer, DFT — not a US location`
 - `Senior Software Development Tech Lead – NVLink FW and NVOS — senior/experienced role`
-- `Principal Architect, System Software - Orbital Data Center — not a US location`
-- `Senior Manager, Engineering - Data Center Firmware — not a US location`
-- `Senior Systems Software Engineer, Data Center Platform Enablement — senior/experienced role`
-- `Senior Software Program Manager – CSP Engagements — non-technical role`
-- `Senior Full-Stack Software Engineer, Storage Management Platform - DGX Cloud — not a US location`
 
 </details>
 
@@ -237,7 +237,7 @@ rather than take it on faith.
 
 </details>
 
-<details><summary><b>Reddit</b> — 157 postings read, none early-career</summary>
+<details><summary><b>Reddit</b> — 158 postings read, none early-career</summary>
 
 - `3rd Party Partnerships Manager - Signals — title is not a technical role`
 - `Account Executive, Mid-Market (DACH) — not a US location`
@@ -295,7 +295,7 @@ rather than take it on faith.
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
 | [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 883 | 7 | ✅ ok |
-| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 711 | 7 | ✅ ok |
+| [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 710 | 7 | ✅ ok |
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 104 | 6 | ✅ ok |
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 171 | 6 | ✅ ok |
 | [Anthropic](https://www.anthropic.com/careers) | 0 | `greenhouse:anthropic` | 681 | 4 | ✅ ok |
@@ -323,7 +323,7 @@ rather than take it on faith.
 | [Palantir](https://www.palantir.com/careers/) | 1 | `lever:palantir` | 309 | 53 | ✅ ok |
 | [Waymo](https://waymo.com/careers/) | 1 | `greenhouse:waymo` | 364 | 49 | ✅ ok |
 | [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2405 | 35 | ✅ ok |
-| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2775 | 33 | ✅ ok |
+| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2776 | 33 | ✅ ok |
 | [Akuna Capital](https://akunacapital.com/careers) | 1 | `greenhouse:akunacapital` | 38 | 18 | ✅ ok |
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 324 | 16 | ✅ ok |
 | [Jump Trading](https://www.jumptrading.com/careers/) | 1 | `greenhouse:jumptrading` | 94 | 16 | ✅ ok |
@@ -385,7 +385,7 @@ rather than take it on faith.
 | [Old Mission Capital](https://www.oldmissioncapital.com/careers/) | 1 | `greenhouse:oldmissioncapital` | — | — | ⚠️ FETCH FAILED |
 | [Plaid](https://plaid.com/careers/) | 1 | `ashby:plaid` | 135 | — | ○ none matched |
 | [Radix Trading (Experienced)](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixexperienced` | 7 | — | ○ none matched |
-| [Reddit](https://redditinc.com/careers) | 1 | `greenhouse:reddit` | 157 | — | ○ none matched |
+| [Reddit](https://redditinc.com/careers) | 1 | `greenhouse:reddit` | 158 | — | ○ none matched |
 | [Robinhood](https://careers.robinhood.com/) | 1 | `greenhouse:robinhood` | 157 | — | ○ none matched |
 | [Runway](https://runwayml.com/careers) | 1 | `ashby:runway` | 3 | — | ○ none matched |
 | [SIG (Susquehanna)](https://careers.sig.com/us-campus/jobs) | 1 | — | — | — | 🔗 link-only |
@@ -393,7 +393,7 @@ rather than take it on faith.
 | [Snowflake](https://careers.snowflake.com/us/en/search-results) | 1 | — | — | — | 🔗 link-only |
 | [Squarepoint Capital](https://www.squarepoint-capital.com/careers) | 1 | `greenhouse:squarepointcapital` | 91 | — | ○ none matched |
 | [Suno](https://suno.com/careers) | 1 | `ashby:suno` | 71 | — | ○ none matched |
-| [Supabase](https://supabase.com/careers) | 1 | `ashby:supabase` | 59 | — | ○ none matched |
+| [Supabase](https://supabase.com/careers) | 1 | `ashby:supabase` | 61 | — | ○ none matched |
 | [Tenstorrent](https://tenstorrent.com/careers) | 1 | `greenhouse:tenstorrent` | 119 | — | ○ none matched |
 | [Vanta](https://www.vanta.com/careers) | 1 | `ashby:vanta` | 83 | — | ○ none matched |
 | [XTX Markets](https://www.xtxmarkets.com/careers/) | 1 | `greenhouse:xtxmarketstechnologies` | 7 | — | ○ none matched |
@@ -412,7 +412,7 @@ rather than take it on faith.
 | [Grafana Labs](https://grafana.com/about/careers/) | 2 | `greenhouse:grafanalabs` | 144 | 1 | ✅ ok |
 | [Airtable](https://www.airtable.com/careers) | 2 | `greenhouse:airtable` | 4 | — | ○ none matched |
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | — | — | ⚠️ FETCH FAILED |
-| [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 107 | — | ○ none matched |
+| [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 108 | — | ○ none matched |
 | [Attentive](https://www.attentive.com/careers) | 2 | `greenhouse:attentive` | 29 | — | ○ none matched |
 | [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 273 | — | ○ none matched |
 | [Chime](https://www.chime.com/careers/) | 2 | `greenhouse:chime` | 71 | — | ○ none matched |
