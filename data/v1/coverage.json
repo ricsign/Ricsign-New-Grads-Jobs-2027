@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T11:09:32+00:00",
+ "generated_at": "2026-10-24T16:01:34+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -97,7 +97,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "perplexity",
-   "fetched": 131,
+   "fetched": 132,
    "published": 3,
    "status": "ok"
   },
@@ -927,7 +927,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "mongodb",
-   "fetched": 370,
+   "fetched": 369,
    "published": 1,
    "status": "ok"
   },
@@ -1287,7 +1287,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "pinterest",
-   "fetched": 160,
+   "fetched": 162,
    "published": 10,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2772,
+   "fetched": 2775,
    "published": 33,
    "status": "ok"
   },
@@ -1447,15 +1447,15 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 254,
+   "fetched": 253,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6161,
-  "senior/experienced role": 4172,
-  "title is not a technical role": 4044,
+  "not a US location": 6159,
+  "senior/experienced role": 4173,
+  "title is not a technical role": 4049,
   "non-technical role": 3276,
   "not an early-career posting": 2921,
   "non-CS engineering discipline": 902,
