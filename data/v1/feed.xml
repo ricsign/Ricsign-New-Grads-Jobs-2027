@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-23T21:28:40+00:00</updated>
+  <updated>2026-10-24T04:43:51+00:00</updated>
+  <entry>
+    <title>Figure AI — Developer Productivity Intern [Winter 2027]</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4724521006"/>
+    <id>tag:ricsign.github.io,2026:c9fc25e256669562</id>
+    <updated>2026-10-24T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose, CA · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Databricks — Associate Forward Deployed Engineer</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002"/>
@@ -43,7 +51,7 @@
     <id>tag:ricsign.github.io,2026:03cc9964f0b40217</id>
     <updated>2026-10-23T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>Austin, New York City, Palo Alto, San Francisco, Seattle · unknown · masters-preferred</summary>
+    <summary>Austin, New York City, San Francisco, Palo Alto, Seattle · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Roblox — Software Engineer, Reliability</title>
@@ -396,13 +404,5 @@
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Elastic — Principal Software Engineer I - Platform Billing Experience</title>
-    <link href="https://jobs.elastic.co/jobs?gh_jid=8245815&amp;gh_jid=8245815"/>
-    <id>tag:ricsign.github.io,2026:6e586fd10b3ba83d</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>United States · security-clearance · unspecified</summary>
   </entry>
 </feed>
