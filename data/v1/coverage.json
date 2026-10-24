@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T04:43:51+00:00",
+ "generated_at": "2026-10-24T11:09:32+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 679,
+   "fetched": 681,
    "published": 4,
    "status": "ok"
   },
@@ -147,7 +147,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "elevenlabs",
-   "fetched": 161,
+   "fetched": 159,
    "published": 0,
    "status": "none matched"
   },
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 274,
+   "fetched": 273,
    "published": 0,
    "status": "none matched"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 882,
+   "fetched": 883,
    "published": 7,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 712,
+   "fetched": 711,
    "published": 7,
    "status": "ok"
   },
@@ -937,7 +937,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "cloudflare",
-   "fetched": 437,
+   "fetched": 438,
    "published": 1,
    "status": "ok"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2403,
+   "fetched": 2405,
    "published": 35,
    "status": "ok"
   },
@@ -1427,7 +1427,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "applied",
-   "fetched": 323,
+   "fetched": 324,
    "published": 16,
    "status": "ok"
   },
@@ -1453,10 +1453,10 @@
   }
  ],
  "rejections": {
-  "not a US location": 6159,
+  "not a US location": 6161,
   "senior/experienced role": 4172,
-  "title is not a technical role": 4042,
-  "non-technical role": 3277,
+  "title is not a technical role": 4044,
+  "non-technical role": 3276,
   "not an early-career posting": 2921,
   "non-CS engineering discipline": 902,
   "quant role without early-career marker": 246,
@@ -1786,14 +1786,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) — not a US location",
    "Software Engineering SMTS — not an early-career posting",
    "Cloud Account Executive - Tableau — not a US location",
    "SVP & Chief Operating Officer, Missionforce — title is not a technical role",
    "Forward Deployed Process Senior/Principal Process Consultant — not a US location",
    "Executive Assistant/Senior Executive Assistant — non-technical role",
    "Principal AI Solutions Engineer - Salesforce AI Labs — not a US location",
-   "Specialist Solution Engineer — not a US location",
-   "Program Delivery Leader (Multiple Levels) — not a US location"
+   "Specialist Solution Engineer — not a US location"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -1947,8 +1947,8 @@
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist (Spanish) — title is not a technical role",
    "Bilingual CX Specialist (French) — title is not a technical role",
-   "Billing Operations Lead — not a US location",
-   "Billing Operations Lead — title is not a technical role"
+   "Billing Operations Lead — title is not a technical role",
+   "Billing Operations Lead — not a US location"
   ],
   "intel": [
    "Senior Software Development Engineer (Contract Position) — senior/experienced role",
@@ -2032,8 +2032,8 @@
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
    "Customer Account Executive — not a US location",
-   "Customer Account Executive — not a US location",
    "Customer Account Executive — non-technical role",
+   "Customer Account Executive — not a US location",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location"
   ],
