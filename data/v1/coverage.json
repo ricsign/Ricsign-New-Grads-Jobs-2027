@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:29:28+00:00",
+ "generated_at": "2026-10-25T20:55:56+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -297,7 +297,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "sambanovasystems",
-   "fetched": 60,
+   "fetched": 61,
    "published": 1,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 883,
+   "fetched": 881,
    "published": 7,
    "status": "ok"
   },
@@ -967,7 +967,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "twilio",
-   "fetched": 122,
+   "fetched": 121,
    "published": 0,
    "status": "none matched"
   },
@@ -1277,7 +1277,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "airbnb",
-   "fetched": 188,
+   "fetched": 187,
    "published": 1,
    "status": "ok"
   },
@@ -1317,7 +1317,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "instacart",
-   "fetched": 112,
+   "fetched": 110,
    "published": 0,
    "status": "none matched"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2406,
+   "fetched": 2407,
    "published": 35,
    "status": "ok"
   },
@@ -1407,7 +1407,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "spacex",
-   "fetched": 2776,
+   "fetched": 2770,
    "published": 33,
    "status": "ok"
   },
@@ -1453,10 +1453,10 @@
   }
  ],
  "rejections": {
-  "not a US location": 6173,
-  "senior/experienced role": 4175,
-  "title is not a technical role": 4053,
-  "non-technical role": 3276,
+  "not a US location": 6171,
+  "senior/experienced role": 4172,
+  "title is not a technical role": 4050,
+  "non-technical role": 3274,
   "not an early-career posting": 2920,
   "non-CS engineering discipline": 902,
   "quant role without early-career marker": 246,
@@ -1732,14 +1732,14 @@
    "Engineering Manager - Bank Accounts — senior/experienced role"
   ],
   "nvidia": [
+   "Software Engineer, NVLink — not a US location",
+   "Senior Release Manager — not a US location",
+   "Senior Formal Verification Engineer — not a US location",
+   "Senior System Software Engineer — not a US location",
    "Director, AI and HPC Cluster — not a US location",
    "Mechanical Engineer — not a US location",
    "Software Verification Manager, SDK — not a US location",
-   "Senior Software Engineer — not a US location",
-   "Senior Linux Systems Engineer - EDA Infrastructure — not a US location",
-   "Senior Systems Software Engineer- EDA Infrastructure — not a US location",
-   "Distinguished Engineer, Security Architecture - DGX Cloud — senior/experienced role",
-   "Principal Engineer, Security Architecture - DGX Cloud — senior/experienced role"
+   "Senior Software Engineer — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1786,14 +1786,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Product Security Engineer — not a US location",
    "Account Solution Engineer, Philippines - SMB Market — not a US location",
    "Technical Architect Salesforce — not a US location",
    "Data Foundation Solution Engineer — not a US location",
    "Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) — not a US location",
    "Software Engineering SMTS — not an early-career posting",
    "Cloud Account Executive - Tableau — not a US location",
-   "SVP & Chief Operating Officer, Missionforce — title is not a technical role",
-   "Forward Deployed Process Senior/Principal Process Consultant — not a US location"
+   "SVP & Chief Operating Officer, Missionforce — title is not a technical role"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -1947,18 +1947,18 @@
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist (Spanish) — title is not a technical role",
    "Bilingual CX Specialist (French) — title is not a technical role",
-   "Billing Operations Lead — not a US location",
-   "Billing Operations Lead — title is not a technical role"
+   "Billing Operations Lead — title is not a technical role",
+   "Billing Operations Lead — not a US location"
   ],
   "intel": [
    "Senior Software Development Engineer (Contract Position) — senior/experienced role",
+   "System Validation and Integration Engineer — not a US location",
    "Automation Operations Infrastructure Engineer — not a US location",
    "Deep Learning Hardware Engineer — not a US location",
    "Senior Unreal Engine Developer Technology Engineer — senior/experienced role",
    "Senior Director, Corporate Development — senior/experienced role",
    "AI Hardware Engineering Intern — not a US location",
-   "Sustaining Operations Program Manager — non-technical role",
-   "Oregon Advanced Packaging Module Engineer - Laser — not an early-career posting"
+   "Sustaining Operations Program Manager — non-technical role"
   ],
   "klaviyo": [
    "Account Executive - Commercial — not a US location",

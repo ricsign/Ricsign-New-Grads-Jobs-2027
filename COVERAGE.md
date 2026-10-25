@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,373 |
+| Postings fetched | 22,363 |
 | Postings published | 493 |
 | Boards that failed to fetch | **4** |
 | Boards live but with nothing early-career | 54 |
@@ -206,12 +206,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 40 postings read, none early-career</summary>
 
+- `Software Engineer, NVLink — not a US location`
+- `Senior Release Manager — not a US location`
+- `Senior Formal Verification Engineer — not a US location`
+- `Senior System Software Engineer — not a US location`
 - `Director, AI and HPC Cluster — not a US location`
 - `Mechanical Engineer — not a US location`
-- `Software Verification Manager, SDK — not a US location`
-- `Senior Software Engineer — not a US location`
-- `Senior Linux Systems Engineer - EDA Infrastructure — not a US location`
-- `Senior Systems Software Engineer- EDA Infrastructure — not a US location`
 
 </details>
 
@@ -269,12 +269,12 @@ rather than take it on faith.
 
 <details><summary><b>Salesforce</b> — 40 postings read, none early-career</summary>
 
+- `Product Security Engineer — not a US location`
 - `Account Solution Engineer, Philippines - SMB Market — not a US location`
 - `Technical Architect Salesforce — not a US location`
 - `Data Foundation Solution Engineer — not a US location`
 - `Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) — not a US location`
 - `Software Engineering SMTS — not an early-career posting`
-- `Cloud Account Executive - Tableau — not a US location`
 
 </details>
 
@@ -294,7 +294,7 @@ rather than take it on faith.
 
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
-| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 883 | 7 | ✅ ok |
+| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 881 | 7 | ✅ ok |
 | [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 711 | 7 | ✅ ok |
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 104 | 6 | ✅ ok |
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 171 | 6 | ✅ ok |
@@ -322,8 +322,8 @@ rather than take it on faith.
 | [Two Sigma](https://careers.twosigma.com/careers/OpenRoles) | 0 | — | — | — | 🔗 link-only |
 | [Palantir](https://www.palantir.com/careers/) | 1 | `lever:palantir` | 309 | 53 | ✅ ok |
 | [Waymo](https://waymo.com/careers/) | 1 | `greenhouse:waymo` | 364 | 49 | ✅ ok |
-| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2406 | 35 | ✅ ok |
-| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2776 | 33 | ✅ ok |
+| [Anduril Industries](https://www.anduril.com/careers/) | 1 | `greenhouse:andurilindustries` | 2407 | 35 | ✅ ok |
+| [SpaceX](https://www.spacex.com/careers/) | 1 | `greenhouse:spacex` | 2770 | 33 | ✅ ok |
 | [Akuna Capital](https://akunacapital.com/careers) | 1 | `greenhouse:akunacapital` | 38 | 18 | ✅ ok |
 | [Applied Intuition](https://www.appliedintuition.com/careers) | 1 | `ashby:applied` | 324 | 16 | ✅ ok |
 | [Jump Trading](https://www.jumptrading.com/careers/) | 1 | `greenhouse:jumptrading` | 94 | 16 | ✅ ok |
@@ -354,7 +354,7 @@ rather than take it on faith.
 | [LangChain](https://www.langchain.com/careers) | 1 | `ashby:langchain` | 104 | 2 | ✅ ok |
 | [Qube Research & Technologies](https://www.qube-rt.com/careers) | 1 | `greenhouse:quberesearchandtechnologies` | 191 | 2 | ✅ ok |
 | [Vercel](https://vercel.com/careers) | 1 | `greenhouse:vercel` | 95 | 2 | ✅ ok |
-| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 188 | 1 | ✅ ok |
+| [Airbnb](https://careers.airbnb.com/) | 1 | `greenhouse:airbnb` | 187 | 1 | ✅ ok |
 | [Baseten](https://www.baseten.co/careers) | 1 | `ashby:baseten` | 105 | 1 | ✅ ok |
 | [Cerebras](https://www.cerebras.ai/careers) | 1 | `ashby:cerebras` | 121 | 1 | ✅ ok |
 | [Cloudflare](https://www.cloudflare.com/careers/) | 1 | `greenhouse:cloudflare` | 438 | 1 | ✅ ok |
@@ -363,7 +363,7 @@ rather than take it on faith.
 | [MongoDB](https://www.mongodb.com/company/careers) | 1 | `greenhouse:mongodb` | 368 | 1 | ✅ ok |
 | [Radix Trading](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixuniversity` | 8 | 1 | ✅ ok |
 | [Replit](https://replit.com/careers) | 1 | `ashby:replit` | 37 | 1 | ✅ ok |
-| [SambaNova](https://sambanova.ai/careers) | 1 | `greenhouse:sambanovasystems` | 60 | 1 | ✅ ok |
+| [SambaNova](https://sambanova.ai/careers) | 1 | `greenhouse:sambanovasystems` | 61 | 1 | ✅ ok |
 | [The Voleon Group](https://voleon.com/careers/) | 1 | `ashby:voleon` | 60 | 1 | ✅ ok |
 | [AMD](https://careers.amd.com/) | 1 | — | — | — | 🔗 link-only |
 | [Adobe](https://careers.adobe.com/) | 1 | `workday:adobe` | 40 | — | ○ none matched |
@@ -420,7 +420,7 @@ rather than take it on faith.
 | [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 186 | — | ○ none matched |
 | [Gong](https://www.gong.io/careers/) | 2 | `greenhouse:gongio` | 86 | — | ○ none matched |
 | [Gusto](https://gusto.com/about/careers) | 2 | `greenhouse:gusto` | 100 | — | ○ none matched |
-| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 112 | — | ○ none matched |
+| [Instacart](https://instacart.careers/) | 2 | `greenhouse:instacart` | 110 | — | ○ none matched |
 | [Intel](https://jobs.intel.com/) | 2 | `workday:intel` | 20 | — | ○ none matched |
 | [Klaviyo](https://careers.klaviyo.com/) | 2 | `greenhouse:klaviyo` | 155 | — | ○ none matched |
 | [Marshall Wace](https://www.mwam.com/careers/) | 2 | `greenhouse:marshallwace` | 1 | — | ○ none matched |
@@ -435,7 +435,7 @@ rather than take it on faith.
 | [Tailscale](https://tailscale.com/careers) | 2 | `greenhouse:tailscale` | 36 | — | ○ none matched |
 | [Temporal](https://temporal.io/careers) | 2 | `ashby:temporal` | 71 | — | ○ none matched |
 | [Tesla](https://www.tesla.com/careers/search/?type=3) | 2 | — | — | — | 🔗 link-only |
-| [Twilio](https://www.twilio.com/en-us/company/jobs) | 2 | `greenhouse:twilio` | 122 | — | ○ none matched |
+| [Twilio](https://www.twilio.com/en-us/company/jobs) | 2 | `greenhouse:twilio` | 121 | — | ○ none matched |
 | [Vatic Labs](https://vaticlabs.com/careers) | 2 | `greenhouse:vaticlabs` | 7 | — | ○ none matched |
 | [Warp](https://www.warp.dev/careers) | 2 | `ashby:warp` | 21 | — | ○ none matched |
 | [Zed](https://zed.dev/jobs) | 2 | `ashby:zed` | 1 | — | ○ none matched |
