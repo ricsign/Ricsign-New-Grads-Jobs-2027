@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,364 |
+| Postings fetched | 22,367 |
 | Postings published | 493 |
 | Boards that failed to fetch | **4** |
 | Boards live but with nothing early-career | 54 |
@@ -206,12 +206,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 40 postings read, none early-career</summary>
 
+- `Senior AI Engineer — not a US location`
+- `Software Verification Manager, SDK — not a US location`
+- `Senior Software Engineer — not a US location`
+- `Firmware Engineer — not a US location`
 - `Senior Linux Systems Engineer - EDA Infrastructure — not a US location`
 - `Senior Systems Software Engineer- EDA Infrastructure — not a US location`
-- `Distinguished Engineer, Security Architecture - DGX Cloud — senior/experienced role`
-- `Principal Engineer, Security Architecture - DGX Cloud — senior/experienced role`
-- `Head of Infrastructure Security Engineering - EDA Clusters — not a US location`
-- `Senior Linux Kernel Systems Software Engineer – CSP Engagements — not a US location`
 
 </details>
 
@@ -269,12 +269,12 @@ rather than take it on faith.
 
 <details><summary><b>Salesforce</b> — 40 postings read, none early-career</summary>
 
+- `Technical Architect Salesforce — not a US location`
 - `Data Foundation Solution Engineer — not a US location`
 - `Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) — not a US location`
 - `Software Engineering SMTS — not an early-career posting`
 - `Cloud Account Executive - Tableau — not a US location`
 - `SVP & Chief Operating Officer, Missionforce — title is not a technical role`
-- `Forward Deployed Process Senior/Principal Process Consultant — not a US location`
 
 </details>
 
@@ -294,7 +294,7 @@ rather than take it on faith.
 
 | Company | Tier | Board | Fetched | Published | Status |
 |:--|:-:|:--|--:|--:|:--|
-| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 883 | 7 | ✅ ok |
+| [Databricks](https://www.databricks.com/company/careers) | 0 | `greenhouse:databricks` | 884 | 7 | ✅ ok |
 | [Stripe](https://stripe.com/jobs/university) | 0 | `greenhouse:stripe` | 710 | 7 | ✅ ok |
 | [Figure AI](https://www.figure.ai/careers) | 0 | `greenhouse:figureai` | 104 | 6 | ✅ ok |
 | [Scale AI](https://scale.com/careers) | 0 | `greenhouse:scaleai` | 171 | 6 | ✅ ok |
@@ -306,7 +306,7 @@ rather than take it on faith.
 | [xAI](https://x.ai/careers) | 0 | `greenhouse:xai` | 298 | 3 | ✅ ok |
 | [Sierra](https://sierra.ai/careers) | 0 | `ashby:sierra` | 210 | 2 | ✅ ok |
 | [Anysphere (Cursor)](https://cursor.com/careers) | 0 | `ashby:cursor` | 126 | 1 | ✅ ok |
-| [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 44 | 1 | ✅ ok |
+| [Physical Intelligence](https://www.physicalintelligence.company/careers) | 0 | `ashby:physicalintelligence` | 45 | 1 | ✅ ok |
 | [Citadel](https://www.citadel.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
 | [Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/?experience-filter=internships) | 0 | — | — | — | 🔗 link-only |
 | [Cognition](https://cognition.ai/careers) | 0 | `ashby:cognition` | 105 | — | ○ none matched |
@@ -347,7 +347,7 @@ rather than take it on faith.
 | [Headlands Technologies](https://www.headlandstech.com/careers/) | 1 | `greenhouse:headlandstechnologiesllc` | 8 | 4 | ✅ ok |
 | [Brex](https://www.brex.com/careers) | 1 | `greenhouse:brex` | 259 | 3 | ✅ ok |
 | [Etched](https://www.etched.com/careers) | 1 | `ashby:etched` | 116 | 3 | ✅ ok |
-| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 388 | 3 | ✅ ok |
+| [Netflix](https://explore.jobs.netflix.net/careers) | 1 | `eightfold:netflix.com` | 391 | 3 | ✅ ok |
 | [Datadog](https://careers.datadoghq.com/) | 1 | `greenhouse:datadog` | 417 | 2 | ✅ ok |
 | [Decagon](https://decagon.ai/careers) | 1 | `ashby:decagon` | 134 | 2 | ✅ ok |
 | [Fireworks AI](https://fireworks.ai/careers) | 1 | `ashby:fireworks` | 91 | 2 | ✅ ok |
@@ -360,7 +360,7 @@ rather than take it on faith.
 | [Cloudflare](https://www.cloudflare.com/careers/) | 1 | `greenhouse:cloudflare` | 438 | 1 | ✅ ok |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/) | 1 | `greenhouse:hrttalentcommunity` | 3 | 1 | ✅ ok |
 | [Modal](https://modal.com/careers) | 1 | `ashby:modal` | 43 | 1 | ✅ ok |
-| [MongoDB](https://www.mongodb.com/company/careers) | 1 | `greenhouse:mongodb` | 369 | 1 | ✅ ok |
+| [MongoDB](https://www.mongodb.com/company/careers) | 1 | `greenhouse:mongodb` | 368 | 1 | ✅ ok |
 | [Radix Trading](https://www.radix-trading.com/careers) | 1 | `greenhouse:radixuniversity` | 8 | 1 | ✅ ok |
 | [Replit](https://replit.com/careers) | 1 | `ashby:replit` | 37 | 1 | ✅ ok |
 | [SambaNova](https://sambanova.ai/careers) | 1 | `greenhouse:sambanovasystems` | 60 | 1 | ✅ ok |
@@ -414,7 +414,7 @@ rather than take it on faith.
 | [Amplitude](https://amplitude.com/careers) | 2 | `greenhouse:amplitude` | — | — | ⚠️ FETCH FAILED |
 | [Asana](https://asana.com/jobs) | 2 | `greenhouse:asana` | 108 | — | ○ none matched |
 | [Attentive](https://www.attentive.com/careers) | 2 | `greenhouse:attentive` | 29 | — | ○ none matched |
-| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 273 | — | ○ none matched |
+| [Broadcom](https://www.broadcom.com/company/careers) | 2 | `workday:broadcom` | 272 | — | ○ none matched |
 | [Chime](https://www.chime.com/careers/) | 2 | `greenhouse:chime` | 71 | — | ○ none matched |
 | [Dropbox](https://jobs.dropbox.com/) | 2 | `greenhouse:dropbox` | 23 | — | ○ none matched |
 | [Flexport](https://www.flexport.com/careers/) | 2 | `greenhouse:flexport` | 186 | — | ○ none matched |
