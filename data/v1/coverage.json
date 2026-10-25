@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T20:54:58+00:00",
+ "generated_at": "2026-10-25T04:49:40+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 681,
+   "fetched": 682,
    "published": 4,
    "status": "ok"
   },
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 796,
+   "fetched": 794,
    "published": 0,
    "status": "none matched"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 390,
+   "fetched": 388,
    "published": 3,
    "status": "ok"
   },
@@ -357,7 +357,7 @@
    "tier": 1,
    "ats": "workday",
    "token": "salesforce",
-   "fetched": 39,
+   "fetched": 40,
    "published": 0,
    "status": "none matched"
   },
@@ -1147,7 +1147,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "tailscale",
-   "fetched": 35,
+   "fetched": 36,
    "published": 0,
    "status": "none matched"
   },
@@ -1177,7 +1177,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "plaid",
-   "fetched": 135,
+   "fetched": 134,
    "published": 0,
    "status": "none matched"
   },
@@ -1187,7 +1187,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "brex",
-   "fetched": 254,
+   "fetched": 259,
    "published": 3,
    "status": "ok"
   },
@@ -1397,7 +1397,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "andurilindustries",
-   "fetched": 2405,
+   "fetched": 2406,
    "published": 35,
    "status": "ok"
   },
@@ -1447,17 +1447,17 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 253,
+   "fetched": 254,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6160,
-  "senior/experienced role": 4174,
-  "title is not a technical role": 4051,
-  "non-technical role": 3274,
-  "not an early-career posting": 2923,
+  "not a US location": 6165,
+  "senior/experienced role": 4175,
+  "title is not a technical role": 4052,
+  "non-technical role": 3275,
+  "not an early-career posting": 2920,
   "non-CS engineering discipline": 902,
   "quant role without early-career marker": 246,
   "research role without early-career marker": 136
@@ -1732,14 +1732,14 @@
    "Engineering Manager - Bank Accounts — senior/experienced role"
   ],
   "nvidia": [
-   "Senior Software Architect - Deep Learning and HPC Communications — not a US location",
-   "Distinguished Engineer – Data Center System Software Architect — senior/experienced role",
-   "Senior Compute Platform Engineer, LSF - EDA Infrastructure — not a US location",
-   "Senior Distributed Software Engineer, Golang - DGX Cloud — not a US location",
-   "RTL Design Engineer, DFT — not a US location",
-   "Senior Software Development Tech Lead – NVLink FW and NVOS — senior/experienced role",
-   "Principal Architect, System Software - Orbital Data Center — not a US location",
-   "Senior Manager, Engineering - Data Center Firmware — not a US location"
+   "Senior Linux Systems Engineer - EDA Infrastructure — not a US location",
+   "Senior Systems Software Engineer- EDA Infrastructure — not a US location",
+   "Distinguished Engineer, Security Architecture - DGX Cloud — senior/experienced role",
+   "Principal Engineer, Security Architecture - DGX Cloud — senior/experienced role",
+   "Head of Infrastructure Security Engineering - EDA Clusters — not a US location",
+   "Senior Linux Kernel Systems Software Engineer – CSP Engagements — not a US location",
+   "Senior Software Engineer - Distributed Systems Engineer, EDA Infrastructure — not a US location",
+   "Senior Storage Software Engineer - DGX Cloud — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1786,14 +1786,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Data Foundation Solution Engineer — not a US location",
    "Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) — not a US location",
    "Software Engineering SMTS — not an early-career posting",
    "Cloud Account Executive - Tableau — not a US location",
    "SVP & Chief Operating Officer, Missionforce — title is not a technical role",
    "Forward Deployed Process Senior/Principal Process Consultant — not a US location",
    "Executive Assistant/Senior Executive Assistant — non-technical role",
-   "Principal AI Solutions Engineer - Salesforce AI Labs — not a US location",
-   "Specialist Solution Engineer — not a US location"
+   "Principal AI Solutions Engineer - Salesforce AI Labs — not a US location"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -2032,8 +2032,8 @@
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
    "Customer Account Executive — not a US location",
-   "Customer Account Executive — not a US location",
    "Customer Account Executive — non-technical role",
+   "Customer Account Executive — not a US location",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location"
   ],

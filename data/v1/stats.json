@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-10-24T20:54:58+00:00",
+ "generated_at": "2026-10-25T04:49:40+00:00",
  "live_requisitions": 493,
  "live_roles": 451,
  "companies_with_open_roles": 71,
  "posted_age": {
-  "median_days": 51,
-  "posted_last_24h": 7,
+  "median_days": 52,
+  "posted_last_24h": 0,
   "posted_last_7d": 35,
-  "posted_last_30d": 139,
+  "posted_last_30d": 132,
   "evergreen_over_1y": 44,
   "with_posted_date_pct": 100.0
  },
@@ -37,10 +37,10 @@
   "unspecified": 150
  },
  "sponsorship_resolved_pct": 29.2,
- "link_verified_pct": 94.3,
+ "link_verified_pct": 89.7,
  "by_link_status": {
-  "ok": 465,
-  "blocked": 21,
+  "ok": 442,
+  "blocked": 44,
   "error": 7,
   "dead": 0,
   "closed": 0,
@@ -50,10 +50,10 @@
   "tracked": 763,
   "live": 709,
   "closed": 54,
-  "median_age_days": 45,
-  "p90_age_days": 53,
-  "max_age_days": 53,
-  "verified_within_24h": 497
+  "median_age_days": 46,
+  "p90_age_days": 54,
+  "max_age_days": 54,
+  "verified_within_24h": 493
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -61,7 +61,7 @@
   "boards_empty": 0,
   "boards_failed": 4,
   "success_rate": 0.969,
-  "postings_fetched": 22866,
+  "postings_fetched": 22872,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -94,21 +94,21 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6160,
-   "senior/experienced role": 4174,
-   "title is not a technical role": 4051,
-   "non-technical role": 3274,
-   "not an early-career posting": 2923,
+   "not a US location": 6165,
+   "senior/experienced role": 4175,
+   "title is not a technical role": 4052,
+   "non-technical role": 3275,
+   "not an early-career posting": 2920,
    "non-CS engineering discipline": 902,
    "quant role without early-career marker": 246,
    "research role without early-career marker": 136
   },
   "link_check": {
-   "ok": 465,
-   "blocked": 21,
+   "ok": 442,
+   "blocked": 44,
    "error": 7,
    "checked": 493,
-   "conclusive": 465,
+   "conclusive": 442,
    "resolving_pct": 100.0
   }
  }
