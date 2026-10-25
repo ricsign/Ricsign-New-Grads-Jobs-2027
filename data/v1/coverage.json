@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:39:39+00:00",
+ "generated_at": "2026-10-25T16:29:28+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 794,
+   "fetched": 793,
    "published": 0,
    "status": "none matched"
   },
@@ -507,7 +507,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "point72",
-   "fetched": 205,
+   "fetched": 209,
    "published": 16,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 884,
+   "fetched": 883,
    "published": 7,
    "status": "ok"
   },
@@ -847,7 +847,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "stripe",
-   "fetched": 710,
+   "fetched": 711,
    "published": 7,
    "status": "ok"
   },
@@ -947,7 +947,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "grafanalabs",
-   "fetched": 144,
+   "fetched": 145,
    "published": 1,
    "status": "ok"
   },
@@ -1447,20 +1447,20 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 254,
+   "fetched": 256,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6168,
-  "senior/experienced role": 4174,
-  "title is not a technical role": 4052,
-  "non-technical role": 3277,
-  "not an early-career posting": 2919,
+  "not a US location": 6173,
+  "senior/experienced role": 4175,
+  "title is not a technical role": 4053,
+  "non-technical role": 3276,
+  "not an early-career posting": 2920,
   "non-CS engineering discipline": 902,
   "quant role without early-career marker": 246,
-  "research role without early-career marker": 136
+  "research role without early-career marker": 135
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1732,10 +1732,10 @@
    "Engineering Manager - Bank Accounts — senior/experienced role"
   ],
   "nvidia": [
-   "Senior AI Engineer — not a US location",
+   "Director, AI and HPC Cluster — not a US location",
+   "Mechanical Engineer — not a US location",
    "Software Verification Manager, SDK — not a US location",
    "Senior Software Engineer — not a US location",
-   "Firmware Engineer — not a US location",
    "Senior Linux Systems Engineer - EDA Infrastructure — not a US location",
    "Senior Systems Software Engineer- EDA Infrastructure — not a US location",
    "Distinguished Engineer, Security Architecture - DGX Cloud — senior/experienced role",
@@ -1786,14 +1786,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Account Solution Engineer, Philippines - SMB Market — not a US location",
    "Technical Architect Salesforce — not a US location",
    "Data Foundation Solution Engineer — not a US location",
    "Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) — not a US location",
    "Software Engineering SMTS — not an early-career posting",
    "Cloud Account Executive - Tableau — not a US location",
    "SVP & Chief Operating Officer, Missionforce — title is not a technical role",
-   "Forward Deployed Process Senior/Principal Process Consultant — not a US location",
-   "Executive Assistant/Senior Executive Assistant — non-technical role"
+   "Forward Deployed Process Senior/Principal Process Consultant — not a US location"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -1947,8 +1947,8 @@
    "B2B Event Marketing Manager (6-Month Contract) — non-technical role",
    "Bilingual Customer Experience Specialist (Spanish) — title is not a technical role",
    "Bilingual CX Specialist (French) — title is not a technical role",
-   "Billing Operations Lead — title is not a technical role",
-   "Billing Operations Lead — not a US location"
+   "Billing Operations Lead — not a US location",
+   "Billing Operations Lead — title is not a technical role"
   ],
   "intel": [
    "Senior Software Development Engineer (Contract Position) — senior/experienced role",
@@ -2032,8 +2032,8 @@
    "Brand Designer — non-technical role",
    "Commercial Legal Counsel — non-technical role",
    "Customer Account Executive — not a US location",
-   "Customer Account Executive — not a US location",
    "Customer Account Executive — non-technical role",
+   "Customer Account Executive — not a US location",
    "Customer Reliability Engineer — not an early-career posting",
    "Customer Support Engineer (Tier 1) — not a US location"
   ],
