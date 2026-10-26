@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**59 open roles** · last verified 2026-10-26 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**58 open roles** · last verified 2026-10-26 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -34,7 +34,6 @@ Full-time entry-level software engineering roles in the US.
 | **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 24d · Oct 2 | 24d · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Sep 17 | 1mo · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
-| **Anysphere (Cursor)** | Software Engineer, New Grad 2027 · _2027_ | San Francisco, New York +1 | — | · | 1mo · Sep 8 | 1mo · Sep 10 | [apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application) |
 | **Scale AI** | Software Engineer - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 1mo · Aug 31 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Aug 31 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
@@ -101,4 +100,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-26 04:54 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-26 13:12 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

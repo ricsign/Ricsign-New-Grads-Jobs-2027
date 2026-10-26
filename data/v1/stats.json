@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-26T04:54:52+00:00",
- "live_requisitions": 493,
- "live_roles": 451,
- "companies_with_open_roles": 71,
+ "generated_at": "2026-10-26T13:12:08+00:00",
+ "live_requisitions": 492,
+ "live_roles": 450,
+ "companies_with_open_roles": 70,
  "posted_age": {
   "median_days": 53,
   "posted_last_24h": 1,
@@ -12,14 +12,14 @@
   "with_posted_date_pct": 100.0
  },
  "by_track": {
-  "new-grad-swe": 127,
+  "new-grad-swe": 126,
   "ai-research": 12,
   "quant": 51,
   "internship": 303,
   "other": 0
  },
  "by_tier": {
-  "0": 50,
+  "0": 49,
   "1": 387,
   "2": 56
  },
@@ -28,18 +28,18 @@
   "no-sponsorship": 9,
   "citizenship-required": 60,
   "security-clearance": 50,
-  "unknown": 349
+  "unknown": 348
  },
  "by_degree": {
   "bachelors": 79,
   "masters-preferred": 178,
   "phd-required": 85,
-  "unspecified": 151
+  "unspecified": 150
  },
- "sponsorship_resolved_pct": 29.2,
- "link_verified_pct": 89.7,
+ "sponsorship_resolved_pct": 29.3,
+ "link_verified_pct": 89.6,
  "by_link_status": {
-  "ok": 442,
+  "ok": 441,
   "blocked": 44,
   "error": 7,
   "dead": 0,
@@ -61,7 +61,7 @@
   "boards_empty": 0,
   "boards_failed": 4,
   "success_rate": 0.969,
-  "postings_fetched": 22865,
+  "postings_fetched": 22851,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -94,22 +94,23 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6170,
-   "senior/experienced role": 4172,
+   "not a US location": 6178,
+   "senior/experienced role": 4169,
    "title is not a technical role": 4051,
-   "non-technical role": 3276,
-   "not an early-career posting": 2916,
-   "non-CS engineering discipline": 900,
-   "quant role without early-career marker": 246,
+   "non-technical role": 3264,
+   "not an early-career posting": 2912,
+   "non-CS engineering discipline": 899,
+   "quant role without early-career marker": 245,
    "research role without early-career marker": 136
   },
   "link_check": {
-   "ok": 442,
+   "ok": 441,
+   "dead": 1,
    "blocked": 44,
    "error": 7,
    "checked": 493,
    "conclusive": 442,
-   "resolving_pct": 100.0
+   "resolving_pct": 99.8
   }
  }
 }
