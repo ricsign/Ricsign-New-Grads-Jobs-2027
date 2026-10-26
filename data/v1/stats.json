@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-10-26T13:12:08+00:00",
- "live_requisitions": 492,
- "live_roles": 450,
- "companies_with_open_roles": 70,
+ "generated_at": "2026-10-26T22:44:06+00:00",
+ "live_requisitions": 495,
+ "live_roles": 453,
+ "companies_with_open_roles": 71,
  "posted_age": {
   "median_days": 53,
-  "posted_last_24h": 1,
-  "posted_last_7d": 35,
-  "posted_last_30d": 127,
+  "posted_last_24h": 3,
+  "posted_last_7d": 37,
+  "posted_last_30d": 129,
   "evergreen_over_1y": 44,
-  "with_posted_date_pct": 100.0
+  "with_posted_date_pct": 99.8
  },
  "by_track": {
-  "new-grad-swe": 126,
+  "new-grad-swe": 128,
   "ai-research": 12,
-  "quant": 51,
+  "quant": 52,
   "internship": 303,
   "other": 0
  },
  "by_tier": {
-  "0": 49,
-  "1": 387,
-  "2": 56
+  "0": 50,
+  "1": 388,
+  "2": 57
  },
  "by_sponsorship": {
   "sponsors": 25,
-  "no-sponsorship": 9,
-  "citizenship-required": 60,
-  "security-clearance": 50,
-  "unknown": 348
+  "no-sponsorship": 10,
+  "citizenship-required": 58,
+  "security-clearance": 51,
+  "unknown": 351
  },
  "by_degree": {
-  "bachelors": 79,
-  "masters-preferred": 178,
-  "phd-required": 85,
-  "unspecified": 150
+  "bachelors": 80,
+  "masters-preferred": 177,
+  "phd-required": 86,
+  "unspecified": 152
  },
- "sponsorship_resolved_pct": 29.3,
- "link_verified_pct": 89.6,
+ "sponsorship_resolved_pct": 29.1,
+ "link_verified_pct": 89.7,
  "by_link_status": {
-  "ok": 441,
+  "ok": 444,
   "blocked": 44,
   "error": 7,
   "dead": 0,
@@ -47,13 +47,13 @@
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 764,
-  "live": 710,
+  "tracked": 766,
+  "live": 712,
   "closed": 54,
-  "median_age_days": 47,
+  "median_age_days": 46,
   "p90_age_days": 55,
   "max_age_days": 55,
-  "verified_within_24h": 494
+  "verified_within_24h": 500
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -61,7 +61,7 @@
   "boards_empty": 0,
   "boards_failed": 4,
   "success_rate": 0.969,
-  "postings_fetched": 22851,
+  "postings_fetched": 22830,
   "by_source": {
    "greenhouse": 75,
    "ashby": 41,
@@ -94,22 +94,22 @@
   ],
   "empty_boards": [],
   "rejections": {
-   "not a US location": 6178,
-   "senior/experienced role": 4169,
-   "title is not a technical role": 4051,
-   "non-technical role": 3264,
-   "not an early-career posting": 2912,
-   "non-CS engineering discipline": 899,
-   "quant role without early-career marker": 245,
-   "research role without early-career marker": 136
+   "not a US location": 6154,
+   "senior/experienced role": 4168,
+   "title is not a technical role": 4028,
+   "non-technical role": 3273,
+   "not an early-career posting": 2911,
+   "non-CS engineering discipline": 896,
+   "quant role without early-career marker": 244,
+   "research role without early-career marker": 137
   },
   "link_check": {
-   "ok": 441,
+   "ok": 444,
    "dead": 1,
    "blocked": 44,
    "error": 7,
-   "checked": 493,
-   "conclusive": 442,
+   "checked": 496,
+   "conclusive": 445,
    "resolving_pct": 99.8
   }
  }

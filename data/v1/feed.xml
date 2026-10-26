@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-26T13:12:08+00:00</updated>
+  <updated>2026-10-26T22:44:06+00:00</updated>
+  <entry>
+    <title>Anduril Industries — Early Career Software Engineer, Battlespace Awareness</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007"/>
+    <id>tag:ricsign.github.io,2026:d5b7879afeda6c63</id>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Broomfield, Colorado, United States, Fort Collins, Colorado, United States · security-clearance · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Together AI — Technical Writer Intern, Developer Experience (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5271149007"/>
+    <id>tag:ricsign.github.io,2026:c02f5017b4008c6d</id>
+    <updated>2026-10-26T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · masters-preferred</summary>
+  </entry>
   <entry>
     <title>Man Group — Systematic Fast Trading Intern</title>
     <link href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101"/>
@@ -59,7 +75,7 @@
     <id>tag:ricsign.github.io,2026:03cc9964f0b40217</id>
     <updated>2026-10-23T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>Austin, New York City, San Francisco, Palo Alto, Seattle · unknown · masters-preferred</summary>
+    <summary>Austin, New York City, San Francisco · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Roblox — Software Engineer, Reliability</title>
@@ -84,6 +100,14 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>San Francisco, CA · sponsors · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Databricks — Associate Forward Deployed Engineer</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"/>
+    <id>tag:ricsign.github.io,2026:c352395d5724eb72</id>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>New York City, New York · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Databricks — Data Science Intern (2027 Start)</title>
@@ -203,7 +227,7 @@
     <id>tag:ricsign.github.io,2026:d52818944f2167d4</id>
     <updated>2026-10-21T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>New York, New York, United States, San Francisco, California, United States · no-sponsorship · bachelors</summary>
+    <summary>New York, New York, United States, San Francisco, California, United States, New York City · no-sponsorship · bachelors</summary>
   </entry>
   <entry>
     <title>Palantir — Software Engineer, Internship - Query Engines</title>
@@ -380,29 +404,5 @@
     <updated>2026-10-15T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Chicago, Illinois · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Airbnb — Strategic Finance &amp; Analytics Intern (MBA)</title>
-    <link href="https://careers.airbnb.com/positions/8285171?gh_jid=8285171"/>
-    <id>tag:ricsign.github.io,2026:0b972b9da61bd994</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>United States · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Winter 2027 Research Engineer Co-op</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007"/>
-    <id>tag:ricsign.github.io,2026:b1f32e3d99dee687</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Santa Ana, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Meritocracy Fellowship</title>
-    <link href="https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3"/>
-    <id>tag:ricsign.github.io,2026:88147242e05a311c</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · unknown · bachelors</summary>
   </entry>
 </feed>

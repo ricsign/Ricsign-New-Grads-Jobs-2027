@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-26T13:12:08+00:00",
+ "generated_at": "2026-10-26T22:44:06+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 493,
+ "count": 496,
  "jobs": [
   {
    "uid": "d91ff247b9cb0cfe",
@@ -54,6 +54,32 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Platform Software",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "c352395d5724eb72",
+   "company_slug": "databricks",
+   "company_name": "Databricks",
+   "company_tier": 0,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Associate Forward Deployed Engineer",
+   "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+   "locations": [
+    "New York City, New York"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-22",
+   "last_verified": "2026-10-26",
+   "posted_at": "2026-10-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Professional Services Operations",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1393,6 +1419,59 @@
    "openings": 1
   },
   {
+   "uid": "d5b7879afeda6c63",
+   "company_slug": "anduril",
+   "company_name": "Anduril Industries",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "Early Career Software Engineer, Battlespace Awareness",
+   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007",
+   "locations": [
+    "Broomfield, Colorado, United States",
+    "Fort Collins, Colorado, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "security-clearance",
+   "first_seen": "2026-10-26",
+   "last_verified": "2026-10-26",
+   "posted_at": "2026-10-26",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mission Systems : Battlespace Awareness Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "c02f5017b4008c6d",
+   "company_slug": "together-ai",
+   "company_name": "Together AI",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Technical Writer Intern, Developer Experience (Summer 2027)",
+   "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5271149007",
+   "locations": [
+    "San Francisco"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-26",
+   "last_verified": "2026-10-26",
+   "posted_at": "2026-10-26",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Product",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "6de0cf243b46cf04",
    "company_slug": "amazon",
    "company_name": "Amazon",
@@ -1456,9 +1535,7 @@
    "locations": [
     "Austin",
     "New York City",
-    "San Francisco",
-    "Palo Alto",
-    "Seattle"
+    "San Francisco"
    ],
    "track": "internship",
    "degree": "masters-preferred",
@@ -3424,16 +3501,16 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
    "locations": [
-    "United States"
+    "Salt Lake City, Utah, United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -3476,16 +3553,16 @@
    "openings": 1
   },
   {
-   "uid": "a386241d1f2da194",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864176002?gh_jid=8864176002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
-    "Salt Lake City, Utah, United States"
+    "United States"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -4270,6 +4347,32 @@
    "openings": 1
   },
   {
+   "uid": "c899f6bbb5de2c28",
+   "company_slug": "jump-trading",
+   "company_name": "Jump Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
+   "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8209424",
+   "locations": [
+    "New York City"
+   ],
+   "track": "quant",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-22",
+   "last_verified": "2026-10-26",
+   "posted_at": "2026-09-22",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Front Office ",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "ba8f055f95f3c686",
    "company_slug": "waymo",
    "company_name": "Waymo",
@@ -5010,58 +5113,6 @@
    "season": "Winter 2027",
    "compensation": null,
    "department": "Maritime & Maneuver Dominance ",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "398b24d0fe294771",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Winter 2027 Test & Evaluation Engineer Co-op",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007",
-   "locations": [
-    "Costa Mesa, California, United States"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-15",
-   "last_verified": "2026-10-26",
-   "posted_at": "2026-09-15",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "Hardware Platform : Hardware Test Operations : Test & Evaluation",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "f49e6949cc19d017",
-   "company_slug": "anduril",
-   "company_name": "Anduril Industries",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "Winter 2027 Warhead Engineer Co-op",
-   "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007",
-   "locations": [
-    "Costa Mesa, California, United States"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-15",
-   "last_verified": "2026-10-26",
-   "posted_at": "2026-09-15",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "Hardware Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -5948,21 +5999,21 @@
    "openings": 1
   },
   {
-   "uid": "480320bf117569b8",
+   "uid": "696a333741392d7d",
    "company_slug": "schonfeld",
    "company_name": "Schonfeld",
    "company_tier": 1,
    "company_category": "quant",
    "source": "greenhouse",
-   "title": "2027 PhD Quantitative Research Intern",
-   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+   "title": "2027 Data Science Intern",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
    "locations": [
     "New York, New York, United States"
    ],
    "track": "internship",
-   "degree": "phd-required",
+   "degree": "unspecified",
    "sponsorship": "unknown",
-   "first_seen": "2026-09-05",
+   "first_seen": "2026-09-04",
    "last_verified": "2026-10-26",
    "posted_at": "2026-09-04",
    "closed_at": null,
@@ -9192,7 +9243,7 @@
    ],
    "track": "internship",
    "degree": "unspecified",
-   "sponsorship": "unknown",
+   "sponsorship": "no-sponsorship",
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-26",
    "posted_at": "2026-07-01",
@@ -10355,7 +10406,7 @@
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+   "title": "Machine Learning Engineer, Perception, LLM/VLM (PhD, New Grad)",
    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=7488508",
    "locations": [
     "Mountain View, CA USA",
@@ -11911,7 +11962,8 @@
    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
    "locations": [
     "New York, New York, United States",
-    "San Francisco, California, United States"
+    "San Francisco, California, United States",
+    "New York City"
    ],
    "track": "new-grad-swe",
    "degree": "bachelors",
@@ -12684,6 +12736,32 @@
    "season": "2026",
    "compensation": null,
    "department": "Sales Development",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "c503b45de30b7da0",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Module Engineering - PhD Intern",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916",
+   "locations": [
+    "US, Oregon, Hillsboro"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-15",
+   "last_verified": "2026-10-26",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
