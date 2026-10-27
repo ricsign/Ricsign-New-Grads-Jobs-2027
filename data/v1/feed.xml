@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-26T22:44:06+00:00</updated>
+  <updated>2026-10-27T05:12:39+00:00</updated>
+  <entry>
+    <title>NVIDIA — Customer Technical Program Management Intern, OEMs System Partner – Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512"/>
+    <id>tag:ricsign.github.io,2026:15de03bbb849fe74</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Anduril Industries — Early Career Software Engineer, Battlespace Awareness</title>
     <link href="https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007"/>
@@ -396,13 +404,5 @@
     <updated>2026-10-16T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Databricks — Solutions Engineer</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002"/>
-    <id>tag:ricsign.github.io,2026:61aed1d8e420f853</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Chicago, Illinois · unknown · bachelors</summary>
   </entry>
 </feed>
