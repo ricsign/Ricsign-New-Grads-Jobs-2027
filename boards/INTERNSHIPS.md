@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**134 open roles** · last verified 2026-10-27 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**132 open roles** · last verified 2026-10-27 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -60,7 +60,6 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **NVIDIA** | Customer Technical Program Management Intern, OEMs System Partner – Summer 2027 · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Oct 27 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Customer-Technical-Program-Management-Intern--OEMs-System-Partner---Summer-2027_JR2028512) |
 | **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 1d · Oct 26 | 1d · Oct 26 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
 | **Amazon** | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) · _Summer 2027_ | Redmond, Washington, USA | — | · | 4d · Oct 23 | 4d · Oct 23 | [apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
 | **MongoDB** | 2027 - Software Engineering Intern, AMER · _2027_ | Austin, New York City +1 | — | ·📗 | 4d · Oct 23 | 4d · Oct 23 | [apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
@@ -168,7 +167,6 @@ Software engineering and research internships at the same curated bar.
 | **Pinterest** | Master's Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 26d · Oct 1 | 26d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
 | **Lyft** | Applied Scientist Intern, PhD (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 29d · Sep 28 | 29d · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | · | 1mo · Sep 24 | 1mo · Sep 24 | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
-| **Intel** | Module Engineering - PhD Intern | US, Oregon, Hillsboro | — | ·🎓 | — | 1mo · Sep 15 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-Summer-2027_JR0286916) |
 | **ExodusPoint** | Quant Credit Intern - PA (Hybrid) - December 2026 · _2026_ | Wynnewood, PA, Pennsylvania | — | · | 1mo · Sep 14 | 9d · Oct 18 | [apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) |
 | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) · _Summer 2027_ · `2 openings` | New York, NY, San Francisco Office +1 | — | ·📗 | 1mo · Sep 11 | 1mo · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
@@ -181,4 +179,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-27 05:12 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-27 12:20 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
