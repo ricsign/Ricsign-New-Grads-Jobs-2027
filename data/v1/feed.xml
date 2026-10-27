@@ -4,14 +4,102 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-27T12:20:17+00:00</updated>
+  <updated>2026-10-27T22:20:20+00:00</updated>
   <entry>
-    <title>Anduril Industries — Early Career Software Engineer, Battlespace Awareness</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5275431007?gh_jid=5275431007"/>
-    <id>tag:ricsign.github.io,2026:d5b7879afeda6c63</id>
-    <updated>2026-10-26T00:00:00Z</updated>
+    <title>Databricks — Software Engineer - New Grad (2027 Start)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002"/>
+    <id>tag:ricsign.github.io,2026:c61fbba3458d749e</id>
+    <updated>2026-10-27T00:00:00Z</updated>
     <category term="new-grad-swe"/>
-    <summary>Broomfield, Colorado, United States, Fort Collins, Colorado, United States · security-clearance · bachelors</summary>
+    <summary>Bellevue, Washington, Mountain View, California, San Francisco, California · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Databricks — Software Engineer - New Grad, Distributed Data Systems (2027 Start)</title>
+    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002"/>
+    <id>tag:ricsign.github.io,2026:254c34b91d961bf4</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Bellevue, Washington, Mountain View, California · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Cloud Platform Engineer - New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004"/>
+    <id>tag:ricsign.github.io,2026:8306e401fc06a658</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, United States, San Jose, California, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Compiler Engineer - New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004"/>
+    <id>tag:ricsign.github.io,2026:e2a6f83b74bf8c30</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Design Verification Engineer, New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004"/>
+    <id>tag:ricsign.github.io,2026:45dcdca1a37ce12f</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Jose, California, United States, Austin, TX · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — ML Infrastructure Engineer - New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"/>
+    <id>tag:ricsign.github.io,2026:bf327b802c4a08a3</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Physical Design Engineer, New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004"/>
+    <id>tag:ricsign.github.io,2026:a8b1cc18033baa55</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Jose, California, United States, Austin, TX · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Post-Silicon Validation Engineer, New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004"/>
+    <id>tag:ricsign.github.io,2026:6a8086bcbce8ef7d</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Jose, California, United States, Austin, TX · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Runtime Engineer - New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004"/>
+    <id>tag:ricsign.github.io,2026:4a60e4692c2a9d72</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Together AI — (Senior/Junior AI Inference Reliability Engineer, Compute Infra</title>
+    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5268939007"/>
+    <id>tag:ricsign.github.io,2026:2290a5aa4fc7fe7b</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8319171"/>
+    <id>tag:ricsign.github.io,2026:c3d7205c74b265dd</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Grafana Labs — Solutions Engineer | PST or EST US | Remote</title>
+    <link href="https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004"/>
+    <id>tag:ricsign.github.io,2026:b354c63e31b1a019</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States (Remote), USA (Remote) · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Together AI — Technical Writer Intern, Developer Experience (Summer 2027)</title>
@@ -100,14 +188,6 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>San Francisco, CA · sponsors · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Databricks — Associate Forward Deployed Engineer</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"/>
-    <id>tag:ricsign.github.io,2026:c352395d5724eb72</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>New York City, New York · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Databricks — Data Science Intern (2027 Start)</title>
@@ -324,85 +404,5 @@
     <updated>2026-10-19T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, San Francisco, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Research, Perception Foundation Models</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8301804"/>
-    <id>tag:ricsign.github.io,2026:717b785b5396a309</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8292367"/>
-    <id>tag:ricsign.github.io,2026:d595f4be0d778965</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Research, VLM Harnesses for AV Planning</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8301854"/>
-    <id>tag:ricsign.github.io,2026:4635e0c30f76e199</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>ExodusPoint — Quant Credit Intern - PA (Hybrid) - December 2026</title>
-    <link href="https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002"/>
-    <id>tag:ricsign.github.io,2026:9f215790fcac2781</id>
-    <updated>2026-10-18T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Wynnewood, PA, Pennsylvania · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Research Intern, Frontier Speculative Decoding (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5267198007"/>
-    <id>tag:ricsign.github.io,2026:02eda6b8f6e55726</id>
-    <updated>2026-10-17T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Research Intern, Frontier Speculative Decoding (Winter 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5267197007"/>
-    <id>tag:ricsign.github.io,2026:565cb0ffb9afc0f1</id>
-    <updated>2026-10-17T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>SpaceX — New Graduate Engineer, Infrastructure</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002"/>
-    <id>tag:ricsign.github.io,2026:b4d0bdacfc1b4de4</id>
-    <updated>2026-10-16T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Starbase, TX · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Hardware Security Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238469007"/>
-    <id>tag:ricsign.github.io,2026:78fa1d3f3b73a74a</id>
-    <updated>2026-10-16T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>San Francisco · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Together AI — Hardware Security Engineer, New Grad (2027)</title>
-    <link href="https://job-boards.greenhouse.io/togetherai/jobs/5238471007"/>
-    <id>tag:ricsign.github.io,2026:6aacbbf553f27aa9</id>
-    <updated>2026-10-16T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Francisco · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Databricks — Solutions Engineer</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002"/>
-    <id>tag:ricsign.github.io,2026:61aed1d8e420f853</id>
-    <updated>2026-10-15T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Chicago, Illinois · unknown · bachelors</summary>
   </entry>
 </feed>

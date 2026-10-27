@@ -38,8 +38,8 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Headlands Technologies** | Quantitative Researcher – New Grad | Chicago, New York City +1 | — | · | 5mo · May 29 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
 | **Schonfeld** | AI Engineer (Junior/Senior) | New York, New York, United States | — | · | 6mo · Apr 30 | 1mo · Sep 15 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7843962) |
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | 6mo · Apr 15 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
-| **DRW** | Prediction Markets Trader | Chicago, New York, New York City | — | · | 9mo · Jan 7 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7520816) |
 | **DRW** | Research Engineer (Options) | Chicago | — | · | 11mo · Nov 5 2025 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) |
+| **DRW** | Research Engineer · `open 1y+` | New York City | — | · | 1y · Jun 16 2025 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) |
 | **PDT Partners** | Quantitative Researcher · `open 1y+` | New York, NY | — | ·🎓 | 1y · Oct 28 2024 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer · `open 2y+` | New York, NY | — | · | 2y · Feb 6 2024 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
 | **Hudson River Trading** | FPGA Verification and Developer (Internships and Campus Full-time) · `open 4y+` | New York, NY, United States | — | · | 4y · Sep 21 2022 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/4576493) |
@@ -56,4 +56,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-10-27 12:20 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-27 22:20 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

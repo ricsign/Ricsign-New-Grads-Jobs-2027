@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**82 open roles** · last verified 2026-10-27 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**85 open roles** · last verified 2026-10-27 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -31,15 +31,13 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (5)
+## 🆕 Posted in the last 7 days (3)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Waymo** | [2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://careers.withwaymo.com/jobs?gh_jid=8287385) | Mountain View, CA, USA +1 | 4d · Oct 23 |
 | **Schonfeld** | [2027 PhD Centralized Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) | New York, New York, United States | 5d · Oct 22 |
 | **Waymo** | [2027 Summer Intern, PhD, AI Foundations - Recipes](https://careers.withwaymo.com/jobs?gh_jid=8306841) | Mountain View, CA, USA +1 | 5d · Oct 22 |
-| **Waymo** | [2027 Summer Intern, PhD, Research, Multimodal Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8306867) | Mountain View, CA, USA +1 | 5d · Oct 22 |
-| **SambaNova** | [AI Performance Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) | Austin, Texas, United States +1 | 7d · Oct 20 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -65,11 +63,13 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **SambaNova** | Compiler Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | today · Oct 27 | today · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) |
+| **SambaNova** | ML Infrastructure Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | today · Oct 27 | today · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) |
+| **SambaNova** | Physical Design Engineer, New Grad | San Jose, California, United States, Austin, TX | — | ·🎓 | today · Oct 27 | today · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004) |
+| **Waymo** | 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | today · Oct 27 | today · Oct 27 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 4d · Oct 23 | 4d · Oct 23 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) |
 | **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | 5d · Oct 22 | 5d · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | **Waymo** | 2027 Summer Intern, PhD, AI Foundations - Recipes · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 5d · Oct 22 | 5d · Oct 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8306841) |
-| **Waymo** | 2027 Summer Intern, PhD, Research, Multimodal Foundation Models · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 5d · Oct 22 | 5d · Oct 22 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8306867) |
-| **SambaNova** | AI Performance Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 7d · Oct 20 | 7d · Oct 20 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004) |
 | **DoorDash** | Operations Research Intern (PhD), Summer 2027 · _Summer 2027_ | Sunnyvale, CA | — | ·🎓 | 8d · Oct 19 | 4d · Oct 23 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
 | **Together AI** | Research Intern, Frontier Speculative Decoding (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 11d · Oct 16 | 10d · Oct 17 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) |
 | **Together AI** | Research Intern, Frontier Speculative Decoding (Winter 2027) · _Winter 2027_ | San Francisco | — | ·📗 | 11d · Oct 16 | 10d · Oct 17 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) |
@@ -132,6 +132,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Faire** | Applied AI/ML Scientist, Intern - Winter 2027 · _Winter 2027_ | San Francisco, CA | — | ·📗 | 21d · Oct 6 | 18d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
+| **Intel** | Module Engineering (PhD Intern) | US, Oregon, Hillsboro | — | ·🎓 | — | 21d · Oct 6 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 21d · Oct 6 | 20d · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 22d · Oct 5 | 14d · Oct 13 | [apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 26d · Oct 1 | 26d · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
@@ -141,4 +142,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-10-27 12:20 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-27 22:20 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
