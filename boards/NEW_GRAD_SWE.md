@@ -10,11 +10,10 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (10)
+## 🆕 Posted in the last 7 days (9)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
-| **Databricks** | [Associate Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) | Mountain View, California +1 | 5d · Oct 23 |
 | **SambaNova** | [Cloud Platform Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) | Austin, Texas, United States +1 | 1d · Oct 27 |
 | **SambaNova** | [Compiler Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) | Austin, Texas, United States +1 | 1d · Oct 27 |
 | **SambaNova** | [Design Verification Engineer, New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004) | San Jose, California, United States +1 | 1d · Oct 27 |
@@ -30,7 +29,6 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Databricks** | Associate Forward Deployed Engineer | Mountain View, California, Remote - California | — | · | 5d · Oct 23 | 5d · Oct 23 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002) |
 | **Databricks** | Solutions Engineer · `2 openings` | Chicago, Illinois, New York City, New York | — | · | 13d · Oct 15 | 13d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 26d · Oct 2 | 26d · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
@@ -42,6 +40,7 @@ Full-time entry-level software engineering roles in the US.
 | **Anthropic** | Research Associate, Biology | San Francisco, CA | — | 🌏📗 | 3mo · Jul 8 | 6d · Oct 22 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5285248008) |
 | **Databricks** | AI Engineer – Forward Deployed Engineering (AI FDE) | United States, Remote - California | — | ·📗 | 5mo · May 13 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | **Stripe** | Backend/API Engineer, Money as a Service · `open 2y+` | US | — | · | 2y · Aug 25 2024 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=6176758) |
+| **Databricks** | Software Engineer - New Grad (2027 Start) · _2027_ · `open 3y+` | Bellevue, Washington, Mountain View, California +1 | — | · | 3y · Aug 4 2023 | 1d · Oct 27 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) |
 
 ## Tier 1 — Established elite
 
@@ -76,8 +75,8 @@ Full-time entry-level software engineering roles in the US.
 | **Cerebras** | Kernel Engineer - New Grad | Sunnyvale, CA | — | ·📗 | 3mo · Jul 23 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application) |
 | **Together AI** | [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure… | San Francisco | — | · | 3mo · Jul 16 | 1mo · Sep 22 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5186628007) |
 | **Baseten** | Base Labs Fellowship | San Francisco | $19k | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
-| **Notion** | Software Engineer, Early Career | San Francisco, California | — | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application) |
 | **Notion** | Software Engineer, Early Career (AI) | San Francisco, California | — | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application) |
+| **Notion** | Software Engineer, Growth (Early Career) | San Francisco, California | — | · | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f/application) |
 | **DoorDash** | AI Research Fellowship, (Summer and Fall 2026) · _Fall 2026_ | San Francisco, CA | — | · | 6mo · Apr 29 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/7848317) |
 | **Waymo** | Machine Learning Engineer, Perception, LLM/VLM (PhD, New Grad) | Mountain View, CA USA, San Francisco, CA USA +2 | — | ·🎓 | 10mo · Dec 22 2025 | 1mo · Sep 1 | [apply](https://careers.withwaymo.com/jobs?gh_jid=7488508) |
 
@@ -105,4 +104,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-28 13:03 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-28 22:39 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

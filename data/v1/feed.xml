@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-28T13:03:55+00:00</updated>
+  <updated>2026-10-28T22:39:58+00:00</updated>
+  <entry>
+    <title>Anthropic — Anthropic Research Resident</title>
+    <link href="https://job-boards.greenhouse.io/anthropic/jobs/5438311008"/>
+    <id>tag:ricsign.github.io,2026:a4b083b217bbcaf6</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="ai-research"/>
+    <summary>San Francisco, CA | New York City, NY, Remote-Friendly US (Travel Required) · sponsors · bachelors</summary>
+  </entry>
   <entry>
     <title>Mercor — Research Engineer Intern - Environments, Data and Post-Training</title>
     <link href="https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application"/>
@@ -20,6 +28,38 @@
     <updated>2026-10-28T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Amazon — 2027 Applied Science Internship - Robotics - United States</title>
+    <link href="https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states"/>
+    <id>tag:ricsign.github.io,2026:5729f040e68e35be</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>North Reading, Massachusetts, USA · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — Winter 2027 Library Science Co-op</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007"/>
+    <id>tag:ricsign.github.io,2026:06766482240ce40a</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Santa Ana, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Schonfeld — 2027 Enterprise AI Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8171694"/>
+    <id>tag:ricsign.github.io,2026:633de9e782ce7382</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York, New York, United States · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Intel — Process Integration Development Engineer PhD Intern 2027</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-2027_JR0288661"/>
+    <id>tag:ricsign.github.io,2026:4d4561d983b423da</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, Oregon, Hillsboro · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Databricks — Software Engineer - New Grad (2027 Start)</title>
@@ -140,14 +180,6 @@
     <updated>2026-10-24T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Jose, CA · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Databricks — Associate Forward Deployed Engineer</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002"/>
-    <id>tag:ricsign.github.io,2026:d91ff247b9cb0cfe</id>
-    <updated>2026-10-23T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Mountain View, California, Remote - California · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Amazon — Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)</title>
@@ -372,37 +404,5 @@
     <updated>2026-10-19T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Field Test Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007"/>
-    <id>tag:ricsign.github.io,2026:fd4cf0222463fa92</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States, Quincy, Massachusetts, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Low Observables Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007"/>
-    <id>tag:ricsign.github.io,2026:d2f7cf902cae50af</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Netflix — Software Engineer Intern - Summer 2027</title>
-    <link href="https://explore.jobs.netflix.net/careers/job/790318904468"/>
-    <id>tag:ricsign.github.io,2026:23ba8dd5fb0b9a24</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Los Gatos,California,United States of America · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Point72 / Cubist — Quantitative Developer Intern</title>
-    <link href="https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002"/>
-    <id>tag:ricsign.github.io,2026:4cdf4fd0066c45fc</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · unknown · bachelors</summary>
   </entry>
 </feed>
