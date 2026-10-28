@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-27T22:20:20+00:00</updated>
+  <updated>2026-10-28T05:50:25+00:00</updated>
+  <entry>
+    <title>Mercor — Research Engineer Intern - Environments, Data and Post-Training</title>
+    <link href="https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application"/>
+    <id>tag:ricsign.github.io,2026:b0ebecd9954a408d</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Mercor — Research Engineer, Intern – Benchmarking</title>
+    <link href="https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application"/>
+    <id>tag:ricsign.github.io,2026:01752a399a022fd5</id>
+    <updated>2026-10-28T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>Databricks — Software Engineer - New Grad (2027 Start)</title>
     <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002"/>
@@ -388,21 +404,5 @@
     <updated>2026-10-19T00:00:00Z</updated>
     <category term="internship"/>
     <summary>New York, NY · unknown · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Machine Learning - Simulation &amp; Closed-Loop Training</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8283558"/>
-    <id>tag:ricsign.github.io,2026:1658c151b1ab8420</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, California, United States, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Research, Behavior Post-training</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8289816"/>
-    <id>tag:ricsign.github.io,2026:526646d871864d2b</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, San Francisco, CA, USA, Mountain View (US-MTV-EMF680), San Francisco (US-SFO-MKT555) · unknown · phd-required</summary>
   </entry>
 </feed>
