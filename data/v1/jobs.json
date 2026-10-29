@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-29T13:10:47+00:00",
+ "generated_at": "2026-10-29T22:49:14+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 502,
+ "count": 505,
  "jobs": [
   {
    "uid": "a4b083b217bbcaf6",
@@ -1443,6 +1443,110 @@
    "season": "2027",
    "compensation": null,
    "department": "University Recruiting - Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "36bc7972d5c1807f",
+   "company_slug": "drw",
+   "company_name": "DRW",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "US Trading Analyst",
+   "apply_url": "https://job-boards.greenhouse.io/drweng/jobs/8333973",
+   "locations": [
+    "Houston"
+   ],
+   "track": "quant",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-29",
+   "last_verified": "2026-10-29",
+   "posted_at": "2026-10-29",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Commodities",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "faca8470f9ae4c62",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "AI Systems Software Engineering Intern – Summer 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+   "locations": [
+    "US, TX, Austin"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-29",
+   "last_verified": "2026-10-29",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "e44527d428a64015",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Compiler Software Engineering Intern - Summer 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+   "locations": [
+    "US, WA, Redmond"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-29",
+   "last_verified": "2026-10-29",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "5c906983d0cf38e3",
+   "company_slug": "nvidia",
+   "company_name": "NVIDIA",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
+   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-29",
+   "last_verified": "2026-10-29",
+   "posted_at": null,
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -3824,32 +3928,6 @@
    "openings": 1
   },
   {
-   "uid": "b5f5668436a4cb8c",
-   "company_slug": "brex",
-   "company_name": "Brex",
-   "company_tier": 1,
-   "company_category": "fintech",
-   "source": "greenhouse",
-   "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
-   "locations": [
-    "United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-02",
-   "last_verified": "2026-10-29",
-   "posted_at": "2026-10-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Risk & Credit",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
@@ -3872,7 +3950,33 @@
    "compensation": null,
    "department": "Risk & Credit",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
+   "openings": 1
+  },
+  {
+   "uid": "b5f5668436a4cb8c",
+   "company_slug": "brex",
+   "company_name": "Brex",
+   "company_tier": 1,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Brex Rotational Program",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
+   "locations": [
+    "United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-02",
+   "last_verified": "2026-10-29",
+   "posted_at": "2026-10-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Risk & Credit",
+   "active": true,
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -3898,7 +4002,7 @@
    "compensation": null,
    "department": "Risk & Credit",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5630,35 +5734,6 @@
    "season": null,
    "compensation": null,
    "department": "Trading Operations",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "1dd6ca1ff1effbdf",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-   "locations": [
-    "Mountain View, California, United States",
-    "San Francisco, California, United States",
-    "Mountain View (US-MTV-EMF690)",
-    "San Francisco (US-SFO-MKT555)"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-14",
-   "last_verified": "2026-10-29",
-   "posted_at": "2026-09-14",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "CSI (7LV)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -7552,16 +7627,15 @@
    "openings": 1
   },
   {
-   "uid": "f1665dc41aff8a36",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -7579,15 +7653,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "f1665dc41aff8a36",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "locations": [
+    "Bastrop, TX",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -12929,7 +13004,7 @@
    "compensation": null,
    "department": "Sales Development",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13063,7 +13138,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13089,7 +13164,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13115,7 +13190,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13193,7 +13268,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13219,7 +13294,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13245,7 +13320,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13271,7 +13346,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13297,7 +13372,7 @@
    "compensation": null,
    "department": "Software - Early Careers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13534,7 +13609,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13560,7 +13635,7 @@
    "compensation": null,
    "department": "Hardware Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13586,7 +13661,7 @@
    "compensation": null,
    "department": "Solutions Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -13613,7 +13688,7 @@
    "compensation": null,
    "department": "Sales Development",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   }
  ]

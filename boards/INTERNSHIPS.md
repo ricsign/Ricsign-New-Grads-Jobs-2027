@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**132 open roles** · last verified 2026-10-29 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**135 open roles** · last verified 2026-10-29 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -61,6 +61,9 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **NVIDIA** | AI Systems Software Engineering Intern – Summer 2027 · _Summer 2027_ | US, TX, Austin | — | · | — | today · Oct 29 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) |
+| **NVIDIA** | Compiler Software Engineering Intern - Summer 2027 · _Summer 2027_ | US, WA, Redmond | — | · | — | today · Oct 29 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607) |
+| **NVIDIA** | VLSI CAD Timing Intern, Applied AI - Summer 2027 · _Summer 2027_ | US, CA, Santa Clara | — | · | — | today · Oct 29 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) |
 | **Amazon** | 2027 Applied Science Internship - Robotics - United States · _2027_ | North Reading, Massachusetts, USA | — | · | 1d · Oct 28 | 1d · Oct 28 | [apply](https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) |
 | **Anduril Industries** | Winter 2027 Library Science Co-op · _Winter 2027_ | Santa Ana, California, United States | — | 🇺🇸📗 | 1d · Oct 28 | 1d · Oct 28 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) |
 | **Figma** | PhD Intern, Security Engineer (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 1d · Oct 28 | today · Oct 29 | [apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) |
@@ -180,4 +183,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-10-29 13:10 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-29 22:49 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

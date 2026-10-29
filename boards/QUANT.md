@@ -14,6 +14,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **DRW** | US Trading Analyst | Houston | — | · | today · Oct 29 | today · Oct 29 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8333973) |
 | **Point72 / Cubist** | Data Research Fellowship | New York, NY | — | · | 17d · Oct 12 | 16d · Oct 13 | [apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002) |
 | **IMC Trading** | Software Engineer, Early Career | Chicago, United States | — | · | 29d · Sep 30 | 29d · Sep 30 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) |
 | **Jump Trading** | Campus Quantitative Researcher \| Trading Team PhD/Postdoc (Full-Time) | New York City | — | ·🎓 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8209424) |
@@ -39,7 +40,6 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Schonfeld** | AI Engineer (Junior/Senior) | New York, New York, United States | — | · | 6mo · Apr 30 | 1mo · Sep 15 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7843962) |
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | 6mo · Apr 15 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
 | **DRW** | Research Engineer (Options) | Chicago | — | · | 11mo · Nov 5 2025 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/7377915) |
-| **DRW** | Research Engineer · `open 1y+` | New York City | — | · | 1y · Jun 16 2025 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/drweng/jobs/6973885) |
 | **PDT Partners** | Quantitative Researcher · `open 2y+` | New York, NY | — | ·🎓 | 2y · Oct 28 2024 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/82459) |
 | **PDT Partners** | Research Engineer · `open 2y+` | New York, NY | — | · | 2y · Feb 6 2024 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/5403145) |
 | **Hudson River Trading** | FPGA Verification and Developer (Internships and Campus Full-time) · `open 4y+` | New York, NY, United States | — | · | 4y · Sep 21 2022 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/hrttalentcommunity/jobs/4576493) |
@@ -56,4 +56,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-10-29 13:10 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-29 22:49 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-29T13:10:47+00:00</updated>
+  <updated>2026-10-29T22:49:15+00:00</updated>
+  <entry>
+    <title>DRW — US Trading Analyst</title>
+    <link href="https://job-boards.greenhouse.io/drweng/jobs/8333973"/>
+    <id>tag:ricsign.github.io,2026:36bc7972d5c1807f</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Houston · unknown · bachelors</summary>
+  </entry>
   <entry>
     <title>Figma — PhD Intern, Security Engineer (2027)</title>
     <link href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004"/>
@@ -12,6 +20,30 @@
     <updated>2026-10-29T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — VLSI CAD Timing Intern, Applied AI - Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799"/>
+    <id>tag:ricsign.github.io,2026:5c906983d0cf38e3</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — AI Systems Software Engineering Intern – Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170"/>
+    <id>tag:ricsign.github.io,2026:faca8470f9ae4c62</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, TX, Austin · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA — Compiler Software Engineering Intern - Summer 2027</title>
+    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"/>
+    <id>tag:ricsign.github.io,2026:e44527d428a64015</id>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>US, WA, Redmond · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Anthropic — Anthropic Research Resident</title>
@@ -372,37 +404,5 @@
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>New York, NY · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>SambaNova — AI Performance Engineer - New Grad</title>
-    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224936004"/>
-    <id>tag:ricsign.github.io,2026:969994beceda9bbf</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>SpaceX — New Graduate Engineer, Electrical (Starshield)</title>
-    <link href="https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002"/>
-    <id>tag:ricsign.github.io,2026:a50b4e5af77a8dd9</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Hawthorne, CA · security-clearance · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Scale AI — Machine Learning Research Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/scaleai/jobs/4735665005"/>
-    <id>tag:ricsign.github.io,2026:df1bbd48162a7c29</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY, San Francisco, CA · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Early Career Warhead Engineer</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007"/>
-    <id>tag:ricsign.github.io,2026:34817d4768c3d317</id>
-    <updated>2026-10-19T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
   </entry>
 </feed>
