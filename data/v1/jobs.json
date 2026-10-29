@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-29T05:54:48+00:00",
+ "generated_at": "2026-10-29T13:10:47+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 502,
@@ -12035,7 +12035,7 @@
    "compensation": null,
    "department": "Dev",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -13063,7 +13063,7 @@
    "compensation": null,
    "department": "Technical Support Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
