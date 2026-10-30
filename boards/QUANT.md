@@ -21,6 +21,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Chicago Trading Company** | Quant Trading Associate - Options Theory Intensive | Chicago, IL | — | ·📗 | today · Oct 30 | today · Oct 30 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4748936005) |
 | **DRW** | US Trading Analyst | Houston | — | · | 1d · Oct 29 | 1d · Oct 29 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8333973) |
 | **Point72 / Cubist** | Data Research Fellowship | New York, NY | — | · | 18d · Oct 12 | 17d · Oct 13 | [apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002) |
 | **IMC Trading** | Software Engineer, Early Career | Chicago, United States | — | · | 1mo · Sep 30 | 1mo · Sep 30 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) |
@@ -31,7 +32,6 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **AQR Capital** | Junior Trading Analyst · _Spring 2027_ | Greenwich, CT | — | ·📗 | 2mo · Aug 25 | 8d · Oct 22 | [apply](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | 2mo · Aug 10 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Chicago Trading Company** | Associate Engineer - 2027 Start · _2027_ | Chicago, IL, New York, NY | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) |
-| **Chicago Trading Company** | Quant Trading Associate - 2027 Start · _2027_ | Chicago, IL | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) |
 | **Akuna Capital** | Expression of Interest: 2027 Trading Sneak Peek Weeks · _2027_ | Chicago | — | ·📗 | 3mo · Jul 19 | 1mo · Sep 1 | [apply](https://www.akunacapital.com/careers/job/7986086/?gh_jid=7986086) |
 | **Five Rings** | Campus Full Time 2027 - Quantitative Trader · _2027_ | New York City | — | · | 3mo · Jul 14 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008) |
 | **Five Rings** | Campus Full Time 2027 - Software Developer · _2027_ | New York City | — | · | 3mo · Jul 14 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008) |
@@ -63,4 +63,4 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 ---
 
-Generated 2026-10-30 13:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-30 22:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

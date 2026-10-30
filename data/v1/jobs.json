@@ -1,10 +1,68 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-30T13:02:59+00:00",
+ "generated_at": "2026-10-30T22:26:11+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 506,
+ "count": 509,
  "jobs": [
+  {
+   "uid": "7028fd19adc37e15",
+   "company_slug": "stripe",
+   "company_name": "Stripe",
+   "company_tier": 0,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Master's Machine Learning Engineer, Intern",
+   "apply_url": "https://stripe.com/jobs/search?gh_jid=8333074",
+   "locations": [
+    "San Francisco, New York City, Seattle",
+    "US-NYC",
+    "US-Seattle",
+    "US-SF-HQ"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-30",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-30",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "5112 General University",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "7c8f6ddf69bb7b23",
+   "company_slug": "stripe",
+   "company_name": "Stripe",
+   "company_tier": 0,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "PhD Machine Learning Engineer, Intern",
+   "apply_url": "https://stripe.com/jobs/search?gh_jid=8328662",
+   "locations": [
+    "San Francisco, New York City, Seattle",
+    "US-NYC",
+    "US-Seattle",
+    "US-SF-HQ"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-30",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-30",
+   "closed_at": null,
+   "season": "Winter 2027",
+   "compensation": null,
+   "department": "5112 General University",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
   {
    "uid": "a4b083b217bbcaf6",
    "company_slug": "anthropic",
@@ -890,32 +948,6 @@
    "openings": 1
   },
   {
-   "uid": "1f73052f58f77a16",
-   "company_slug": "xai",
-   "company_name": "xAI",
-   "company_tier": 0,
-   "company_category": "ai-lab",
-   "source": "greenhouse",
-   "title": "Software Engineer - Evals",
-   "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-30",
-   "posted_at": "2026-07-22",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "82c2caade9b83da1",
    "company_slug": "anthropic",
    "company_name": "Anthropic",
@@ -1448,6 +1480,111 @@
    "openings": 1
   },
   {
+   "uid": "510cda52c6a15162",
+   "company_slug": "amazon",
+   "company_name": "Amazon",
+   "company_tier": 1,
+   "company_category": "big-tech",
+   "source": "amazon",
+   "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+   "apply_url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+   "locations": [
+    "Seattle, Washington, USA"
+   ],
+   "track": "internship",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-30",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-30",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "studentprograms",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "60e90951eaacac88",
+   "company_slug": "ctc-campus",
+   "company_name": "Chicago Trading Company",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Quant Trading Associate - Options Theory Intensive",
+   "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4748936005",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "track": "quant",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-30",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-30",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Campus",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "9932d586677bac3a",
+   "company_slug": "roblox",
+   "company_name": "Roblox",
+   "company_tier": 1,
+   "company_category": "consumer",
+   "source": "greenhouse",
+   "title": "[2027] Senior Software Engineer - Data Acquisition PhD Early Career",
+   "apply_url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
+   "locations": [
+    "San Mateo, CA, United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-30",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-30",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Early Career FT - PhD",
+   "active": true,
+   "link_status": "error",
+   "openings": 1
+  },
+  {
+   "uid": "9e6a483425a61f9a",
+   "company_slug": "waymo",
+   "company_name": "Waymo",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Mountain View (US-MTV-EMF680)"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-30",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-30",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Pipeline (N/A)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "36bc7972d5c1807f",
    "company_slug": "drw",
    "company_name": "DRW",
@@ -1484,58 +1621,6 @@
    "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
    "locations": [
     "US, TX, Austin"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-29",
-   "last_verified": "2026-10-30",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "e44527d428a64015",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "Compiler Software Engineering Intern - Summer 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
-   "locations": [
-    "US, WA, Redmond"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-29",
-   "last_verified": "2026-10-30",
-   "posted_at": null,
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": null,
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "5c906983d0cf38e3",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
-   "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
-   "locations": [
-    "US, CA, Santa Clara"
    ],
    "track": "internship",
    "degree": "unspecified",
@@ -2028,7 +2113,7 @@
    "compensation": null,
    "department": "Intern",
    "active": true,
-   "link_status": "error",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -2374,7 +2459,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -3306,7 +3391,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -3412,7 +3497,7 @@
    "closed_at": null,
    "season": "Summer 2027",
    "compensation": null,
-   "department": "Development (Group)",
+   "department": "Development",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -3977,33 +4062,7 @@
    "compensation": null,
    "department": "Risk & Credit",
    "active": true,
-   "link_status": "blocked",
-   "openings": 1
-  },
-  {
-   "uid": "b5f5668436a4cb8c",
-   "company_slug": "brex",
-   "company_name": "Brex",
-   "company_tier": 1,
-   "company_category": "fintech",
-   "source": "greenhouse",
-   "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
-   "locations": [
-    "United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-02",
-   "last_verified": "2026-10-30",
-   "posted_at": "2026-10-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Risk & Credit",
-   "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4029,7 +4088,33 @@
    "compensation": null,
    "department": "Risk & Credit",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "b5f5668436a4cb8c",
+   "company_slug": "brex",
+   "company_name": "Brex",
+   "company_tier": 1,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Brex Rotational Program",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
+   "locations": [
+    "United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-02",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Risk & Credit",
+   "active": true,
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -4066,7 +4151,7 @@
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
+   "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
    "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
    "locations": [
     "Mountain View, CA, USA",
@@ -4133,7 +4218,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Development (Group)",
+   "department": "Development",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4662,7 +4747,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Development (Group)",
+   "department": "Development",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -4906,7 +4991,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5819,17 +5904,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -5846,17 +5931,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -5922,7 +6007,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5949,7 +6034,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -5976,7 +6061,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6003,7 +6088,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6030,7 +6115,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6057,7 +6142,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6084,7 +6169,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6111,7 +6196,7 @@
    "compensation": null,
    "department": "Internships & Emerging Talent Positions",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -6165,6 +6250,38 @@
    "compensation": {
     "min": 160000,
     "max": 180000,
+    "currency": "USD",
+    "interval": "1 YEAR",
+    "source": "ashby"
+   },
+   "department": "Engineering",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a9bb9ef14a98216e",
+   "company_slug": "fireworks-ai",
+   "company_name": "Fireworks AI",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "ashby",
+   "title": "Member of Technical Staff, Research (2026 PhD New Grad) - Seattle",
+   "apply_url": "https://jobs.ashbyhq.com/fireworks/82b41f4a-a945-4aee-a1fd-1ef9ab513e58/application",
+   "locations": [
+    "Greater Seattle Area"
+   ],
+   "track": "ai-research",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-09-08",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-09-08",
+   "closed_at": null,
+   "season": "2026",
+   "compensation": {
+    "min": 200000,
+    "max": 300000,
     "currency": "USD",
     "interval": "1 YEAR",
     "source": "ashby"
@@ -6742,7 +6859,7 @@
    "closed_at": null,
    "season": "Summer 2027",
    "compensation": null,
-   "department": "Development (Group)",
+   "department": "Development",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -7203,32 +7320,6 @@
    "openings": 1
   },
   {
-   "uid": "0873c72c37b33655",
-   "company_slug": "langchain",
-   "company_name": "LangChain",
-   "company_tier": 1,
-   "company_category": "dev-tools",
-   "source": "ashby",
-   "title": "Deployed Engineer (Early Career-NYC)",
-   "apply_url": "https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134/application",
-   "locations": [
-    "New York, NY"
-   ],
-   "track": "new-grad-swe",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-30",
-   "posted_at": "2026-08-17",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Deployed Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "b58ac8103d3e29d8",
    "company_slug": "roblox",
    "company_name": "Roblox",
@@ -7496,32 +7587,6 @@
    "openings": 1
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-30",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -7548,6 +7613,32 @@
    "openings": 1
   },
   {
+   "uid": "14812f7b8d47b8ff",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mesh Optical",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "30b5d28e80379ff7",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -7569,32 +7660,6 @@
    "season": null,
    "compensation": null,
    "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "2fb1d8fb22585078",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-30",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -7627,20 +7692,19 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "2fb1d8fb22585078",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
-   "degree": "masters-preferred",
+   "degree": "bachelors",
    "sponsorship": "citizenship-required",
    "first_seen": "2026-09-01",
    "last_verified": "2026-10-30",
@@ -7648,7 +7712,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Product Security - Starlink",
+   "department": "Starlink Satellite Flight Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -7690,6 +7754,33 @@
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
    "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a169755945b07175",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -7788,7 +7879,7 @@
    "compensation": null,
    "department": "Core AI and Machine Learning",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -7855,32 +7946,6 @@
    "locations": [
     "Chicago, IL",
     "New York, NY"
-   ],
-   "track": "quant",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-10-30",
-   "posted_at": "2026-08-03",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Campus",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "e77ca3fed6ac94f4",
-   "company_slug": "ctc-campus",
-   "company_name": "Chicago Trading Company",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Quant Trading Associate - 2027 Start",
-   "apply_url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005",
-   "locations": [
-    "Chicago, IL"
    ],
    "track": "quant",
    "degree": "masters-preferred",
@@ -8359,7 +8424,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8541,7 +8606,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8567,7 +8632,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8593,7 +8658,7 @@
    "compensation": null,
    "department": "Trading",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8619,7 +8684,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8645,7 +8710,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -8671,7 +8736,7 @@
    "compensation": null,
    "department": "Quant",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9173,7 +9238,7 @@
    "compensation": null,
    "department": "Risk",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9336,7 +9401,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9362,7 +9427,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9389,7 +9454,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9416,7 +9481,7 @@
    "compensation": null,
    "department": "On-Campus Recruiting",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9544,7 +9609,7 @@
    "closed_at": null,
    "season": "Summer 2027",
    "compensation": null,
-   "department": "Development (Group)",
+   "department": "Development",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -9676,7 +9741,7 @@
    "compensation": null,
    "department": "Platform",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -9794,7 +9859,7 @@
    "closed_at": null,
    "season": null,
    "compensation": null,
-   "department": "Intelligence",
+   "department": "Intelligence (CCH)",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -10585,7 +10650,7 @@
    "compensation": null,
    "department": "Quant Research",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -10611,7 +10676,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -10637,7 +10702,7 @@
    "compensation": null,
    "department": "C++",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -10663,7 +10728,7 @@
    "compensation": null,
    "department": "Data",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12193,13 +12258,40 @@
    "openings": 1
   },
   {
+   "uid": "c16818b6eb0d303b",
+   "company_slug": "grafana-labs",
+   "company_name": "Grafana Labs",
+   "company_tier": 2,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Solutions Engineer | East Coast | Remote",
+   "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004",
+   "locations": [
+    "United States (Remote)",
+    "USA (Remote)"
+   ],
+   "track": "new-grad-swe",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-30",
+   "last_verified": "2026-10-30",
+   "posted_at": "2026-10-30",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Solutions Engineering (North & South America)",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "b354c63e31b1a019",
    "company_slug": "grafana-labs",
    "company_name": "Grafana Labs",
    "company_tier": 2,
    "company_category": "infra",
    "source": "greenhouse",
-   "title": "Solutions Engineer | PST or EST US | Remote",
+   "title": "Solutions Engineer | West Coast | Remote",
    "apply_url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004",
    "locations": [
     "United States (Remote)",
@@ -12375,7 +12467,7 @@
    "compensation": null,
    "department": "University Sales",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12644,7 +12736,7 @@
    "compensation": null,
    "department": "University Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12673,7 +12765,7 @@
    "compensation": null,
    "department": "University",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12702,7 +12794,7 @@
    "compensation": null,
    "department": "University Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12731,7 +12823,7 @@
    "compensation": null,
    "department": "University",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12760,7 +12852,7 @@
    "compensation": null,
    "department": "University Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12789,7 +12881,7 @@
    "compensation": null,
    "department": "University",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12817,7 +12909,7 @@
    "compensation": null,
    "department": "University Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12844,7 +12936,7 @@
    "compensation": null,
    "department": "University Engineering",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {
@@ -12871,7 +12963,7 @@
    "compensation": null,
    "department": "University",
    "active": true,
-   "link_status": "blocked",
+   "link_status": "ok",
    "openings": 1
   },
   {

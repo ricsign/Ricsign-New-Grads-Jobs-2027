@@ -4,7 +4,47 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-30T13:02:59+00:00</updated>
+  <updated>2026-10-30T22:26:11+00:00</updated>
+  <entry>
+    <title>Stripe — Master's Machine Learning Engineer, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8333074"/>
+    <id>tag:ricsign.github.io,2026:7028fd19adc37e15</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, New York City, Seattle, US-NYC, US-Seattle, US-SF-HQ · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Stripe — PhD Machine Learning Engineer, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8328662"/>
+    <id>tag:ricsign.github.io,2026:7c8f6ddf69bb7b23</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, New York City, Seattle, US-NYC, US-Seattle, US-SF-HQ · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Amazon — Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</title>
+    <link href="https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"/>
+    <id>tag:ricsign.github.io,2026:510cda52c6a15162</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Seattle, Washington, USA · unknown · bachelors</summary>
+  </entry>
+  <entry>
+    <title>Chicago Trading Company — Quant Trading Associate - Options Theory Intensive</title>
+    <link href="https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4748936005"/>
+    <id>tag:ricsign.github.io,2026:60e90951eaacac88</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="quant"/>
+    <summary>Chicago, IL · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Roblox — [2027] Senior Software Engineer - Data Acquisition PhD Early Career</title>
+    <link href="https://careers.roblox.com/jobs/8315883?gh_jid=8315883"/>
+    <id>tag:ricsign.github.io,2026:9932d586677bac3a</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, MS/PhD, Weather Perception</title>
     <link href="https://careers.withwaymo.com/jobs?gh_jid=8335511"/>
@@ -12,6 +52,22 @@
     <updated>2026-10-30T00:00:00Z</updated>
     <category term="internship"/>
     <summary>San Francisco, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, PhD, Research Scientist Intern</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8337719"/>
+    <id>tag:ricsign.github.io,2026:9e6a483425a61f9a</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Grafana Labs — Solutions Engineer | East Coast | Remote</title>
+    <link href="https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004"/>
+    <id>tag:ricsign.github.io,2026:c16818b6eb0d303b</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>United States (Remote), USA (Remote) · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>DRW — US Trading Analyst</title>
@@ -30,28 +86,12 @@
     <summary>San Francisco, CA • New York, NY, US · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>NVIDIA — VLSI CAD Timing Intern, Applied AI - Summer 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799"/>
-    <id>tag:ricsign.github.io,2026:5c906983d0cf38e3</id>
-    <updated>2026-10-29T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, CA, Santa Clara · unknown · unspecified</summary>
-  </entry>
-  <entry>
     <title>NVIDIA — AI Systems Software Engineering Intern – Summer 2027</title>
     <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170"/>
     <id>tag:ricsign.github.io,2026:faca8470f9ae4c62</id>
     <updated>2026-10-29T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US, TX, Austin · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA — Compiler Software Engineering Intern - Summer 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"/>
-    <id>tag:ricsign.github.io,2026:e44527d428a64015</id>
-    <updated>2026-10-29T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, WA, Redmond · unknown · unspecified</summary>
   </entry>
   <entry>
     <title>Anthropic — Anthropic Research Resident</title>
@@ -190,7 +230,7 @@
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>Grafana Labs — Solutions Engineer | PST or EST US | Remote</title>
+    <title>Grafana Labs — Solutions Engineer | West Coast | Remote</title>
     <link href="https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004"/>
     <id>tag:ricsign.github.io,2026:b354c63e31b1a019</id>
     <updated>2026-10-27T00:00:00Z</updated>
@@ -364,45 +404,5 @@
     <updated>2026-10-21T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Ashville, Ohio, United States, Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Finance Data Analyst Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
-    <id>tag:ricsign.github.io,2026:1895d4e6fa3dd66c</id>
-    <updated>2026-10-21T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — 2027 Product Sourcing Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007"/>
-    <id>tag:ricsign.github.io,2026:bf6fd8cc0171895e</id>
-    <updated>2026-10-21T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Costa Mesa, California, United States, Irvine, California, United States, Santa Ana, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Anduril Industries — Winter 2027 Business Operations Engineer Co-op</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007"/>
-    <id>tag:ricsign.github.io,2026:96d11c6d58b47811</id>
-    <updated>2026-10-21T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Ashville, Ohio, United States, Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Affirm — Analyst, Early Career (Full Stack)</title>
-    <link href="https://job-boards.greenhouse.io/affirm/jobs/8039471003"/>
-    <id>tag:ricsign.github.io,2026:d52818944f2167d4</id>
-    <updated>2026-10-21T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>New York, New York, United States, San Francisco, California, United States, New York City · no-sponsorship · bachelors</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Software Engineer, Internship - Query Engines</title>
-    <link href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"/>
-    <id>tag:ricsign.github.io,2026:ddc8ec61bb0c6ea2</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · unknown · masters-preferred</summary>
   </entry>
 </feed>

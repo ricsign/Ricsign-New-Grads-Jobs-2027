@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**62 open roles** · last verified 2026-10-30 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**61 open roles** · last verified 2026-10-30 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -20,7 +20,7 @@ Full-time entry-level software engineering roles in the US.
 | **Together AI** | [(Senior/Junior AI Inference Reliability Engineer, Compute Infra](https://job-boards.greenhouse.io/togetherai/jobs/5268939007) | San Francisco | 3d · Oct 27 |
 | **Anduril Industries** | [2027 New Grad Low Observables Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) | Costa Mesa, California, United States | 7d · Oct 23 |
 | **Roblox** | [Software Engineer, Reliability](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | San Mateo, CA, United States | 7d · Oct 23 |
-| **Grafana Labs** | [Solutions Engineer \| PST or EST US \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) | United States (Remote) +1 | 3d · Oct 27 |
+| **Grafana Labs** | [Solutions Engineer \| West Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) | United States (Remote) +1 | 3d · Oct 27 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -34,7 +34,6 @@ Full-time entry-level software engineering roles in the US.
 | **Scale AI** | Software Engineer - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 2mo · Aug 31 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 2mo · Aug 31 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
-| **xAI** | Software Engineer - Evals | Palo Alto, CA | — | · | 3mo · Jul 22 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) |
 | **Anthropic** | Research Associate, Biology | San Francisco, CA | — | 🌏📗 | 3mo · Jul 8 | 8d · Oct 22 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5285248008) |
 | **Databricks** | AI Engineer – Forward Deployed Engineering (AI FDE) | United States, Remote - California | — | ·📗 | 5mo · May 13 | 1mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | **Stripe** | Backend/API Engineer, Money as a Service · `open 2y+` | US | — | · | 2y · Aug 25 2024 | 1mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=6176758) |
@@ -44,6 +43,7 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Roblox** | [2027] Senior Software Engineer - Data Acquisition PhD Early Career · _2027_ | San Mateo, CA, United States | — | ·🎓 | today · Oct 30 | today · Oct 30 | [apply](https://careers.roblox.com/jobs/8315883?gh_jid=8315883) |
 | **SambaNova** | Cloud Platform Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·📗 | 3d · Oct 27 | 3d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) |
 | **SambaNova** | Compiler Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 3d · Oct 27 | 3d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) |
 | **SambaNova** | Design Verification Engineer, New Grad | San Jose, California, United States, Austin, TX | — | ·📗 | 3d · Oct 27 | 3d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004) |
@@ -67,8 +67,6 @@ Full-time entry-level software engineering roles in the US.
 | **Palantir** | Forward Deployed Infrastructure Engineer, New Grad - US Government · `4 openings` | Honolulu, HI, New York, NY +2 | — | 🔒 | 2mo · Aug 31 | 1mo · Sep 1 | [apply](https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12) |
 | **Applied Intuition** | Build & Release Engineer - New Grad (2027) · _2027_ | Sunnyvale | $90k–$115k | · | 2mo · Aug 25 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/9534b49a-9feb-4063-ac33-a9c4d94a1352/application) |
 | **LangChain** | Deployed Engineer (Early Career- SF) | San Francisco, CA | — | · | 2mo · Aug 17 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522/application) |
-| **LangChain** | Deployed Engineer (Early Career-NYC) | New York, NY | — | · | 2mo · Aug 17 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/langchain/dfbba971-a7e2-4feb-a0d9-8e38a1155134/application) |
-| **Roblox** | Software Engineer, Foundation AI | San Mateo, CA, United States | — | · | 2mo · Aug 17 | 1mo · Sep 1 | [apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) |
 | **Notion** | Software Engineer, New Grad (Dec 2026) · _2026_ | San Francisco, California | — | ·📗 | 2mo · Aug 14 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application) |
 | **Cerebras** | Kernel Engineer - New Grad | Sunnyvale, CA | — | ·📗 | 3mo · Jul 23 | 1mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application) |
 | **Together AI** | [Junior / Senior / Staff] Software Engineer, Inference / Compute Infrastructure… | San Francisco | — | · | 3mo · Jul 16 | 1mo · Sep 22 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5186628007) |
@@ -82,7 +80,8 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Grafana Labs** | Solutions Engineer \| PST or EST US \| Remote | United States (Remote), USA (Remote) | — | · | 3d · Oct 27 | 3d · Oct 27 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) |
+| **Grafana Labs** | Solutions Engineer \| East Coast \| Remote | United States (Remote), USA (Remote) | — | · | today · Oct 30 | today · Oct 30 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004) |
+| **Grafana Labs** | Solutions Engineer \| West Coast \| Remote | United States (Remote), USA (Remote) | — | · | 3d · Oct 27 | 3d · Oct 27 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) |
 | **Affirm** | Analyst, Early Career (Full Stack) | New York, New York, United States, San Francisco, California, United States +1 | — | 🛂 | 9d · Oct 21 | 9d · Oct 21 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
 | **Elastic** | Principal Software Engineer I - Platform Billing Experience | United States | — | 🔒 | 16d · Oct 14 | 15d · Oct 15 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815) |
 | **Elastic** | Principal Software Engineer I - CI/CD - Platform Engineering Productivity | United States | — | 🔒 | 21d · Oct 9 | 21d · Oct 9 | [apply](https://jobs.elastic.co/jobs?gh_jid=8240105&gh_jid=8240105) |
@@ -102,4 +101,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-10-30 13:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-30 22:26 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
