@@ -4,7 +4,15 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-10-29T22:49:15+00:00</updated>
+  <updated>2026-10-30T05:55:55+00:00</updated>
+  <entry>
+    <title>Waymo — 2027 Summer Intern, MS/PhD, Weather Perception</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8335511"/>
+    <id>tag:ricsign.github.io,2026:4b61e7279d16d11a</id>
+    <updated>2026-10-30T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Francisco, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
   <entry>
     <title>DRW — US Trading Analyst</title>
     <link href="https://job-boards.greenhouse.io/drweng/jobs/8333973"/>
@@ -395,14 +403,6 @@
     <id>tag:ricsign.github.io,2026:ddc8ec61bb0c6ea2</id>
     <updated>2026-10-20T00:00:00Z</updated>
     <category term="internship"/>
-    <summary>New York, NY · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Software Engineer, New Grad - Query Engines</title>
-    <link href="https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"/>
-    <id>tag:ricsign.github.io,2026:0b252ffa9f2251d6</id>
-    <updated>2026-10-20T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
     <summary>New York, NY · unknown · masters-preferred</summary>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 
 Campus and new-grad roles at elite quant and HFT firms. Highest compensation band on this repo.
 
-**34 open roles** · last verified 2026-10-29 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**34 open roles** · last verified 2026-10-30 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,18 +10,25 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
+## 🆕 Posted in the last 7 days (1)
+
+| Company | Role | Location | Posted |
+|:--|:--|:--|--:|
+| **DRW** | [US Trading Analyst](https://job-boards.greenhouse.io/drweng/jobs/8333973) | Houston | 1d · Oct 29 |
+
+
 ## Tier 1 — Established elite
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **DRW** | US Trading Analyst | Houston | — | · | today · Oct 29 | today · Oct 29 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8333973) |
-| **Point72 / Cubist** | Data Research Fellowship | New York, NY | — | · | 17d · Oct 12 | 16d · Oct 13 | [apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002) |
-| **IMC Trading** | Software Engineer, Early Career | Chicago, United States | — | · | 29d · Sep 30 | 29d · Sep 30 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) |
+| **DRW** | US Trading Analyst | Houston | — | · | 1d · Oct 29 | 1d · Oct 29 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8333973) |
+| **Point72 / Cubist** | Data Research Fellowship | New York, NY | — | · | 18d · Oct 12 | 17d · Oct 13 | [apply](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002) |
+| **IMC Trading** | Software Engineer, Early Career | Chicago, United States | — | · | 1mo · Sep 30 | 1mo · Sep 30 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4796143101) |
 | **Jump Trading** | Campus Quantitative Researcher \| Trading Team PhD/Postdoc (Full-Time) | New York City | — | ·🎓 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8209424) |
 | **DRW** | Floor Trader | Chicago | — | · | 1mo · Sep 16 | 1mo · Sep 17 | [apply](https://job-boards.greenhouse.io/drweng/jobs/8207750) |
 | **Headlands Technologies** | C++ Software Developer - New Grad | Chicago, New York City | — | · | 1mo · Sep 16 | 1mo · Sep 16 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009) |
 | **Five Rings** | Recent Graduate - Trading Assistant (NYC) | New York City | — | · | 1mo · Sep 14 | 1mo · Sep 14 | [apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5414190008) |
-| **AQR Capital** | Junior Trading Analyst · _Spring 2027_ | Greenwich, CT | — | ·📗 | 2mo · Aug 25 | 7d · Oct 22 | [apply](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) |
+| **AQR Capital** | Junior Trading Analyst · _Spring 2027_ | Greenwich, CT | — | ·📗 | 2mo · Aug 25 | 8d · Oct 22 | [apply](https://careers.aqr.com/jobs?gh_jid=8156709&gh_jid=8156709) |
 | **Tower Research Capital** | Machine Learning Research Engineer | New York | — | · | 2mo · Aug 10 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8095921) |
 | **Chicago Trading Company** | Associate Engineer - 2027 Start · _2027_ | Chicago, IL, New York, NY | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005) |
 | **Chicago Trading Company** | Quant Trading Associate - 2027 Start · _2027_ | Chicago, IL | — | ·📗 | 2mo · Aug 3 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716507005) |
@@ -35,7 +42,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **IMC Trading** | Graduate Deep Learning Researcher - London | New York | — | 🛂📗 | 3mo · Jul 6 | 1mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4914883101) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 3mo · Jul 5 | 1mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
 | **Point72 / Cubist** | Research Engineer, Knowledge Graph Intelligence | New York, NY | — | ·🎓 | 4mo · Jun 10 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8531773002?gh_jid=8531773002) |
-| **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 4mo · Jun 2 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
+| **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 5mo · Jun 2 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
 | **Headlands Technologies** | Quantitative Researcher – New Grad | Chicago, New York City +1 | — | · | 5mo · May 29 | 1mo · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) |
 | **Schonfeld** | AI Engineer (Junior/Senior) | New York, New York, United States | — | · | 6mo · Apr 30 | 1mo · Sep 15 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/7843962) |
 | **Point72 / Cubist** | Fundamental Research Fellow, Canvas | New York, NY | — | · | 6mo · Apr 15 | 1mo · Sep 1 | [apply](https://boards.greenhouse.io/point72/jobs/8492784002?gh_jid=8492784002) |
@@ -48,12 +55,12 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 24d · Oct 5 | 16d · Oct 13 | [apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
+| **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 25d · Oct 5 | 17d · Oct 13 | [apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
 | **Belvedere Trading** | Early Career Talent Partner - Technology & Platform | Chicago, Illinois | — | ·📗 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
 | **Belvedere Trading** | Early Career Talent Partner - Trading | Chicago, Illinois | — | ·📗 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
 | **Man Group** | Junior Quant - MBS | Boston, New York +1 | — | · | 1mo · Sep 21 | 1mo · Sep 24 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101) |
-| **Man Group** | Junior Quant - PM Analytics | Boston | — | · | 1mo · Sep 3 | 20d · Oct 9 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101) |
+| **Man Group** | Junior Quant - PM Analytics | Boston | — | · | 1mo · Sep 3 | 21d · Oct 9 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101) |
 
 ---
 
-Generated 2026-10-29 22:49 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-10-30 05:55 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
