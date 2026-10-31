@@ -1,6 +1,6 @@
 {
  "api_version": 1,
- "generated_at": "2026-10-31T05:52:03+00:00",
+ "generated_at": "2026-10-31T12:41:14+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
  "count": 510,
@@ -12678,7 +12678,7 @@
    ],
    "track": "internship",
    "degree": "unspecified",
-   "sponsorship": "unknown",
+   "sponsorship": "no-sponsorship",
    "first_seen": "2026-10-02",
    "last_verified": "2026-10-31",
    "posted_at": "2026-10-02",

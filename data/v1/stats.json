@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T05:52:03+00:00",
+ "generated_at": "2026-10-31T12:41:14+00:00",
  "live_requisitions": 509,
  "live_roles": 469,
  "companies_with_open_roles": 70,
@@ -25,10 +25,10 @@
  },
  "by_sponsorship": {
   "sponsors": 27,
-  "no-sponsorship": 10,
+  "no-sponsorship": 11,
   "citizenship-required": 58,
   "security-clearance": 50,
-  "unknown": 364
+  "unknown": 363
  },
  "by_degree": {
   "bachelors": 80,
@@ -36,7 +36,7 @@
   "phd-required": 96,
   "unspecified": 157
  },
- "sponsorship_resolved_pct": 28.5,
+ "sponsorship_resolved_pct": 28.7,
  "link_verified_pct": 98.4,
  "by_link_status": {
   "ok": 501,
@@ -61,7 +61,7 @@
   "boards_empty": 1,
   "boards_failed": 4,
   "success_rate": 0.9612,
-  "postings_fetched": 23055,
+  "postings_fetched": 23054,
   "by_source": {
    "greenhouse": 74,
    "ashby": 41,
@@ -103,7 +103,7 @@
    "not a US location": 6199,
    "senior/experienced role": 4187,
    "title is not a technical role": 4033,
-   "non-technical role": 3313,
+   "non-technical role": 3314,
    "not an early-career posting": 2955,
    "non-CS engineering discipline": 925,
    "quant role without early-career marker": 246,

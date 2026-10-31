@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T05:52:03+00:00",
+ "generated_at": "2026-10-31T12:41:14+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -147,7 +147,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "elevenlabs",
-   "fetched": 146,
+   "fetched": 145,
    "published": 0,
    "status": "none matched"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 403,
+   "fetched": 401,
    "published": 3,
    "status": "ok"
   },
@@ -397,7 +397,7 @@
    "tier": 2,
    "ats": "workday",
    "token": "broadcom",
-   "fetched": 285,
+   "fetched": 281,
    "published": 0,
    "status": "none matched"
   },
@@ -537,7 +537,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "quberesearchandtechnologies",
-   "fetched": 195,
+   "fetched": 196,
    "published": 2,
    "status": "ok"
   },
@@ -897,7 +897,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "supabase",
-   "fetched": 64,
+   "fetched": 68,
    "published": 0,
    "status": "none matched"
   },
@@ -1117,7 +1117,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "gongio",
-   "fetched": 89,
+   "fetched": 90,
    "published": 0,
    "status": "none matched"
   },
@@ -1307,7 +1307,7 @@
    "tier": 1,
    "ats": "greenhouse",
    "token": "doordashusa",
-   "fetched": 436,
+   "fetched": 437,
    "published": 7,
    "status": "ok"
   },
@@ -1447,7 +1447,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 284,
+   "fetched": 285,
    "published": 3,
    "status": "ok"
   }
@@ -1456,7 +1456,7 @@
   "not a US location": 6199,
   "senior/experienced role": 4187,
   "title is not a technical role": 4033,
-  "non-technical role": 3313,
+  "non-technical role": 3314,
   "not an early-career posting": 2955,
   "non-CS engineering discipline": 925,
   "quant role without early-career marker": 246,
@@ -1787,14 +1787,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Sales Development Representative - DACH Market — not a US location",
+   "Lead Employee Success People Consultant (Fixed Term Contract - 12 Months) — not a US location",
    "Customer Success Manager (Informatica) — not a US location",
    "Customer Success Manager — not a US location",
    "Human Centered Change Senior Manager- Public Sector — title is not a technical role",
    "Senior Manager, Visual Storytelling & Messaging Expert — title is not a technical role",
    "Manager, Technical Consulting — not a US location",
-   "Senior Manager, Technical Consulting — not a US location",
-   "Sr Industry Product Marketing Manager (Financial Services) — not a US location",
-   "Product Marketing IT Service Director — non-technical role"
+   "Senior Manager, Technical Consulting — not a US location"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -1954,13 +1954,13 @@
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
+   "Lithography Tool Install Engineer — not an early-career posting",
    "Data Center SoC Power Architect — senior/experienced role",
    "Facilities Mechanical Technician — non-technical role",
    "Thin Films Module Development Engineer — not an early-career posting",
    "Semiconductor Device Modeling Engineer — not an early-career posting",
    "Process Integration Development Engineer — not a US location",
-   "Supply Planning Integrator (Contract) — not a US location",
-   "Supply Chain Business Analyst – (Contract) — not a US location"
+   "Supply Planning Integrator (Contract) — not a US location"
   ],
   "klaviyo": [
    "Account Executive - Commercial — not a US location",
