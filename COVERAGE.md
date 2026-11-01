@@ -9,7 +9,7 @@ has no early-career roles open right now, which is itself worth knowing.
 | | |
 |:--|--:|
 | Companies in registry | 145 |
-| Postings fetched | 22,515 |
+| Postings fetched | 22,514 |
 | Postings published | 510 |
 | Boards that failed to fetch | **4** |
 | Boards live but with nothing early-career | 53 |
@@ -206,12 +206,12 @@ rather than take it on faith.
 
 <details><summary><b>NVIDIA</b> — 40 postings read, none early-career</summary>
 
+- `Senior Firmware Design Engineer, Optics — not a US location`
+- `Firmware Engineer — not a US location`
+- `IC Test Engineer — not a US location`
 - `Senior Technical Program Manager, Data Center - Engineering Operations — not a US location`
 - `Senior Infrastructure Automation Engineer, Compute Platform - EDA Infrastructure — not a US location`
 - `Deep Learning Compiler Verification Engineer — not a US location`
-- `Senior AI Tools Engineer, SRE Operations - GeForce NOW — not a US location`
-- `Marketing Manager, Open Source Foundations — non-technical role`
-- `Senior Software Engineer, NVIDIA Kubernetes — not a US location`
 
 </details>
 
@@ -269,12 +269,12 @@ rather than take it on faith.
 
 <details><summary><b>Salesforce</b> — 40 postings read, none early-career</summary>
 
-- `Senior Technical Architect — not a US location`
-- `Customer Success Senior Manager — not a US location`
-- `Sales Development Representative - DACH Market — not a US location`
-- `Lead Employee Success People Consultant (Fixed Term Contract - 12 Months) — not a US location`
-- `Customer Success Manager (Informatica) — not a US location`
-- `Customer Success Manager — not a US location`
+- `Deployment Strategist - Spanish Speaker — not a US location`
+- `Senior Platform Trust and Safety Engineer — not a US location`
+- `Forward Deployed Engineer — not a US location`
+- `Deployment Strategist — not a US location`
+- `Deployement Strategist — not a US location`
+- `Forward Deployed Engineer — not a US location`
 
 </details>
 
@@ -425,7 +425,7 @@ rather than take it on faith.
 | [Klaviyo](https://careers.klaviyo.com/) | 2 | `greenhouse:klaviyo` | 150 | — | ○ none matched |
 | [Marshall Wace](https://www.mwam.com/careers/) | 2 | `greenhouse:marshallwace` | — | — | ○ board empty |
 | [Mixpanel](https://mixpanel.com/careers/) | 2 | `greenhouse:mixpanel` | 43 | — | ○ none matched |
-| [Okta](https://www.okta.com/company/careers/) | 2 | `greenhouse:okta` | 356 | — | ○ none matched |
+| [Okta](https://www.okta.com/company/careers/) | 2 | `greenhouse:okta` | 355 | — | ○ none matched |
 | [Postman](https://www.postman.com/company/careers/) | 2 | `greenhouse:postman` | — | — | ⚠️ FETCH FAILED |
 | [Quadrature Capital](https://quadrature.ai/careers/) | 2 | `greenhouse:quadraturecapital` | 3 | — | ○ none matched |
 | [Qualcomm](https://careers.qualcomm.com/) | 2 | — | — | — | 🔗 link-only |

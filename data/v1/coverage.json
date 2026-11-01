@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T06:15:22+00:00",
+ "generated_at": "2026-11-01T13:36:56+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -1127,7 +1127,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "okta",
-   "fetched": 356,
+   "fetched": 355,
    "published": 0,
    "status": "none matched"
   },
@@ -1453,10 +1453,10 @@
   }
  ],
  "rejections": {
-  "not a US location": 6203,
-  "senior/experienced role": 4182,
-  "title is not a technical role": 4042,
-  "non-technical role": 3318,
+  "not a US location": 6206,
+  "senior/experienced role": 4181,
+  "title is not a technical role": 4041,
+  "non-technical role": 3316,
   "not an early-career posting": 2951,
   "non-CS engineering discipline": 923,
   "quant role without early-career marker": 246,
@@ -1732,14 +1732,14 @@
    "Executive Producer - Brand Creative — title is not a technical role"
   ],
   "nvidia": [
+   "Senior Firmware Design Engineer, Optics — not a US location",
+   "Firmware Engineer — not a US location",
+   "IC Test Engineer — not a US location",
    "Senior Technical Program Manager, Data Center - Engineering Operations — not a US location",
    "Senior Infrastructure Automation Engineer, Compute Platform - EDA Infrastructure — not a US location",
    "Deep Learning Compiler Verification Engineer — not a US location",
    "Senior AI Tools Engineer, SRE Operations - GeForce NOW — not a US location",
-   "Marketing Manager, Open Source Foundations — non-technical role",
-   "Senior Software Engineer, NVIDIA Kubernetes — not a US location",
-   "Director, Finance - Data Center Networking — senior/experienced role",
-   "Hardware Systems Engineer - LPU Platform Pathfinding — not an early-career posting"
+   "Marketing Manager, Open Source Foundations — non-technical role"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1787,14 +1787,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
-   "Senior Technical Architect — not a US location",
-   "Customer Success Senior Manager — not a US location",
-   "Sales Development Representative - DACH Market — not a US location",
-   "Lead Employee Success People Consultant (Fixed Term Contract - 12 Months) — not a US location",
-   "Customer Success Manager (Informatica) — not a US location",
-   "Customer Success Manager — not a US location",
-   "Human Centered Change Senior Manager- Public Sector — title is not a technical role",
-   "Senior Manager, Visual Storytelling & Messaging Expert — title is not a technical role"
+   "Deployment Strategist - Spanish Speaker — not a US location",
+   "Senior Platform Trust and Safety Engineer — not a US location",
+   "Forward Deployed Engineer — not a US location",
+   "Deployment Strategist — not a US location",
+   "Deployement Strategist — not a US location",
+   "Forward Deployed Engineer — not a US location",
+   "Deployment Strategist - Polish Speaking — not a US location",
+   "Deployment Strategist - Portuguese Speaker — not a US location"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -1883,14 +1883,14 @@
    "Legal Operations Analyst — title is not a technical role"
   ],
   "broadcom": [
+   "Senior/Staff ChipFab Process Engineer — not a US location",
    "Principal Physical Design Engineer, STA — senior/experienced role",
    "Physical Design Engineer — not an early-career posting",
    "Principal Physical Design Engineer — senior/experienced role",
    "Physical Design Engineer — not a US location",
    "IC Design Engineer (STA/ Synthesis) — not a US location",
    "ASIC Design Engineer — not an early-career posting",
-   "ASIC Design Automation Engineer — not an early-career posting",
-   "ESX Engineer — not an early-career posting"
+   "ASIC Design Automation Engineer — not an early-career posting"
   ],
   "chime": [
    "AI/ML Engineer — not an early-career posting",
@@ -1948,19 +1948,19 @@
    "Bilingual Customer Experience Specialist (Spanish) — title is not a technical role",
    "Bilingual Customer Experience T3 Specialist (Spanish) — title is not a technical role",
    "Bilingual CX Specialist (French) — title is not a technical role",
-   "Billing Operations Lead — title is not a technical role",
    "Billing Operations Lead — not a US location",
-   "Chief of Staff, Online Grocery — title is not a technical role"
+   "Billing Operations Lead — title is not a technical role",
+   "Chief of Staff, Online Grocery — not a US location"
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
-   "AI Silicon Performance Modeling and Analysis Engineer — not an early-career posting",
-   "Supply Chain Planning and Operations (SCPO) AI Lead — not a US location",
-   "GPU Software Development Engineer — not an early-career posting",
-   "Software Development Engineer with uArch Expertise (Temporary position) — not a US location",
-   "Compiler Engineer — not a US location",
-   "Government Affairs Specialist — not a US location",
-   "Lithography Tool Install Engineer — not an early-career posting"
+   "Module Engineer — not a US location",
+   "Senior System Validation and Integration Engineer — not a US location",
+   "PnP System Validation and Integration Engineer — not a US location",
+   "Software Development student — not a US location",
+   "Atom CPU Layout Design Engineer — not a US location",
+   "Executive Communications Specialist — not a US location",
+   "AI Silicon Performance Modeling and Analysis Engineer — not an early-career posting"
   ],
   "klaviyo": [
    "Account Executive - Commercial — not a US location",
