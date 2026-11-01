@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T21:41:17+00:00",
+ "generated_at": "2026-11-01T06:15:22+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -147,7 +147,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "elevenlabs",
-   "fetched": 144,
+   "fetched": 138,
    "published": 0,
    "status": "none matched"
   },
@@ -267,7 +267,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "baseten",
-   "fetched": 103,
+   "fetched": 104,
    "published": 1,
    "status": "ok"
   },
@@ -337,7 +337,7 @@
    "tier": 1,
    "ats": "eightfold",
    "token": "netflix.com",
-   "fetched": 402,
+   "fetched": 403,
    "published": 3,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 888,
+   "fetched": 891,
    "published": 8,
    "status": "ok"
   },
@@ -1447,18 +1447,18 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "samsara",
-   "fetched": 284,
+   "fetched": 299,
    "published": 3,
    "status": "ok"
   }
  ],
  "rejections": {
-  "not a US location": 6201,
+  "not a US location": 6203,
   "senior/experienced role": 4182,
-  "title is not a technical role": 4034,
-  "non-technical role": 3313,
+  "title is not a technical role": 4042,
+  "non-technical role": 3318,
   "not an early-career posting": 2951,
-  "non-CS engineering discipline": 924,
+  "non-CS engineering discipline": 923,
   "quant role without early-career marker": 246,
   "research role without early-career marker": 140
  },
@@ -1787,14 +1787,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Senior Technical Architect — not a US location",
+   "Customer Success Senior Manager — not a US location",
    "Sales Development Representative - DACH Market — not a US location",
    "Lead Employee Success People Consultant (Fixed Term Contract - 12 Months) — not a US location",
    "Customer Success Manager (Informatica) — not a US location",
    "Customer Success Manager — not a US location",
    "Human Centered Change Senior Manager- Public Sector — title is not a technical role",
-   "Senior Manager, Visual Storytelling & Messaging Expert — title is not a technical role",
-   "Manager, Technical Consulting — not a US location",
-   "Senior Manager, Technical Consulting — not a US location"
+   "Senior Manager, Visual Storytelling & Messaging Expert — title is not a technical role"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -1954,13 +1954,13 @@
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
+   "AI Silicon Performance Modeling and Analysis Engineer — not an early-career posting",
+   "Supply Chain Planning and Operations (SCPO) AI Lead — not a US location",
+   "GPU Software Development Engineer — not an early-career posting",
+   "Software Development Engineer with uArch Expertise (Temporary position) — not a US location",
    "Compiler Engineer — not a US location",
    "Government Affairs Specialist — not a US location",
-   "Lithography Tool Install Engineer — not an early-career posting",
-   "Data Center SoC Power Architect — senior/experienced role",
-   "Facilities Mechanical Technician — non-technical role",
-   "Thin Films Module Development Engineer — not an early-career posting",
-   "Semiconductor Device Modeling Engineer — not an early-career posting"
+   "Lithography Tool Install Engineer — not an early-career posting"
   ],
   "klaviyo": [
    "Account Executive - Commercial — not a US location",
