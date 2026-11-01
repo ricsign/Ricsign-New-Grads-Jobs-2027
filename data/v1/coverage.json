@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T13:36:56+00:00",
+ "generated_at": "2026-11-01T22:07:04+00:00",
  "companies": [
   {
    "slug": "anthropic",
@@ -7,7 +7,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "anthropic",
-   "fetched": 675,
+   "fetched": 673,
    "published": 5,
    "status": "ok"
   },
@@ -17,7 +17,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "openai",
-   "fetched": 810,
+   "fetched": 809,
    "published": 0,
    "status": "none matched"
   },
@@ -47,7 +47,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cohere",
-   "fetched": 122,
+   "fetched": 120,
    "published": 3,
    "status": "ok"
   },
@@ -87,7 +87,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "cursor",
-   "fetched": 125,
+   "fetched": 124,
    "published": 1,
    "status": "ok"
   },
@@ -127,7 +127,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "harvey",
-   "fetched": 380,
+   "fetched": 377,
    "published": 2,
    "status": "ok"
   },
@@ -147,7 +147,7 @@
    "tier": 0,
    "ats": "ashby",
    "token": "elevenlabs",
-   "fetched": 138,
+   "fetched": 137,
    "published": 0,
    "status": "none matched"
   },
@@ -267,7 +267,7 @@
    "tier": 1,
    "ats": "ashby",
    "token": "baseten",
-   "fetched": 104,
+   "fetched": 103,
    "published": 1,
    "status": "ok"
   },
@@ -837,7 +837,7 @@
    "tier": 0,
    "ats": "greenhouse",
    "token": "databricks",
-   "fetched": 891,
+   "fetched": 896,
    "published": 8,
    "status": "ok"
   },
@@ -987,7 +987,7 @@
    "tier": 2,
    "ats": "ashby",
    "token": "temporal",
-   "fetched": 74,
+   "fetched": 75,
    "published": 0,
    "status": "none matched"
   },
@@ -1227,7 +1227,7 @@
    "tier": 2,
    "ats": "greenhouse",
    "token": "affirm",
-   "fetched": 189,
+   "fetched": 187,
    "published": 6,
    "status": "ok"
   },
@@ -1453,14 +1453,14 @@
   }
  ],
  "rejections": {
-  "not a US location": 6206,
-  "senior/experienced role": 4181,
-  "title is not a technical role": 4041,
+  "not a US location": 6212,
+  "senior/experienced role": 4180,
+  "title is not a technical role": 4036,
   "non-technical role": 3316,
-  "not an early-career posting": 2951,
+  "not an early-career posting": 2945,
   "non-CS engineering discipline": 923,
   "quant role without early-career marker": 246,
-  "research role without early-career marker": 140
+  "research role without early-career marker": 139
  },
  "rejection_samples": {
   "non-technical role": [
@@ -1732,14 +1732,14 @@
    "Executive Producer - Brand Creative — title is not a technical role"
   ],
   "nvidia": [
+   "Manufacturing Automation Solution Intern - 2027 — not a US location",
+   "Systems Software Manager, CPU — not a US location",
    "Senior Firmware Design Engineer, Optics — not a US location",
    "Firmware Engineer — not a US location",
    "IC Test Engineer — not a US location",
    "Senior Technical Program Manager, Data Center - Engineering Operations — not a US location",
    "Senior Infrastructure Automation Engineer, Compute Platform - EDA Infrastructure — not a US location",
-   "Deep Learning Compiler Verification Engineer — not a US location",
-   "Senior AI Tools Engineer, SRE Operations - GeForce NOW — not a US location",
-   "Marketing Manager, Open Source Foundations — non-technical role"
+   "Deep Learning Compiler Verification Engineer — not a US location"
   ],
   "plaid": [
    "Strategic Initiatives — title is not a technical role",
@@ -1787,14 +1787,14 @@
    "⚙️ Engineering Manager — not a US location"
   ],
   "salesforce": [
+   "Tableau Account Executive - SMB - CEE/Baltics Market (Estonian or Latvian or Lithuanian Speaking) — not a US location",
+   "Field Service Specialist — not a US location",
+   "Customer Success Manager - Core (Sales & Service) Clouds — not a US location",
+   "Senior Manager, Product & Pricing Operations — not a US location",
    "Deployment Strategist - Spanish Speaker — not a US location",
    "Senior Platform Trust and Safety Engineer — not a US location",
    "Forward Deployed Engineer — not a US location",
-   "Deployment Strategist — not a US location",
-   "Deployement Strategist — not a US location",
-   "Forward Deployed Engineer — not a US location",
-   "Deployment Strategist - Polish Speaking — not a US location",
-   "Deployment Strategist - Portuguese Speaker — not a US location"
+   "Deployment Strategist — not a US location"
   ],
   "squarepoint": [
    "APAC Delta One Trader — not a US location",
@@ -1948,19 +1948,19 @@
    "Bilingual Customer Experience Specialist (Spanish) — title is not a technical role",
    "Bilingual Customer Experience T3 Specialist (Spanish) — title is not a technical role",
    "Bilingual CX Specialist (French) — title is not a technical role",
-   "Billing Operations Lead — not a US location",
    "Billing Operations Lead — title is not a technical role",
-   "Chief of Staff, Online Grocery — not a US location"
+   "Billing Operations Lead — not a US location",
+   "Chief of Staff, Online Grocery — title is not a technical role"
   ],
   "intel": [
    "Database Administrator PL/SQL Developer — not a US location",
+   "Haifa Lab technician - Student — not a US location",
    "Module Engineer — not a US location",
    "Senior System Validation and Integration Engineer — not a US location",
    "PnP System Validation and Integration Engineer — not a US location",
    "Software Development student — not a US location",
    "Atom CPU Layout Design Engineer — not a US location",
-   "Executive Communications Specialist — not a US location",
-   "AI Silicon Performance Modeling and Analysis Engineer — not an early-career posting"
+   "Executive Communications Specialist — not a US location"
   ],
   "klaviyo": [
    "Account Executive - Commercial — not a US location",
