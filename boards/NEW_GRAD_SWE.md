@@ -29,7 +29,7 @@ Full-time entry-level software engineering roles in the US.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Perplexity** | IT Engineer | San Francisco | $150k–$180k | · | 3d · Oct 30 | 2d · Oct 31 | [apply](https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application) |
-| **Databricks** | Solutions Engineer · `2 openings` | Chicago, Illinois, New York City, New York | — | · | 18d · Oct 15 | 18d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
+| **Databricks** | Solutions Engineer | Chicago, Illinois | — | · | 18d · Oct 15 | 18d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Sep 17 | 1mo · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
@@ -103,4 +103,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-11-02 06:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-02 16:18 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

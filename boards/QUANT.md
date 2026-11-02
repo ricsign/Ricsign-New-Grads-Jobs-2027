@@ -2,7 +2,7 @@
 
 Campus and new-grad roles at elite quant and HFT firms. Highest compensation band on this repo.
 
-**34 open roles** · last verified 2026-11-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**33 open roles** · last verified 2026-11-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -60,8 +60,7 @@ Campus and new-grad roles at elite quant and HFT firms. Highest compensation ban
 | **Belvedere Trading** | Early Career Talent Partner - Technology & Platform | Chicago, Illinois | — | ·📗 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fd619115-ced7-4d59-bd2b-0948b5ee5fde) |
 | **Belvedere Trading** | Early Career Talent Partner - Trading | Chicago, Illinois | — | ·📗 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://jobs.lever.co/belvederetrading/fb74cb4d-a250-47c7-96a5-0450095add27) |
 | **Man Group** | Junior Quant - MBS | Boston, New York +1 | — | · | 1mo · Sep 21 | 1mo · Sep 24 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101) |
-| **Man Group** | Junior Quant - PM Analytics | Boston | — | · | 2mo · Sep 3 | 24d · Oct 9 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/4960827101) |
 
 ---
 
-Generated 2026-11-02 06:17 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-02 16:18 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
