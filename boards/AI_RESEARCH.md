@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**91 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**92 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -31,7 +31,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (13)
+## 🆕 Posted in the last 7 days (12)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -45,7 +45,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Figma** | [PhD Intern, Security Engineer (2027)](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | San Francisco, CA • New York, NY +1 | 6d · Oct 28 |
 | **SambaNova** | [Compiler Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) | Austin, Texas, United States +1 | 7d · Oct 27 |
 | **SambaNova** | [ML Infrastructure Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) | Austin, Texas, United States +1 | 7d · Oct 27 |
-| **SambaNova** | [Runtime Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) | Austin, Texas, United States +1 | 7d · Oct 27 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View, CA, USA +1 | 7d · Oct 27 |
 | **Man Group** | [Systematic Quant Intern - PhD](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | Massachusetts | 1d · Nov 2 |
 
@@ -77,12 +76,12 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **SambaNova** | Machine Learning Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | today · Nov 3 | today · Nov 3 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 4d · Oct 30 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Weather Perception · _Summer 2027_ | San Francisco, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 5d · Oct 29 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
 | **Figma** | PhD Intern, Security Engineer (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 6d · Oct 28 | 5d · Oct 29 | [apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) |
 | **SambaNova** | Compiler Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) |
 | **SambaNova** | ML Infrastructure Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) |
-| **SambaNova** | Runtime Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
 | **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | 12d · Oct 22 | 12d · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
 | **DoorDash** | Operations Research Intern (PhD), Summer 2027 · _Summer 2027_ | Sunnyvale, CA | — | ·🎓 | 15d · Oct 19 | 11d · Oct 23 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
@@ -155,7 +154,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Pinterest** | PhD Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 1mo · Oct 1 | 1mo · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) |
 | **Pinterest** | PhD Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·🎓 | 1mo · Oct 1 | 1mo · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) |
 | **Lyft** | Applied Scientist Intern, PhD (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 1mo · Sep 28 | 1mo · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
+| **Vatic Labs** | AI Research Internship (Summer 2027) · _Summer 2027_ · `open 1y+` | New York | — | ·📗 | 1y · Sep 4 2025 | today · Nov 3 | [apply](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) |
 
 ---
 
-Generated 2026-11-03 14:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-03 23:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

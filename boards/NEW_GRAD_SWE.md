@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**62 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**61 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,14 +10,13 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (8)
+## 🆕 Posted in the last 7 days (7)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
 | **Perplexity** | [IT Engineer](https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application) | San Francisco | 4d · Oct 30 |
 | **SambaNova** | [Cloud Platform Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) | Austin, Texas, United States +1 | 7d · Oct 27 |
 | **SambaNova** | [Compiler Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) | Austin, Texas, United States +1 | 7d · Oct 27 |
-| **SambaNova** | [ML Infrastructure Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) | Austin, Texas, United States +1 | 7d · Oct 27 |
 | **Together AI** | [(Senior/Junior AI Inference Reliability Engineer, Compute Infra](https://job-boards.greenhouse.io/togetherai/jobs/5268939007) | San Francisco | 7d · Oct 27 |
 | **Verkada** | [Backend Software Engineer - University Graduate 2027](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | San Mateo, CA United States | 1d · Nov 2 |
 | **Grafana Labs** | [Solutions Engineer \| East Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004) | United States (Remote) +1 | 4d · Oct 30 |
@@ -30,7 +29,6 @@ Full-time entry-level software engineering roles in the US.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Perplexity** | IT Engineer | San Francisco | $150k–$180k | · | 4d · Oct 30 | 3d · Oct 31 | [apply](https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application) |
 | **Databricks** | Solutions Engineer | Chicago, Illinois | — | · | 19d · Oct 15 | 19d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
-| **Harvey** | Software Engineer, New Grad (2027) · _2027_ · `2 openings` | New York, San Francisco | $165k–$182k | ·📗 | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Sep 17 | 1mo · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
 | **Scale AI** | Software Engineer - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 2mo · Sep 4 | 2mo · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
@@ -45,9 +43,9 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **SambaNova** | Machine Learning Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | today · Nov 3 | today · Nov 3 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
 | **SambaNova** | Cloud Platform Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·📗 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) |
 | **SambaNova** | Compiler Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) |
-| **SambaNova** | ML Infrastructure Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) |
 | **Together AI** | (Senior/Junior AI Inference Reliability Engineer, Compute Infra | San Francisco | — | · | 7d · Oct 27 | 7d · Oct 27 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5268939007) |
 | **Anduril Industries** | 2027 New Grad Low Observables Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 11d · Oct 23 | 11d · Oct 23 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) |
 | **Roblox** | Software Engineer, Reliability | San Mateo, CA, United States | — | · | 11d · Oct 23 | 11d · Oct 23 | [apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) |
@@ -103,4 +101,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-11-03 14:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-03 23:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -4,14 +4,14 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-11-03T14:24:38+00:00</updated>
+  <updated>2026-11-03T23:28:06+00:00</updated>
   <entry>
-    <title>NVIDIA — AI Compiler and Kernel Intern – Summer 2027</title>
-    <link href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"/>
-    <id>tag:ricsign.github.io,2026:574fabf4433bf260</id>
+    <title>SambaNova — Machine Learning Engineer - New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004"/>
+    <id>tag:ricsign.github.io,2026:05e7afe8890be522</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>US, TX, Austin · unknown · unspecified</summary>
+    <category term="new-grad-swe"/>
+    <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>The Voleon Group — Research Intern</title>
@@ -28,6 +28,14 @@
     <updated>2026-11-03T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Massachusetts · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Vatic Labs — AI Research Internship (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/vaticlabs/jobs/7205954"/>
+    <id>tag:ricsign.github.io,2026:27be8b3c2beda874</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>New York · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>Verkada — Backend Software Engineer - University Graduate 2027</title>
@@ -206,12 +214,36 @@
     <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
   </entry>
   <entry>
+    <title>SambaNova — Design Verification Engineer, New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004"/>
+    <id>tag:ricsign.github.io,2026:45dcdca1a37ce12f</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Jose, California, United States, Austin, TX · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
     <title>SambaNova — ML Infrastructure Engineer - New Grad</title>
     <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"/>
     <id>tag:ricsign.github.io,2026:bf327b802c4a08a3</id>
     <updated>2026-10-27T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Physical Design Engineer, New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004"/>
+    <id>tag:ricsign.github.io,2026:a8b1cc18033baa55</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Jose, California, United States, Austin, TX · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>SambaNova — Post-Silicon Validation Engineer, New Grad</title>
+    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004"/>
+    <id>tag:ricsign.github.io,2026:6a8086bcbce8ef7d</id>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Jose, California, United States, Austin, TX · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>SambaNova — Runtime Engineer - New Grad</title>
@@ -372,37 +404,5 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>New York, NY · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Schonfeld — 2027 PhD Centralized Research Intern</title>
-    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8174538"/>
-    <id>tag:ricsign.github.io,2026:eecb43b36a929cf5</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, New York, United States · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, AI Foundations - Recipes</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8306841"/>
-    <id>tag:ricsign.github.io,2026:3e57268bf1eed07a</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Research, Multimodal Foundation Models</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8306867"/>
-    <id>tag:ricsign.github.io,2026:de0f5e0eb42c476f</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>Waymo — 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8306779"/>
-    <id>tag:ricsign.github.io,2026:46e87b145e60e9fe</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
   </entry>
 </feed>

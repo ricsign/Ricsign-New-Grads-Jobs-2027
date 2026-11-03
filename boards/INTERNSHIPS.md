@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**133 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**132 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -51,7 +51,6 @@ Software engineering and research internships at the same curated bar.
 | **Sierra** | Software Engineer Intern, Agent (Summer 2027) · _Summer 2027_ | San Francisco, CA, New York, NY | — | ·📗 | 2mo · Aug 31 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application) |
 | **Cohere** | Machine Learning Intern/Co-op (Winter 2027) · _Winter 2027_ | United States | — | · | 5mo · May 13 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | **Cohere** | Research Internship (Winter 2027) · _Winter 2027_ | San Francisco, United States | — | ·🎓 | 6mo · May 1 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
-| **Cohere** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | United States | — | · | 6mo · May 1 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) |
 | **Physical Intelligence** | Research Internships · `open 2y+` | San Francisco | — | · | 2y · Aug 24 2024 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076/application) |
 | **Databricks** | PhD GenAI Research Scientist Intern · `open 2y+` | San Francisco, California, Mountain View, California | — | ·🎓 | 2y · Nov 7 2023 | 2mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
 | **Databricks** | Data Science Intern (2027 Start) · _2027_ · `open 3y+` | Mountain View, California, San Francisco, California | — | ·📗 | 3y · Aug 17 2023 | 12d · Oct 22 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
@@ -61,7 +60,6 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 · _Summer 2027_ | US, TX, Austin | — | · | — | today · Nov 3 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 · _Summer 2027_ | Seattle, Washington, USA | — | · | 4d · Oct 30 | 4d · Oct 30 | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 4d · Oct 30 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Weather Perception · _Summer 2027_ | San Francisco, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 5d · Oct 29 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
@@ -115,7 +113,6 @@ Software engineering and research internships at the same curated bar.
 | **Decagon** | Engineering Intern (Summer 2027) · _Summer 2027_ | San Francisco | $3k | · | 2mo · Aug 20 | 1mo · Sep 16 | [apply](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application) |
 | **Netflix** | Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027 · _Winter 2027_ | Los Gatos,California,United States of America | — | ·🎓 | 2mo · Aug 19 | 2mo · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790317917022) |
 | **Notion** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, New York, New York | — | ·📗 | 2mo · Aug 14 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application) |
-| **Notion** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 2mo · Aug 14 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application) |
 | **The Voleon Group** | Software Engineer Intern - (Summer 2027) · _Summer 2027_ | Berkeley, CA, New York City, NY | $15k | · | 2mo · Aug 14 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application) |
 | **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 2mo · Aug 11 | 2mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
 | **The Voleon Group** | Research Intern | Berkeley, CA, New York City, NY | — | · | 2mo · Aug 7 | today · Nov 3 | [apply](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9/application) |
@@ -158,6 +155,7 @@ Software engineering and research internships at the same curated bar.
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Man Group** | Systematic Quant Intern - PhD · _Summer 2027_ | Massachusetts | — | ·🎓 | 1d · Nov 2 | today · Nov 3 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) |
 | **Man Group** | Systematic Fast Trading Intern | New York | — | · | 9d · Oct 25 | 8d · Oct 26 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) |
+| **Intel** | Student Intern, Collaboration Services System Programmer | Costa Rica, San Jose | — | · | — | 21d · Oct 13 | [apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833) |
 | **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 25d · Oct 9 | 25d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
 | **Pinterest** | Solutions Engineer Intern 2027 (USA) · _2027_ | San Francisco, CA, US, Remote, US | — | · | 26d · Oct 8 | 26d · Oct 8 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
 | **Faire** | Applied AI/ML Scientist, Intern - Winter 2027 · _Winter 2027_ | San Francisco, CA | — | ·📗 | 28d · Oct 6 | 25d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
@@ -177,7 +175,8 @@ Software engineering and research internships at the same curated bar.
 | **Belvedere Trading** | Quantitative Trading Intern - Winter Quarter 2027 · _Winter 2027_ | Chicago, Illinois | — | ·📗 | 3mo · Aug 4 | 2mo · Sep 1 | [apply](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) |
 | **Samsara** | Software Engineering Internship - San Francisco | San Francisco - SF9 | — | · | 3mo · Aug 3 | 2mo · Sep 1 | [apply](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) |
 | **Nuro** | Software Engineer, AI Platform - Intern · `open 1y+` | Mountain View, California (HQ), California - HQ | — | ·📗 | 1y · Oct 22 2025 | 2mo · Sep 1 | [apply](https://nuro.ai/careersitem?gh_jid=7351061) |
+| **Vatic Labs** | AI Research Internship (Summer 2027) · _Summer 2027_ · `open 1y+` | New York | — | ·📗 | 1y · Sep 4 2025 | today · Nov 3 | [apply](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) |
 
 ---
 
-Generated 2026-11-03 14:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-03 23:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

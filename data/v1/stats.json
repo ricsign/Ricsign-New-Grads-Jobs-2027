@@ -1,45 +1,45 @@
 {
- "generated_at": "2026-11-03T14:24:38+00:00",
- "live_requisitions": 501,
- "live_roles": 462,
+ "generated_at": "2026-11-03T23:28:06+00:00",
+ "live_requisitions": 499,
+ "live_roles": 461,
  "companies_with_open_roles": 69,
  "posted_age": {
   "median_days": 56,
-  "posted_last_24h": 2,
-  "posted_last_7d": 26,
-  "posted_last_30d": 117,
-  "evergreen_over_1y": 47,
+  "posted_last_24h": 3,
+  "posted_last_7d": 30,
+  "posted_last_30d": 120,
+  "evergreen_over_1y": 48,
   "with_posted_date_pct": 99.8
  },
  "by_track": {
-  "new-grad-swe": 131,
+  "new-grad-swe": 133,
   "ai-research": 14,
   "quant": 49,
-  "internship": 307,
+  "internship": 303,
   "other": 0
  },
  "by_tier": {
-  "0": 53,
-  "1": 389,
-  "2": 59
+  "0": 50,
+  "1": 388,
+  "2": 61
  },
  "by_sponsorship": {
   "sponsors": 28,
   "no-sponsorship": 11,
   "citizenship-required": 58,
   "security-clearance": 49,
-  "unknown": 355
+  "unknown": 353
  },
  "by_degree": {
   "bachelors": 78,
-  "masters-preferred": 172,
-  "phd-required": 95,
-  "unspecified": 156
+  "masters-preferred": 171,
+  "phd-required": 96,
+  "unspecified": 154
  },
- "sponsorship_resolved_pct": 29.1,
+ "sponsorship_resolved_pct": 29.3,
  "link_verified_pct": 98.6,
  "by_link_status": {
-  "ok": 494,
+  "ok": 492,
   "blocked": 0,
   "error": 7,
   "dead": 0,
@@ -47,13 +47,13 @@
   "unchecked": 0
  },
  "freshness": {
-  "tracked": 761,
-  "live": 750,
+  "tracked": 763,
+  "live": 752,
   "closed": 11,
   "median_age_days": 50,
   "p90_age_days": 63,
   "max_age_days": 63,
-  "verified_within_24h": 514
+  "verified_within_24h": 517
  },
  "pipeline_health": {
   "boards_attempted": 129,
@@ -61,7 +61,7 @@
   "boards_empty": 1,
   "boards_failed": 4,
   "success_rate": 0.9612,
-  "postings_fetched": 23050,
+  "postings_fetched": 23070,
   "by_source": {
    "greenhouse": 74,
    "ashby": 41,
@@ -100,21 +100,21 @@
    }
   ],
   "rejections": {
-   "not a US location": 6233,
-   "senior/experienced role": 4152,
+   "not a US location": 6219,
+   "senior/experienced role": 4166,
    "title is not a technical role": 4030,
-   "non-technical role": 3336,
-   "not an early-career posting": 2925,
-   "non-CS engineering discipline": 921,
-   "quant role without early-career marker": 247,
+   "non-technical role": 3341,
+   "not an early-career posting": 2924,
+   "non-CS engineering discipline": 929,
+   "quant role without early-career marker": 246,
    "research role without early-career marker": 140
   },
   "link_check": {
-   "ok": 494,
+   "ok": 492,
    "dead": 1,
    "error": 7,
-   "checked": 502,
-   "conclusive": 495,
+   "checked": 500,
+   "conclusive": 493,
    "resolving_pct": 99.8
   }
  }

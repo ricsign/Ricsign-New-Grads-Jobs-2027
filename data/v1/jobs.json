@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-11-03T14:24:38+00:00",
+ "generated_at": "2026-11-03T23:28:06+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 502,
+ "count": 500,
  "jobs": [
   {
    "uid": "8a559a719288441c",
@@ -371,70 +371,6 @@
     "source": "ashby"
    },
    "department": "Research | Internships",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "b0535757c3ebccec",
-   "company_slug": "harvey",
-   "company_name": "Harvey",
-   "company_tier": 0,
-   "company_category": "ai-lab",
-   "source": "ashby",
-   "title": "Software Engineer, New Grad (2027)",
-   "apply_url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application",
-   "locations": [
-    "San Francisco"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-02",
-   "last_verified": "2026-11-03",
-   "posted_at": "2026-10-02",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": {
-    "min": 165000,
-    "max": 181500,
-    "currency": "USD",
-    "interval": "1 YEAR",
-    "source": "ashby"
-   },
-   "department": "Engineering",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "ac6c53987642618f",
-   "company_slug": "harvey",
-   "company_name": "Harvey",
-   "company_tier": 0,
-   "company_category": "ai-lab",
-   "source": "ashby",
-   "title": "Software Engineer, New Grad (2027)",
-   "apply_url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application",
-   "locations": [
-    "New York"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-02",
-   "last_verified": "2026-11-03",
-   "posted_at": "2026-10-02",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": {
-    "min": 165000,
-    "max": 181500,
-    "currency": "USD",
-    "interval": "1 YEAR",
-    "source": "ashby"
-   },
-   "department": "Engineering",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1086,32 +1022,6 @@
    "openings": 1
   },
   {
-   "uid": "f8dfa4ed677e4202",
-   "company_slug": "cohere",
-   "company_name": "Cohere",
-   "company_tier": 0,
-   "company_category": "ai-lab",
-   "source": "ashby",
-   "title": "Software Engineer Intern (Winter 2027)",
-   "apply_url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application",
-   "locations": [
-    "United States"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-11-03",
-   "posted_at": "2026-05-01",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "Internships",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "2b6950067f7d87a5",
    "company_slug": "scale-ai",
    "company_name": "Scale AI",
@@ -1512,27 +1422,28 @@
    "openings": 1
   },
   {
-   "uid": "574fabf4433bf260",
-   "company_slug": "nvidia",
-   "company_name": "NVIDIA",
+   "uid": "05e7afe8890be522",
+   "company_slug": "sambanova",
+   "company_name": "SambaNova",
    "company_tier": 1,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "AI Compiler and Kernel Intern – Summer 2027",
-   "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Machine Learning Engineer - New Grad",
+   "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
    "locations": [
-    "US, TX, Austin"
+    "Austin, Texas, United States",
+    "San Jose, California, United States"
    ],
-   "track": "internship",
-   "degree": "unspecified",
+   "track": "new-grad-swe",
+   "degree": "phd-required",
    "sponsorship": "unknown",
    "first_seen": "2026-11-03",
    "last_verified": "2026-11-03",
-   "posted_at": null,
+   "posted_at": "2026-11-03",
    "closed_at": null,
-   "season": "Summer 2027",
+   "season": null,
    "compensation": null,
-   "department": null,
+   "department": "Software",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -1829,6 +1740,33 @@
    "openings": 1
   },
   {
+   "uid": "45dcdca1a37ce12f",
+   "company_slug": "sambanova",
+   "company_name": "SambaNova",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Design Verification Engineer, New Grad",
+   "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004",
+   "locations": [
+    "San Jose, California, United States",
+    "Austin, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-27",
+   "last_verified": "2026-11-03",
+   "posted_at": "2026-10-27",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Hardware",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "bf327b802c4a08a3",
    "company_slug": "sambanova",
    "company_name": "SambaNova",
@@ -1851,6 +1789,60 @@
    "season": null,
    "compensation": null,
    "department": "Software",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "a8b1cc18033baa55",
+   "company_slug": "sambanova",
+   "company_name": "SambaNova",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Physical Design Engineer, New Grad",
+   "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004",
+   "locations": [
+    "San Jose, California, United States",
+    "Austin, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-27",
+   "last_verified": "2026-11-03",
+   "posted_at": "2026-10-27",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Hardware",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "6a8086bcbce8ef7d",
+   "company_slug": "sambanova",
+   "company_name": "SambaNova",
+   "company_tier": 1,
+   "company_category": "infra",
+   "source": "greenhouse",
+   "title": "Post-Silicon Validation Engineer, New Grad",
+   "apply_url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004",
+   "locations": [
+    "San Jose, California, United States",
+    "Austin, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-27",
+   "last_verified": "2026-11-03",
+   "posted_at": "2026-10-27",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Hardware",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -2691,33 +2683,6 @@
     "San Francisco, CA, USA",
     "Mountain View (US-MTV-EMF680)",
     "San Francisco (US-SFO-MKT555)"
-   ],
-   "track": "internship",
-   "degree": "phd-required",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-19",
-   "last_verified": "2026-11-03",
-   "posted_at": "2026-10-19",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "717b785b5396a309",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, PhD, Research, Perception Foundation Models",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8301804",
-   "locations": [
-    "Mountain View, CA, USA",
-    "Mountain View (US-MTV-EMF680)"
    ],
    "track": "internship",
    "degree": "phd-required",
@@ -3913,14 +3878,14 @@
    "openings": 1
   },
   {
-   "uid": "d2b28709668c90a3",
+   "uid": "b5f5668436a4cb8c",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
    "locations": [
     "United States"
    ],
@@ -3965,14 +3930,14 @@
    "openings": 1
   },
   {
-   "uid": "b5f5668436a4cb8c",
+   "uid": "d2b28709668c90a3",
    "company_slug": "brex",
    "company_name": "Brex",
    "company_tier": 1,
    "company_category": "fintech",
    "source": "greenhouse",
    "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
+   "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
    "locations": [
     "United States"
    ],
@@ -5317,33 +5282,6 @@
    "openings": 1
   },
   {
-   "uid": "d65875a38dccbd37",
-   "company_slug": "waymo",
-   "company_name": "Waymo",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
-   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
-   "locations": [
-    "San Francisco, California",
-    "San Francisco (US-SFO-MKT555)"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-17",
-   "last_verified": "2026-11-03",
-   "posted_at": "2026-09-16",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Pipeline (N/A)",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "d6d67a47bb5ba91c",
    "company_slug": "waymo",
    "company_name": "Waymo",
@@ -5644,33 +5582,6 @@
    "openings": 1
   },
   {
-   "uid": "10a25c7d85680fc5",
-   "company_slug": "figma",
-   "company_name": "Figma",
-   "company_tier": 1,
-   "company_category": "dev-tools",
-   "source": "greenhouse",
-   "title": "Data Science Intern (2027)",
-   "apply_url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
-   "locations": [
-    "San Francisco, CA • New York, NY",
-    "US"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-14",
-   "last_verified": "2026-11-03",
-   "posted_at": "2026-09-14",
-   "closed_at": null,
-   "season": "2027",
-   "compensation": null,
-   "department": "Early Career",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "bf9944b47bebd223",
    "company_slug": "figma",
    "company_name": "Figma",
@@ -5806,17 +5717,17 @@
    "openings": 1
   },
   {
-   "uid": "dfd60133b7e37b4d",
+   "uid": "923fc644b6611834",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
+    "Hawthorne, CA",
+    "Washington, DC"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -5833,17 +5744,17 @@
    "openings": 1
   },
   {
-   "uid": "923fc644b6611834",
+   "uid": "dfd60133b7e37b4d",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Security Software (Starshield)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
    "locations": [
-    "Hawthorne, CA",
-    "Washington, DC"
+    "Washington, DC",
+    "Hawthorne, CA"
    ],
    "track": "new-grad-swe",
    "degree": "masters-preferred",
@@ -7331,33 +7242,6 @@
    "openings": 1
   },
   {
-   "uid": "c5d645c93d2aa24c",
-   "company_slug": "notion",
-   "company_name": "Notion",
-   "company_tier": 1,
-   "company_category": "dev-tools",
-   "source": "ashby",
-   "title": "Software Engineer Intern (Winter 2027)",
-   "apply_url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application",
-   "locations": [
-    "San Francisco, California",
-    "New York, New York"
-   ],
-   "track": "internship",
-   "degree": "masters-preferred",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-11-03",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": "Winter 2027",
-   "compensation": null,
-   "department": "Early Career",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "18a5a59804671551",
    "company_slug": "notion",
    "company_name": "Notion",
@@ -7515,16 +7399,15 @@
    "openings": 1
   },
   {
-   "uid": "a169755945b07175",
+   "uid": "e21bfaf4cdc7c9ad",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "locations": [
-    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -7569,15 +7452,16 @@
    "openings": 1
   },
   {
-   "uid": "e21bfaf4cdc7c9ad",
+   "uid": "a169755945b07175",
    "company_slug": "spacex",
    "company_name": "SpaceX",
    "company_tier": 1,
    "company_category": "robotics",
    "source": "greenhouse",
    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
    "locations": [
+    "Palo Alto, CA",
     "Redmond, WA"
    ],
    "track": "new-grad-swe",
@@ -12242,6 +12126,32 @@
    "openings": 1
   },
   {
+   "uid": "39c637113463ccd0",
+   "company_slug": "intel",
+   "company_name": "Intel",
+   "company_tier": 2,
+   "company_category": "big-tech",
+   "source": "workday",
+   "title": "Student Intern, Collaboration Services System Programmer",
+   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833",
+   "locations": [
+    "Costa Rica, San Jose"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-13",
+   "last_verified": "2026-11-03",
+   "posted_at": null,
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": null,
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "83e061dc893924ac",
    "company_slug": "affirm",
    "company_name": "Affirm",
@@ -13525,6 +13435,32 @@
    "season": null,
    "compensation": null,
    "department": "AI Platform",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "27be8b3c2beda874",
+   "company_slug": "vatic-labs",
+   "company_name": "Vatic Labs",
+   "company_tier": 2,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "AI Research Internship (Summer 2027)",
+   "apply_url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
+   "locations": [
+    "New York"
+   ],
+   "track": "internship",
+   "degree": "masters-preferred",
+   "sponsorship": "unknown",
+   "first_seen": "2026-11-03",
+   "last_verified": "2026-11-03",
+   "posted_at": "2025-09-04",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Campus Recruiting",
    "active": true,
    "link_status": "ok",
    "openings": 1
