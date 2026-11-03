@@ -2,7 +2,7 @@
 
 Research Scientist, Research Engineer, Member of Technical Staff, residencies and fellowships — plus every PhD-required role from the other boards. This is a **cross-cutting view**: a research internship appears here *and* on Internships, because that is how a PhD student actually searches.
 
-**90 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**91 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -31,7 +31,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 - **NVIDIA Graduate Fellowship** — The internship prerequisite means you must plan two years out. Most people learn this too late.
 - **Meta AI Residency** — Page still reads 'applications are now closed' against a 2023 cohort. Listed so you know it exists and know not to wait for it.
 
-## 🆕 Posted in the last 7 days (12)
+## 🆕 Posted in the last 7 days (13)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -47,6 +47,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **SambaNova** | [ML Infrastructure Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) | Austin, Texas, United States +1 | 7d · Oct 27 |
 | **SambaNova** | [Runtime Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004) | Austin, Texas, United States +1 | 7d · Oct 27 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View, CA, USA +1 | 7d · Oct 27 |
+| **Man Group** | [Systematic Quant Intern - PhD](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | Massachusetts | 1d · Nov 2 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -146,6 +147,7 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Man Group** | Systematic Quant Intern - PhD · _Summer 2027_ | Massachusetts | — | ·🎓 | 1d · Nov 2 | today · Nov 3 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) |
 | **Faire** | Applied AI/ML Scientist, Intern - Winter 2027 · _Winter 2027_ | San Francisco, CA | — | ·📗 | 28d · Oct 6 | 25d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
 | **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 28d · Oct 6 | 27d · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | **Belvedere Trading** | Quantitative Researcher - Entry Level 2027 · _2027_ | Chicago, Illinois | — | ·📗 | 29d · Oct 5 | 21d · Oct 13 | [apply](https://jobs.lever.co/belvederetrading/337314ee-4de5-4b96-a419-1b9287a7df68) |
@@ -156,4 +158,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-11-03 01:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-03 14:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

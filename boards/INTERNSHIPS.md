@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**131 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**133 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,7 +10,7 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (13)
+## 🆕 Posted in the last 7 days (14)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
@@ -27,6 +27,7 @@ Software engineering and research internships at the same curated bar.
 | **Figma** | [PhD Intern, Security Engineer (2027)](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | San Francisco, CA • New York, NY +1 | 6d · Oct 28 |
 | **Schonfeld** | [2027 Enterprise AI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) | New York, New York, United States | 6d · Oct 28 |
 | **Waymo** | [2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View, CA, USA +1 | 7d · Oct 27 |
+| **Man Group** | [Systematic Quant Intern - PhD](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | Massachusetts | 1d · Nov 2 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
@@ -60,6 +61,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **NVIDIA** | AI Compiler and Kernel Intern – Summer 2027 · _Summer 2027_ | US, TX, Austin | — | · | — | today · Nov 3 | [apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 · _Summer 2027_ | Seattle, Washington, USA | — | · | 4d · Oct 30 | 4d · Oct 30 | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 4d · Oct 30 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Weather Perception · _Summer 2027_ | San Francisco, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 5d · Oct 29 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
@@ -154,6 +156,7 @@ Software engineering and research internships at the same curated bar.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
+| **Man Group** | Systematic Quant Intern - PhD · _Summer 2027_ | Massachusetts | — | ·🎓 | 1d · Nov 2 | today · Nov 3 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) |
 | **Man Group** | Systematic Fast Trading Intern | New York | — | · | 9d · Oct 25 | 8d · Oct 26 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) |
 | **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 25d · Oct 9 | 25d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
 | **Pinterest** | Solutions Engineer Intern 2027 (USA) · _2027_ | San Francisco, CA, US, Remote, US | — | · | 26d · Oct 8 | 26d · Oct 8 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
@@ -177,4 +180,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-11-03 01:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-03 14:24 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
