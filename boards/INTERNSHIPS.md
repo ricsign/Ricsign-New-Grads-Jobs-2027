@@ -2,7 +2,7 @@
 
 Software engineering and research internships at the same curated bar.
 
-**132 open roles** · last verified 2026-11-02 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**131 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,90 +10,88 @@ Software engineering and research internships at the same curated bar.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (14)
+## 🆕 Posted in the last 7 days (13)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
-| **Sierra** | [Research Intern](https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081/application) | San Francisco, CA | 2d · Oct 31 |
-| **Stripe** | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | San Francisco, New York City, Seattle +3 | 3d · Oct 30 |
-| **Stripe** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662) | San Francisco, New York City, Seattle +3 | 3d · Oct 30 |
-| **Mercor** | [Research Engineer Intern - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application) | San Francisco | 6d · Oct 27 |
-| **Mercor** | [Research Engineer, Intern – Benchmarking](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application) | San Francisco | 6d · Oct 27 |
-| **Amazon** | [Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Seattle, Washington, USA | 3d · Oct 30 |
-| **Waymo** | [2027 Summer Intern, PhD, Research Scientist Intern](https://careers.withwaymo.com/jobs?gh_jid=8337719) | Mountain View, CA, USA +1 | 3d · Oct 30 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Weather Perception](https://careers.withwaymo.com/jobs?gh_jid=8335511) | San Francisco, CA, USA +1 | 4d · Oct 29 |
-| **Amazon** | [2027 Applied Science Internship - Robotics - United States](https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) | North Reading, Massachusetts, USA | 5d · Oct 28 |
-| **Anduril Industries** | [Winter 2027 Library Science Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) | Santa Ana, California, United States | 5d · Oct 28 |
-| **Figma** | [PhD Intern, Security Engineer (2027)](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | San Francisco, CA • New York, NY +1 | 5d · Oct 28 |
-| **Schonfeld** | [2027 Enterprise AI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) | New York, New York, United States | 5d · Oct 28 |
-| **Waymo** | [2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View, CA, USA +1 | 6d · Oct 27 |
-| **Together AI** | [Technical Writer Intern, Developer Experience (Summer 2027)](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) | San Francisco | 7d · Oct 26 |
+| **Sierra** | [Research Intern](https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081/application) | San Francisco, CA | 3d · Oct 31 |
+| **Stripe** | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | San Francisco, New York City, Seattle +3 | 4d · Oct 30 |
+| **Stripe** | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662) | San Francisco, New York City, Seattle +3 | 4d · Oct 30 |
+| **Mercor** | [Research Engineer Intern - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application) | San Francisco | 7d · Oct 27 |
+| **Mercor** | [Research Engineer, Intern – Benchmarking](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application) | San Francisco | 7d · Oct 27 |
+| **Amazon** | [Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Seattle, Washington, USA | 4d · Oct 30 |
+| **Waymo** | [2027 Summer Intern, PhD, Research Scientist Intern](https://careers.withwaymo.com/jobs?gh_jid=8337719) | Mountain View, CA, USA +1 | 4d · Oct 30 |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Weather Perception](https://careers.withwaymo.com/jobs?gh_jid=8335511) | San Francisco, CA, USA +1 | 5d · Oct 29 |
+| **Amazon** | [2027 Applied Science Internship - Robotics - United States](https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) | North Reading, Massachusetts, USA | 6d · Oct 28 |
+| **Anduril Industries** | [Winter 2027 Library Science Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) | Santa Ana, California, United States | 6d · Oct 28 |
+| **Figma** | [PhD Intern, Security Engineer (2027)](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | San Francisco, CA • New York, NY +1 | 6d · Oct 28 |
+| **Schonfeld** | [2027 Enterprise AI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) | New York, New York, United States | 6d · Oct 28 |
+| **Waymo** | [2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View, CA, USA +1 | 7d · Oct 27 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Sierra** | Research Intern | San Francisco, CA | — | ·🎓 | 2d · Oct 31 | 2d · Oct 31 | [apply](https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081/application) |
-| **Stripe** | Master's Machine Learning Engineer, Intern · _Winter 2027_ | San Francisco, New York City, Seattle, US-NYC +2 | — | ·📗 | 3d · Oct 30 | 3d · Oct 30 | [apply](https://stripe.com/jobs/search?gh_jid=8333074) |
-| **Stripe** | PhD Machine Learning Engineer, Intern · _Winter 2027_ | San Francisco, New York City, Seattle, US-NYC +2 | — | ·🎓 | 3d · Oct 30 | 3d · Oct 30 | [apply](https://stripe.com/jobs/search?gh_jid=8328662) |
-| **Mercor** | Research Engineer Intern - Environments, Data and Post-Training | San Francisco | $70/hr | ·📗 | 6d · Oct 27 | 5d · Oct 28 | [apply](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application) |
-| **Mercor** | Research Engineer, Intern – Benchmarking | San Francisco | $70/hr | · | 6d · Oct 27 | 5d · Oct 28 | [apply](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application) |
-| **Figure AI** | Developer Productivity Intern [Winter 2027] · _Winter 2027_ | San Jose, CA | — | · | 10d · Oct 23 | 9d · Oct 24 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006) |
-| **Scale AI** | Machine Learning Research Intern (Summer 2027) · _Summer 2027_ | New York, NY, San Francisco, CA | — | ·📗 | 14d · Oct 19 | 14d · Oct 19 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
-| **Figure AI** | Embedded Software Engineering Intern [Winter 2027] · _Winter 2027_ | San Jose, CA | — | · | 19d · Oct 14 | 19d · Oct 14 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4722086006) |
-| **Figure AI** | Deployment Engineering Intern · _Winter 2027_ | San Jose, CA | — | · | 21d · Oct 12 | 20d · Oct 13 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4721113006) |
-| **Mercor** | Research Intern | San Francisco | $80/hr | ·📗 | 28d · Oct 5 | 27d · Oct 6 | [apply](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application) |
+| **Sierra** | Research Intern | San Francisco, CA | — | ·🎓 | 3d · Oct 31 | 3d · Oct 31 | [apply](https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081/application) |
+| **Stripe** | Master's Machine Learning Engineer, Intern · _Winter 2027_ | San Francisco, New York City, Seattle, US-NYC +2 | — | ·📗 | 4d · Oct 30 | 4d · Oct 30 | [apply](https://stripe.com/jobs/search?gh_jid=8333074) |
+| **Stripe** | PhD Machine Learning Engineer, Intern · _Winter 2027_ | San Francisco, New York City, Seattle, US-NYC +2 | — | ·🎓 | 4d · Oct 30 | 4d · Oct 30 | [apply](https://stripe.com/jobs/search?gh_jid=8328662) |
+| **Mercor** | Research Engineer Intern - Environments, Data and Post-Training | San Francisco | $70/hr | ·📗 | 7d · Oct 27 | 6d · Oct 28 | [apply](https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application) |
+| **Mercor** | Research Engineer, Intern – Benchmarking | San Francisco | $70/hr | · | 7d · Oct 27 | 6d · Oct 28 | [apply](https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application) |
+| **Figure AI** | Developer Productivity Intern [Winter 2027] · _Winter 2027_ | San Jose, CA | — | · | 11d · Oct 23 | 10d · Oct 24 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4724521006) |
+| **Scale AI** | Machine Learning Research Intern (Summer 2027) · _Summer 2027_ | New York, NY, San Francisco, CA | — | ·📗 | 15d · Oct 19 | 15d · Oct 19 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) |
+| **Figure AI** | Embedded Software Engineering Intern [Winter 2027] · _Winter 2027_ | San Jose, CA | — | · | 20d · Oct 14 | 20d · Oct 14 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4722086006) |
+| **Figure AI** | Deployment Engineering Intern · _Winter 2027_ | San Jose, CA | — | · | 22d · Oct 12 | 21d · Oct 13 | [apply](https://job-boards.greenhouse.io/figureai/jobs/4721113006) |
+| **Mercor** | Research Intern | San Francisco | $80/hr | ·📗 | 29d · Oct 5 | 28d · Oct 6 | [apply](https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518/application) |
 | **xAI** | Spring 2027 Software Engineering Internship/Co-op · _Spring 2027_ | Palo Alto, CA | — | ·📗 | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://job-boards.greenhouse.io/xai/jobs/5252108007) |
 | **xAI** | Summer 2027 Software Engineering Internship/Co-op · _Summer 2027_ | Palo Alto, CA | — | ·📗 | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://job-boards.greenhouse.io/xai/jobs/5255111007) |
 | **Stripe** | Data Analyst, Intern | New York, Seattle, South San Francisco HQ, US-NYC +2 | — | ·📗 | 1mo · Oct 1 | 1mo · Oct 1 | [apply](https://stripe.com/jobs/search?gh_jid=8194291) |
-| **Scale AI** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA | — | · | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
+| **Scale AI** | Software Engineering Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA | — | · | 2mo · Sep 4 | 2mo · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
 | **Sierra** | Software Engineer Intern, Agent (Summer 2027) · _Summer 2027_ | San Francisco, CA, New York, NY | — | ·📗 | 2mo · Aug 31 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application) |
 | **Cohere** | Machine Learning Intern/Co-op (Winter 2027) · _Winter 2027_ | United States | — | · | 5mo · May 13 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b/application) |
 | **Cohere** | Research Internship (Winter 2027) · _Winter 2027_ | San Francisco, United States | — | ·🎓 | 6mo · May 1 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) |
 | **Cohere** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | United States | — | · | 6mo · May 1 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application) |
 | **Physical Intelligence** | Research Internships · `open 2y+` | San Francisco | — | · | 2y · Aug 24 2024 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076/application) |
 | **Databricks** | PhD GenAI Research Scientist Intern · `open 2y+` | San Francisco, California, Mountain View, California | — | ·🎓 | 2y · Nov 7 2023 | 2mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) |
-| **Databricks** | Data Science Intern (2027 Start) · _2027_ · `open 3y+` | Mountain View, California, San Francisco, California | — | ·📗 | 3y · Aug 17 2023 | 11d · Oct 22 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
-| **Databricks** | Software Engineering Intern (2027) · _2027_ · `open 3y+` | Bellevue, Washington, Mountain View, California +1 | — | · | 3y · Aug 4 2023 | 20d · Oct 13 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
+| **Databricks** | Data Science Intern (2027 Start) · _2027_ · `open 3y+` | Mountain View, California, San Francisco, California | — | ·📗 | 3y · Aug 17 2023 | 12d · Oct 22 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
+| **Databricks** | Software Engineering Intern (2027) · _2027_ · `open 3y+` | Bellevue, Washington, Mountain View, California +1 | — | · | 3y · Aug 4 2023 | 21d · Oct 13 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
 
 ## Tier 1 — Established elite
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 · _Summer 2027_ | Seattle, Washington, USA | — | · | 3d · Oct 30 | 3d · Oct 30 | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
-| **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 3d · Oct 30 | 3d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Weather Perception · _Summer 2027_ | San Francisco, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 4d · Oct 29 | 3d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
-| **Amazon** | 2027 Applied Science Internship - Robotics - United States · _2027_ | North Reading, Massachusetts, USA | — | · | 5d · Oct 28 | 5d · Oct 28 | [apply](https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) |
-| **Anduril Industries** | Winter 2027 Library Science Co-op · _Winter 2027_ | Santa Ana, California, United States | — | 🇺🇸📗 | 5d · Oct 28 | 5d · Oct 28 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) |
-| **Figma** | PhD Intern, Security Engineer (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 5d · Oct 28 | 4d · Oct 29 | [apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) |
-| **Schonfeld** | 2027 Enterprise AI Intern · _2027_ | New York, New York, United States | — | ·📗 | 5d · Oct 28 | 5d · Oct 28 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) |
-| **Waymo** | 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 6d · Oct 27 | 6d · Oct 27 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
-| **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 7d · Oct 26 | 7d · Oct 26 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
-| **Amazon** | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) · _Summer 2027_ | Redmond, Washington, USA | — | · | 10d · Oct 23 | 10d · Oct 23 | [apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
-| **MongoDB** | 2027 - Software Engineering Intern, AMER · _2027_ | Austin, New York City +1 | — | ·📗 | 10d · Oct 23 | 10d · Oct 23 | [apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
-| **Palantir** | Forward Deployed Software Engineer, Internship - Warp Speed · _Spring 2028_ | New York, NY | — | · | 11d · Oct 22 | 11d · Oct 22 | [apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) |
-| **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | 11d · Oct 22 | 11d · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
-| **Anduril Industries** | 2027 Business Operations Engineer Intern · _2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States | — | 🇺🇸📗 | 12d · Oct 21 | 12d · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
-| **Anduril Industries** | 2027 Product Sourcing Engineer Intern · _2027_ | Costa Mesa, California, United States, Irvine, California, United States +1 | — | 🇺🇸📗 | 12d · Oct 21 | 12d · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
-| **Coinbase** | Software Engineer Intern · _Summer 2027_ · `2 openings` | US - Remote Zone 1 (Job Requisitions Only), Hybrid - San Francisco, CA | — | · | 12d · Oct 21 | 11d · Oct 22 | [apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
-| **DoorDash** | Operations Research Intern (PhD), Summer 2027 · _Summer 2027_ | Sunnyvale, CA | — | ·🎓 | 14d · Oct 19 | 10d · Oct 23 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
-| **Palantir** | Software Engineer, Internship - Query Engines | New York, NY | — | ·📗 | 14d · Oct 19 | 13d · Oct 20 | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
-| **Together AI** | Hardware Security Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco | — | · | 17d · Oct 16 | 17d · Oct 16 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) |
-| **Together AI** | Research Intern, Frontier Speculative Decoding (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 17d · Oct 16 | 16d · Oct 17 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) |
-| **Point72 / Cubist** | 2027 Summer Internship - Fundamental Researcher, Canvas · _Summer 2027_ | New York, NY | — | · | 19d · Oct 14 | 19d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) |
-| **Point72 / Cubist** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research · _Summer 2027_ | New York, NY | — | ·🎓 | 19d · Oct 14 | 19d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) |
-| **Point72 / Cubist** | 2027 Summer Internship - Sector Analyst, Proprietary Research · _Summer 2027_ | New York, NY | — | · | 19d · Oct 14 | 19d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) |
-| **Figma** | PhD Intern, Software Engineer - Graphics (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 20d · Oct 13 | 20d · Oct 13 | [apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) |
-| **Netflix** | Software Engineer Intern - Summer 2027 · _Summer 2027_ | Los Gatos,California,United States of America | — | · | 20d · Oct 13 | 14d · Oct 19 | [apply](https://explore.jobs.netflix.net/careers/job/790318904468) |
-| **Coinbase** | Forward Deployed Engineer Intern (HR Technology) · _Summer 2027_ | Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) | — | · | 24d · Oct 9 | 24d · Oct 9 | [apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
-| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA | — | ·📗 | 25d · Oct 8 | 25d · Oct 8 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
-| **IMC Trading** | Machine Learning Engineer Intern - Summer 2027 · _Summer 2027_ | New York, United States | — | · | 25d · Oct 8 | 25d · Oct 8 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) |
-| **Replit** | Software Engineering Intern – Winter 2027 · _Winter 2027_ | Foster City, CA | — | ·📗 | 25d · Oct 8 | 25d · Oct 8 | [apply](https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application) |
-| **Roblox** | [2027] Applied Scientist - PhD Intern · _2027_ | San Mateo, CA, United States | — | ·🎓 | 25d · Oct 8 | 25d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242621?gh_jid=8242621) |
-| **Roblox** | [2027] Data Scientist - PhD Intern · _2027_ | San Mateo, CA, United States | — | ·🎓 | 25d · Oct 8 | 25d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) |
-| **PDT Partners** | Summer 2027 Quantitative Research Intern - PhD/Postdoctoral · _Summer 2027_ | New York, NY | — | ·🎓 | 26d · Oct 7 | 26d · Oct 7 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
-| **Figma** | PhD Intern, AI Applied Scientist (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 28d · Oct 5 | 27d · Oct 6 | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
+| **Amazon** | Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 · _Summer 2027_ | Seattle, Washington, USA | — | · | 4d · Oct 30 | 4d · Oct 30 | [apply](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) |
+| **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 4d · Oct 30 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
+| **Waymo** | 2027 Summer Intern, MS/PhD, Weather Perception · _Summer 2027_ | San Francisco, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 5d · Oct 29 | 4d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
+| **Amazon** | 2027 Applied Science Internship - Robotics - United States · _2027_ | North Reading, Massachusetts, USA | — | · | 6d · Oct 28 | 6d · Oct 28 | [apply](https://www.amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states) |
+| **Anduril Industries** | Winter 2027 Library Science Co-op · _Winter 2027_ | Santa Ana, California, United States | — | 🇺🇸📗 | 6d · Oct 28 | 6d · Oct 28 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5278662007?gh_jid=5278662007) |
+| **Figma** | PhD Intern, Security Engineer (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 6d · Oct 28 | 5d · Oct 29 | [apply](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) |
+| **Schonfeld** | 2027 Enterprise AI Intern · _2027_ | New York, New York, United States | — | ·📗 | 6d · Oct 28 | 6d · Oct 28 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) |
+| **Waymo** | 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8319171) |
+| **Together AI** | Technical Writer Intern, Developer Experience (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 8d · Oct 26 | 8d · Oct 26 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5271149007) |
+| **Amazon** | Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) · _Summer 2027_ | Redmond, Washington, USA | — | · | 11d · Oct 23 | 11d · Oct 23 | [apply](https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa) |
+| **MongoDB** | 2027 - Software Engineering Intern, AMER · _2027_ | Austin, New York City +1 | — | ·📗 | 11d · Oct 23 | 11d · Oct 23 | [apply](https://www.mongodb.com/careers/job/?gh_jid=8209134) |
+| **Palantir** | Forward Deployed Software Engineer, Internship - Warp Speed · _Spring 2028_ | New York, NY | — | · | 12d · Oct 22 | 12d · Oct 22 | [apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) |
+| **Schonfeld** | 2027 PhD Centralized Research Intern · _2027_ | New York, New York, United States | — | ·🎓 | 12d · Oct 22 | 12d · Oct 22 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8174538) |
+| **Anduril Industries** | 2027 Business Operations Engineer Intern · _2027_ | Ashville, Ohio, United States, Costa Mesa, California, United States | — | 🇺🇸📗 | 13d · Oct 21 | 13d · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) |
+| **Anduril Industries** | 2027 Product Sourcing Engineer Intern · _2027_ | Costa Mesa, California, United States, Irvine, California, United States +1 | — | 🇺🇸📗 | 13d · Oct 21 | 13d · Oct 21 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) |
+| **Coinbase** | Software Engineer Intern · _Summer 2027_ · `2 openings` | US - Remote Zone 1 (Job Requisitions Only), Hybrid - San Francisco, CA | — | · | 13d · Oct 21 | 12d · Oct 22 | [apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) |
+| **DoorDash** | Operations Research Intern (PhD), Summer 2027 · _Summer 2027_ | Sunnyvale, CA | — | ·🎓 | 15d · Oct 19 | 11d · Oct 23 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) |
+| **Palantir** | Software Engineer, Internship - Query Engines | New York, NY | — | ·📗 | 15d · Oct 19 | 14d · Oct 20 | [apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) |
+| **Together AI** | Hardware Security Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco | — | · | 18d · Oct 16 | 18d · Oct 16 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238469007) |
+| **Together AI** | Research Intern, Frontier Speculative Decoding (Summer 2027) · _Summer 2027_ | San Francisco | — | ·📗 | 18d · Oct 16 | 17d · Oct 17 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) |
+| **Point72 / Cubist** | 2027 Summer Internship - Fundamental Researcher, Canvas · _Summer 2027_ | New York, NY | — | · | 20d · Oct 14 | 20d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) |
+| **Point72 / Cubist** | 2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research · _Summer 2027_ | New York, NY | — | ·🎓 | 20d · Oct 14 | 20d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002) |
+| **Point72 / Cubist** | 2027 Summer Internship - Sector Analyst, Proprietary Research · _Summer 2027_ | New York, NY | — | · | 20d · Oct 14 | 20d · Oct 14 | [apply](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) |
+| **Figma** | PhD Intern, Software Engineer - Graphics (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 21d · Oct 13 | 21d · Oct 13 | [apply](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) |
+| **Netflix** | Software Engineer Intern - Summer 2027 · _Summer 2027_ | Los Gatos,California,United States of America | — | · | 21d · Oct 13 | 15d · Oct 19 | [apply](https://explore.jobs.netflix.net/careers/job/790318904468) |
+| **Coinbase** | Forward Deployed Engineer Intern (HR Technology) · _Summer 2027_ | Hybrid - New York, NY, US - Remote Zone 1 (Job Requisitions Only) | — | · | 25d · Oct 9 | 25d · Oct 9 | [apply](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
+| **DoorDash** | Software Engineer, Intern - Labs (Summer 2027) · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA | — | ·📗 | 26d · Oct 8 | 26d · Oct 8 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
+| **IMC Trading** | Machine Learning Engineer Intern - Summer 2027 · _Summer 2027_ | New York, United States | — | · | 26d · Oct 8 | 26d · Oct 8 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) |
+| **Roblox** | [2027] Applied Scientist - PhD Intern · _2027_ | San Mateo, CA, United States | — | ·🎓 | 26d · Oct 8 | 26d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242621?gh_jid=8242621) |
+| **Roblox** | [2027] Data Scientist - PhD Intern · _2027_ | San Mateo, CA, United States | — | ·🎓 | 26d · Oct 8 | 26d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) |
+| **PDT Partners** | Summer 2027 Quantitative Research Intern - PhD/Postdoctoral · _Summer 2027_ | New York, NY | — | ·🎓 | 27d · Oct 7 | 27d · Oct 7 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
+| **Figma** | PhD Intern, AI Applied Scientist (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 29d · Oct 5 | 28d · Oct 6 | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 1mo · Sep 25 | 1mo · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | **Notion** | Software Engineer Intern, Mobile (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 1mo · Sep 24 | 1mo · Sep 24 | [apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application) |
 | **Ramp** | Software Engineering Intern, Android | New York, NY (HQ) | $12k | · | 1mo · Sep 24 | 1mo · Sep 24 | [apply](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application) |
@@ -109,8 +107,7 @@ Software engineering and research internships at the same curated bar.
 | **Qube Research & Technologies** | 2027 Internship – Security Engineer · _2027_ | NYC | — | ·📗 | 1mo · Sep 8 | 1mo · Oct 2 | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002) |
 | **Qube Research & Technologies** | 2027 – Internship or Graduate, FPGA Engineering · _2027_ | NYC | — | ·📗 | 1mo · Sep 8 | 1mo · Oct 2 | [apply](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002) |
 | **Vercel** | Software Engineering Intern - Summer '27 · _Summer 2027_ | Hybrid - San Francisco, Office - San Francisco | — | · | 1mo · Sep 8 | 1mo · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181759004) |
-| **Vercel** | Software Engineering Intern - Winter '27 · _Winter 2027_ | Hybrid - San Francisco, Office - San Francisco | — | · | 1mo · Sep 8 | 1mo · Sep 8 | [apply](https://job-boards.greenhouse.io/vercel/jobs/6181755004) |
-| **Schonfeld** | 2027 Business Analytics Intern · _2027_ | New York, New York, United States | — | ·📗 | 1mo · Sep 4 | 1mo · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) |
+| **Schonfeld** | 2027 Data Science Intern · _2027_ | New York, New York, United States | — | · | 2mo · Sep 4 | 2mo · Sep 4 | [apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
 | **IMC Trading** | Quant Performance Engineer Intern - Summer 2027 · _Summer 2027_ | Chicago, United States | — | · | 2mo · Aug 27 | 2mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4842595101) |
 | **AQR Capital** | AQR Arbitrage - 2027 Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | · | 2mo · Aug 25 | 2mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) |
 | **Decagon** | Engineering Intern (Summer 2027) · _Summer 2027_ | San Francisco | $3k | · | 2mo · Aug 20 | 1mo · Sep 16 | [apply](https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application) |
@@ -119,7 +116,8 @@ Software engineering and research internships at the same curated bar.
 | **Notion** | Software Engineer Intern (Winter 2027) · _Winter 2027_ | San Francisco, California, New York, New York | — | ·📗 | 2mo · Aug 14 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application) |
 | **The Voleon Group** | Software Engineer Intern - (Summer 2027) · _Summer 2027_ | Berkeley, CA, New York City, NY | $15k | · | 2mo · Aug 14 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application) |
 | **AQR Capital** | 2027 Quantitative Prediction Markets Research Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 2mo · Aug 11 | 2mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378) |
-| **Roblox** | [Summer 2027] Software Engineer Intern · _Summer 2027_ | San Mateo, CA, United States | — | ·📗 | 2mo · Aug 5 | 2mo · Sep 1 | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
+| **The Voleon Group** | Research Intern | Berkeley, CA, New York City, NY | — | · | 2mo · Aug 7 | today · Nov 3 | [apply](https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9/application) |
+| **Roblox** | [Summer 2027] Software Engineer Intern · _Summer 2027_ | San Mateo, CA, United States | — | ·📗 | 3mo · Aug 5 | 2mo · Sep 1 | [apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
 | **Chicago Trading Company** | Quant Trading Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | 3mo · Aug 3 | 2mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005) |
 | **Chicago Trading Company** | Software Engineering Internship - Summer 2027 · _Summer 2027_ | Chicago, Illinois, United States | — | ·📗 | 3mo · Aug 3 | 2mo · Sep 1 | [apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
 | **SpaceX** | Spring 2027 Engineering Internship/Co-op · _Spring 2027_ | Bastrop, TX, Bloomfield, CT +10 | — | 🇺🇸 | 3mo · Aug 3 | 2mo · Sep 1 | [apply](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) |
@@ -144,30 +142,30 @@ Software engineering and research internships at the same curated bar.
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | New York | — | ·🎓 | 4mo · Jul 5 | 2mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) |
 | **Tower Research Capital** | Quantitative Trader/Researcher Intern - Summer 2027 · _Summer 2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 4mo · Jul 5 | 2mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024128) |
 | **AQR Capital** | 2027 Research and Portfolio Management Engineering Summer Analyst · _Summer 2027_ | Greenwich, CT | — | ·📗 | 5mo · May 26 | 2mo · Sep 1 | [apply](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) |
-| **Etched** | Chip Simulation Software Intern | San Jose | — | ·📗 | 5mo · May 19 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application) |
 | **Netflix** | Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026 · _Fall 2026_ | Los Gatos,California,United States of America | — | · | 6mo · Apr 24 | 2mo · Sep 1 | [apply](https://explore.jobs.netflix.net/careers/job/790315673635) |
 | **Radix Trading** | Quantitative Technologist (C++ Intern) | Radix Trading Chicago | — | · | 6mo · Apr 9 | 2mo · Sep 1 | [apply](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) |
 | **Applied Intuition** | Research Intern - 3D Vision and Generation, Self-Driving | Sunnyvale | $65/hr | · | 8mo · Feb 13 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/91e0686e-272a-4780-b33d-d7860b94a7b4/application) |
 | **Applied Intuition** | Research Intern - Reinforcement Learning, Robotics | Sunnyvale | $65/hr | · | 8mo · Feb 13 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902/application) |
 | **Applied Intuition** | Research Intern - Robotic Hardware, Simulation and Data | Sunnyvale | $65/hr | · | 8mo · Feb 13 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/applied/5bb0567a-8d07-4cc4-be7c-c06b31361883/application) |
 | **Etched** | Electrical Platform Intern | San Jose | — | ·📗 | 8mo · Feb 7 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/etched/904ddf46-55fc-4a8f-8b49-f32cfe88116a/application) |
+| **Etched** | Firmware Intern | San Jose | — | ·📗 | 8mo · Feb 7 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application) |
 
 ## Tier 2 — Strong specialists
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Man Group** | Systematic Fast Trading Intern | New York | — | · | 8d · Oct 25 | 7d · Oct 26 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) |
-| **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 24d · Oct 9 | 24d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
-| **Pinterest** | Solutions Engineer Intern 2027 (USA) · _2027_ | San Francisco, CA, US, Remote, US | — | · | 25d · Oct 8 | 25d · Oct 8 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
-| **Faire** | Applied AI/ML Scientist, Intern - Winter 2027 · _Winter 2027_ | San Francisco, CA | — | ·📗 | 27d · Oct 6 | 24d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
-| **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 27d · Oct 6 | 26d · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
+| **Man Group** | Systematic Fast Trading Intern | New York | — | · | 9d · Oct 25 | 8d · Oct 26 | [apply](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101) |
+| **Affirm** | IT Engineer Intern (Early Careers Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 25d · Oct 9 | 25d · Oct 9 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011375003) |
+| **Pinterest** | Solutions Engineer Intern 2027 (USA) · _2027_ | San Francisco, CA, US, Remote, US | — | · | 26d · Oct 8 | 26d · Oct 8 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) |
+| **Faire** | Applied AI/ML Scientist, Intern - Winter 2027 · _Winter 2027_ | San Francisco, CA | — | ·📗 | 28d · Oct 6 | 25d · Oct 9 | [apply](https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002) |
+| **Lyft** | PhD Machine Learning Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 28d · Oct 6 | 27d · Oct 7 | [apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) |
 | **Affirm** | Software Engineer (Machine Learning) Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | 🛂 | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008645003) |
 | **Affirm** | Software Engineer Intern (Summer 2027) · _Summer 2027_ | San Francisco, California, United States | — | · | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8011590003) |
 | **Pinterest** | Master's Data Science Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1mo · Oct 1 | 1mo · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) |
 | **Pinterest** | Master's Machine Learning Internship 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1mo · Oct 1 | 1mo · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) |
 | **Lyft** | Applied Scientist Intern, PhD (Summer 2027) · _Summer 2027_ | San Francisco, CA, San Francisco Office | — | ·🎓 | 1mo · Sep 28 | 1mo · Sep 28 | [apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) |
 | **Samsara** | Firmware Engineer Co-Op | San Francisco - SF9 | — | · | 1mo · Sep 24 | 1mo · Sep 24 | [apply](https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602) |
-| **ExodusPoint** | Quant Credit Intern - PA (Hybrid) - December 2026 · _2026_ | Wynnewood, PA, Pennsylvania | — | · | 1mo · Sep 14 | 15d · Oct 18 | [apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) |
+| **ExodusPoint** | Quant Credit Intern - PA (Hybrid) - December 2026 · _2026_ | Wynnewood, PA, Pennsylvania | — | · | 1mo · Sep 14 | 16d · Oct 18 | [apply](https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002) |
 | **Lyft** | Data Science Intern, Algorithms (Summer 2027 - SF/NYC) · _Summer 2027_ · `2 openings` | New York, NY, San Francisco Office +1 | — | ·📗 | 1mo · Sep 11 | 1mo · Sep 11 | [apply](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) |
 | **Verkada** | Technical Support Engineering Intern - Spring 2027 · _Spring 2027_ | San Mateo, CA United States | — | 🌏 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5056164007) |
 | **Verkada** | Technical Support Engineering Intern - Summer 2027 · _Summer 2027_ | San Mateo, CA United States | — | 🌏 | 1mo · Sep 8 | 1mo · Sep 9 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5233011007) |
@@ -179,4 +177,4 @@ Software engineering and research internships at the same curated bar.
 
 ---
 
-Generated 2026-11-02 16:18 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-03 01:02 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-11-02T16:18:18+00:00</updated>
+  <updated>2026-11-03T01:02:41+00:00</updated>
+  <entry>
+    <title>The Voleon Group — Research Intern</title>
+    <link href="https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9/application"/>
+    <id>tag:ricsign.github.io,2026:ee50a90df89c0306</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Berkeley, CA, New York City, NY · unknown · unspecified</summary>
+  </entry>
+  <entry>
+    <title>Verkada — Backend Software Engineer - University Graduate 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5280545007"/>
+    <id>tag:ricsign.github.io,2026:611d4a4cd91712a0</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="new-grad-swe"/>
+    <summary>San Mateo, CA United States · sponsors · masters-preferred</summary>
+  </entry>
   <entry>
     <title>Perplexity — IT Engineer</title>
     <link href="https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application"/>
@@ -52,14 +68,6 @@
     <updated>2026-10-30T00:00:00Z</updated>
     <category term="quant"/>
     <summary>Chicago, IL · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
-    <title>Roblox — [2027] Senior Software Engineer - Data Acquisition PhD Early Career</title>
-    <link href="https://careers.roblox.com/jobs/8315883?gh_jid=8315883"/>
-    <id>tag:ricsign.github.io,2026:9932d586677bac3a</id>
-    <updated>2026-10-30T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Mateo, CA, United States · unknown · phd-required</summary>
   </entry>
   <entry>
     <title>Waymo — 2027 Summer Intern, MS/PhD, Weather Perception</title>
@@ -182,36 +190,12 @@
     <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
   </entry>
   <entry>
-    <title>SambaNova — Design Verification Engineer, New Grad</title>
-    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004"/>
-    <id>tag:ricsign.github.io,2026:45dcdca1a37ce12f</id>
-    <updated>2026-10-27T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Jose, California, United States, Austin, TX · unknown · masters-preferred</summary>
-  </entry>
-  <entry>
     <title>SambaNova — ML Infrastructure Engineer - New Grad</title>
     <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"/>
     <id>tag:ricsign.github.io,2026:bf327b802c4a08a3</id>
     <updated>2026-10-27T00:00:00Z</updated>
     <category term="new-grad-swe"/>
     <summary>Austin, Texas, United States, San Jose, California, United States · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>SambaNova — Physical Design Engineer, New Grad</title>
-    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004"/>
-    <id>tag:ricsign.github.io,2026:a8b1cc18033baa55</id>
-    <updated>2026-10-27T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Jose, California, United States, Austin, TX · unknown · phd-required</summary>
-  </entry>
-  <entry>
-    <title>SambaNova — Post-Silicon Validation Engineer, New Grad</title>
-    <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004"/>
-    <id>tag:ricsign.github.io,2026:6a8086bcbce8ef7d</id>
-    <updated>2026-10-27T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>San Jose, California, United States, Austin, TX · unknown · masters-preferred</summary>
   </entry>
   <entry>
     <title>SambaNova — Runtime Engineer - New Grad</title>
@@ -404,5 +388,21 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="internship"/>
     <summary>Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · unknown · phd-required</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2027 Business Operations Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007"/>
+    <id>tag:ricsign.github.io,2026:5a2b194dd7ad0e04</id>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Ashville, Ohio, United States, Costa Mesa, California, United States · citizenship-required · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Anduril Industries — 2027 Finance Data Analyst Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007"/>
+    <id>tag:ricsign.github.io,2026:1895d4e6fa3dd66c</id>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Costa Mesa, California, United States · unknown · masters-preferred</summary>
   </entry>
 </feed>
