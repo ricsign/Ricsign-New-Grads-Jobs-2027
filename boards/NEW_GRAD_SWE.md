@@ -2,7 +2,7 @@
 
 Full-time entry-level software engineering roles in the US.
 
-**61 open roles** · last verified 2026-11-03 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
+**61 open roles** · last verified 2026-11-04 · [all boards](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027#boards) · [jobs.json](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/jobs.json)
 
 **Legend** — 🌏 sponsors visas · 🛂 no sponsorship · 🇺🇸 US citizenship required · 🔒 clearance required · `·` posting doesn't say · 🎓 PhD · 📗 MS preferred
 
@@ -10,54 +10,51 @@ Full-time entry-level software engineering roles in the US.
 
 `open Ny+` marks an evergreen requisition that has been open that long. Those are standing pipelines, not roles being filled this quarter.
 
-## 🆕 Posted in the last 7 days (7)
+## 🆕 Posted in the last 7 days (4)
 
 | Company | Role | Location | Posted |
 |:--|:--|:--|--:|
-| **Perplexity** | [IT Engineer](https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application) | San Francisco | 4d · Oct 30 |
-| **SambaNova** | [Cloud Platform Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) | Austin, Texas, United States +1 | 7d · Oct 27 |
-| **SambaNova** | [Compiler Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) | Austin, Texas, United States +1 | 7d · Oct 27 |
-| **Together AI** | [(Senior/Junior AI Inference Reliability Engineer, Compute Infra](https://job-boards.greenhouse.io/togetherai/jobs/5268939007) | San Francisco | 7d · Oct 27 |
-| **Verkada** | [Backend Software Engineer - University Graduate 2027](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | San Mateo, CA United States | 1d · Nov 2 |
-| **Grafana Labs** | [Solutions Engineer \| East Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004) | United States (Remote) +1 | 4d · Oct 30 |
-| **Grafana Labs** | [Solutions Engineer \| West Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) | United States (Remote) +1 | 7d · Oct 27 |
+| **Perplexity** | [IT Engineer](https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application) | San Francisco | 5d · Oct 30 |
+| **SambaNova** | [Machine Learning Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) | Austin, Texas, United States +1 | 1d · Nov 3 |
+| **Verkada** | [Backend Software Engineer - University Graduate 2027](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | San Mateo, CA United States | 2d · Nov 2 |
+| **Grafana Labs** | [Solutions Engineer \| East Coast \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004) | United States (Remote) +1 | 5d · Oct 30 |
 
 
 ## Tier 0 — Frontier labs & category-defining firms
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Perplexity** | IT Engineer | San Francisco | $150k–$180k | · | 4d · Oct 30 | 3d · Oct 31 | [apply](https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application) |
-| **Databricks** | Solutions Engineer | Chicago, Illinois | — | · | 19d · Oct 15 | 19d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
+| **Perplexity** | IT Engineer | San Francisco | $150k–$180k | · | 5d · Oct 30 | 4d · Oct 31 | [apply](https://jobs.ashbyhq.com/perplexity/2d510148-8cce-4b67-be25-5784106bbff4/application) |
+| **Databricks** | Solutions Engineer | Chicago, Illinois | — | · | 20d · Oct 15 | 20d · Oct 15 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8886944002) |
 | **Scale AI** | Software Engineer, Public Sector - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
 | **Stripe** | Software Engineer, Early Career — Immediate Start · _Summer 2026_ | San Francisco, Seattle, New York, US | — | ·📗 | 1mo · Sep 17 | 1mo · Sep 18 | [apply](https://stripe.com/jobs/search?gh_jid=8212508) |
 | **Scale AI** | Software Engineer - New Grad · _Fall 2026_ | San Francisco, CA | — | · | 2mo · Sep 4 | 2mo · Sep 4 | [apply](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
 | **Sierra** | Software Engineer, Agent (New Grad 2027) · _2027_ | San Francisco, CA, New York, NY | $150k–$180k | · | 2mo · Aug 31 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00/application) |
 | **Stripe** | Software Engineer, New Grad · _Summer 2027_ | San Francisco, Seattle, New York, US | — | ·📗 | 2mo · Aug 31 | 2mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=8128744) |
-| **Anthropic** | Research Associate, Biology | San Francisco, CA | — | 🌏📗 | 3mo · Jul 8 | 12d · Oct 22 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5285248008) |
+| **Anthropic** | Research Associate, Biology | San Francisco, CA | — | 🌏📗 | 3mo · Jul 8 | 13d · Oct 22 | [apply](https://job-boards.greenhouse.io/anthropic/jobs/5285248008) |
 | **Databricks** | AI Engineer – Forward Deployed Engineering (AI FDE) | United States, Remote - California | — | ·📗 | 5mo · May 13 | 2mo · Sep 1 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) |
 | **Stripe** | Backend/API Engineer, Money as a Service · `open 2y+` | US | — | · | 2y · Aug 25 2024 | 2mo · Sep 1 | [apply](https://stripe.com/jobs/search?gh_jid=6176758) |
-| **Databricks** | Software Engineer - New Grad (2027 Start) · _2027_ · `open 3y+` | Bellevue, Washington, Mountain View, California +1 | — | · | 3y · Aug 4 2023 | 7d · Oct 27 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) |
+| **Databricks** | Software Engineer - New Grad (2027 Start) · _2027_ · `open 3y+` | Bellevue, Washington, Mountain View, California +1 | — | · | 3y · Aug 4 2023 | 8d · Oct 27 | [apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) |
 
 ## Tier 1 — Established elite
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **SambaNova** | Machine Learning Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | today · Nov 3 | today · Nov 3 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
-| **SambaNova** | Cloud Platform Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·📗 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) |
-| **SambaNova** | Compiler Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 7d · Oct 27 | 7d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) |
-| **Together AI** | (Senior/Junior AI Inference Reliability Engineer, Compute Infra | San Francisco | — | · | 7d · Oct 27 | 7d · Oct 27 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5268939007) |
-| **Anduril Industries** | 2027 New Grad Low Observables Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 11d · Oct 23 | 11d · Oct 23 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) |
-| **Roblox** | Software Engineer, Reliability | San Mateo, CA, United States | — | · | 11d · Oct 23 | 11d · Oct 23 | [apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) |
-| **Palantir** | Forward Deployed Software Engineer, New Grad - Warp Speed · _Spring 2027_ | New York, NY | — | · | 12d · Oct 22 | 12d · Oct 22 | [apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) |
-| **Anduril Industries** | 2027 Early Career Warhead Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 15d · Oct 19 | 15d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) |
-| **Palantir** | Software Engineer, New Grad - Query Engines | New York, NY | — | ·📗 | 15d · Oct 19 | 14d · Oct 20 | [apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
-| **SpaceX** | New Graduate Engineer, Electrical (Starshield) | Hawthorne, CA | — | 🔒📗 | 15d · Oct 19 | 14d · Oct 20 | [apply](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) |
-| **Together AI** | Hardware Security Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 18d · Oct 16 | 18d · Oct 16 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
-| **SpaceX** | New Graduate Engineer, Infrastructure | Starbase, TX | — | 🇺🇸📗 | 19d · Oct 15 | 18d · Oct 16 | [apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002) |
-| **Waymo** | Field Safety Engineer | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | 20d · Oct 14 | 20d · Oct 14 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248373) |
-| **Anduril Industries** | 2027 Early Career Systems Engineer · _2027_ | Boston, Massachusetts, United States, Boulder, Colorado, United States +6 | — | 🇺🇸📗 | 25d · Oct 9 | 25d · Oct 9 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
-| **Roblox** | [2027] Senior Machine Learning Engineer - PhD Early Career · _2027_ | San Mateo, CA, United States | — | ·🎓 | 26d · Oct 8 | 26d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) |
+| **SambaNova** | Machine Learning Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 1d · Nov 3 | 1d · Nov 3 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
+| **SambaNova** | Cloud Platform Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·📗 | 8d · Oct 27 | 8d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) |
+| **SambaNova** | Compiler Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 8d · Oct 27 | 8d · Oct 27 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004) |
+| **Together AI** | (Senior/Junior AI Inference Reliability Engineer, Compute Infra | San Francisco | — | · | 8d · Oct 27 | 8d · Oct 27 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5268939007) |
+| **Anduril Industries** | 2027 New Grad Low Observables Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 12d · Oct 23 | 12d · Oct 23 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5269789007?gh_jid=5269789007) |
+| **Roblox** | Software Engineer, Reliability | San Mateo, CA, United States | — | · | 12d · Oct 23 | 12d · Oct 23 | [apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) |
+| **Palantir** | Forward Deployed Software Engineer, New Grad - Warp Speed · _Spring 2027_ | New York, NY | — | · | 13d · Oct 22 | 13d · Oct 22 | [apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) |
+| **Anduril Industries** | 2027 Early Career Warhead Engineer · _2027_ | Costa Mesa, California, United States | — | 🇺🇸📗 | 16d · Oct 19 | 16d · Oct 19 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5268704007?gh_jid=5268704007) |
+| **Palantir** | Software Engineer, New Grad - Query Engines | New York, NY | — | ·📗 | 16d · Oct 19 | 15d · Oct 20 | [apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
+| **SpaceX** | New Graduate Engineer, Electrical (Starshield) | Hawthorne, CA | — | 🔒📗 | 16d · Oct 19 | 15d · Oct 20 | [apply](https://boards.greenhouse.io/spacex/jobs/8900641002?gh_jid=8900641002) |
+| **Together AI** | Hardware Security Engineer, New Grad (2027) · _2027_ | San Francisco | — | · | 19d · Oct 16 | 19d · Oct 16 | [apply](https://job-boards.greenhouse.io/togetherai/jobs/5238471007) |
+| **SpaceX** | New Graduate Engineer, Infrastructure | Starbase, TX | — | 🇺🇸📗 | 20d · Oct 15 | 19d · Oct 16 | [apply](https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002) |
+| **Waymo** | Field Safety Engineer | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) +1 | — | ·🎓 | 21d · Oct 14 | 21d · Oct 14 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8248373) |
+| **Anduril Industries** | 2027 Early Career Systems Engineer · _2027_ | Boston, Massachusetts, United States, Boulder, Colorado, United States +6 | — | 🇺🇸📗 | 26d · Oct 9 | 26d · Oct 9 | [apply](https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007) |
+| **Roblox** | [2027] Senior Machine Learning Engineer - PhD Early Career · _2027_ | San Mateo, CA, United States | — | ·🎓 | 27d · Oct 8 | 27d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) |
 | **Brex** | Brex Rotational Program · `3 openings` | Salt Lake City, Utah, United States | — | · | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://www.brex.com/careers/8864176002?gh_jid=8864176002) |
 | **SpaceX** | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | — | 🇺🇸 | 1mo · Sep 28 | 1mo · Sep 29 | [apply](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
 | **DoorDash** | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US · _Fall 2026_ | Los Angeles, CA, New York, NY +3 | — | ·📗 | 2mo · Sep 4 | 2mo · Sep 4 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) |
@@ -80,15 +77,15 @@ Full-time entry-level software engineering roles in the US.
 
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
-| **Verkada** | Backend Software Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 1d · Nov 2 | today · Nov 3 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
-| **Grafana Labs** | Solutions Engineer \| East Coast \| Remote | United States (Remote), USA (Remote) | — | · | 4d · Oct 30 | 4d · Oct 30 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004) |
-| **Grafana Labs** | Solutions Engineer \| West Coast \| Remote | United States (Remote), USA (Remote) | — | · | 7d · Oct 27 | 7d · Oct 27 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) |
-| **Affirm** | Analyst, Early Career (Full Stack) | New York, New York, United States, San Francisco, California, United States +1 | — | 🛂 | 13d · Oct 21 | 13d · Oct 21 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
-| **Elastic** | Principal Software Engineer I - Platform Billing Experience | United States | — | 🔒 | 20d · Oct 14 | 19d · Oct 15 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815) |
-| **Elastic** | Principal Software Engineer I - CI/CD - Platform Engineering Productivity | United States | — | 🔒 | 25d · Oct 9 | 25d · Oct 9 | [apply](https://jobs.elastic.co/jobs?gh_jid=8240105&gh_jid=8240105) |
-| **Fastly** | Customer Support Engineer | Austin, TX, Chicago, IL +3 | — | · | 27d · Oct 7 | 27d · Oct 7 | [apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
-| **Affirm** | Software Engineer, Early Career (NYC) | New York, New York, United States, New York City | — | · | 28d · Oct 6 | 27d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
-| **Affirm** | Software Engineer, Early Career (SF) | San Francisco, California, United States | — | · | 28d · Oct 6 | 27d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
+| **Verkada** | Backend Software Engineer - University Graduate 2027 · _2027_ | San Mateo, CA United States | — | 🌏📗 | 2d · Nov 2 | 1d · Nov 3 | [apply](https://job-boards.greenhouse.io/verkada/jobs/5280545007) |
+| **Grafana Labs** | Solutions Engineer \| East Coast \| Remote | United States (Remote), USA (Remote) | — | · | 5d · Oct 30 | 5d · Oct 30 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6239535004) |
+| **Grafana Labs** | Solutions Engineer \| West Coast \| Remote | United States (Remote), USA (Remote) | — | · | 8d · Oct 27 | 8d · Oct 27 | [apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004) |
+| **Affirm** | Analyst, Early Career (Full Stack) | New York, New York, United States, San Francisco, California, United States +1 | — | 🛂 | 14d · Oct 21 | 14d · Oct 21 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8039471003) |
+| **Elastic** | Principal Software Engineer I - Platform Billing Experience | United States | — | 🔒 | 21d · Oct 14 | 20d · Oct 15 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245815&gh_jid=8245815) |
+| **Elastic** | Principal Software Engineer I - CI/CD - Platform Engineering Productivity | United States | — | 🔒 | 26d · Oct 9 | 26d · Oct 9 | [apply](https://jobs.elastic.co/jobs?gh_jid=8240105&gh_jid=8240105) |
+| **Fastly** | Customer Support Engineer | Austin, TX, Chicago, IL +3 | — | · | 28d · Oct 7 | 28d · Oct 7 | [apply](https://www.fastly.com/about/jobs/apply?gh_jid=8260017) |
+| **Affirm** | Software Engineer, Early Career (NYC) | New York, New York, United States, New York City | — | · | 29d · Oct 6 | 28d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) |
+| **Affirm** | Software Engineer, Early Career (SF) | San Francisco, California, United States | — | · | 29d · Oct 6 | 28d · Oct 7 | [apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) |
 | **Elastic** | Principal Software Engineer I - Platform Billing Core | United States | — | 🔒 | 1mo · Oct 2 | 1mo · Oct 2 | [apply](https://jobs.elastic.co/jobs?gh_jid=8245817&gh_jid=8245817) |
 | **Pinterest** | Master's University Grad Data Scientist (USA) | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1mo · Oct 1 | 1mo · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140389) |
 | **Pinterest** | Master's University Grad Machine Learning Engineer 2027 (USA) · _2027_ | San Francisco, CA, US, Palo Alto, CA, US +2 | — | ·📗 | 1mo · Oct 1 | 1mo · Oct 1 | [apply](https://www.pinterestcareers.com/jobs/?gh_jid=8140219) |
@@ -101,4 +98,4 @@ Full-time entry-level software engineering roles in the US.
 
 ---
 
-Generated 2026-11-03 23:28 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-04 06:33 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)

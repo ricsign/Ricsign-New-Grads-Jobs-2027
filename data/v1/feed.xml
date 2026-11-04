@@ -4,7 +4,23 @@
   <link href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027"/>
   <link rel="self" href="https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/data/v1/feed.xml"/>
   <id>tag:ricsign.github.io,2026:eliteboard</id>
-  <updated>2026-11-03T23:28:06+00:00</updated>
+  <updated>2026-11-04T06:33:53+00:00</updated>
+  <entry>
+    <title>Etched — IA Research Engineer (Kernels) Intern</title>
+    <link href="https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application"/>
+    <id>tag:ricsign.github.io,2026:f2c93339210fb69e</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>San Jose · unknown · masters-preferred</summary>
+  </entry>
+  <entry>
+    <title>Intel — MPQ MDCX Engineering Student Worker</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0288847-1"/>
+    <id>tag:ricsign.github.io,2026:e7af090ae06396f7</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <category term="internship"/>
+    <summary>Costa Rica, San Jose · unknown · unspecified</summary>
+  </entry>
   <entry>
     <title>SambaNova — Machine Learning Engineer - New Grad</title>
     <link href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004"/>
@@ -388,21 +404,5 @@
     <updated>2026-10-22T00:00:00Z</updated>
     <category term="internship"/>
     <summary>US - Remote Zone 1 (Job Requisitions Only) · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Forward Deployed Software Engineer, Internship - Warp Speed</title>
-    <link href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"/>
-    <id>tag:ricsign.github.io,2026:54479f4a126b90d5</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="internship"/>
-    <summary>New York, NY · unknown · unspecified</summary>
-  </entry>
-  <entry>
-    <title>Palantir — Forward Deployed Software Engineer, New Grad - Warp Speed</title>
-    <link href="https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"/>
-    <id>tag:ricsign.github.io,2026:326cd51d9b03d2e0</id>
-    <updated>2026-10-22T00:00:00Z</updated>
-    <category term="new-grad-swe"/>
-    <summary>New York, NY · unknown · unspecified</summary>
   </entry>
 </feed>
