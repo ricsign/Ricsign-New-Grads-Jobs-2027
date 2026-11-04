@@ -1,9 +1,9 @@
 {
  "api_version": 1,
- "generated_at": "2026-11-04T06:33:53+00:00",
+ "generated_at": "2026-11-04T19:50:33+00:00",
  "source": "https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027",
  "license": "MIT",
- "count": 501,
+ "count": 502,
  "jobs": [
   {
    "uid": "8a559a719288441c",
@@ -667,8 +667,8 @@
    "title": "Software Engineer, New Grad 2027",
    "apply_url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b/application",
    "locations": [
-    "San Francisco",
-    "New York",
+    "San Francisco, CA",
+    "New York, NY",
     "Palo Alto, CA"
    ],
    "track": "new-grad-swe",
@@ -1448,6 +1448,59 @@
    "openings": 1
   },
   {
+   "uid": "e45d8d6a4a1e4e54",
+   "company_slug": "figma",
+   "company_name": "Figma",
+   "company_tier": 1,
+   "company_category": "dev-tools",
+   "source": "greenhouse",
+   "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+   "apply_url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004",
+   "locations": [
+    "San Francisco, CA • New York, NY",
+    "US"
+   ],
+   "track": "internship",
+   "degree": "phd-required",
+   "sponsorship": "unknown",
+   "first_seen": "2026-11-04",
+   "last_verified": "2026-11-04",
+   "posted_at": "2026-11-04",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Early Career",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "514d7a8db5315cc2",
+   "company_slug": "imc",
+   "company_name": "IMC Trading",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "Research Analyst Intern - Summer 2027",
+   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823946101",
+   "locations": [
+    "Chicago, United States"
+   ],
+   "track": "internship",
+   "degree": "unspecified",
+   "sponsorship": "unknown",
+   "first_seen": "2026-11-04",
+   "last_verified": "2026-11-04",
+   "posted_at": "2026-11-04",
+   "closed_at": null,
+   "season": "Summer 2027",
+   "compensation": null,
+   "department": "Trading Services ",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
    "uid": "05e7afe8890be522",
    "company_slug": "sambanova",
    "company_name": "SambaNova",
@@ -1472,6 +1525,32 @@
    "department": "Software",
    "active": true,
    "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "de257d78a2ea9ac1",
+   "company_slug": "schonfeld",
+   "company_name": "Schonfeld",
+   "company_tier": 1,
+   "company_category": "quant",
+   "source": "greenhouse",
+   "title": "2027 Legal Engineer Intern",
+   "apply_url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171776",
+   "locations": [
+    "New York, New York, United States"
+   ],
+   "track": "internship",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-11-04",
+   "last_verified": "2026-11-04",
+   "posted_at": "2026-11-03",
+   "closed_at": null,
+   "season": "2027",
+   "compensation": null,
+   "department": "Internship",
+   "active": true,
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -1708,7 +1787,7 @@
    "compensation": null,
    "department": "Internship",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -1923,7 +2002,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -1976,7 +2055,7 @@
    "compensation": null,
    "department": "Product",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -2187,7 +2266,7 @@
    "compensation": null,
    "department": "Internship",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -2638,7 +2717,7 @@
    "compensation": null,
    "department": "Starshield Satellite Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -2774,7 +2853,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -2800,7 +2879,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -2826,7 +2905,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -2852,7 +2931,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -2878,7 +2957,7 @@
    "compensation": null,
    "department": "Launch Infrastructure - Starbase",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -3904,32 +3983,6 @@
    "openings": 1
   },
   {
-   "uid": "b5f5668436a4cb8c",
-   "company_slug": "brex",
-   "company_name": "Brex",
-   "company_tier": 1,
-   "company_category": "fintech",
-   "source": "greenhouse",
-   "title": "Brex Rotational Program",
-   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
-   "locations": [
-    "United States"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "unknown",
-   "first_seen": "2026-10-02",
-   "last_verified": "2026-11-04",
-   "posted_at": "2026-10-02",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Risk & Credit",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "a386241d1f2da194",
    "company_slug": "brex",
    "company_name": "Brex",
@@ -3964,6 +4017,32 @@
    "source": "greenhouse",
    "title": "Brex Rotational Program",
    "apply_url": "https://www.brex.com/careers/8864174002?gh_jid=8864174002",
+   "locations": [
+    "United States"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "unknown",
+   "first_seen": "2026-10-02",
+   "last_verified": "2026-11-04",
+   "posted_at": "2026-10-02",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Risk & Credit",
+   "active": true,
+   "link_status": "ok",
+   "openings": 1
+  },
+  {
+   "uid": "b5f5668436a4cb8c",
+   "company_slug": "brex",
+   "company_name": "Brex",
+   "company_tier": 1,
+   "company_category": "fintech",
+   "source": "greenhouse",
+   "title": "Brex Rotational Program",
+   "apply_url": "https://www.brex.com/careers/8864170002?gh_jid=8864170002",
    "locations": [
     "United States"
    ],
@@ -4164,7 +4243,7 @@
    "compensation": null,
    "department": "Falcon and Dragon Avionics & Software Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4962,7 +5041,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -4988,7 +5067,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5014,7 +5093,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5040,7 +5119,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5066,7 +5145,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5092,7 +5171,7 @@
    "compensation": null,
    "department": "Research",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5198,7 +5277,7 @@
    "compensation": null,
    "department": "Texas - Test Equipment Engineers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5739,7 +5818,7 @@
    "compensation": null,
    "department": "Starship Avionics Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5766,7 +5845,7 @@
    "compensation": null,
    "department": "Starshield Software Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -5793,7 +5872,7 @@
    "compensation": null,
    "department": "Starshield Software Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6213,7 +6292,7 @@
    "compensation": null,
    "department": "Starship Software Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6240,7 +6319,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6322,7 +6401,7 @@
    "compensation": null,
    "department": "Internship",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6348,7 +6427,7 @@
    "compensation": null,
    "department": "Internship",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6374,7 +6453,7 @@
    "compensation": null,
    "department": "Starship Components Design",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6568,32 +6647,6 @@
    "season": "2027",
    "compensation": null,
    "department": "annapurna",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "3cd67cf10affb284",
-   "company_slug": "imc",
-   "company_name": "IMC Trading",
-   "company_tier": 1,
-   "company_category": "quant",
-   "source": "greenhouse",
-   "title": "Quant Performance Engineer Intern - Summer 2027",
-   "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101",
-   "locations": [
-    "Chicago, United States"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-11-04",
-   "posted_at": "2026-08-27",
-   "closed_at": null,
-   "season": "Summer 2027",
-   "compensation": null,
-   "department": "Development",
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -6853,7 +6906,7 @@
    "compensation": null,
    "department": "Starship Avionics Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6879,7 +6932,7 @@
    "compensation": null,
    "department": "Application Software",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6905,7 +6958,7 @@
    "compensation": null,
    "department": "Starship Software Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -6932,7 +6985,7 @@
    "compensation": null,
    "department": "Product Security - Starlink",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7294,32 +7347,6 @@
    "openings": 1
   },
   {
-   "uid": "14812f7b8d47b8ff",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "track": "new-grad-swe",
-   "degree": "bachelors",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-11-04",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Mesh Optical",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
    "uid": "838e125facd50072",
    "company_slug": "spacex",
    "company_name": "SpaceX",
@@ -7342,7 +7369,33 @@
    "compensation": null,
    "department": "Satellite Payload Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
+   "openings": 1
+  },
+  {
+   "uid": "14812f7b8d47b8ff",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "track": "new-grad-swe",
+   "degree": "bachelors",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-11-04",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Mesh Optical",
+   "active": true,
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7368,7 +7421,7 @@
    "compensation": null,
    "department": "Mesh Optical",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7394,7 +7447,7 @@
    "compensation": null,
    "department": "Starlink Satellite Flight Software",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7421,7 +7474,7 @@
    "compensation": null,
    "department": "Starlink Mobile Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7448,33 +7501,7 @@
    "compensation": null,
    "department": "Product Security - Starlink",
    "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "e21bfaf4cdc7c9ad",
-   "company_slug": "spacex",
-   "company_name": "SpaceX",
-   "company_tier": 1,
-   "company_category": "robotics",
-   "source": "greenhouse",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "track": "new-grad-swe",
-   "degree": "masters-preferred",
-   "sponsorship": "citizenship-required",
-   "first_seen": "2026-09-01",
-   "last_verified": "2026-11-04",
-   "posted_at": "2026-08-14",
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": "Product Security - Starlink",
-   "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7501,7 +7528,33 @@
    "compensation": null,
    "department": "Product Security - Starlink",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
+   "openings": 1
+  },
+  {
+   "uid": "e21bfaf4cdc7c9ad",
+   "company_slug": "spacex",
+   "company_name": "SpaceX",
+   "company_tier": 1,
+   "company_category": "robotics",
+   "source": "greenhouse",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "apply_url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "track": "new-grad-swe",
+   "degree": "masters-preferred",
+   "sponsorship": "citizenship-required",
+   "first_seen": "2026-09-01",
+   "last_verified": "2026-11-04",
+   "posted_at": "2026-08-14",
+   "closed_at": null,
+   "season": null,
+   "compensation": null,
+   "department": "Product Security - Starlink",
+   "active": true,
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7781,7 +7834,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7818,7 +7871,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7853,7 +7906,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7886,7 +7939,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7923,7 +7976,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7960,7 +8013,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -7988,7 +8041,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -8021,7 +8074,7 @@
    "compensation": null,
    "department": "Internships",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -8184,7 +8237,7 @@
    "compensation": null,
    "department": "Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -9501,7 +9554,7 @@
    "compensation": null,
    "department": "Delta",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -9621,7 +9674,7 @@
    "compensation": null,
    "department": "Texas - Test Equipment Engineers",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -9703,7 +9756,7 @@
    "compensation": null,
    "department": "Starship Mechanisms Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -9834,7 +9887,7 @@
    "compensation": null,
    "department": "AI Platform Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10022,7 +10075,7 @@
    "compensation": null,
    "department": "Starshield Software Engineering",
    "active": true,
-   "link_status": "ok",
+   "link_status": "blocked",
    "openings": 1
   },
   {
@@ -10777,7 +10830,7 @@
    "compensation": null,
    "department": "Dev",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -10914,7 +10967,7 @@
    "compensation": null,
    "department": "Dev",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -11832,7 +11885,7 @@
    "compensation": null,
    "department": "Dev",
    "active": true,
-   "link_status": "ok",
+   "link_status": "error",
    "openings": 1
   },
   {
@@ -11961,32 +12014,6 @@
    "season": "Spring 2028",
    "compensation": null,
    "department": "Delta",
-   "active": true,
-   "link_status": "ok",
-   "openings": 1
-  },
-  {
-   "uid": "e7af090ae06396f7",
-   "company_slug": "intel",
-   "company_name": "Intel",
-   "company_tier": 2,
-   "company_category": "big-tech",
-   "source": "workday",
-   "title": "MPQ MDCX Engineering Student Worker",
-   "apply_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/MPQ-MDCX-Engineering-Student-Worker_JR0288847-1",
-   "locations": [
-    "Costa Rica, San Jose"
-   ],
-   "track": "internship",
-   "degree": "unspecified",
-   "sponsorship": "unknown",
-   "first_seen": "2026-11-04",
-   "last_verified": "2026-11-04",
-   "posted_at": null,
-   "closed_at": null,
-   "season": null,
-   "compensation": null,
-   "department": null,
    "active": true,
    "link_status": "ok",
    "openings": 1
@@ -12940,16 +12967,16 @@
    "openings": 1
   },
   {
-   "uid": "158585a21ed46f0a",
+   "uid": "76f4d3fe53e0ea8d",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "locations": [
-    "New York, NY",
+    "San Francisco, CA",
     "San Francisco Office"
    ],
    "track": "internship",
@@ -12967,16 +12994,16 @@
    "openings": 1
   },
   {
-   "uid": "76f4d3fe53e0ea8d",
+   "uid": "158585a21ed46f0a",
    "company_slug": "lyft",
    "company_name": "Lyft",
    "company_tier": 2,
    "company_category": "consumer",
    "source": "greenhouse",
    "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+   "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
    "locations": [
-    "San Francisco, CA",
+    "New York, NY",
     "San Francisco Office"
    ],
    "track": "internship",

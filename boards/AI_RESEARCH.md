@@ -73,6 +73,8 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | Company | Role | Location | Comp | Flags | Posted | Found | Apply |
 |:--|:--|:--|:--|:-:|--:|--:|:-:|
 | **Etched** | IA Research Engineer (Kernels) Intern | San Jose | — | ·📗 | today · Nov 4 | today · Nov 4 | [apply](https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application) |
+| **Figma** | PhD Intern, Software Engineer - Interaction Design (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | today · Nov 4 | today · Nov 4 | [apply](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) |
+| **IMC Trading** | Research Analyst Intern - Summer 2027 · _Summer 2027_ | Chicago, United States | — | · | today · Nov 4 | today · Nov 4 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) |
 | **SambaNova** | Machine Learning Engineer - New Grad | Austin, Texas, United States, San Jose, California, United States | — | ·🎓 | 1d · Nov 3 | 1d · Nov 3 | [apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
 | **Waymo** | 2027 Summer Intern, PhD, Research Scientist Intern · _Summer 2027_ | Mountain View, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 5d · Oct 30 | 5d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8337719) |
 | **Waymo** | 2027 Summer Intern, MS/PhD, Weather Perception · _Summer 2027_ | San Francisco, CA, USA, Mountain View (US-MTV-EMF680) | — | ·🎓 | 6d · Oct 29 | 5d · Oct 30 | [apply](https://careers.withwaymo.com/jobs?gh_jid=8335511) |
@@ -93,7 +95,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Roblox** | [2027] Data Scientist - PhD Intern · _2027_ | San Mateo, CA, United States | — | ·🎓 | 27d · Oct 8 | 27d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) |
 | **Roblox** | [2027] Senior Machine Learning Engineer - PhD Early Career · _2027_ | San Mateo, CA, United States | — | ·🎓 | 27d · Oct 8 | 27d · Oct 8 | [apply](https://careers.roblox.com/jobs/8242623?gh_jid=8242623) |
 | **PDT Partners** | Summer 2027 Quantitative Research Intern - PhD/Postdoctoral · _Summer 2027_ | New York, NY | — | ·🎓 | 28d · Oct 7 | 28d · Oct 7 | [apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8263031) |
-| **Figma** | PhD Intern, AI Applied Scientist (2027) · _2027_ | San Francisco, CA • New York, NY, US | — | ·🎓 | 1mo · Oct 5 | 29d · Oct 6 | [apply](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) |
 | **DoorDash** | Machine Learning Intern (PhD) - Summer 2027 · _Summer 2027_ | San Francisco, CA, Sunnyvale, CA +2 | — | ·🎓 | 1mo · Sep 25 | 1mo · Sep 25 | [apply](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) |
 | **IMC Trading** | Hardware Machine Learning PhD Research Internship | Chicago, United States | — | ·🎓 | 1mo · Sep 23 | 1mo · Sep 23 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) |
 | **Jump Trading** | Campus Quantitative Researcher \| Trading Team PhD/Postdoc (Full-Time) | New York City | — | ·🎓 | 1mo · Sep 22 | 1mo · Sep 22 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8209424) |
@@ -122,7 +123,6 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 | **Jump Trading** | Campus AI Research Engineer (Full-Time) | Chicago, New York City | — | 🌏 | 3mo · Jul 8 | 2mo · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052313) |
 | **Jump Trading** | Campus AI Research Engineer (Intern) | Chicago, New York City | — | 🌏 | 3mo · Jul 8 | 2mo · Sep 1 | [apply](https://www.jumptrading.com/hr/job?gh_jid=8052281) |
 | **Baseten** | Base Labs Fellowship | San Francisco | $19k | · | 4mo · Jul 6 | 2mo · Sep 1 | [apply](https://jobs.ashbyhq.com/baseten/58d7d8e6-86ee-43a1-baec-3dddcb661d51/application) |
-| **IMC Trading** | Deep Learning Research Intern - Summer 2027 - Amsterdam · _Summer 2027_ | New York | — | 🛂📗 | 4mo · Jul 6 | 2mo · Sep 1 | [apply](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) |
 | **Tower Research Capital** | Quantitative Trader Intern, PhD | New York | — | ·🎓 | 4mo · Jul 5 | 2mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024138) |
 | **Tower Research Capital** | Quantitative Trader/Researcher - 2027 · _2027_ | New York, Chicago, Chicago, IL | — | ·📗 | 4mo · Jul 5 | 2mo · Sep 1 | [apply](https://www.tower-research.com/open-positions/?gh_jid=8024142) |
 | **Headlands Technologies** | Quantitative Researcher | Chicago, New York City +1 | — | · | 5mo · Jun 2 | 2mo · Sep 1 | [apply](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) |
@@ -155,4 +155,4 @@ No scraper will ever surface these. Hand-verified; open an issue if one moves.
 
 ---
 
-Generated 2026-11-04 06:33 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
+Generated 2026-11-04 19:50 UTC · [how this list is built](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/blob/main/docs/COMPANY_BAR.md) · [report a bad link](https://github.com/ricsign/Ricsign-New-Grads-Jobs-2027/issues/new?template=dead-link.yml)
